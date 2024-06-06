@@ -1,0 +1,4653 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2024-05-31 16:04+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: mm\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.4\n"
+"X-Poedit-Basepath: .\n"
+
+#: src/views/calls/WizardSteps/EmploymentFields.js
+msgid "1"
+msgstr "၁"
+
+#: src/views/calls/WizardSteps/EmploymentFields.js
+msgid "2"
+msgstr "၂"
+
+#: src/views/calls/WizardSteps/EmploymentFields.js
+msgid "3"
+msgstr "၃"
+
+#: src/views/calls/WizardSteps/EmploymentFields.js
+msgid "4"
+msgstr "၄"
+
+#: src/views/calls/WizardSteps/EmploymentFields.js
+msgid "5"
+msgstr "၅"
+
+#: src/components/Footer/Footer.js
+msgid "Issara Institute"
+msgstr "Issara Institute"
+
+#: src/components/Footer/Footer.js
+msgid "All rights reserved. V3.0.0"
+msgstr "All rights reserved. V3.0.0"
+
+#: src/components/ilmdb/CallerStatusDropdown.js
+#: src/views/calls/InteractionCallModal.js
+msgid "Client Status"
+msgstr "ဖုန်းခေါ်ဆိုလာသူအခြေအနေ"
+
+#: src/components/ilmdb/CallerStatusDropdown.js
+msgid "Status of Client"
+msgstr "ဖုန်းခေါ်ဆိုလာသူအခြေအနေ"
+
+#: src/components/ilmdb/CaseCategoriesDropdown.js
+#: src/views/calls/InteractionCallModal.js
+msgid "Case/Call Type"
+msgstr "တိုင်ကြားမှု/ဖုန်းခေါ်ဆိုမှုအမျိုးအစား"
+
+#: src/components/ilmdb/CaseCategoriesDropdown.js
+msgid "Type of Call/Case"
+msgstr "တိုင်ကြားမှု/ဖုန်းခေါ်ဆိုမှုအမျိုးအစား"
+
+#: src/components/ilmdb/ChannelsDropdown.js
+msgid "Worker Voice Channel"
+msgstr "အလုပ်သမား အသံလက်ခံရာလမ်းကြောင်း"
+
+#: src/components/ilmdb/ClientTypesDropdown.js
+#: src/views/calls/InteractionCallModal.js
+msgid "Client Type"
+msgstr "ဖုန်းခေါ်ဆိုလာသူအမျိုးအစား"
+
+#: src/components/ilmdb/ClientTypesDropdown.js
+msgid "Type of Client"
+msgstr "ဖုန်းခေါ်ဆိုလာသူအမျိုးအစား"
+
+#: src/components/ilmdb/ContractTypesDropdown.js
+msgid "Daily worker"
+msgstr "နေ့စားအလုပ်သမား"
+
+#: src/components/ilmdb/ContractTypesDropdown.js
+msgid "Piece work"
+msgstr "ပုတ်ပြတ်အလုပ်သမား"
+
+#: src/components/ilmdb/ContractTypesDropdown.js
+msgid "Seasonal worker"
+msgstr "ရာသီခွင်အလုပ်သမား"
+
+#: src/components/ilmdb/ContractTypesDropdown.js
+msgid "Full-time position"
+msgstr "အချိန်ပြည့်အလုပ်သမား"
+
+#: src/components/ilmdb/ContractTypesDropdown.js
+#: src/components/ilmdb/GendersDropdown.js
+#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
+msgid "Other"
+msgstr "အခြား"
+
+#: src/components/ilmdb/ContractTypesDropdown.js
+#: src/views/calls/InteractionCallModal.js
+msgid "Contract Type"
+msgstr "စာချုပ်အမျိုးအစား"
+
+#: src/components/ilmdb/CountriesDropdown.js
+#: src/views/calls/InteractionCallModal.js
+#: src/views/references/KpiLegalViolationList.js
+#: src/views/suppliers/SupplierKPIsList.js src/views/suppliers/SupplierList.js
+msgid "Country"
+msgstr "တိုင်းပြည်"
+
+#: src/components/ilmdb/DistrictsDropdown.js
+#: src/views/calls/InteractionCallModal.js src/views/suppliers/SupplierList.js
+msgid "District"
+msgstr "ခရိုင်"
+
+#: src/components/ilmdb/DocumentTypesDropdown.js
+msgid "Undocumented"
+msgstr "အထောက်အထားမရှိ"
+
+#: src/components/ilmdb/DocumentTypesDropdown.js
+msgid "Pink card"
+msgstr "ပန်းရောင်ကဒ်"
+
+#: src/components/ilmdb/DocumentTypesDropdown.js
+msgid "CI/TD"
+msgstr "စီအိုင်/တီဒီ (CI/TD)"
+
+#: src/components/ilmdb/DocumentTypesDropdown.js
+msgid "Passport"
+msgstr "ပတ်စပို့ (နိုင်ငံကူးလက်မှတ်)"
+
+#: src/components/ilmdb/DocumentTypesDropdown.js
+msgid "Border pass"
+msgstr "နယ်စပ်ကူးလက်မှတ်(ဘော်ဒါပတ်စ်)"
+
+#: src/components/ilmdb/DocumentTypesDropdown.js
+msgid "NA"
+msgstr "မရှိပါ"
+
+#: src/components/ilmdb/DocumentTypesDropdown.js
+#: src/views/calls/InteractionCallModal.js
+msgid "Document Type"
+msgstr "စာရွက်စာတမ်းအမျိုးအစား"
+
+#: src/components/ilmdb/EthnicitiesDropdown.js
+#: src/views/calls/InteractionCallModal.js
+msgid "Ethnicity"
+msgstr "လူမျိုး"
+
+#: src/components/ilmdb/FieldworkTypeDropdown.js
+msgid "Fetching fieldwork types.."
+msgstr "ကွင်းဆင်းလုပ်ငန်းအမျိုးအစားများကိုရယူနေသည်......."
+
+#: src/components/ilmdb/FieldworkTypeDropdown.js
+msgid "Activity Type"
+msgstr "လုပ်ဆောင်မှူ အမျိုးအစား "
+
+#: src/components/ilmdb/GendersDropdown.js
+msgid "Select Gender"
+msgstr "ကျား/မရွေးပါ"
+
+#: src/components/ilmdb/GendersDropdown.js
+#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
+msgid "Male"
+msgstr "ကျား"
+
+#: src/components/ilmdb/GendersDropdown.js
+#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
+msgid "Female"
+msgstr "မ"
+
+#: src/components/ilmdb/GendersDropdown.js
+msgid "Non-Binary"
+msgstr "တစ်ခုမှမဟုတ်ပါ"
+
+#: src/components/ilmdb/GendersDropdown.js
+#: src/views/calls/InteractionCallList.js
+#: src/views/calls/InteractionCallModal.js
+msgid "Gender"
+msgstr "ကျား/မ"
+
+#: src/components/ilmdb/HowHearIssara.js
+msgid "How did the client hear about the organization? (check all that apply)"
+msgstr "အဖွဲ့အစည်းကိုဘယ်ကနေသိတာလဲ?(သိတဲ့နေရာအားလုံးရွေးပါ)"
+
+#: src/components/ilmdb/HowHearIssara.js
+msgid "How did the client hear about Issara? (check all that apply)"
+msgstr "အစ်ဆာရာအဖွဲ့အစည်းကိုဘယ်ကနေသိတာလဲ?(သိတဲ့နေရာအားလုံးရွေးပါ)"
+
+#: src/components/ilmdb/HowHearIssara.js
+#: src/views/Dashboard/KpiReferencesList.js
+#: src/views/references/KpiReferencesList.js
+msgid "Loading..."
+msgstr "အချက်အလက်များရယူနေပါသည်......."
+
+#: src/components/ilmdb/IssaraStaffDropdown.js
+msgid "Fetching suppliers..."
+msgstr "လုပ်ငန်းရှင်များအချက်အလက်ကို ရယူနေပါသည်"
+
+#: src/components/ilmdb/IssaraStaffDropdown.js
+msgid "Organization staff"
+msgstr "အဖွဲ့အစည်းကို ရွေးချယ်ရပါမည်"
+
+#: src/components/ilmdb/IssaraStaffDropdown.js
+#: src/views/calls/InteractionCallModal.js
+msgid "Issara Staff"
+msgstr "အစ်ဆာရာ၀န်ထမ်း"
+
+#: src/components/ilmdb/KpiCategoriesDropdown.js
+msgid "Fetching KPI categories.."
+msgstr "လုပ်ငန်းရှင်များ အချက်အလက် (KPI) ကို ရယူနေပါသည်။...."
+
+#: src/components/ilmdb/KpiCategoriesDropdown.js
+msgid "KPI category"
+msgstr "KPI အမျိုးအစား"
+
+#: src/components/ilmdb/KpiSelector.js
+msgid "KPI(s)"
+msgstr "KPI(s)"
+
+#: src/components/ilmdb/KpiSelector.js
+msgid "Edit"
+msgstr "တည်းဖြတ်/ပြုပြင်သည်"
+
+#: src/components/ilmdb/KpiSelector.js src/views/Dashboard/KpiReferencesList.js
+#: src/views/references/KpiReferencesList.js
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Category"
+msgstr "အမျိုးအစား"
+
+#: src/components/ilmdb/KpiSelector.js src/views/calls/InteractionCallList.js
+msgid "Kpi"
+msgstr "KPI   "
+
+#: src/components/ilmdb/KpiSelector.js src/views/calls/InteractionCallList.js
+#: src/views/Dashboard/KpiReferencesList.js
+#: src/views/references/KpiReferencesList.js
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Level"
+msgstr "အဆင့်"
+
+#: src/components/ilmdb/KpiSelector.js src/views/Dashboard/KpiReferencesList.js
+#: src/views/references/KpiReferencesList.js
+msgid "Goal"
+msgstr "ပန်းတိုင်(ရည်မှန်းချက်)"
+
+#: src/components/ilmdb/KpiSelector.js
+msgid "Done"
+msgstr "ပြီးပြီ"
+
+#: src/components/ilmdb/KpiSelector.js
+msgid "Loading.."
+msgstr "အချက်အလက်များရယူနေသည်......"
+
+#: src/components/ilmdb/NationalitiesDropdown.js
+#: src/views/calls/InteractionCallList.js
+#: src/views/calls/InteractionCallModal.js
+msgid "Nationality"
+msgstr "နိုင်ငံသား(လူမျိုး)"
+
+#: src/components/ilmdb/ProvincesDropdown.js
+#: src/views/calls/InteractionCallModal.js src/views/suppliers/SupplierList.js
+msgid "Province"
+msgstr "ပြည်နယ်"
+
+#: src/components/ilmdb/ReasonsDropdown.js
+msgid "Purpose of Call/Message"
+msgstr "တိုင်ကြားမှု/ဖုန်းခေါ်ဆိုမှုရည်ရွယ်ချက်"
+
+#: src/components/ilmdb/ReasonsDropdown.js
+msgid "Purpose"
+msgstr "ရည်ရွယ်ချက်"
+
+#: src/components/ilmdb/RecruitersDropdown.js
+msgid "Fetching recruiters.."
+msgstr "အေဂျင်စီများအချက်အလက်ကို ရယူနေပါသည်။  "
+
+#: src/components/ilmdb/SuppliersDropdown.js
+msgid "Fetching suppliers.."
+msgstr "လုပ်ငန်းရှင်များအချက်အလက်ကို ရယူနေပါသည် "
+
+#: src/components/Navbars/AdminNavbarLinks.js
+#: src/components/Navbars/AdminNavbarLinks.Old.js
+msgid "English"
+msgstr "အင်္ဂလိပ်"
+
+#: src/components/Navbars/AdminNavbarLinks.js
+#: src/components/Navbars/AdminNavbarLinks.Old.js
+msgid "Nepali"
+msgstr "နီပေါ"
+
+#: src/components/Navbars/AdminNavbarLinks.js
+#: src/components/Navbars/AdminNavbarLinks.Old.js
+#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
+msgid "Burmese"
+msgstr "မြန်မာ"
+
+#: src/components/Navbars/AdminNavbarLinks.js
+#: src/components/Navbars/AdminNavbarLinks.Old.js
+#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
+msgid "Thai"
+msgstr "ထိုင်း"
+
+#: src/components/Navbars/AdminNavbarLinks.js
+#: src/components/Navbars/AdminNavbarLinks.Old.js
+msgid "Japanese"
+msgstr "ဂျပန်"
+
+#: src/components/Navbars/AdminNavbarLinks.js
+#: src/components/Navbars/AdminNavbarLinks.Old.js
+msgid "Person"
+msgstr "လူ/ပုဂ္ဂိုလ်"
+
+#: src/components/Navbars/AdminNavbarLinks.js
+#: src/components/Navbars/AdminNavbarLinks.Old.js
+msgid "Profile"
+msgstr "ကိုယ်ရေးအချက်အလက်"
+
+#: src/components/Navbars/AdminNavbarLinks.js
+#: src/components/Navbars/AdminNavbarLinks.Old.js
+msgid "Log out"
+msgstr "ထွက်မည်"
+
+#: src/components/Navbars/LanguageChangeDialog.js
+msgid "Are you sure want to change the language ?"
+msgstr "ဘာသာစကားပြောင်းသုံးရန်သေချာပြီလား?"
+
+#: src/components/Navbars/LanguageChangeDialog.js
+msgid "Are you sure want to change the language to"
+msgstr "ဒီဘာသာစကားသို့ပြောင်းသုံးရန်သေချာပြီလား?   "
+
+#: src/components/Navbars/LanguageChangeDialog.js
+msgid "The application will be refreshed to effect the changed language."
+msgstr "ဒီလုပ်ဆောင်ချက်ကဘာသာစကားသုံးစွဲမှုကိုအပြောင်းအလဲဖြစ်စေနိုင်ပါသည်။   "
+
+#: src/components/Navbars/LanguageChangeDialog.js
+msgid "Cancel"
+msgstr "ဖျက်သိမ်းမည်"
+
+#: src/components/Navbars/LanguageChangeDialog.js
+msgid "Yes, Sure Please"
+msgstr "ဟုတ်ပါသည်။သေချာပါသည်။   "
+
+#: src/layouts/Admin.js
+msgid "ILM 3.0"
+msgstr "ILM 3.0"
+
+#: src/routes.js src/views/suppliers/SupplierModal.js
+msgid "Worker Voice"
+msgstr "အလုပ်သမားအသံ"
+
+#: src/routes.js
+msgid "Add Call"
+msgstr "ဖုန်းခေါ်ဆိုမှု"
+
+#: src/routes.js
+msgid "View Calls"
+msgstr "ဖုန်းခေါ်ဆိုမှုများကို ကြည့်ရှုမည်"
+
+#: src/routes.js
+msgid "Team Activities"
+msgstr "အဖွဲ့လိုက်လှုပ်ရှားမှုများ"
+
+#: src/routes.js
+msgid "Add activity"
+msgstr "လုပ်ဆောင်မှူ အမျိုးအစား"
+
+#: src/routes.js
+msgid "Add monthly WV metrics"
+msgstr "လစဉ် အလုပ်သမားအသံ ထည့်ပါ"
+
+#: src/routes.js
+msgid "WV and ER metrics"
+msgstr "အလုပ်သမားအသံ နှင့်  ကျင့်၀တ်နှင့်ညီတဲ့လုပ်သားစုဆောင်းမှုစနစ်ကို စုစည်းထားသောကိန်းဂဏန်းများ"
+
+#: src/routes.js
+msgid "Team Tasks"
+msgstr "အဖွဲ့တာဝန်များ"
+
+#: src/routes.js
+msgid "Internal Dashboards"
+msgstr "Internal Dashboards (အတွင်းရေးသုံးဒက်ရှ်ဘုတ်)"
+
+#: src/routes.js
+msgid "Team Activity Dashboard"
+msgstr "အဖွဲ့လုပ်ဆောင်ချက် ဒက်ရှ်ဘုတ်"
+
+#: src/routes.js
+msgid "Case management"
+msgstr "အမှုတွဲစီမံခန့်ခွဲမှု"
+
+#: src/routes.js
+msgid "Kpi Updates"
+msgstr "Kpi အပ်ဒိတ်များ"
+
+#: src/routes.js
+msgid "View Supplier KPIs bulk update"
+msgstr "လုပ်ငန်းရှင် KPI အပ်ဒိတ်မှတ်တမ်း"
+
+#: src/routes.js src/views/calls/InteractionCallList.js
+#: src/views/calls/WizardSteps/RequiredCallFields.js
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/TeamActivity/FieldworkActivityForm.js
+msgid "Suppliers"
+msgstr "လုပ်ငန်းရှင်များ"
+
+#: src/routes.js
+msgid "View Suppliers"
+msgstr "လုပ်ငန်းရှင်များကိုကြည့်ရန်"
+
+#: src/routes.js
+msgid "References"
+msgstr "ကိုးကားချက်များ"
+
+#: src/routes.js
+msgid "Kpi References"
+msgstr "Kpi ရည်ညွှန်းချက်များ"
+
+#: src/routes.js
+msgid "Legal Violations"
+msgstr "ဥပဒေချိုးဖောက်မှုများ"
+
+#: src/routes.js src/views/users/ChangePasswordForm.js
+msgid "Change Password"
+msgstr "လျှို့၀ှက်ကုတ်ပြောင်းမည်"
+
+#: src/routes.js
+msgid "Password Reset"
+msgstr "လျှို့၀ှက်ကုတ်အသစ်ပြောင်းမည်။  "
+
+#: src/routes.js
+msgid "Login Page"
+msgstr "ဝင်ရောက်နိုင်သည့်စာမျက်နှာ"
+
+#: src/routes.js
+msgid "Enter 2 Factor Code"
+msgstr "၂-ဆင့်မြှောက်အတည်ပြုကုတ်ထည့်ပါ"
+
+#: src/routes.js
+msgid "Lock Screen Page"
+msgstr "၀င်ရန်စာမျက်နှာ"
+
+#: src/routes.js
+msgid "Error Page"
+msgstr "ပေ့ပြဿနာတက်နေပါသဖြင့်၀င်ရောက်လို့မရပါ။"
+
+#: src/views/calls/InteractionCallList.js
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/suppliers/SupplierKPIsList.js
+#: src/views/teamtasks/EnhancedTeamTasksList.js
+msgid "Download As XLS File"
+msgstr " အိန်ဇဲ(XLS File) အဖြစ်ဒေါင်းလုတ်ဆွဲမည်  "
+
+#: src/views/calls/InteractionCallList.js
+msgid "Edit Item:"
+msgstr "အချက်အလက်ကိုကြည့်မည်"
+
+#: src/views/calls/InteractionCallList.js
+#: src/views/teamtasks/EnhancedTeamTasksList.js
+msgid "View Item:"
+msgstr "အချက်အလက်ကိုကြည့်မည်"
+
+#: src/views/calls/InteractionCallList.js
+msgid "No KPIs logged for this call id:"
+msgstr "ဒီခေါ်ဆိုမှု ကေပီအိုင်မရှိပါ "
+
+#: src/views/calls/InteractionCallList.js
+msgid "Worker Voice Calls"
+msgstr "အလုပ်သမား ခေါ်ဆိုမှုများ"
+
+#: src/views/calls/InteractionCallList.js
+#: src/views/calls/InteractionCallModal.js
+#: src/views/calls/WizardSteps/RecruiterFields.js
+msgid "Source Recruiter"
+msgstr "ရင်းမြစ်နိုင်ငံဘက်အေဂျင်စီများ"
+
+#: src/views/calls/InteractionCallList.js
+#: src/views/calls/InteractionCallModal.js
+#: src/views/calls/WizardSteps/RecruiterFields.js
+msgid "Destination Recruiter"
+msgstr "ဆိုက်ရောက်နိုင်ငံဘက်အေဂျင်စီများ"
+
+#: src/views/calls/InteractionCallList.js
+msgid "After Date:"
+msgstr "နေ့စွဲနောက်ပိုင်း:"
+
+#: src/views/calls/InteractionCallList.js
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Date"
+msgstr "နေ့စွဲ"
+
+#: src/views/calls/InteractionCallList.js
+msgid "Before Date:"
+msgstr "နေ့စွဲမတိုင်ခင်:"
+
+#: src/views/calls/InteractionCallList.js
+msgid "Search"
+msgstr "ရှာဖွေသည်"
+
+#: src/views/calls/InteractionCallList.js
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/Dashboard/KpiReferencesList.js
+#: src/views/references/KpiLegalViolationList.js
+#: src/views/references/KpiReferencesList.js
+#: src/views/suppliers/SupplierKPIsList.js src/views/suppliers/SupplierList.js
+#: src/views/teamtasks/EnhancedTeamTasksList.js
+msgid "Search Results"
+msgstr "ရှာဖွေမှုရလဒ်များ"
+
+#: src/views/calls/InteractionCallList.js
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/references/KpiLegalViolationList.js
+#: src/views/references/KpiReferencesList.js
+#: src/views/suppliers/SupplierKPIsList.js
+#: src/views/teamtasks/EnhancedTeamTasksList.js
+msgid "Found"
+msgstr "တွေ့ရှိချက်များ"
+
+#: src/views/calls/InteractionCallList.js
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/suppliers/SupplierKPIsList.js
+#: src/views/teamtasks/EnhancedTeamTasksList.js
+msgid "Search (Fuzzy Search Across all fields)"
+msgstr "ရှာဖွေခြင်း(နယ်ပယ်ပေါင်းစုံရှာဖွေခြင်း)"
+
+#: src/views/calls/InteractionCallList.js
+msgid "Fetching..."
+msgstr "အချက်အလက်များရယူနေသည်..."
+
+#: src/views/calls/InteractionCallList.js
+#: src/views/calls/InteractionCallModal.js
+#: src/views/references/KpiLegalViolationList.js
+msgid "Id"
+msgstr "ID(အမှတ်စဥ်)"
+
+#: src/views/calls/InteractionCallList.js
+#: src/views/calls/InteractionCallModal.js
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Supplier"
+msgstr "လုပ်ငန်းရှင်များ"
+
+#: src/views/calls/InteractionCallList.js
+msgid "RecruiterSrc"
+msgstr "အေဂျင်Src"
+
+#: src/views/calls/InteractionCallList.js
+#: src/views/calls/InteractionCallModal.js
+msgid "Issue Category"
+msgstr "ပြဿနာအမျိုးအစားများ"
+
+#: src/views/calls/InteractionCallList.js
+msgid "# Kpis"
+msgstr "# Kpis"
+
+#: src/views/calls/InteractionCallList.js
+#: src/views/calls/InteractionCallModal.js
+#: src/views/Dashboard/KpiReferencesList.js
+#: src/views/references/KpiLegalViolationList.js
+#: src/views/references/KpiReferencesList.js
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Description"
+msgstr "အကြောင်းအရာ"
+
+#: src/views/calls/InteractionCallList.js
+msgid "Staff"
+msgstr "၀န်ထမ်း"
+
+#: src/views/calls/InteractionCallList.js
+msgid "IssaraStaff"
+msgstr "အစ်ဆာရာ၀န်ထမ်း"
+
+#: src/views/calls/InteractionCallList.js
+msgid "Client"
+msgstr "ခေါ်ဆိုဆက်သွယ်လာသူ"
+
+#: src/views/calls/InteractionCallList.js
+msgid "Origin Country Province"
+msgstr "မူရင်းနိုင်ငံပြည်နယ်/ခရိုင်"
+
+#: src/views/calls/InteractionCallList.js
+msgid "Incoming Outgoing"
+msgstr "အဝင်/အထွက်"
+
+#: src/views/calls/InteractionCallList.js
+msgid "Phone"
+msgstr "ဖုန်း"
+
+#: src/views/calls/InteractionCallList.js
+msgid "Interaction"
+msgstr "ဆက်ဆံမှု"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Case ID"
+msgstr "အမှုတွဲ ID"
+
+#: src/views/calls/InteractionCallModal.js src/views/calls/NewCallWizardView.js
+msgid "Required"
+msgstr "လိုအပ်သည်"
+
+#: src/views/calls/InteractionCallModal.js src/views/calls/NewCallWizardView.js
+msgid "Call Info"
+msgstr "ဖုန်းခေါ်ဆိုမှုအချက်အလက်"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Interaction Channel"
+msgstr "အပြန်အလှန်ဆက်သွယ်မှုလမ်းကြောင်းများ"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Interaction Reason"
+msgstr "အပြန်အလှန်ဆက်သွယ်ရသည့်အကြောင်းအရင်း"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Interaction Summary"
+msgstr "အပြန်အလှန်ဆက်သွယ်မှုအကျဥ်းချုပ်"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Inquiry Type"
+msgstr "မေးခွန်းအမျိုးအစား"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Interacted Date"
+msgstr "ဆက်သွယ်သည့်ရက်စွဲ"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Call Created Date"
+msgstr "ဖုန်းခေါ်ဆိုမှုပြုလုပ်သည့်နေ့"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Call Last Modified Date"
+msgstr "နောက်ဆုံးဖုန်းခေါ်သည့်နေ့"
+
+#: src/views/calls/InteractionCallModal.js src/views/calls/NewCallWizardView.js
+#: src/views/calls/WizardSteps/CallClientInfoFields.js
+msgid "Client Info"
+msgstr "လိုင်းအချက်အလက်"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Nickname"
+msgstr "အခြားအမည်"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Line Account"
+msgstr "လိုင်း(Line)အကောင့်"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Facebook Account"
+msgstr "ဖေ့ဘုတ်အကောင့်"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "WhatsApp Number"
+msgstr "၀ှက်စအပ်နံပါတ်(WhatsApp)"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Phone Number"
+msgstr "ဖုန်းနံပါတ်"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Viber Account"
+msgstr "ဘိုင်ဘာနံပါတ်"
+
+#: src/views/calls/InteractionCallModal.js
+#: src/views/calls/WizardSteps/CallClientInfoFields.js
+msgid "Staff Notes/Description"
+msgstr "၀န်ထမ်းမှတ်တမ်း/အကြောင်းအရာ"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Origin Country"
+msgstr "မူလနိုင်ငံ"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Origin Province"
+msgstr "မူလပြည်နယ်"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Origin District"
+msgstr "မူလခရိုင်"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Crossing Country"
+msgstr "ဖြတ်သန်းနိုင်ငံ"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Crossing Province"
+msgstr "ဖြတ်သန်း"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Crossing District"
+msgstr "ဖြတ်သန်း"
+
+#: src/views/calls/InteractionCallModal.js src/views/calls/NewCallWizardView.js
+#: src/views/calls/WizardSteps/RecruiterFields.js
+msgid "Recruitment"
+msgstr "လုပ်သန်းစုဆောင်းရေး"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Upstream Broker"
+msgstr "ကြားခံလူ(အကျိုးဆောင်ပွဲစား)"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Employer Debt Bondage"
+msgstr "အလုပ်ရှင်မှကြွေးမြည်ခြည်နှောင်ထားခြင်း"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Employer Debt Bondage Detail"
+msgstr "အလုပ်ရှင်မှကြွေးမြည်ခြည်နှောင်ထားခြင်း အသေးစိတ်"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Broker Debt Bondage"
+msgstr "အကျိုးဆောင်ပွဲစားမှကြွေးမြည်ခြည်နှောင်ထားခြင်း"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Broker Debt Bondage Detail"
+msgstr "အကျိုးဆောင်ပွဲစားမှကြွေးမြည်ခြည်နှောင်ထားခြင်း အသေးစိတ်"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Months at job"
+msgstr "လုပ်သက်ကာလ(လဖြင့်)"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Ratings"
+msgstr "အမှတ်ပေးခြင်း"
+
+#: src/views/calls/InteractionCallModal.js
+#: src/views/calls/WizardSteps/EmploymentFields.js
+msgid "Source Broker Rating"
+msgstr "မူရင်းနိုင်ငံအကျိုးဆောင်ပွဲစားအားအဆင့်သတ်မှတ်ချက်"
+
+#: src/views/calls/InteractionCallModal.js
+#: src/views/calls/WizardSteps/EmploymentFields.js
+msgid "Source Recruiter Rating"
+msgstr "မူရင်းနိုင်ငံအေဂျင်စီအားအဆင့်သတ်မှတ်ချက်"
+
+#: src/views/calls/InteractionCallModal.js
+#: src/views/calls/WizardSteps/EmploymentFields.js
+msgid "Destination Broker Rating"
+msgstr "ဆိုက်ရောက်နိုင်ငံအကျိုးဆောင်ပွဲစားအားအဆင့်သတ်မှတ်ချက်"
+
+#: src/views/calls/InteractionCallModal.js
+#: src/views/calls/WizardSteps/EmploymentFields.js
+msgid "Destination Employer Rating"
+msgstr "ဆိုက်ရောက်နိုင်ငံအေဂျင်စီအားအဆင့်သတ်မှတ်ချက်"
+
+#: src/views/calls/InteractionCallModal.js src/views/calls/NewCallWizardView.js
+msgid "Client Support"
+msgstr "ခေါ်ဆိုလာသူအားပံ့ပိုးမှု"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Vot Needs"
+msgstr "လိုအပ်သည့်မဲ"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Share Info Consent"
+msgstr "အချက်အလက်မျှဝေမှုသဘောတူညီချက်"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Referral Notes"
+msgstr "အမှုလွဲပြောင်းခြင်းမှတ်ချက်"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Next Steps"
+msgstr "နောက်အဆင့်များ"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Next Steps Issara Staff"
+msgstr "နောက်တစ်ဆင့်တာ၀န်ယူမည့်အစ်ဆာရာ၀န်ထမ်း"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Referral Action"
+msgstr "အမှုလွဲပြောင်းခြင်း"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Dead Line Date"
+msgstr "နောက်ဆုံးနေ့"
+
+#: src/views/calls/InteractionCallModal.js
+#: src/views/calls/WizardSteps/CallActionFields.js
+msgid "Final Remarks"
+msgstr "နောက်ဆုံးမှတ်ချက်"
+
+#: src/views/calls/InteractionCallModal.js
+#: src/views/calls/WizardSteps/CallActionFields.js
+msgid "Risk Assessment"
+msgstr "အန္တရာယ်ကျရောက်နိုင်ချေရှိ/မရှိသုံးသပ်ခြင်း  "
+
+#: src/views/calls/InteractionCallModal.js src/views/calls/NewCallWizardView.js
+msgid "Issues"
+msgstr "ပြဿနာများ:  "
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Offender Description"
+msgstr "ကျူးလွန်သူ အကြောင်း"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Workers Affected"
+msgstr "ထိခိုက်ခံရသော အလုပ်သမားများ"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Workers Affected Description"
+msgstr "သက်ရောက်သည့်အလုပ်သမားများ အကြောင်း"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Getting Better"
+msgstr "ပိုတိုးတက်လာသည်"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Getting Better Description"
+msgstr "ပိုတိုးတက်လာအကြောင်းအရာ"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Issue Links"
+msgstr "ပြဿနာအထောက်အထားလင့်များ"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Loading ..."
+msgstr "အချက်အလက်ရယူနေသည်........"
+
+#: src/views/calls/InteractionCallView.js
+msgid "Success saving the call with id:"
+msgstr "ဖုန်းခေါ်ဆိုမှုအတွက်အမှတ်စဥ်နှင့်တကွအောင်မြင်စွာသိမ်းဆည်းထားပါသည်"
+
+#: src/views/calls/InteractionCallView.js
+msgid "Success created a new call with id:"
+msgstr "ဖုန်းခေါ်ဆိုမှုအသစ်အတွက်အမှတ်စဥ်အောင်မြင်စွာသိမ်းဆည်းထားပါသည်"
+
+#: src/views/calls/InteractionCallView.js
+msgid "Well Done!"
+msgstr "အောင်မြင်သည်!"
+
+#: src/views/calls/InteractionCallView.js
+msgid "Errors"
+msgstr "အမှားတစ်စုံတစ်ရာဖြစ်ပေါ်နေပါသည်! "
+
+#: src/views/calls/InteractionCallView.js
+msgid "Error!"
+msgstr "အမှားတစ်စုံတစ်ရာဖြစ်ပေါ်နေပါသည်!"
+
+#: src/views/calls/InteractionCallView.js src/views/suppliers/SupplierList.js
+#: src/views/TeamActivity/FieldworkActivityForm.js
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+#: src/views/users/ChangePasswordForm.js
+msgid "Error"
+msgstr "အမှားတစ်စုံတစ်ရာဖြစ်ပေါ်နေပါသည်!  "
+
+#: src/views/calls/InteractionCallView.js
+msgid "Unknown/Generic"
+msgstr "နာမည်မသိ/အထွေထွေ"
+
+#: src/views/calls/InteractionCallView.js
+msgid "See details"
+msgstr "အသေးစိတ်များ"
+
+#: src/views/calls/InteractionCallView.js
+msgid "Saving Data..."
+msgstr "အချက်အလက်များကိုသိမ်းဆည်းနေပါသည်......"
+
+#: src/views/calls/InteractionCallView.js
+msgid "Loading Data..."
+msgstr "အချက်အလက်များကိုရယူနေပါသည်..."
+
+#: src/views/calls/NewCallWizardView.js
+msgid "Rating Businesses"
+msgstr "လုပ်ငန်းများကို အဆင့်သတ်မှတ်ခြင်း။  "
+
+#: src/views/calls/NewCallWizardView.js
+msgid "Interactions"
+msgstr "အပြန်အလှန်ဆက်သွယ်ခြင်း"
+
+#: src/views/calls/NewCallWizardView.js
+msgid "Edit/Add Worker Call: "
+msgstr "အလုပ်သမားခေါ်ဆိုမှုကို ပြင်မည်/ထည့်မည်: "
+
+#: src/views/calls/NewCallWizardView.js src/views/landing/TeamActionForm.js
+#: src/views/TeamActivity/FieldworkActivityForm.js
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+#: src/views/TeamActivity/WV_and_ER_metrix.js
+msgid "Save"
+msgstr "သိမ်းဆည်းသည်"
+
+#: src/views/calls/WizardSteps/CallActionFields.js
+msgid "Organization must be selected"
+msgstr "အဖွဲ့အစည်းကို ရွေးချယ်ရပါမည်"
+
+#: src/views/calls/WizardSteps/CallActionFields.js
+msgid "Client Support (Organization action)"
+msgstr "ခေါ်ဆိုသူအားကူညီပေးမှု(အဖွဲ့အစည်းလုပ်ဆောင်ချက်)"
+
+#: src/views/calls/WizardSteps/CallActionFields.js
+msgid "Client Support (Issara Actions)"
+msgstr "ခေါ်ဆိုသူအားကူညီပေးမှု(အစ်ဆာရာလုပ်ဆောင်ချက်)"
+
+#: src/views/calls/WizardSteps/CallActionFields.js
+msgid "What are the most urgent needs of the client?"
+msgstr "ခေါ်ဆိုသူအရေးကြီးဆုံးလတ်တလောလိုအပ်ချက်ကဘာလဲ?"
+
+#: src/views/calls/WizardSteps/CallActionFields.js
+msgid "Consent to pass on details to employer, agency, referral partner?"
+msgstr "အလုပ်ရှင်၊အေဂျင်စီ၊နှင့်အမှုလွဲပြောင်းခြင်းအတွက်တင်ပြရန်သဘောတူညီမှုအသေးစိတ်...…  "
+
+#: src/views/calls/WizardSteps/CallActionFields.js
+#: src/views/calls/WizardSteps/CallIssuesForm.js
+#: src/views/calls/WizardSteps/RecruiterFields.js
+msgid "Yes"
+msgstr "ဟုတ်ပါသည်"
+
+#: src/views/calls/WizardSteps/CallActionFields.js
+#: src/views/calls/WizardSteps/CallIssuesForm.js
+#: src/views/calls/WizardSteps/RecruiterFields.js
+msgid "No"
+msgstr "မဟုတ်ပါ"
+
+#: src/views/calls/WizardSteps/CallActionFields.js
+msgid "Details on organization action (Referral Notes)"
+msgstr "အစ်ဆာရာမှ အရေးယူဆောင်ရွက်မှုအသေးစိတ်(အမှုလွဲပြောင်းမှုမှတ်တမ်း)"
+
+#: src/views/calls/WizardSteps/CallActionFields.js
+msgid "Details on Issara action (Referral Notes)"
+msgstr "အစ်ဆာရာမှ အရေးယူဆောင်ရွက်မှုအသေးစိတ်(အမှုလွဲပြောင်းမှုမှတ်တမ်း)"
+
+#: src/views/calls/WizardSteps/CallActionFields.js
+msgid "Next steps organization follow-up and action"
+msgstr "အဖွဲ့အစည်းမှ နောက်တစ်ဆင့် တုံပြန်ဆောင်ရွက်ခြင်းနှင့် အရေးယူခြင်း"
+
+#: src/views/calls/WizardSteps/CallActionFields.js
+msgid "Next steps for Issara follow-up and action"
+msgstr "အစ်ဆာရာမှနောက်တစ်ဆင့် တုံပြန်ဆောင်ရွက်ခြင်းနှင့် အရေးယူခြင်း"
+
+#: src/views/calls/WizardSteps/CallActionFields.js
+#: src/views/landing/TeamActionForm.js
+msgid "Responsible Issara focal point"
+msgstr "အစ်ဆာရာတာ၀န်ခံပုဂ္ဂိုလ်"
+
+#: src/views/calls/WizardSteps/CallActionFields.js
+#: src/views/landing/TeamActionForm.js
+#: src/views/teamtasks/EnhancedTeamTasksList.js
+msgid "Deadline"
+msgstr "နောက်ဆုံးသတ်မှတ်ရက်"
+
+#: src/views/calls/WizardSteps/CallActionFields.js
+#: src/views/landing/TeamActionForm.js
+msgid "Deadline Date"
+msgstr "နောက်ဆုံးသတ်မှတ်ရက်"
+
+#: src/views/calls/WizardSteps/CallClientInfoFields.js
+msgid "Gender must be selected"
+msgstr "ကျား၊မ ရွေးရန်။"
+
+#: src/views/calls/WizardSteps/CallClientInfoFields.js
+msgid "Client name / nickname"
+msgstr "ခေါ်ဆိုသူနာမည်/အခြားနာမည်"
+
+#: src/views/calls/WizardSteps/CallClientInfoFields.js
+msgid "LINE ID"
+msgstr "လိုင်းအိုင်ဒီ(Line ID)"
+
+#: src/views/calls/WizardSteps/CallClientInfoFields.js
+msgid "Facebook name"
+msgstr "ဖေ့ဘုတ်အကောင့်"
+
+#: src/views/calls/WizardSteps/CallClientInfoFields.js
+msgid "Phone number"
+msgstr "ဖုန်းနံပါတ်"
+
+#: src/views/calls/WizardSteps/CallClientInfoFields.js
+msgid "Viber account"
+msgstr "ဘိုင်ဘာအကောင့်"
+
+#: src/views/calls/WizardSteps/CallClientInfoFields.js
+msgid "WhatsApp number"
+msgstr "၀ှက်စအပ်နံပါတ်(WhatsApp)"
+
+#: src/views/calls/WizardSteps/CallClientInfoFields.js
+msgid "Telegram number"
+msgstr "တယ်လီဂရမ်နံပါတ်"
+
+#: src/views/calls/WizardSteps/CallClientInfoFields.js
+msgid "Client Origin"
+msgstr "ခေါ်ဆိုသူမူလ"
+
+#: src/views/calls/WizardSteps/CallClientInfoFields.js
+msgid "Client crossing border"
+msgstr "ခေါ်ဆိုသူဖြတ်ကျော်သည့်နယ်စပ်"
+
+#: src/views/calls/WizardSteps/CallInfoFields.js
+msgid "Issara Staff must be selected"
+msgstr "စားရင်းဖြည့်သူနာမည်ရွေးချယ်ရန်"
+
+#: src/views/calls/WizardSteps/CallInfoFields.js
+msgid "Interaction Channel must be selected"
+msgstr "ဆက်သွယ်ရေးလမ်းကြောင်းကိုရွေးချယ်ရန်လို"
+
+#: src/views/calls/WizardSteps/CallInfoFields.js
+msgid "Interaction Reason must be selected"
+msgstr "ဆက်သွယ်ရသည့်အကြောင်းအရင်းကိုရွေးချယ်ရန်လို"
+
+#: src/views/calls/WizardSteps/CallInfoFields.js
+msgid "interacted Date must be selected"
+msgstr "ဆက်သွယ်သည့်နေ့ရက်ကိုရွေးချယ်ရန်လို"
+
+#: src/views/calls/WizardSteps/CallInfoFields.js
+msgid "Call/Message Info"
+msgstr "ဖုန်းခေါ်ဆိုမှု/မက်ဆေ့ချ်အချက်အလက်"
+
+#: src/views/calls/WizardSteps/CallInfoFields.js
+msgid "Interaction Type must be selected"
+msgstr "ဆက်သွယ်ရသည့်အကြောင်းအရင်းကိုရွေးချယ်ရပါမည်"
+
+#: src/views/calls/WizardSteps/CallInfoFields.js
+msgid "Incoming"
+msgstr "အဝင်"
+
+#: src/views/calls/WizardSteps/CallInfoFields.js
+msgid "Outgoing"
+msgstr "အဝင်"
+
+#: src/views/calls/WizardSteps/CallInfoFields.js
+msgid "Summary of the interaction"
+msgstr "အပြန်အလှန်ဆက်သွယ်မှုအတိုချုပ်"
+
+#: src/views/calls/WizardSteps/CallInfoFields.js
+msgid "Date of interaction"
+msgstr "ဆက်သွယ်မှုရက်စွဲ"
+
+#: src/views/calls/WizardSteps/CallIssues.js
+msgid "Issues at this workplace"
+msgstr "လုပ်ငန်းခွင်မှာထုတ်ပေးသည်"
+
+#: src/views/calls/WizardSteps/CallIssues.js
+msgid "Instructions:"
+msgstr "လမ်းညွှန်ချက်များ:"
+
+#: src/views/calls/WizardSteps/CallIssues.js
+msgid "If the client is adding more information or updates on a previously reported issue, please click the green pen by the relevant KPI to update."
+msgstr "အကယ်၍ခေါ်ဆိုလာသူကအရင်တင်ပြထားတဲ့ပြဿနာကနေ နောက်ထပ်အချက်အလက်အသစ်တွေထပ်ပေးလာရင် သင့်တော်တဲ့ ပြဿနာတိုင်းတာချက်(KPI)ကို‌ ပြုပြင်ပြောင်းလဲရန်လိုအပ်လျှင် အစိမ်းရောင်ဘောပင်ပုံလေးကို နှိပ်ပါ။ "
+
+#: src/views/calls/WizardSteps/CallIssues.js
+msgid "If the client is reporting a new issue at the workplace, please click the green New Issue button."
+msgstr "အကယ်၍ခေါ်ဆိုလာသူကလုပ်ငန်းခွင်အတွင်း နောက်ထပ် အမှုအသစ်တစ်ခု ထံမှာတင်ပြလာရင် အမှုအသစ် ဆိုတဲ့ခလုတ်ကိုနှိပ်ပါ။ "
+
+#: src/views/calls/WizardSteps/CallIssuesForm.js
+msgid "Issue Description"
+msgstr "အမှုအကြောင်းအရာ"
+
+#: src/views/calls/WizardSteps/CallIssuesForm.js
+msgid "Issue Offender Description"
+msgstr "အမှုကျူးလွန်သူအကြောင်း"
+
+#: src/views/calls/WizardSteps/CallIssuesForm.js
+msgid "How many clients are affected by this issue?"
+msgstr "ဒီအမှုကနေ ထိခိုက်နစ်နာသွားသူဦးရေ ဘယ်နှစ်ယောက်ရှိလဲ?"
+
+#: src/views/calls/WizardSteps/CallIssuesForm.js
+msgid "How many workers are affected by this issue?"
+msgstr "ဒီအမှုကနေ ထိခိုက်နစ်နာသွားသည့် အလုပ်သမား ဦးရေ ဘယ်နှစ်ယောက်ရှိလဲ?"
+
+#: src/views/calls/WizardSteps/CallIssuesForm.js
+msgid "Client Affected Description (More about the client Affected)."
+msgstr "ထိခိုက်နစ်နာသူအကြောင်းအရာ(ထိခိုက်နစ်နာသွားသူနှင့် ပတ်သက်သည့်အကြောင်း)"
+
+#: src/views/calls/WizardSteps/CallIssuesForm.js
+msgid "Workers Affected Description (More about the workers Affected)"
+msgstr "ထိခိုက်နစ်နာသည့်အလုပ်သမားအကြောင်းအရာ(ထိခိုက်နစ်နာသွားသည့်အလုပ်သမားနှင့် ပတ်သက်သည့်အကြောင်း)"
+
+#: src/views/calls/WizardSteps/CallIssuesForm.js
+msgid "Is the issue situation improving?"
+msgstr "အမှုအခြေအနေတိုးတက်မှုရှိလား?"
+
+#: src/views/calls/WizardSteps/CallIssuesForm.js
+msgid "About the Same"
+msgstr "ပုံမှန်ပဲ"
+
+#: src/views/calls/WizardSteps/CallIssuesForm.js
+msgid "Describe more about how the issue is getting better or worse"
+msgstr "ပြဿနာ ပိုကောင်းလာပုံ ဒါမှမဟုတ် ပိုဆိုးလာပုံ အကြောင်းပိုရှင်းပြပါ။"
+
+#: src/views/calls/WizardSteps/CallIssuesForm.js
+msgid "Issue Link"
+msgstr "အမှုနှင့်ပတ်သက်သည့်လင့်များ"
+
+#: src/views/calls/WizardSteps/CallIssuesForm.js
+msgid "Enter Issue link here"
+msgstr "ဒီနေရာမှာအမှုနှင့်ဆိုင်တဲ့လင့်ရှိလျှင်ထည့်ရန်"
+
+#: src/views/calls/WizardSteps/CallIssuesForm.js
+#: src/views/TeamActivity/FieldworkActivityForm.js
+msgid "Remove this link"
+msgstr "ဒီလင့်ကိုဖယ်ရှားမည်"
+
+#: src/views/calls/WizardSteps/CallIssuesForm.js
+msgid "Add More Issue Link"
+msgstr "အခြားအမှုလင့်များကိုထပ်ထည့်ရန်"
+
+#: src/views/calls/WizardSteps/EmploymentFields.js
+msgid "Business Ratings - How Does the client rate the following actors that were involved in their recruitment and employment ?"
+msgstr "လုပ်ငန်းရှင်ကိုပေးသည့်အဆင့်သတ်မှတ်ချက် - ခေါ်ဆိုလာသူမှလုပ်သားခန့်ထားရေးဖြစ်စဥ်မှာပါ၀င်သည့်အလုပ်ရှင်အားဘယ်လိုအဆင့်သတ်မှတ်လဲ?"
+
+#: src/views/calls/WizardSteps/EmploymentFields.js
+msgid "(1 very low, 5 very high)"
+msgstr "(၁-အလွန်ညံ့၊ ၅-အလွန်ကောင်း)"
+
+#: src/views/calls/WizardSteps/RecruiterFields.js
+msgid "Source Upstream Broker"
+msgstr "မူရင်းနိုင်ငံအကျိုးဆောင်ပွဲစား"
+
+#: src/views/calls/WizardSteps/RecruiterFields.js
+msgid "How many months working at this workplace?"
+msgstr "ဒီအလုပ်မှာလုပ်တာဘယ်နှစ်လရှိပြီလဲ?"
+
+#: src/views/calls/WizardSteps/RecruiterFields.js
+msgid "Employer Debt Bondage?"
+msgstr "အလုပ်ရှင်ကိုဆပ်ရန်ကျန်နေတဲ့အကြွေးရှိလား?"
+
+#: src/views/calls/WizardSteps/RecruiterFields.js
+msgid "If there is employer debt bondage, please provide details on amounts, to whom, how paid, etc"
+msgstr "အကယ်၍အလုပ်ရှင်အားဆပ်ရန်အကြွေးများကျန်သေးရင် ဆပ်ရန်ကျန်သည့် အကြွေးပမာဏ၊စချေးပေးသူ၊ဘယ်လိုချေးပေးလဲ စသဖြင့် အသေးစိတ်ထည့်ရေးရန်"
+
+#: src/views/calls/WizardSteps/RecruiterFields.js
+msgid "Broker Debt Bondage?"
+msgstr "အကျိုးဆောင်ပွဲစားအားဆပ်ရန်ရှိအကြွေးများ ရှိပါသလား?"
+
+#: src/views/calls/WizardSteps/RecruiterFields.js
+msgid "If there is broker debt bondage, please provide details on amounts, to whom, how paid, etc"
+msgstr "အကယ်၍အကျိုးဆောင်ပွဲစားအားဆပ်ရန်အကြွေးများကျန်သေးရင် ဆပ်ရန်ကျန်သည့် အကြွေးပမာဏ၊စချေးပေးသူ၊ဘယ်လိုချေးပေးလဲ စသဖြင့် အသေးစိတ်ထည့်ရေးရန်"
+
+#: src/views/calls/WizardSteps/RequiredCallFields.js
+msgid "Supplier must be selected"
+msgstr "လုပ်ငန်းရှင်နာမည်ကို ရွေးချယ်ရပါမည်"
+
+#: src/views/calls/WizardSteps/RequiredCallFields.js
+msgid "Country must be selected"
+msgstr "နိုင်ငံကိုရွေးချယ်ရပါမည်"
+
+#: src/views/calls/WizardSteps/RequiredCallFields.js
+msgid "Nationality must be selected"
+msgstr "နိုင်ငံသားရွေးချယ်ရပါမည်"
+
+#: src/views/calls/WizardSteps/RequiredCallFields.js
+msgid "CallerStatus must be selected"
+msgstr "ခေါ်ဆိုသူအခြေအနေကိုရွေးချယ်ရမည်"
+
+#: src/views/calls/WizardSteps/RequiredCallFields.js
+msgid "ClientType must be selected"
+msgstr "ခေါ်ဆိုသူအမျိုးအစားကိုရွေးချယ်ရမည်"
+
+#: src/views/calls/WizardSteps/RequiredCallFields.js
+msgid "CaseCategory must be selected"
+msgstr "အမှုအမျိုးအစားကိုရွေးချယ်ရပါမည်"
+
+#: src/views/calls/WizardSteps/RequiredCallFields.js
+msgid "Please fill out the information and refer this case to Issara Institute. Thank you, have a great day!"
+msgstr "အချက်အလက်ကိုဖြည့်ပြီး Issara Institute သို့ ပေးပို့ပါ။"
+
+#: src/views/calls/WizardSteps/RequiredCallFields.js
+msgid "Required Info"
+msgstr "လိုအပ်သောအချက်အလက်"
+
+#: src/views/Dashboard/FieldworkActivityModal.js
+msgid "Fieldwork Activity #{id}"
+msgstr "ကွင်းဆင်းလှုပ်ရှားမှု #{id}"
+
+#: src/views/Dashboard/FieldworkActivityModal.js
+msgid "General Information:"
+msgstr "အထွေထွေအချက်အလက်:"
+
+#: src/views/Dashboard/FieldworkActivityModal.js
+msgid "Type:"
+msgstr "အမျိုးအစား:"
+
+#: src/views/Dashboard/FieldworkActivityModal.js
+msgid "Date:"
+msgstr "ရက်စွဲ:"
+
+#: src/views/Dashboard/FieldworkActivityModal.js
+#: src/views/suppliers/SupplierModal.js
+msgid "Location:"
+msgstr "နေရာ:"
+
+#: src/views/Dashboard/FieldworkActivityModal.js
+#, fuzzy
+#| msgid "Workers Reached:"
+msgid "Workers Reached:"
+msgstr "ထိတွေ့ဆက်သွယ်ခဲ့သော စုစုပေါင်းအလုပ်သမား လစဉ်_အရေအတွက်"
+
+#: src/views/Dashboard/FieldworkActivityModal.js
+msgid "Suppliers:"
+msgstr "လုပ်ငန်းရှင်များ:"
+
+#: src/views/Dashboard/FieldworkActivityModal.js
+msgid "Recruiters:"
+msgstr "အေဂျင်စီများ:"
+
+#: src/views/Dashboard/FieldworkActivityModal.js
+msgid "Partners:"
+msgstr "မိတ်ဖက်အဖွဲ့အစည်းများ:"
+
+#: src/views/Dashboard/FieldworkActivityModal.js
+msgid "Nationality:"
+msgstr "လူမျိုး(နိုင်ငံသား):"
+
+#: src/views/Dashboard/FieldworkActivityModal.js
+msgid "Notes:"
+msgstr "မှတ်စုများ:"
+
+#: src/views/Dashboard/FieldworkActivityModal.js
+msgid "Links:"
+msgstr "လင့်များ:"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "worker_calls_count_by_month"
+msgstr "အလုပ်သမား_လစဉ်_ခေါ်ဆိုမှုများ_အရေအတွက်"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "field_visit_count_by_month"
+msgstr "ကွင်းဆင်းလေ့လာခြင်း_လစဉ်_အရေအတွက်"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "field_total_workers_reached_by_month"
+msgstr "ထိတွေ့ဆက်သွယ်ခဲ့သော စုစုပေါင်းအလုပ်သမား လစဉ်_အရေအတွက်"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Between"
+msgstr "နှစ်ခုကြား"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Start"
+msgstr "စတင်မည်"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "And"
+msgstr "နှင့်"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "End"
+msgstr "အဆုံးသတ်"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Reset all"
+msgstr "အားလုံးအသစ်ပြန်စမည်"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "No Data found"
+msgstr "အချက်အလက်ရှာမတွေ့ပါ"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Burmese Facebook messenger"
+msgstr "မြန်မာဖေ့ဘုတ် မက်ဆင်ဂျာ"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Burmese Viber in Thailand"
+msgstr "မြန်မာပြည်မှ မြန်မာဘိုင်ဘာ"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Burmese hotline in Thailand"
+msgstr "ထိုင်းနိုင်ငံရှိ မြန်မာ hotline ဖုန်း"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Burmese LINE messages"
+msgstr "မြန်မာ LINE messasage"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Burmese hotline in Myanmar"
+msgstr "မြန်မာနိုင်ငံရှိ မြန်မာ hotline ဖုန်း"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Khmer hotline"
+msgstr "ကမ္ဘောဒီးယား hotline ဖုန်း"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Khmer Facebook messenger"
+msgstr "ကမ္ဘောဒီးယား ဖေ့ဘုတ် မက်ဆင်ဂျာ"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Khmer LINE"
+msgstr "ကမ္ဘောဒီးယား LINE"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Thai Hotline"
+msgstr "ထိုင်း hotline "
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Thai Facebook"
+msgstr "ထိုင်းဖေ့ဘုတ်မက်ဆန်ဂျာ"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Thai LINE"
+msgstr "ထိုင်း LINE"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Indonesian Whatsapp Total"
+msgstr "အင်ဒိုနီးရှားဝါ့စ်အပ်(WhatsApp) စုစုပေါင်း"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Indonesian Hotline Total"
+msgstr "အင်ဒိုနီးရှား Hotline စုစုပေါင်း"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Nepalese Whatsapp Total"
+msgstr "နီပေါ WhatsApp "
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Nepalese Hotline Total"
+msgstr "နီပေါ hotline စုစုပေါင်း"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Nepalese Facebook Total"
+msgstr "နီပေါ Facebook စုစုပေါင်း"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Burmese Whatsapp Total"
+msgstr "မြန်မာဝါ့စ်အပ်(WhatsApp)"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Burmese Viber in Malaysia"
+msgstr " မလေးရှား မှ မြန်မာဘိုင်ဘာ"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Burmese Tiktok messages"
+msgstr "မြန်မာ TikTok မက်ဆေ့များ"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Nepalese Tiktok messages"
+msgstr "နီပေါ Tiktok မက်ဆေ့များ"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#, fuzzy
+#| msgid "Bangladeshi Facebook messenger"
+msgid "Bangladeshi Facebook Messenger"
+msgstr "ဘင်္ဂလားဒေ့ရှ်  Facebook Messenger"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#, fuzzy
+#| msgid "Bangladeshi hotline"
+msgid "Bangladeshi Hotline"
+msgstr "ဘင်္ဂလားဒေ့ရှ်လူမျိုး hotline "
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#, fuzzy
+#| msgid "Bangladeshi Whatsapp"
+msgid "Bangladeshi WhatsApp"
+msgstr "ဘင်္ဂလားဒေ့ရှ်လူမျို၀ပ်(စ)အပ် WhatsApp "
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Bangladeshi Tiktok messages"
+msgstr "ဘင်္ဂလားဒေ့ရှ် တစ်တော့ မက်ဆေ့များ"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Worker Metrics"
+msgstr "အလုပ်သမားအခြေအနေပြဇယား"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Total Worker Cases"
+msgstr "စုစုပေါင်းအလုပ်သမားအမှု"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Men"
+msgstr "အမျိုးသား"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Women"
+msgstr "အမျိုးသမီး"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Unknown"
+msgstr "မတိအကျမသိရသော"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Worker Voice and Ethical Recruitment metrics"
+msgstr "အလုပ်သမား အသံနှင့် ကျင့်ဝတ်နှင့်ညီသောလုပ်သား စုဆောင်းမှု မက်ထရစ်များ"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Workers Connected To Worker Voice Channels"
+msgstr "အစ်ဆာရာအလုပ်သမား အသံလမ်းကြောင်းနှင့် ချိတ်ဆက်ထားသောအလုပ်သမားများ"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Suppliers Trained"
+msgstr "သင်တန်းပေးထားပြီးသောလုပ်ငန်းရှင်များ"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Workers Reached In Pre-Departure MM"
+msgstr "မထွက်ခွာမီ တွေ့ရှိသောအလုပ်သမားများ - မြန်မာ"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Workers Receiving Remedition"
+msgstr "ပြဿနာဖြေရှင်းပေးထားမှု (ကုစားမှု) ကိုရရှိသောအလုပ်သမားများ"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Trained Workers Leaders/Ambassadors"
+msgstr "သင်တန်းပေးထားပြီးသော အလုပ်သမားခေါင်းဆောင်များ/သံတမန်များ"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Recruitment Agencies Trained"
+msgstr "သင်တန်းပေးထားပြီးသောအလုပ်သမားစုဆောင်းရေးအေဂျင်စီများ"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Workers Reached In Pre-Departure NE"
+msgstr "ပြည်ပမထွက်ခင်အကြိုသင်တန်းမှာချိတ်ဆက်မိနေသောအလုပ်သမားများ(နီပေါ)"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/TeamActivity/WV_and_ER_metrix.js
+msgid "Remediation For Recruitment Fees and Cases"
+msgstr "အလုပ်ရှာဖွေရေးအတွက်ကုန်ကျစရိတ်နှင့်အမှုတွဲများအတွက်ပြဿနာဖြေရှင်းပေးမှု(ကုစားမှု) - ပြန်ပေးငွေ"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/TeamActivity/WV_and_ER_metrix.js
+msgid "Recruitment-Related Fees Detected and Intercepted"
+msgstr "အလုပ်ရှာဖွေရေးနှင့်ပတ်သက်သော အခကြေးငွေများ-တားဆီးနိုင်ခဲ့သောငွေ "
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "No Data Found"
+msgstr "အချက်အလက်များရှာမတွေ့ပါ"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Total field visits"
+msgstr "စုစုပေါင်းကွင်းဆင်းလေ့လာမှုခရီးစဥ်များ"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Total Workers Reached"
+msgstr "ဆက်သွယ်ခဲ့သော အလုပ်သမားများ - စုစုပေါင်း"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/suppliers/SupplierList.js
+#: src/views/teamtasks/EnhancedTeamTasksList.js
+msgid "ID"
+msgstr "ID"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Type"
+msgstr "အမျိုးအစားများ"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/TeamActivity/FieldworkActivityForm.js
+msgid "Recruiters"
+msgstr "အေဂျင်စီများ"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Location"
+msgstr "တည်နေရာ"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Target"
+msgstr "ပစ်မှတ်/သတ်မှတ်ချက်"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/TeamActivity/FieldworkActivityForm.js
+msgid "Notes"
+msgstr "မှတ်ချက်များ"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Links"
+msgstr "လင့်များ"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Total Worker"
+msgstr "စုစုပေါင်း အလုပ်သမား"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Print Report"
+msgstr "အစီရင်ခံစာပရင့်ထုတ်ပါ"
+
+#: src/views/Dashboard/KpiReferenceModal.js
+#: src/views/references/KpiLegalViolationModal.js
+#: src/views/references/KpiReferenceModal.js
+#: src/views/suppliers/SupplierModal.js
+msgid "General:"
+msgstr "အထွေထွေ"
+
+#: src/views/Dashboard/KpiReferenceModal.js
+#: src/views/references/KpiReferenceModal.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Category:"
+msgstr "အမျိုးအစားများ"
+
+#: src/views/Dashboard/KpiReferenceModal.js
+#: src/views/references/KpiLegalViolationModal.js
+#: src/views/references/KpiReferenceModal.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Description:"
+msgstr "အကြောင်းအရာ"
+
+#: src/views/Dashboard/KpiReferenceModal.js
+#: src/views/references/KpiReferenceModal.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Level:"
+msgstr "အဆင့်များ"
+
+#: src/views/Dashboard/KpiReferenceModal.js
+#: src/views/references/KpiReferenceModal.js
+msgid "Goal:"
+msgstr "ပန်းတိုင်/ရည်မှန်းချက်"
+
+#: src/views/Dashboard/KpiReferenceModal.js
+#: src/views/references/KpiReferenceModal.js
+msgid "ETI:"
+msgstr "ETI:"
+
+#: src/views/Dashboard/KpiReferenceModal.js
+#: src/views/references/KpiReferenceModal.js
+msgid "Code:"
+msgstr "ကုတ်"
+
+#: src/views/Dashboard/KpiReferencesList.js src/views/suppliers/SupplierList.js
+msgid "Found:"
+msgstr "တွေ့ရှိသည်"
+
+#: src/views/Dashboard/KpiReferencesList.js
+#: src/views/references/KpiReferencesList.js
+msgid "ETI Code"
+msgstr "ETI Code"
+
+#: src/views/landing/TeamActionForm.js
+msgid "Add/Edit Team Task"
+msgstr "အဖွဲ့တာဝန်များကိုပြင်မည်/ထည့်မည်"
+
+#: src/views/landing/TeamActionForm.js
+msgid "Tasked By"
+msgstr "တာဝန်ပေးထားသူ"
+
+#: src/views/landing/TeamActionForm.js
+msgid "A sumamry of the task to be completed"
+msgstr "ပြီးမြောက်ရမည့်လုပ်ငန်းတာ၀န်များ အကျဉ်းချုပ်"
+
+#: src/views/landing/TeamActionForm.js
+msgid "General Notes"
+msgstr "အထွေထွေမှတ်စုများ"
+
+#: src/views/references/KpiLegalViolationList.js
+#: src/views/suppliers/SupplierList.js
+msgid "Name"
+msgstr "အမည်"
+
+#: src/views/references/KpiLegalViolationList.js
+msgid "Law"
+msgstr "ဥပဒေ"
+
+#: src/views/references/KpiLegalViolationList.js
+msgid "Article"
+msgstr "ပုဒ်ပ (Article)"
+
+#: src/views/references/KpiLegalViolationModal.js
+msgid "Legal Violation #{id}"
+msgstr "ဥပဒေချိုးဖောက်မှု #{id}"
+
+#: src/views/references/KpiLegalViolationModal.js
+msgid "Id:"
+msgstr "Id:"
+
+#: src/views/references/KpiLegalViolationModal.js
+msgid "Name:"
+msgstr "နာမည်"
+
+#: src/views/references/KpiLegalViolationModal.js
+msgid "Law:"
+msgstr "ဥပဒေ"
+
+#: src/views/references/KpiLegalViolationModal.js
+msgid "Article:"
+msgstr "ဆောင်းပါး"
+
+#: src/views/references/KpiLegalViolationModal.js
+#: src/views/suppliers/SupplierModal.js
+msgid "Country:"
+msgstr "နိုင်ငံ"
+
+#: src/views/references/KpiReferenceModal.js
+msgid "Other:"
+msgstr "အခြား"
+
+#: src/views/references/KpiReferenceModal.js
+msgid "Legal Violation:"
+msgstr "ဥပဒေချိုးဖောက်မှု"
+
+#: src/views/references/KpiReferenceModal.js
+msgid "Recommended Remediation:"
+msgstr "ပြန်လည်ကုစားခြင် အတွက် အကြံပြုချက်များ"
+
+#: src/views/references/KpiReferenceModal.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Systems Change:"
+msgstr "စနစ်များ ပြောင်းလဲခြင်း  "
+
+#: src/views/references/KpiReferencesList.js
+#: src/views/suppliers/SupplierKPIsList.js src/views/suppliers/SupplierList.js
+msgid "View:"
+msgstr "ကြည့်မည်"
+
+#: src/views/references/KpiReferencesList.js
+msgid "Legal"
+msgstr "ဥပဒေ"
+
+#: src/views/references/KpiReferencesList.js
+msgid "Remediation"
+msgstr "ပြဿနာဖြေရှင်းချက်များ(ကုစားမှုများ)"
+
+#: src/views/references/KpiReferencesList.js
+msgid "Systems"
+msgstr "စနစ်များ"
+
+# h
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Supplier KPI Deleted"
+msgstr "ဖျက်လိုက်ပြီးသော လုပ်ငန်းရှင် KPI "
+
+#: src/views/suppliers/SupplierKPIModal.js
+#| msgid "You have successfully deleted those supplier kpi updates"
+msgid "You have successfully deleted the supplier kpi and it's child updates"
+msgstr "လုပ်ငန်းရှင် kpi အောင်မြင်စွာ ဖျက်လိုက်ပြီး"
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Error Supplier KPI was not deleted"
+msgstr "တခုခုမှားနေသည် လုပ်ငန်းရှင် kpi ဖျက်လို့မရပါ"
+
+#: src/views/suppliers/SupplierKPIModal.js
+#| msgid "Error deleted those supplier kpi updates"
+msgid "Error occurred trying to delete those supplier kpi updates"
+msgstr "လုပ်ငန်းရှင် kpi ဖျက်ရန်ကြိုးစားရာတွင်တခုခုမှားနေသည်ကိုတွေ့ရသည်"
+
+#: src/views/suppliers/SupplierKPIModal.js src/views/suppliers/SupplierList.js
+msgid "Confirm"
+msgstr "အတည်ပြုသည်"
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Confirm Delete ?"
+msgstr "ဖျက်ရန်အတည်ပြုပြီလား?"
+
+#: src/views/suppliers/SupplierKPIModal.js
+#| msgid "About to delete supplier kpi updates id(s): "
+msgid "About to delete supplier kpi id: "
+msgstr "လုပ်ငန်းရှင် kpi ကိုဖျက်မည်"
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "*This Supplier KPI has 0 cases and is ok to remove."
+msgstr "*လုပ်ငန်းရှင် kpi မရှိပါ။ ဖျက်လို့ရပါသည်။"
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Delete"
+msgstr "ဖျက်မည်"
+
+#: src/views/suppliers/SupplierKPIModal.js
+#| msgid "Supplier KPI ID"
+msgid "Supplier KPI #{id}"
+msgstr "လုပ်ငန်းရှင် kpi #{id}"
+
+#: src/views/suppliers/SupplierKPIModal.js
+#| msgid "Review"
+msgid "Overview:"
+msgstr "ခြုံငုံသုံးသပ်ချက်"
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Update Source:"
+msgstr "အပ်ဒိတ်လုပ်ထားသည့်မူရင်းနေရာ"
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Supplier:"
+msgstr "လုပ်ငန်းရှင်များ:"
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Laws Violated:"
+msgstr "ချိုးဖောက်ထားသောဥပဒေများ:"
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "# Workers Impacted:"
+msgstr "#ထိခိုက်ခံရသော အလုပ်သမားများ:"
+
+#: src/views/suppliers/SupplierKPIModal.js src/views/suppliers/SupplierModal.js
+msgid "Status:"
+msgstr "အခြေအနေများ:"
+
+#: src/views/suppliers/SupplierKPIModal.js
+#, fuzzy
+msgid "Days Active:"
+msgstr "ပွင့်နေသည့်ရက်"
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Open Since:"
+msgstr "ကတည်းကဖွင့်ထားသည်:"
+
+#: src/views/suppliers/SupplierKPIModal.js
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Updated:"
+msgstr "အပ်ဒိတ်လုပ်ထားပြီးပြီ:"
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Closed:"
+msgstr "မှာ ပိတ်ထားသည်:"
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Closed Quality:"
+msgstr "အမှုပိတ်သိမ်းခြင်း အရည်အသွေး:"
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Rationale:"
+msgstr "ကျိုးကြောင်းဆီလျော်မှု:"
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Remediation:"
+msgstr "ပြန်လည်ကုစားခြင်း:"
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Issara Recommendations:"
+msgstr "အစ်ဆာရာအကြံပြုချက်များ:"
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Progress on remediation:"
+msgstr "ပြန်လည်ကုစားပေးချင်းအပေါ်တိုးတက်မှုအခြေအနေ:"
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "How aligned are the business's responses:"
+msgstr "လုပ်ငန်းရှင် တုံ့ပြန်မှုများသည်ဘယ်လောက်ကိုက်ညီမှုရှိသလဲ:"
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Business Steps Taken:"
+msgstr "လုပ်ငန်းရှင်မှအရေးယူဆောင်ရွက်ခဲ့သောအဆင့်များ:"
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Business Steps Remaining:"
+msgstr "လုပ်ငန်းရှင်မှအရေးယူဆောင်ရွက်ရန်ကျန်နေသောအဆင့်များ:"
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Notes (Talking Points):"
+msgstr "မှတ်ချက်များ(ပြောဆိုရမည့်အချက်များ):"
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Action (Talking Points):"
+msgstr "အရေးယူလုပ်ဆောင်ခြင်း (ပြောဆိုရမည့်အချက်များ):"
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Validation (Talking Points):"
+msgstr "မှန်ကန်ကြောင်းအတည်ပြုခြင်း (ပြောဆိုရမည့်အချက်များ):"
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Results (Talking Points):"
+msgstr "ရလဒ်များ (ပြောဆိုရမည့်အချက်များ):"
+
+#: src/views/suppliers/SupplierKPIModal.js
+#| msgid "Payment Amount:"
+msgid "Payments:"
+msgstr "ငွေပေးချေမှုများ"
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Owed:"
+msgstr "ဆပ်ရန်ရှိသည်:"
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Paid:"
+msgstr "ပေးချေသည်:"
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Payment Deadline:"
+msgstr "ပေးချေရမည့်နောက်ဆုံးသတ်မှတ်ရက်:"
+
+#: src/views/suppliers/SupplierKPIModal.js
+#| msgid "Documents"
+msgid "Documents:"
+msgstr "စာရွက်စာတမ်းများ"
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Provided:"
+msgstr "ပေးသည်:"
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Documents Deadline:"
+msgstr "စာရွက်စာတမ်းပြုစုခြင်းအတွက်နောက်ဆုံးသတ်မှတ်ရက်:"
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "System Change Deadline:"
+msgstr "စနစ်များ ပြောင်းလဲခြင်းအတွက်နောက်ဆုံးသတ်မှတ်ရက်:"
+
+#: src/views/suppliers/SupplierKPIModal.js
+#| msgid "Next Steps:"
+msgid "Next Step :"
+msgstr "နောက်တစ်ဆင့်"
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Assign To :-"
+msgstr "တာဝန်ပေးထား"
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Deadline :-"
+msgstr "ပြီးစီးရမည့်နောက်ဆုံးရက် "
+
+#: src/views/suppliers/SupplierKPIModal.js
+#, fuzzy
+#| msgid "Description:"
+msgid "Description :-"
+msgstr "အကြောင်းအရာ"
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Closed At"
+msgstr "မှာ ပိတ်ထားသည်"
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Closure Date"
+msgstr "အမှုပိတ်သည့်နေ့စွဲ"
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Open days"
+msgstr "အမှုဖွင့်သည့်ရက်များ:"
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Quality of the closure"
+msgstr "အမှုပိတ်သိမ်းခြင်းအရည်အသွေး"
+
+#: src/views/suppliers/SupplierKPIsList.js src/views/suppliers/SupplierModal.js
+msgid "id"
+msgstr "id"
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Supplier Kpi ID"
+msgstr "လုပ်ငန်းရှင် KPI ID များ"
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "This is the parent Supplier KPI ID.  This is ID in the Supplkier KPI List table above"
+msgstr "ဤသည်မှာ ပင်ရင်းလုပ်ငန်းရှင် KPI ID ဖြစ်သည်။ ၎င်း ID သည် အထက်ဖော်ပြပါ Supplkier KPI စာရင်းဇယားရှိ ID ဖြစ်သည်။"
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Opened At"
+msgstr "မှာ ဖွင့်ထားသည်"
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "# Affected"
+msgstr "#ထိခိုက်ခံရသော အလုပ်သမားများ"
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Status"
+msgstr "အခြေအနေများ"
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Affected"
+msgstr "ထိခိုက်ခံရသော အလုပ်သမားများ "
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Updates"
+msgstr "အပ်ဒိတ်များ"
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Call #"
+msgstr "ဖုန်းခေါ်ဆိုမှု #"
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "days active"
+msgstr "ပွင့်နေသည့်ရက်"
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Calls"
+msgstr "ခေါ်ဆိုမှုများ"
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Call Id: {item}"
+msgstr "ဖုန်းခေါ်ဆိုမှု ID"
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Opened since:"
+msgstr "ကတည်းကဖွင့်ထားသည်:"
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Closed since:"
+msgstr "ကတည်းကပိတ်ထားသည်:"
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Affected workers:"
+msgstr "ထိခိုက်ခံရသော အလုပ်သမားများ:"
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Remediation Issues:"
+msgstr "ပြန်လည်ကုစားပေးချင်း ပြဿနာများ:"
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Remediation Action:"
+msgstr "ပြန်လည်ကုစားပေးချင်း လုပ်ဆောင်ချက်များ:"
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Remediation Validation:"
+msgstr "ပြန်လည်ကုစားပေးချင်း အတွက်မှန်ကန်ကြောင်းအတည်ပြုချက်များ:"
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Remediation Results:"
+msgstr "ပြန်လည်ကုစားခြင်းအတွက်ရလဒ်များ:"
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "less than 15 days"
+msgstr "15 ရက်ထက်အောက်"
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "16-30"
+msgstr "၁၆-၃၀"
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "31-45"
+msgstr "၃၁-၄၅"
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "46-60"
+msgstr "၄၆-၆၀"
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "61-90"
+msgstr "၆၁-၉၀"
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "90+"
+msgstr "၉၀+"
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Filter by Days Active"
+msgstr "ပွင့်နေသည့်ရက်အလိုက်စစ်ရန် "
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Active Days"
+msgstr "ပွင့်နေသည့်ရက်"
+
+#: src/views/suppliers/SupplierKPIsList.js
+#, fuzzy
+#| msgid "Supply Chains"
+msgid "Supply Chain"
+msgstr "ကုန်စည်စီးဆင်းမှုကွင်းဆက်များ မဟုတ်သော(Supply Chains)"
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Non-Supply Chain"
+msgstr "ကုန်စည်စီးဆင်းမှုကွင်းဆက်များ မဟုတ်သော(Supply Chains)"
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Supplier KPIs"
+msgstr "လုပ်ငန်းရှင်KPI များ"
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "You can enter a text or number thats used in the object.  Call IDs Also work. (You'll get the supplier KPIs that have that Call ID in the drop down panel or info view"
+msgstr "အကြောင်းအရာ နေရာတွင် အသုံးပြုသည့် စာသား သို့မဟုတ် နံပါတ်ကို သင်ရိုက်ထည့်နိုင်သည်။ ခေါ်ဆိုမှု IDs များလည်း အလုပ်လုပ်ပါသည်။ (Dropdown panel သို့မဟုတ် အချက်အလက်ကြည့်ရှုမှုတွင် အဆိုပါ Call ID ပါရှိသည့် လုပ်ငန်းရှင် KPIs ကို သင်ရရှိမည်ဖြစ်သည်။"
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Update selected KPIs"
+msgstr "ရွေးချယ်ထားသော KPIများကို အပ်ဒိတ်လုပ်မည်"
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Supplier KPI Updated History"
+msgstr "လုပ်ငန်းရှင် KPI အပ်ဒိတ်မှတ်တမ်း"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Supplier Updates"
+msgstr "ကုန်သွင်းလုပ်ငန်းရှင်အချက်အလက်များကို အပ်ဒိတ်လုပ်ထားသည်။"
+
+#: src/views/suppliers/SupplierList.js
+msgid "You have successfully updated suppliers anonymous flags"
+msgstr "သင်သည် ပေးသွင်းသူများ အမည်မသိ အလံများကို အောင်မြင်စွာ မွမ်းမံပြီးပါပြီ။"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Error Occured:"
+msgstr "အမှားတစ်စုံတစ်ရာဖြစ်သွားသည်"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Edit:"
+msgstr "တည်းဖြတ်/ပြုပြင်သည်:"
+
+#: src/views/suppliers/SupplierList.js
+#| msgid "Supplier name"
+msgid "Supplier Name"
+msgstr "လုပ်ငန်းရှင်အမည်"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Anonymous"
+msgstr "အမည်မဖော်လိုသော"
+
+#: src/views/suppliers/SupplierList.js
+msgid "website"
+msgstr "၀က်ဆိုက်"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Company Description"
+msgstr "ကုမ္ပဏီ အကြောင်းအရာ"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Created"
+msgstr "ဖန်တီးခဲ့သည်"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Address"
+msgstr "လိပ်စာ"
+
+#: src/views/suppliers/SupplierList.js
+#| msgid "Zipcode:"
+msgid "Zipcode"
+msgstr "Zipcode"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Industry"
+msgstr "လုပ်ငန်းနယ်ပယ်"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Sub Industry"
+msgstr "လုပ်ငန်းခွဲ(စက်မှုဇုံခွဲ)"
+
+#: src/views/suppliers/SupplierList.js
+#| msgid "contact_name"
+msgid "Contact Name"
+msgstr "အဆက်အသွယ်အမည်"
+
+#: src/views/suppliers/SupplierList.js
+#| msgid "contact_phone"
+msgid "Contact Phone"
+msgstr "အဆက်အသွယ်ဖုန်း"
+
+#: src/views/suppliers/SupplierList.js
+#| msgid "contact_email"
+msgid "Contact Email"
+msgstr "အီးမေးလ်လိပ်စာ"
+
+#: src/views/suppliers/SupplierList.js
+#| msgid "vessel_number:"
+msgid "Vessel Number"
+msgstr "ရေယာဉ် နံပါတ်"
+
+#: src/views/suppliers/SupplierList.js
+#, fuzzy
+#| msgid "Tier ID:"
+msgid "Tier ID"
+msgstr "Tier ID"
+
+#: src/views/suppliers/SupplierList.js
+#| msgid " Cambodian workers"
+msgid "Cambodian Workers"
+msgstr "ကမ္ဘောဒီးယားအလုပ်သမားများ"
+
+#: src/views/suppliers/SupplierList.js
+#| msgid " Lao workers"
+msgid "Lao Workers"
+msgstr "လာအိုအလုပ်သမားများ"
+
+#: src/views/suppliers/SupplierList.js
+#| msgid " Myanmar workers"
+msgid "Myanmar Workers"
+msgstr "မြန်မာအလုပ်သမားများ"
+
+#: src/views/suppliers/SupplierList.js
+#| msgid " Thai workers"
+msgid "Thai Workers"
+msgstr "ထိုင်းအလုပ်သမားများ"
+
+#: src/views/suppliers/SupplierList.js
+#| msgid " Vietanmese workers"
+msgid "Vietnamese Workers"
+msgstr "ဗီယက်နမ်အလုပ်သမားများ"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Total Workers"
+msgstr "စုစုပေါင်းအလုပ်သမားအရေအတွက်"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Supply Chains Name"
+msgstr "ကုန်စည်စီးဆင်းမှုကွင်းဆက်များ နာမည် (Supply Chains)"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Lat"
+msgstr "လတ္တီတွဒ်"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Lng"
+msgstr "လောင်ဂျီတွဒ်"
+
+#: src/views/suppliers/SupplierList.js
+msgid "supply chain data"
+msgstr "ကုန်ထုတ်လုပ်မှုကွင်းဆက်ရှိအချက်အလက်များ"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Search by Strategic Partners"
+msgstr "မဟာဗျူဟာမိတ်ဖက်(၀ယ်လက်)အမည်နှင့် ရှာဖွေမည်"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Search by worker Nationality"
+msgstr "အလုပ်သမား(နိုင်ငံသား)အလိုက်ရှာဖွေမည်"
+
+#: src/views/suppliers/SupplierList.js
+#| msgid "Search by Strategic Partners"
+msgid "Filter by Strategic Partners"
+msgstr "Filter by Strategic Partners"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Filter by Suppliers"
+msgstr "လုပ်ငန်းရှင်စာရင်းများအလိုက်ကြည့်မည်"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Worker Nationality"
+msgstr "အလုပ်သမား(နိုင်ငံသား)"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Download"
+msgstr "ဒေါင်းလုတ်ဆွဲမည်"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Disable"
+msgstr "မသုံးနိုင်ရန်ပိတ်မည်"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Enable"
+msgstr "သုံးနိုင်ရန်ဖွင့်မည်"
+
+#: src/views/suppliers/SupplierList.js
+msgid "cleaning mode"
+msgstr "ရှင်းနိုင်မည့်နည်းလမ်း"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Active Supply Chains"
+msgstr "တက်ကြွသော ကုန်စည်စီးဆင်းမှုကွင်းဆက်များ"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Thailand"
+msgstr "ထိုင်း"
+
+#: src/views/suppliers/SupplierList.js
+#| msgid "total_num_thai_workers:"
+msgid "total_num_thai_workers"
+msgstr "စုစုပေါင်း_နံပါတ်_ထိုင်း_အလုပ်သမားများ"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Cambodia"
+msgstr "ကမ္ဘောဒီးယား"
+
+#: src/views/suppliers/SupplierList.js
+#| msgid "total_num_cambodian_workers:"
+msgid "total_num_cambodian_workers"
+msgstr "စုစုပေါင်း_နံပါတ်_ကမ္ဘောဒီးယား_အလုပ်သမားများ"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Myanmar"
+msgstr "မြန်မာ"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Laos"
+msgstr "လာအို"
+
+#: src/views/suppliers/SupplierList.js
+#| msgid "total_num_lao_workers:"
+msgid "total_num_lao_workers"
+msgstr "စုစုပေါင်း_နံပါတ်_လားအို_အလုပ်သမားများ"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Vietnam"
+msgstr "ဗီယက်နမ်"
+
+#: src/views/suppliers/SupplierList.js
+#| msgid "total_num_vietnamese_workers:"
+msgid "total_num_vietnamese_workers"
+msgstr "စုစုပေါင်း_နံပါတ်_ဗီယက်နမ်_အလုပ်သမားများ"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Nepal"
+msgstr "နီပေါ"
+
+#: src/views/suppliers/SupplierList.js
+#| msgid "total_num_nepalese_workers:"
+msgid "total_num_nepalese_workers"
+msgstr "စုစုပေါင်း_နံပါတ်_နီပေါ_အလုပ်သမားများ"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Bangladesh"
+msgstr "ဘင်္ဂလားဒေ့"
+
+#: src/views/suppliers/SupplierList.js
+#| msgid "total_num_bangladeshi_workers:"
+msgid "total_num_bangladeshi_workers"
+msgstr "စုစုပေါင်း_နံပါတ်_ဘင်္ဂလားဒေ့ရှ်_အလုပ်သမားများ"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Indonesia"
+msgstr "အင်ဒိုနီးရှား"
+
+#: src/views/suppliers/SupplierList.js
+#| msgid "total_num_indonesian_workers:"
+msgid "total_num_indonesian_workers"
+msgstr "စုစုပေါင်း_နံပါတ်_အင်ဒိုနီးရှား_အလုပ်သမားများ"
+
+#: src/views/suppliers/SupplierList.js
+msgid "India"
+msgstr "အိန္ဒိယ"
+
+#: src/views/suppliers/SupplierList.js
+#| msgid "total_num_indian_workers:"
+msgid "total_num_indian_workers"
+msgstr "စုစုပေါင်း_နံပါတ်_အိန္ဒိယ_အလုပ်သမားများ"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Pakistan"
+msgstr "ပါကစ်စတန်"
+
+#: src/views/suppliers/SupplierList.js
+#| msgid "total_num_pakistani_workers:"
+msgid "total_num_pakistani_workers"
+msgstr "စုစုပေါင်း_နံပါတ်_ပါကစ်စတန်_အလုပ်သမားများ"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Sri Lanka"
+msgstr "သီရိလင်္ကာ"
+
+#: src/views/suppliers/SupplierList.js
+#| msgid "total_num_sri_lankan_workers:"
+msgid "total_num_sri_lankan_workers"
+msgstr "စုစုပေါင်း_နံပါတ်_သီရိလင်္ကာ_အလုပ်သမားများ"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Merge duplicates"
+msgstr "ထပ်နေသည့်အချက်အလက်များကိုပေါင်းမည်"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Flip Anonymous Flag"
+msgstr "Flip Anonymous Flag"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Following suppliers will be merged:"
+msgstr "အောက်ဖော်ပြပါလုပ်ငန်းရှင်များကိုပေါင်းမည်:"
+
+#: src/views/suppliers/SupplierList.js
+#| msgid "(*New Master*) "
+msgid "New Master"
+msgstr "New Master"
+
+#: src/views/suppliers/SupplierList.js
+#| msgid "Merge/Removal: "
+msgid "Merge/Removal"
+msgstr "ပေါင်းစပ်/ဖယ်ရှားခြင်း"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "website:"
+msgstr "website(ဝက်ဆိုက်):"
+
+#: src/views/suppliers/SupplierModal.js
+#, fuzzy
+#| msgid "Company Description:"
+msgid "Company Description:"
+msgstr "ကုမ္ပဏီ အကြောင်းအရာ"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Created:"
+msgstr "ဖန်တီးသည်:"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Address:"
+msgstr "လိပ်စာ:"
+
+#: src/views/suppliers/SupplierModal.js
+#| msgid "Zipcode:"
+msgid "Zipcode:"
+msgstr "Zipcode:"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Province:"
+msgstr "ပြည်နယ်:"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "District:"
+msgstr "ခရိုင်:"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Industry:"
+msgstr "လုပ်ငန်း(စက်မှုဇုံ):"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Sub Industry:"
+msgstr "လုပ်ငန်းခွဲ(စက်မှုဇုံခွဲ):"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Lng:"
+msgstr "Lng:"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Lat:"
+msgstr "Lat:"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Contact:"
+msgstr "ဆက်သွယ်ရန်နံပါတ်:"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "contact_name:"
+msgstr "ဆက်သွယ်ရန်_နံမည်:"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "contact_phone:"
+msgstr "ဆက်သွယ်ရန်_ဖုန်းနံပါတ်:"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "contact_email:"
+msgstr "ဆက်သွယ်ရန်_အီးမေလ်:"
+
+#: src/views/suppliers/SupplierModal.js
+#| msgid "vessel_number:"
+msgid "vessel_number:"
+msgstr "ရေယာဉ်_နံပါတ်"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Work Environment:"
+msgstr "အလုပ်ပတ်ဝန်းကျင်:"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "name_harvesting_business:"
+msgstr "နာမည်_လည်ပတ်နေသော_လုပ်ငန်းရှင်:"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "num_vessels_sourced_from:"
+msgstr "နံပါတ်_သင်္ဘော_အရင်းခံသည်_မှ (num_vessels_sourced_from):"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "total_num_workers:"
+msgstr "စုစုပေါင်း_နံပါတ်_အလုပ်သမားများ:"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "total_num_men_workers:"
+msgstr "စုစုပေါင်း_နံပါတ်_အမျိုးသား_အလုပ်သမားများ:"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "total_num_women_workers:"
+msgstr "စုစုပေါင်း_နံပါတ်_အမျိုးသမီး_အလုပ်သမားများ:"
+
+#: src/views/suppliers/SupplierModal.js
+#| msgid "total_num_thai_workers:"
+msgid "total_num_thai_workers:"
+msgstr "စုစုပေါင်း_နံပါတ်_ထိုင်း_အလုပ်သမားများ"
+
+#: src/views/suppliers/SupplierModal.js
+#| msgid "total_num_cambodian_workers:"
+msgid "total_num_cambodian_workers:"
+msgstr "စုစုပေါင်း_နံပါတ်_ကမ္ဘောဒီးယား_အလုပ်သမားများ"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "total_num_myanmar_workers:"
+msgstr "စုစုပေါင်း_နံပါတ်_မြန်မာ_အလုပ်သမားများ:"
+
+#: src/views/suppliers/SupplierModal.js
+#| msgid "total_num_lao_workers:"
+msgid "total_num_lao_workers:"
+msgstr "စုစုပေါင်း_နံပါတ်_လားအို_အလုပ်သမားများ"
+
+#: src/views/suppliers/SupplierModal.js
+#| msgid "total_num_vietnamese_workers:"
+msgid "total_num_vietnamese_workers:"
+msgstr "စုစုပေါင်း_နံပါတ်_ဗီယက်နမ်_အလုပ်သမားများ"
+
+#: src/views/suppliers/SupplierModal.js
+#| msgid "total_num_nepalese_workers:"
+msgid "total_num_nepalese_workers:"
+msgstr "စုစုပေါင်း_နံပါတ်_နီပေါ_အလုပ်သမားများ"
+
+#: src/views/suppliers/SupplierModal.js
+#| msgid "total_num_bangladeshi_workers:"
+msgid "total_num_bangladeshi_workers:"
+msgstr "စုစုပေါင်း_နံပါတ်_ဘင်္ဂလားဒေ့ရှ်_အလုပ်သမားများ"
+
+#: src/views/suppliers/SupplierModal.js
+#| msgid "total_num_indonesian_workers:"
+msgid "total_num_indonesian_workers:"
+msgstr "စုစုပေါင်း_နံပါတ်_အင်ဒိုနီးရှား_အလုပ်သမားများ"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "total_num_malaysian_workers:"
+msgstr "စုစုပေါင်း_နံပါတ်_မလေးရှား_အလုပ်သမားများ:"
+
+#: src/views/suppliers/SupplierModal.js
+#| msgid "total_num_indian_workers:"
+msgid "total_num_indian_workers:"
+msgstr "စုစုပေါင်း_နံပါတ်_အိန္ဒိယ_အလုပ်သမားများ"
+
+#: src/views/suppliers/SupplierModal.js
+#| msgid "total_num_pakistani_workers:"
+msgid "total_num_pakistani_workers:"
+msgstr "စုစုပေါင်း_နံပါတ်_ပါကစ်စတန်_အလုပ်သမားများ"
+
+#: src/views/suppliers/SupplierModal.js
+#| msgid "total_num_sri_lankan_workers:"
+msgid "total_num_sri_lankan_workers:"
+msgstr "စုစုပေါင်း_နံပါတ်_သီရိလင်္ကာ_အလုပ်သမားများ"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Informative:"
+msgstr "သတင်းအချက်အလက်ကျသော:"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "hiring_practice:"
+msgstr "ဝန်ထမ်းခန့်ထားရေး_အမူအကျင့်များ:"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Recruiter:"
+msgstr "အလုပ်ခန့်သည့်အေဂျင်စီများ:"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "recruiter:"
+msgstr "အလုပ်သမား စုဆောင်းသူ"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "other:"
+msgstr "အခြား:"
+
+#: src/views/suppliers/SupplierModal.js
+#, fuzzy
+#| msgid "Supply Chains"
+msgid "Supply Chains"
+msgstr "ကုန်စည်စီးဆင်းမှုကွင်းဆက်များ နာမည် (Supply Chains)"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "name"
+msgstr "နာမည်"
+
+#: src/views/suppliers/SupplierModal.js
+#| msgid "Add Report"
+msgid "Reports"
+msgstr "အစီရင်ခံစာများ"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "There is worker voice in this workplace"
+msgstr "ဤလုပ်ငန်းခွင်တွင် မှတ်တမ်းတင်ထားသော အလုပ်သမားဖုန်းခေါ်ဆိုထားမှုရှိသည်။"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "There is no worker voice in this workplace"
+msgstr "ဤလုပ်ငန်းခွင်တွင် မှတ်တမ်းတင်ထားသော အလုပ်သမားဖုန်းခေါ်ဆိုထားမှုမရှိပါ။"
+
+#: src/views/suppliers/SupplierModal.js
+#, fuzzy
+#| msgid "Worker Voice Calls"
+msgid "Worker Voice Rolled Out"
+msgstr "ဤလုပ်ငန်းခွင်တွင် အလုပ်သမားအသံကို နားထောင်ပေးသည့် စနစ်ရှိပါသလား။"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Engaged with supplier and worker voice rolled out"
+msgstr "ဤလုပ်ငန်းခွင်တွင် အလုပ်သမားအသံကို နားထောင်ပေးသည့် စနစ်ရှိပါသလား။"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Is NOT Engaged with supplier and worker voice NOT rolled out"
+msgstr "လုပ်ငန်းရှင်နှင့် ပူးပေါင်းမှု စတင်ခဲ့ပြီး အလုပ်သမား အသံချန်နယ်များကို မိတ်ဆက်ပြီးပြီလား?"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Google Maps:"
+msgstr "ဂူဂယ်မြေပုံများ:"
+
+#: src/views/suppliers/SupplierModal.js
+#, fuzzy
+#| msgid " total workers"
+msgid "total workers"
+msgstr "ထိတွေ့ဆက်သွယ်ခဲ့သော စုစုပေါင်းအလုပ်သမား လစဉ်_အရေအတွက်"
+
+#: src/views/suppliers/SupplierModal.js
+#| msgid " total men workers"
+msgid "total men workers"
+msgstr "အမျိုးသားအလုပ်သမား စုစုပေါင်း"
+
+#: src/views/suppliers/SupplierModal.js
+#| msgid " total women workers"
+msgid "total women workers"
+msgstr "အမျိုးသမီးအလုပ်သမား စုစုပေါင်း"
+
+#: src/views/suppliers/SupplierModal.js
+#| msgid " Thai workers"
+msgid "Thai workers"
+msgstr "ထိုင်းအလုပ်သမားများ"
+
+#: src/views/suppliers/SupplierModal.js
+#| msgid " Cambodian workers"
+msgid "Cambodian workers"
+msgstr "ကမ္ဘောဒီးယားအလုပ်သမားများ"
+
+#: src/views/suppliers/SupplierModal.js
+#| msgid " Myanmar workers"
+msgid "Myanmar workers"
+msgstr "မြန်မာအလုပ်သမားများ"
+
+#: src/views/suppliers/SupplierModal.js
+#| msgid " Lao workers"
+msgid "Lao workers"
+msgstr "လာအိုအလုပ်သမားများ"
+
+#: src/views/suppliers/SupplierModal.js
+#| msgid " Vietanmese workers"
+msgid "Vietanmese workers"
+msgstr "ဗီယက်နမ်အလုပ်သမားများ"
+
+#: src/views/suppliers/SupplierModal.js
+#| msgid "Total Nepalese Workers"
+msgid "Nepalese workers"
+msgstr "စုစုနီပေါအလုပ်သမားများ"
+
+#: src/views/suppliers/SupplierModal.js
+#| msgid "Total Bangladeshi Workers"
+msgid "Bangladeshi workers"
+msgstr "ဘင်္ဂလားဒေ့ရှ်အလုပ်သမားများ"
+
+#: src/views/suppliers/SupplierModal.js
+#| msgid " Indonesian workers"
+msgid "Indonesian workers"
+msgstr "အင်ဒိုနီးရှားအလုပ်သမားများ"
+
+#: src/views/suppliers/SupplierModal.js
+#| msgid " Malaysian workers"
+msgid "Malaysian workers"
+msgstr "မလေးရှားအလုပ်သမားများ"
+
+#: src/views/suppliers/SupplierModal.js
+#| msgid " Indian workers"
+msgid "Indian workers"
+msgstr "အိန္ဒိယအလုပ်သမားများ"
+
+#: src/views/suppliers/SupplierModal.js
+#| msgid " Pakistani workers"
+msgid "Pakistani workers"
+msgstr "ပါကစ်စတန်အလုပ်သမားများ"
+
+#: src/views/suppliers/SupplierModal.js
+#| msgid " Sri Lankan workers"
+msgid "Sri Lankan workers"
+msgstr "သီရိလင်္ကာအလုပ်သမားများ"
+
+#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
+msgid "Estimated number of workers reached"
+msgstr "ရောက်ရှိနိုင်မည့် ခန့်မှန်းခြေ အလုပ်သမားအရေအတွက် "
+
+#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
+msgid "Total"
+msgstr "စုစုပေါင်း"
+
+#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
+msgid "This value can not be greater than the total"
+msgstr "ဤတန်ဖိုးသည် စုစုပေါင်းတန်ဖိုးထက် မပိုနိုင်ပါ။"
+
+#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
+msgid "Cambodian"
+msgstr "ကမ္ဘောဒီးယား"
+
+#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
+msgid "Lao"
+msgstr "လာအို"
+
+#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
+msgid "Nepalese"
+msgstr "နီပေါလူမျိုး"
+
+#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
+msgid "Bangladeshi"
+msgstr "ဘင်္ဂလားဒေ့ရှ်လူမျိုး"
+
+#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
+msgid "Indonesian"
+msgstr "အင်ဒိုနီးရှားလူမျိုး"
+
+#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
+msgid "Malaysian"
+msgstr "မလေးရှားလူမျိုး"
+
+#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
+msgid "Indian"
+msgstr "အိန္ဒိယလူမျိုး"
+
+#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
+msgid "Total ({total_workers_reached})"
+msgstr "ထိတွေ့ဆက်သွယ်နိုင်သော စုစုပေါင်းအလုပ်သမား - ({total_workers_reached})"
+
+#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
+msgid "Sum of nationalities ({sum_of_nationalities})"
+msgstr "လူမျိုးစုပေါင်း"
+
+#: src/views/TeamActivity/FieldworkActivityForm.js
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+#: src/views/TeamActivity/WV_and_ER_metrix.js
+#: src/views/users/ChangePasswordForm.js
+msgid "Well done!"
+msgstr "အောင်မြင်သည်! "
+
+#: src/views/TeamActivity/FieldworkActivityForm.js
+msgid "New fieldwork activity has been successfully created"
+msgstr "ကွင်းဆင်းလုပ်ရှားမှုလုပ်ဆောင်ချက်များကို အောင်မြင်စွာ ဖန်တီးပြီးပါပြီ။"
+
+#: src/views/TeamActivity/FieldworkActivityForm.js
+msgid "Please contact a developer"
+msgstr "ကျေးဇူးပြု၍ ဆော့ဖ်ဝဲရေးသားသူထံ ဆက်သွယ်ပါ။"
+
+#: src/views/TeamActivity/FieldworkActivityForm.js
+msgid "Link"
+msgstr "လင့် (Link)"
+
+#: src/views/TeamActivity/FieldworkActivityForm.js
+msgid "Enter link here"
+msgstr "လင့်(link)ကိုဒီနေရာမှာထည့်ပါ။"
+
+#: src/views/TeamActivity/FieldworkActivityForm.js
+msgid "Add More Link"
+msgstr "လင့်ပိုထည့်ပါ။"
+
+#: src/views/TeamActivity/FieldworkActivityForm.js
+msgid "Date of fieldwork"
+msgstr "ကွင်းဆင်းလုပ်ငန်းစဥ်နေ့စွဲ"
+
+#: src/views/TeamActivity/FieldworkActivityForm.js
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Click here to open calendar"
+msgstr "ပြက္ခဒိန်ဖွင့်ရန် ဤနေရာကိုနှိပ်ပါ။"
+
+#: src/views/TeamActivity/FieldworkActivityForm.js
+msgid "Please choose the date"
+msgstr "နေ့စွဲထည့်ပါ။"
+
+#: src/views/TeamActivity/FieldworkActivityForm.js
+msgid "Please choose a fieldwork type"
+msgstr "ကွင်းဆင်းလုပ်ငန်းစဥ်အမျိုးအစား ကိုရွေးချယ်ပါ။"
+
+#: src/views/TeamActivity/FieldworkActivityForm.js
+msgid "Please fix the errors above"
+msgstr "အထက်ဖော်ပြပါ အမှားများကို ပြုပြင်ပါ။"
+
+#: src/views/TeamActivity/FieldworkActivityForm.js
+msgid "*Please Note: To Edit you must have 'Issara Management' Group added to your account and to add new Items you must have 'Activity User' Group added to your account ."
+msgstr "*ကျေးဇူးပြု၍ မှတ်ထားရန်:  တည်းဖြတ်/ပြင်ရန် သင့်အကောင့်တွင် 'Issara Management' Group (\"အစ်ဆာရာအုပ်ချုပ်ရေးပိုင်း\"အဖွဲ့) ပါရှိရမည်ဖြစ်ပြီး အချက်အလက်အသစ်များထည့်ရန်အတွက် သင့်အကောင့်တွင် 'Activity User' Group (လုပ်ဆောင်ချက်အသုံးပြုသူ\" အဖွဲံ) ထည့်ထားရပါမည်။"
+
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "New monthly worker voice record has been successfully created"
+msgstr "လစဉ် အလုပ်သမား အသံမှတ်တမ်းအသစ်ကို အောင်မြင်စွာ ဖန်တီးပြီးပါပြီ။"
+
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+#: src/views/TeamActivity/WV_and_ER_metrix.js
+msgid "Month Year"
+msgstr "လ နှစ်"
+
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Burmese Titok messages"
+msgstr "မြန်မာTitok messages"
+
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Bangladeshi Facebook messenger"
+msgstr "ဘင်္ဂလားဒေ့ရှ်  Facebook Messenger"
+
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Bangladeshi hotline"
+msgstr "ဘင်္ဂလားဒေ့ရှ်လူမျိုး hotline "
+
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Bangladeshi Whatsapp"
+msgstr "ဘင်္ဂလားဒေ့ရှ်လူမျို၀ပ်(စ)အပ် WhatsApp "
+
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Khmer Telegram"
+msgstr "ကမ္ဘောဒီးယား Telegram "
+
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Thai Facebook Messenger"
+msgstr "ထိုင်း ဖေ့ဘုတ် မက်ဆန်ဂျာ"
+
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Indonesian WhatsApp in Malaysia"
+msgstr "မလေးရှား က အင်ဒိုနီးရှားဝါ့စ်အပ်(WhatsApp) စုစုပေါင်း"
+
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Indonesian hotline in Malaysia"
+msgstr "မလေးရှား က အင်ဒိုနီးရှားဟော့လိုင်းစုစုပေါင်း"
+
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Nepalese WhatsApp"
+msgstr " နီပေါ(WhatsApp)စုစုပေါင်း"
+
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+#, fuzzy
+#| msgid "Nepal Hotline Total"
+msgid "Nepalese hotline"
+msgstr "နီပေါ hotline စုစုပေါင်း"
+
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Nepalese Facebook Messenger"
+msgstr "နီပေါဖေ့ဘုတ် မက်ဆန်ဂျာ"
+
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Burmese WhatsApp in Malaysia"
+msgstr "မြန်မာပြည်မှ မြန်မာဝါ့စ်အပ်(WhatsApp)"
+
+#: src/views/TeamActivity/WV_and_ER_metrix.js
+msgid "record has been successfully created"
+msgstr "မှတ်တမ်းကိုအောင်မြင်စွာဖန်တီးပြီးပါပြီ။"
+
+#: src/views/TeamActivity/WV_and_ER_metrix.js
+msgid "Click here to open calendar *"
+msgstr "ပြက္ခဒိန်ဖွင့်ရန် ဤနေရာကိုနှိပ်ပါ။*"
+
+#: src/views/TeamActivity/WV_and_ER_metrix.js
+msgid "Date field is required"
+msgstr "နေ့စွဲထည့်ရန်နေရာလိုအပ်ပါသည်"
+
+#: src/views/TeamActivity/WV_and_ER_metrix.js
+msgid "No. of Workers Connected To Workers Voice Channels"
+msgstr "အစ်ဆာရာအလုပ်သမား အသံချန်နယ်များနှင့် ထိတွေ့ဆက်သွယ်နိုင်သော အလုပ်သမားအရေအတွက်"
+
+#: src/views/TeamActivity/WV_and_ER_metrix.js
+msgid "No. of Workers Receiving Remedition"
+msgstr "ကုစားမှု(ပြဿနာဖြေရှင်းပေးထားမှု) ကိုရရှိသောအလုပ်သမားများအရေအတွက်"
+
+#: src/views/TeamActivity/WV_and_ER_metrix.js
+#| msgid " No. of Workers Reached In Pre-Departure ne"
+msgid "No. of Workers Reached In Pre-Departure NE"
+msgstr "ပြည်ပမထွက်ခွာခင်အကြိုသင်တန်းမှာချိတ်ဆက်မိသောအလုပ်သမားများအရေအတွက် (နီပေါ)"
+
+#: src/views/TeamActivity/WV_and_ER_metrix.js
+msgid "No. of Workers Reached In Pre-Departure MM"
+msgstr "ပြည်ပမထွက်ခွာခင်အကြိုသင်တန်းမှာချိတ်ဆက်မိသောအလုပ်သမားများအရေအတွက် (မြန်မာ)"
+
+#: src/views/TeamActivity/WV_and_ER_metrix.js
+msgid "No. of Recruitment Agencies Trained"
+msgstr "သင်တန်းပေးပြီးထားသောအေဂျင်စီများအရေအတွက်"
+
+#: src/views/TeamActivity/WV_and_ER_metrix.js
+msgid "No. of Suppliers Trained"
+msgstr "သင်တန်းပေးပြီးထားသောလုပ်ငန်းရှင်များအရေအတွက်"
+
+#: src/views/TeamActivity/WV_and_ER_metrix.js
+#| msgid "No. of Trained Worker Leaders/Ambassadors"
+msgid "No. of Trained Worker Leaders/Mobilizers"
+msgstr "အလုပ်သမားခေါင်းဆောင်အရေအတွက် "
+
+#: src/views/teamtasks/EnhancedTeamTasksList.js
+msgid "Show finished"
+msgstr "ပြီးဆုံးကြောင်းပြမည်"
+
+#: src/views/teamtasks/EnhancedTeamTasksList.js
+msgid "Source ID"
+msgstr "မူရင်း ID"
+
+#: src/views/teamtasks/EnhancedTeamTasksList.js
+msgid "Source Type"
+msgstr "မူရင်းအမျိုးအစား"
+
+#: src/views/teamtasks/EnhancedTeamTasksList.js
+msgid "Assigned by"
+msgstr "တာ၀န်ပေးထားသူ"
+
+#: src/views/teamtasks/EnhancedTeamTasksList.js
+msgid "Assigned to"
+msgstr "တာ၀န်ပေးထားခြင်းခံရသူ"
+
+#: src/views/users/ChangePasswordForm.js
+msgid "Password has been successfully changed."
+msgstr "လျှို့၀ှက်ကုတ်ကို အောင်မြင်စွာ ပြောင်းလဲပြီးပါပြီ။   "
+
+#: src/views/users/ChangePasswordForm.js
+msgid "Old Password"
+msgstr "စကားဝှက်အဟောင်း"
+
+#: src/views/users/ChangePasswordForm.js
+msgid "lock_outline"
+msgstr "(လော့_အောက်လိုင်း) lock_outline"
+
+#: src/views/users/ChangePasswordForm.js
+msgid "New Password"
+msgstr "စကားဝှက် (Password) အသစ်"
+
+#: src/views/users/ChangePasswordForm.js
+msgid "Re-Enter Password to Verify"
+msgstr "အတည်ပြုရန် လျှို့ဝှက်ကုတ်ကို ပြန်ထည့်ပါ။  "
+
+#: src/views/users/ChangePasswordForm.js
+msgid "Update"
+msgstr "အပ်ဒိတ်လုပ်မည်"
+
+#: src/views/users/ForgotPasswordView.js
+msgid "Reset your password"
+msgstr "လျှို့၀ှက်ကုတ်အသစ်ပြောင်းမည်။ "
+
+#: src/views/users/ForgotPasswordView.js
+msgid "Email"
+msgstr "အီးမေးလ်"
+
+#: src/views/users/ForgotPasswordView.js
+msgid "The input is not valid Email"
+msgstr "လက်ရှိထည့်ထားသော အချက်အလက်အရ မှန်ကန်သော အီးမေးလ် မဟုတ်ပါ။ "
+
+#: src/views/users/ForgotPasswordView.js
+msgid "Please input your Email"
+msgstr "ကျေးဇူးပြု၍ သင့်အီးမေးလ်ကို ထည့်သွင်းပါ။"
+
+#: src/views/users/ForgotPasswordView.js
+msgid "Send reset link"
+msgstr "ပြန်လည်သတ်မှတ်ရန်လင့်ခ်ကို ပေးပို့ပါ။"
+
+#: src/views/users/ForgotPasswordView.js
+msgid "We will send password reset link to this email address, please change your password within 24 hours."
+msgstr "ကျွန်ုပ်တို့အနေဖြင့် ဤအီးမေးလ်လိပ်စာသို့ လျှို့၀ှက်ကုတ်ပြန်လည်သတ်မှတ်ရန်လင့်ခ်ကို ပေးပို့မည်ဖြစ်ပြီး၊ ကျေးဇူးပြု၍ 24 နာရီအတွင်း သင့်လျှိ့၀ှက်ကုတ်ကို ပြောင်းလဲပါ။ "
+
+#~ msgid "Supplier KPIs timeline chart"
+#~ msgstr "လုပ်ငန်းရှင် KPIs အချိန်ဇယား"
+
+#~ msgid "Please choose a supplier"
+#~ msgstr "လုပ်ငန်းရှင်နာမည်ရွေးပါ"
+
+#~ msgid "This supplier doesn't have any KPI History for the chosen period of time and category "
+#~ msgstr "ရွေးချယ်ထားသောအချိန်ကာလအတွင်း ဤလုပ်ငန်းရှင်နှင့်ဆိုင်သည့်အချက်အလက်များမှတ်တမ်းတင်ထားတာမရှိပါ။ "
+
+#~ msgid "Loading Chart"
+#~ msgstr "ဇယားအချက်အလက်များရယူနေသည်"
+
+#~ msgid "Case Status"
+#~ msgstr "အမှုအခြေအနေ"
+
+#~ msgid "Not sure; forgot to ask and need to check back to confirm"
+#~ msgstr "မသေချာဘူး။ဖုန်းခေါ်ဆိုသူနှင့်ပြန်အတည်ပြုရန်လိုပါသည်"
+
+#~ msgid "Client Information Consent"
+#~ msgstr "ဖုန်းခေါ်ဆိုသူအချက်အလက်များတင်ပြလိုခြင်းရှိ/မရှိသ‌ဘောတူညီချက်"
+
+#~ msgid "Type of Client Information Consent"
+#~ msgstr "ဖုန်းခေါ်ဆိုသူအချက်အလက်များတင်ပြလိုခြင်းရှိ/မရှိသ‌ဘောတူညီချက်အမျိုးအစား"
+
+#~ msgid "Fetching primary focuses.."
+#~ msgstr "မူရင်းအချက်အလက်များကို ရယူနေပါသည်...…."
+
+#~ msgid "Fetching users.."
+#~ msgstr "အချက်အလက်များကို ရယူနေပါသည်"
+
+#~ msgid "Referral Action Consent"
+#~ msgstr "အမှုလွဲပြောင်းခြင်းသဘောတူညီချက်ရယူခြင်း"
+
+#~ msgid "Referral Consent Action"
+#~ msgstr "အမှုလွဲပြောင်းခြင်းသဘောတူညီချက်ရယူခြင်း"
+
+#~ msgid "Referral Option"
+#~ msgstr "အမှုလွဲပြောင်းခြင်းနည်းလမ်းများ"
+
+#~ msgid "Response Interaction Types"
+#~ msgstr "တုန့်ပြန်သည့်နည်းလမ်းများ"
+
+#~ msgid "Shared Files"
+#~ msgstr "တင်ပြထားသောစာရွက်စာတမ်း(ဖိုင်)"
+
+#~ msgid "Fetching strategic partners.."
+#~ msgstr "၀ယ်လက်အချက်အလက်များကို ရယူနေပါသည် "
+
+#~ msgid "Sub-industry"
+#~ msgstr "လုပ်ငန်းခွဲ"
+
+#~ msgid "Status of progress on this KPI"
+#~ msgstr "ဒီအမှုKPI၏တိုးတက်မှုအခြေအနေများ"
+
+#~ msgid "Fetching Supply Chains.."
+#~ msgstr "ကုန်ထုတ်လုပ်မှုကွင်းဆက် အချက်အလက်များကို ရယူနေပါသည် "
+
+#~ msgid "No Supply Chain Selected"
+#~ msgstr "ရွေးချယ်ထားသောလုပ်ငန်းရှင်နာမည်မရှိပါ"
+
+#~ msgid "Select All"
+#~ msgstr "အားလုံးကိုရွေးချယ်မည်"
+
+#~ msgid "Un-select All"
+#~ msgstr "‌ရွေးချယ်မှုအားလုံးကိုပြန်ဖြုတ်မည်"
+
+#~ msgid "Select Suppliers by Country"
+#~ msgstr "လုပ်ငန်းရှင်များကိုနိုင်ငံအလိုက်ရွေးမည်"
+
+#~ msgid "Select Suppliers by Status"
+#~ msgstr "လုပ်ငန်းရှင်များအားလုံးကိုအခြေအနေအလိုက်ရွေးမည်"
+
+#~ msgid "No Suppliers Exist Under these Search Parameters"
+#~ msgstr "မိမိရွေးချယ်ထားသောအချက်အလက်အတိုင်း လုပ်ငန်းရှင်နာမည်မရှိပါ"
+
+#~ msgid "Close Checkbox Panel"
+#~ msgstr "ချက်ဘောက်ပန်နယ် ကိုပိတ်မည်"
+
+#~ msgid "ILM_2"
+#~ msgstr "ILM_2"
+
+#~ msgid "Supplier Overview"
+#~ msgstr "လုပ်ငန်းရှင်ခြုံငုံလေ့လာခြင်း"
+
+#~ msgid "Progress Dashboard"
+#~ msgstr "တိုးတက်မှုအခြေအနေပြဒက်ရှ်ဘုတ်"
+
+#~ msgid "Worker Reported Issues"
+#~ msgstr "ပြဿနာတင်ပြထားသောအလုပ်သမားများ"
+
+#~ msgid "Search Results (Found: "
+#~ msgstr "ရှာဖွေမှုရလဒ် (တွေ့ရှိချက်များ:)  "
+
+#~ msgid "Required:"
+#~ msgstr "လိုအပ်သည့်နေရာ:"
+
+#~ msgid "Ethnicity:"
+#~ msgstr "လူမျိုး:"
+
+#~ msgid "Case/Call Type:"
+#~ msgstr "အမှုတွဲ/ဖုန်းခေါ်ဆိုမှုအမျိုးအစား  "
+
+#~ msgid "Client Type:"
+#~ msgstr "ခေါ်ဆိုဆက်သွယ်လာသူအမျိုးအစား  "
+
+#~ msgid "Client Status:"
+#~ msgstr "ခေါ်ဆိုဆက်သွယ်လာသူအခြေအနေ:"
+
+#~ msgid "Call Info:"
+#~ msgstr "ဖုန်းခေါ်ဆိုမှုအချက်အလက်:"
+
+#~ msgid "Issara Staff:"
+#~ msgstr "အစ်ဆာရာ၀န်ထမ်း:"
+
+#~ msgid "Client Info:"
+#~ msgstr "ခေါ်ဆိုသူအချက်အလက်:"
+
+#~ msgid "Phone Number:"
+#~ msgstr "ဖုန်းနံပါတ်:"
+
+#~ msgid "Gender:"
+#~ msgstr "ကျား/မ:"
+
+#~ msgid "Staff Notes/Description:"
+#~ msgstr "၀န်ထမ်းမှတ်စု/အကြောင်းအရာ   "
+
+#~ msgid "Contract Type:"
+#~ msgstr "စာချုပ်အမျိုးအစား:"
+
+#~ msgid "Document Type:"
+#~ msgstr "စာရွက်စာတမ်းအမျိုးအစား:"
+
+#~ msgid "Source Recruiter:"
+#~ msgstr "မူရင်းနိုင်ငံအေဂျင်စီ:"
+
+#~ msgid "Destination Recruiter:"
+#~ msgstr "ဆိုက်ရောက်နိုင်ငံအေဂျင်စီ:"
+
+#~ msgid "Source Broker Rating:"
+#~ msgstr "မူရင်းနိုင်ငံအကျိုးဆောင်ပွဲစားအမှတ်ပေးခြင်း:"
+
+#~ msgid "Source Recruiter Rating:"
+#~ msgstr "မူရင်းနိုင်ငံအေဂျင်စီအမှတ်ပေးခြင်း:"
+
+#~ msgid "Destination Broker Rating:"
+#~ msgstr "ဆိုက်ရောနိုင်ငံအကျိုးဆောင်ပွဲစားအမှတ်ပေးခြင်း:"
+
+#~ msgid "Destination Employer Rating:"
+#~ msgstr "ဆိုက်ရောက်နိုင်ငံအလုပ်ရှင် အမှတ်ပေးခြင်း:"
+
+#~ msgid "Referral Action:"
+#~ msgstr "အမှုလွဲပြောင်းခြင်းလုပ်ဆောင်ချက်:"
+
+#~ msgid "Final Remarks:"
+#~ msgstr "နောက်ဆုံးမှတ်ချက်:"
+
+#~ msgid "Risk Assessment:"
+#~ msgstr "အန္တရာယ်ကျရောက်နိုင်ချေရှိ/မရှိသုံးသပ်ခြင်း:"
+
+#~ msgid "Issue Category:"
+#~ msgstr "ပြဿနာအမျိုးအစားများ:"
+
+#~ msgid "The client said that he has problems with getting cancellation letter."
+#~ msgstr "ခေါ်ဆိုလာသူတင်ပြချက်အရအလုပ်ပယ်ဖျက်စာ(ဘိုင်ကျန့်အော်)ရယူဖို့ အခက်အခဲရှိပါသည်။ "
+
+#~ msgid "Sandar Linn"
+#~ msgstr "စန္ဒာလင်း"
+
+#~ msgid "The client would like to follow-up."
+#~ msgstr "ခေါ်ဆိုလာသူနောက်ထပ်စုံစမ်းချင်သည်။ "
+
+#~ msgid "Brendan"
+#~ msgstr "ဘရန်ဒန်(ကိုဇာနည်)"
+
+#~ msgid "Business responded that they can't issue cancellation letter at this time."
+#~ msgstr "အလုပ်ရှင်မှအလုပ်ပယ်ဖျက်စာ(ဘိုင်ကျန့်အော်)ထုတ်ပေးလို့မရကြောင်းအကြောင်းပြန်သည်။ "
+
+#~ msgid "Kotchakorn Klachingchai"
+#~ msgstr "ကော်ချာကွန်း/ခွန်ပစ်(ထိုင်း၀န်ထမ်း)"
+
+#~ msgid "The client reported that he has decided to return home since he could not get the job with the provided cancellation letter."
+#~ msgstr "ခေါ်ဆိုလာသူမှအလုပ်ရှင်ထုတ်ပေးသည့်အလုပ်ပယ်ဖျက်စာ(ဘိုင်ကျန့်အော်)နှင့်အလုပ်ပြောင်းလို့မရပါသဖြင့်အိမ်ပြန်ဖို့ဆုံးဖြတ်ထားတဲ့အကြောင်းတင်ပြသည်။ "
+
+#~ msgid "Jonah Htet"
+#~ msgstr "ကိုတာတီး"
+
+#~ msgid "Used Space"
+#~ msgstr "အသုံးပြုထားသောနေရာ"
+
+#~ msgid "49/50"
+#~ msgstr "၉၆/၅၀"
+
+#~ msgid "GB"
+#~ msgstr "GB"
+
+#~ msgid "Get more space"
+#~ msgstr "နောက်ထပ်နေရာထပ်ယူမည်"
+
+#~ msgid "Revenue"
+#~ msgstr "၀င်ငွေ"
+
+#~ msgid "$34,245"
+#~ msgstr "$34,245"
+
+#~ msgid "Last 24 Hours"
+#~ msgstr "လွန်ခဲ့သည့်၂၄နာရီအတွင်း"
+
+#~ msgid "Fixed Issues"
+#~ msgstr "ဖြေရှင်းခဲ့သောပြဿနာများ"
+
+#~ msgid "Tracked from Github"
+#~ msgstr "Tracked from Github"
+
+#~ msgid "Followers"
+#~ msgstr "ဖော်လို၀ါ"
+
+#~ msgid "+245"
+#~ msgstr "+245"
+
+#~ msgid "Just Updated"
+#~ msgstr "အပ်ဒိတ်ပြီးပါ"
+
+#~ msgid "Global Sales by Top Locations"
+#~ msgstr "အထင်ကရနေရာများမှကမ္ဘာလုံးဆိုင်ရာရောင်း၀ယ်ခြင်း"
+
+#~ msgid "Daily Sales"
+#~ msgstr "နေ့စဥ်အရောင်း"
+
+#~ msgid "55%"
+#~ msgstr "55%"
+
+#~ msgid "increase in today sales."
+#~ msgstr "increase in today sales."
+
+#~ msgid "updated 4 minutes ago"
+#~ msgstr "လွန်ခဲ့သည့်၄မိနစ်ခန့်မှအပ်ဒိတ်လုပ်ထားပါသည်။ "
+
+#~ msgid "Email Subscriptions"
+#~ msgstr "စာရင်းသွင်းထားသည့်အီးမေးလ်"
+
+#~ msgid "Last Campaign Performance"
+#~ msgstr "နောက်ဆုံးကမ်ပိန်းလုပ်ဆောင်ချက်"
+
+#~ msgid "campaign sent 2 days ago"
+#~ msgstr "ကမ်ပိန်း(အသိပညာပေးပွဲ)အကြာင်းကိုပြီးခဲ့တဲ့၂ရက်က ပို့ပေးပြီးပြီ။ "
+
+#~ msgid "Completed Tasks"
+#~ msgstr "လုပ်ဆောင်ပြီးစီးခဲ့သောတာ၀န်များ"
+
+#~ msgid "Manage Listings"
+#~ msgstr "စာရင်းပြုစုသည်"
+
+#~ msgid "View: "
+#~ msgstr "ကြည့်မည်: "
+
+#~ msgid "Grievance Mechanisms Review"
+#~ msgstr "ပြဿနာဖြေရှင်းမှုယန္တရားပြန်လည်သုံးသပ်ခြင်း"
+
+#~ msgid "Date of Review"
+#~ msgstr "ပြန်လည်သုံးသပ်သည့်နေ့စွဲ"
+
+#~ msgid "Assessment"
+#~ msgstr "သုံးသပ်ခြင်း"
+
+#~ msgid "Workers Reached In Pre-Departure ne"
+#~ msgstr "ပြည်ပမထွက်ခင်အကြိုသင်တန်းမှာချိတ်ဆက်မိနေသောအလုပ်သမားများ(နီပေါ)"
+
+#~ msgid "Search Results(Found: "
+#~ msgstr "ရှာဖွေမှုရလဒ်များ(တွေ့ရှိချက်: "
+
+#~ msgid "Search Results (Found:"
+#~ msgstr "ရှာဖွေတွေ့ရှိမှုရလဒ်(တွေ့ရှိချက်:"
+
+#~ msgid "N/A"
+#~ msgstr "N/A"
+
+#~ msgid "Worker Voice Metrics"
+#~ msgstr "အလုပ်သမားအသံအခြေအနေပြဇယား"
+
+#~ msgid "Total Interactions"
+#~ msgstr "အပြန်အလှန်ဆက်သွယ်ကြိမ်စုစုပေါင်း"
+
+#~ msgid "CRC Average Scores"
+#~ msgstr "CRC ပျမ်းမျှအမှတ်"
+
+#~ msgid "Quality"
+#~ msgstr "အရည်အသွေး"
+
+#~ msgid "Timeliness"
+#~ msgstr "အချိန်မီ(မြန်ဆန်မှု)"
+
+#~ msgid "Average"
+#~ msgstr "ပျမ်းမျှ"
+
+#~ msgid "Minimum"
+#~ msgstr "အနည်းဆုံး"
+
+#~ msgid "Maximum"
+#~ msgstr "အများဆုံး"
+
+#~ msgid "KPI Open Reported Violations"
+#~ msgstr "မရှင်းရသေးသောအလုပ်သမားပြဿနာချိုးဖောက်မှုများ"
+
+#~ msgid "Open Since"
+#~ msgstr "ကတည်းကအမှုဖွင့်ထားသည်"
+
+#~ msgid "Response History"
+#~ msgstr "တုံ့ပြန်ထားသည့်မှတ်တမ်း"
+
+#~ msgid "Open Supplier KPIs Listed By Referenced Recruiters"
+#~ msgstr "အေဂျင်စီကနေရရှိသောအမှုဖွင့်ထားသည့်လုပ်ငန်းရှင်များ၏ပြဿနာစာရင်းများ"
+
+#~ msgid "Recruiter"
+#~ msgstr "အေဂျင်စီများ"
+
+#~ msgid "Role"
+#~ msgstr "အခန်းကဏ္ဍ"
+
+#~ msgid "Opened"
+#~ msgstr "ပွင့်နေသည်"
+
+#~ msgid "Updated"
+#~ msgstr "အပ်ဒိတ်လုပ်ထားပြီးသော"
+
+#~ msgid "Closed Supplier KPIs Listed By Referenced Recruiters"
+#~ msgstr "အေဂျင်စီကနေရရှိသောအမှုပိတ်ထားသည့်လုပ်ငန်းရှင်များ၏ပြဿနာစာရင်းများ"
+
+#~ msgid "Kpi Id"
+#~ msgstr "Kpi Id"
+
+#~ msgid "Closed"
+#~ msgstr "ပိတ်ထားသော"
+
+#~ msgid "Talking Points"
+#~ msgstr "ဆွေးနွေးရန်အချက်များ"
+
+#~ msgid "Rationale"
+#~ msgstr "ဆင်ခြင်သုံးသပ်ခြင်း"
+
+#~ msgid "Strategic Partner"
+#~ msgstr "ပူးပေါင်းချိတ်ဆက်ထားသော၀ယ်လက်များ"
+
+#~ msgid "Priority Workplan Activities"
+#~ msgstr "ဦးစားပေးလုပ်ငန်းအစီအစဥ်များ"
+
+#~ msgid "Not Started"
+#~ msgstr "မစတင်ရသေးသော"
+
+#~ msgid "In Progress"
+#~ msgstr "ဖြစ်စဥ်အတွင်း"
+
+#~ msgid "Complete"
+#~ msgstr "ပြီးစီးသွားသော"
+
+#~ msgid "Activities not created for this Workplan"
+#~ msgstr "ဤလုပ်ငန်းအစီအစဥ်နှင့်ပတ်သည့်လုပ်ဆောင်ချက်မရှိသေးပါ"
+
+#~ msgid "Strategic Partner has no Workplan"
+#~ msgstr "ပူးပေါင်းချိတ်ဆက်ထားသော၀ယ်လက်လုပ်ငန်းစဥ်အစီအစဥ်များမရှိပါ"
+
+#~ msgid "Poor"
+#~ msgstr "ညံ့"
+
+#~ msgid "Fair"
+#~ msgstr "အတော်အသင့်"
+
+#~ msgid "Good"
+#~ msgstr "ကောင်း"
+
+#~ msgid "Excellent"
+#~ msgstr "အကောင်းဆုံး"
+
+#~ msgid "Workplan Reviews"
+#~ msgstr "လုပ်ငန်းအစီအစဥ်များသုံးသပ်လေ့လာခြင်း"
+
+#~ msgid "Introduction"
+#~ msgstr "အစပျိုးခြင်း"
+
+#~ msgid "Name of the focal point:"
+#~ msgstr "တာ၀န်ခံအမည်:"
+
+#~ msgid "Created at:"
+#~ msgstr "ဖန်းတီးသည်:"
+
+#~ msgid "Suggested date for mid-year check-in:"
+#~ msgstr "နှစ်လည်စစ်ဆေးရန်အကြံပြုရက်:"
+
+#~ msgid "Please check that all foundational documents and materials that have been shared with Issara. If not, you can upload them here:"
+#~ msgstr "Issara နှင့်မျှဝေထားသော အခြေခံစာရွက်စာတမ်းများနှင့် ပစ္စည်းများအားလုံးကို စစ်ဆေးပါ။ မရှိပါကဤနေရာတွင် အပ်လုဒ်လုပ်နိုင်ပါသည်။ "
+
+#~ msgid "File url:"
+#~ msgstr "ဖိုင် url:"
+
+#~ msgid "Main Goals and Priority Partnership Areas"
+#~ msgstr "အဓိကရည်မှန်းချက်နှင့်ပထမဦးစားပေးမိတ်ဖက်နယ်မြေများ"
+
+#~ msgid "What are the company's main goals in responsible sourcing and ethical recruitment over the next 3 years?"
+#~ msgstr "လာမည့် 3 နှစ်တာကာလအတွင်း တာဝန်ယူမှုရှိသော အရင်းအမြစ်များ နှင့် ကျင့်ဝတ်နှင့်ညီသောလုပ်သားစုဆောင်းမှုစနစ်တွင် ကုမ္ပဏီ၏ အဓိကပန်းတိုင်များကာဘာလဲ?"
+
+#~ msgid "What are the company's main priority areas of partnership with Issara Institute?"
+#~ msgstr "အစ်ဆာရာ နှင့် ပူးပေါင်းဆောင်ရွက်သည့် ကုမ္ပဏီ၏ အဓိက ဦးစားပေးကဏ္ဍများက ဘာလဲ?"
+
+#~ msgid "How will worker voice via Issara Inclusive Labour Monitoring (ILM) be actioned and escalated in the company?"
+#~ msgstr "အစ်ဆာရာ၏ အကျုံး၀င်လုပ်သားစောင့်ကြည့်လေ့လာရေး (ILM) မှတစ်ဆင့် အလုပ်သမားများ၏ အသံကို ကုမ္ပဏီတွင် မည်သို့ အရေးယူဆောင်ရွက်မည်နည်း?"
+
+#~ msgid "Progress Indicators"
+#~ msgstr "တိုးတက်မှုအခြေအနေပြညွှန်းကိန်းများ"
+
+#~ msgid "AREA 1. WORKER VOICE: ANNUAL TARGETS"
+#~ msgstr "နယ်ပယ် ၁. အလုပ်သမားအသံ: နှစ်စဥ်သတ်မှတ်ချက်/ပစ်မှတ်များ"
+
+#~ msgid "AREA 2. LABOUR RECRUITMENT: ANNUAL TARGETS"
+#~ msgstr "နယ်ပယ် ၂. လုပ်သားစုဆောင်းခန့်ထားရေး: နှစ်စဥ်သတ်မှတ်ချက်/ပစ်မှတ်များ"
+
+#~ msgid "WV INDICATOR - Ethical recruitment policy in force is (tick all that are within your goal for this year) :"
+#~ msgstr "အလုပ်သမားအသံတိုင်းတာချက်များ - လက်ရှိကျင့်သုံးနေသော ကျင့်ဝတ်နှင့်ညီသောလုပ်သား စုဆောင်းရေးမူဝါဒ  (ယခုနှစ်အတွက် သင့်ရည်မှန်းချက်နှင့်ကိုက်ညီသော အချက်အားလုံးကို အမှတ်ခြစ်ပါ)။ :"
+
+#~ msgid "ER INDICATOR 2."
+#~ msgstr "ER တိုင်းတာချက် ၂."
+
+#~ msgid "Number of recruitment agencies mapped"
+#~ msgstr "စာရင်းပြုစုထားသောအေဂျင်စီအရေအတွက်"
+
+#~ msgid "Number of suppliers collaborating with Issara"
+#~ msgstr " အစ်ဆာရာနှင့်အတူပူး‌ပေါင်းလုပ်ဆောင်နေသောလုပ်ငန်းရှင်များအရေအတွက် "
+
+#~ msgid "Number of suppliers utilizing GD Marketplace"
+#~ msgstr "ရွှေအိပ်မက်အလုပ်ရှာဖွေရာကိုအသုံးပြုနေသောလုပ်ငန်းရှင်များ"
+
+#~ msgid "AREA 3. WORKING CONDITIONS: ANNUAL TARGETS"
+#~ msgstr "ဧရိယာ ၃. လုပ်ငန်းအခြေအနေများ:  နှစ်စဉ်သစ်မှတ်ချက်/ပစ်မှတ်များ"
+
+#~ msgid "WV INDICATOR - Ethical sourcing and migrant worker policies put into force that are ( tick all that are within yourgoal for this year ) :"
+#~ msgstr "အလုပ်သမားအသံလမ်းကြောင်း တိုင်းတာချက် - လက်ရှိကျင့်သုံးနေသော ကျင့်၀တ်နှင့်ညီသော အရင်းအမြစ်ရှာဖွေခြင်းနှင့် ရွှေ့ပြောင်းအလုပ်သမားမူဝါဒမျာ  (ယခုနှစ်အတွက် သင့်ရည်မှန်းချက်နှင့်ကိုက်ညီသော အချက်အားလုံးကို အမှတ်ခြစ်ပါ)။ :"
+
+#~ msgid "Quality of response"
+#~ msgstr "တုန့်ပြန်မှုအရည်အသွေး"
+
+#~ msgid "Timeliness of response"
+#~ msgstr "အချိန်မီတုန့်ပြန်နိုင်မှုရှိ/မရှိ"
+
+#~ msgid "Openness to reform"
+#~ msgstr "ပြုပြင်ပြောင်းလဲရန် ပွင့်လင်းမှု  "
+
+#~ msgid "Notes and remark"
+#~ msgstr "မှတ်စုနှင့်မှတ်ချက်များ"
+
+#~ msgid "The priority activities for your company that you indicate here will appear on your SP Progress Dashboard."
+#~ msgstr "ဤနေရာတွင် သင်ညွှန်ပြသော သင့်ကုမ္ပဏီအတွက် ဦးစားပေးလုပ်ငန်းစဥ်များသည် သင်၏ SP Progress Dashboard (၀ယ်လက်အခြေအနေတိုးတက်မှုပြဇယား) တွင် ပေါ်လာမည်ဖြစ်သည်။ "
+
+#~ msgid "AREA 2. LABOUR RECRUITMENT"
+#~ msgstr "ဧရိယာ ၂. အလုပ်သမားစုဆောင်းခန့်ထားခြင်း"
+
+#~ msgid "AREA 3. WORKING CONDITIONS"
+#~ msgstr "ဧရိယာ ၂. လုပ်ငန်းခွင်အခြေအနေ"
+
+#~ msgid "Notes and remarks"
+#~ msgstr "မှတ်စုနှင့်မှတ်ချက်များ"
+
+#~ msgid "In line with international standards and definitions"
+#~ msgstr "နိုင်ငံတကာစံချိန်စံညွှန်းနှင့်သတ်မှတ်ချက်မျာနှင့်အညီ ကိုက်ညီမှုရှိခြင်း"
+
+#~ msgid "Clearly communicated to suppliers, including effective date"
+#~ msgstr "ထိရောက်သည့်ရက်စွဲအပါအဝင် လုပ်ငန်းရှင်များအား ရှင်းလင်းစွာ အကြောင်းကြားခြင်း"
+
+#~ msgid "Integrated into commercial processes"
+#~ msgstr "စီးပွားဖြစ် လုပ်ငန်းစဉ်များအဖြစ်သို့ပေါင်းစည်းထားသော"
+
+#~ msgid "Clearly communicated to suppliers"
+#~ msgstr "လုပ်ငန်းရှင်များကို ရှင်းလင်းစွာအကြောင်းကြားထားသည်"
+
+#~ msgid "Workplan Progress Dashboard"
+#~ msgstr "လုပ်ငန်းအစီအစဉ် တိုးတက်မှု အခြအေနေပြ ဇယား(ဒက်ရှ်ဘုတ်)"
+
+#~ msgid "AREA 1. WORKER VOICE"
+#~ msgstr "ဧရိယာ ၁. အလုပ်သမားအသံ"
+
+#~ msgid "WORK INDICATOR 1. Percentage of tier-1 suppliers (export level) in supply chain with worker voice"
+#~ msgstr "အလုပ်ညွှန်းကိန်း ၁. အလုပ်သမားအသံဖြင့် ကမ္ဘာ့ကုန်စည်စီးဆင်းမှုကွင်းဆက်ရှိ အဆင့်-၁ လုပ်ငန်းရှင်များ (ပို့ကုန်အဆင့်) ရာခိုင်နှုန်း"
+
+#~ msgid "WORK INDICATOR 2. Percentage of upstream suppliers in supply chain with worker voice"
+#~ msgstr "အလုပ်ညွှန်းကိန်း ၂. အလုပ်သမားအသံဖြင့် ကမ္ဘာ့ကုန်စည်စီးဆင်းမှုကွင်းဆက်ရှိ ပင်ရင်းလုပ်ငန်းရှင်များ  ရာခိုင်နှုန်း"
+
+#~ msgid "ER INDICATOR 1. Ethical recruitment policy in force is:"
+#~ msgstr "ER ညွှန်းကိန်း၂ ၂. လက်ရှိကျင့်သုံးနေသောကျင့်၀တ်နှင့်ညီသော ၀န်ထမ်းစုဆောင်းမှုစနစ်မှာ:"
+
+#~ msgid "Wait..."
+#~ msgstr "ခေတ္တစောင့်ဆိုင်းပါ......"
+
+#~ msgid "Indicator 2A: Number of recruitment agencies mapped across supplier base."
+#~ msgstr "ညွှန်းကိန်း 2A- လုပ်ငန်းရှင်ကိုအခြေခံပြီး တွင် စားရင်းပြုစုထားသော အေဂျင်စီအရေအတွက် "
+
+#~ msgid "Indicator 2B: Number of suppliers collaborating with Issara and their recruitment agencies on pre-departure orientations and strengthened recruitment practices"
+#~ msgstr "ညွှန်းကိန်း 2B- ပြည်ပမထွက်ခွာခင် လုပ်ငန်းခွင်ဆိုင်ရာအကြိုသင်တန်းပေးခြင်းများနှင့် ဝန်ထမ်းရွေးချယ်ခန့်ထားရေး နည်းစနစ်များအားဖြည့်ပံ့ပိုးခြင်းများလုပ်ဆောင်ရာတွင် အစ်ဆာရာနှင့်ပူးပေါင်းလုပ်ဆောင်လျက်ရှိသော လုပ်ငန်းရှင်များနှင့် ၎င်းတို့၏အေဂျင်စီများ အရေအတွက်"
+
+#~ msgid "number of collaborating suppliers with Issara"
+#~ msgstr "အစ်ဆာရာနှင့်ပူးပေါင်းလုပ်ဆောင်နေသောလုပ်ငန်းရှင်များ"
+
+#~ msgid "Indicator 2C: Number of suppliers utilizing Golden Dreams Marketplace to reduce risk of worker indebtedness and workers paying fees to brokers and middlemen "
+#~ msgstr "ညွှန်းကိန်း 2C- အလုပ်သမားများအနေဖြင့် ပွဲစားများနှင့် ကြားခံလူများကို အခကြေးငွေပေးဆောင်ရခြင်းနှင့် အလုပ်သမားကြွေးမြီဖြစ်နိုင်ခြေကို လျှော့ချရန်အတွက် \"ရွှေအိပ်မက် အလုပ်ရှာဖွေရာနေရာ\" ကို အသုံးပြုသည့် လုပ်ငန်းရှင် အရေအတွက် "
+
+#~ msgid "ER INDICATOR 3. Number of suppliers that have undertaken recruitment surveys to assess recruitment process-related risks, and recruitment-related fees paid by workers"
+#~ msgstr "ER ညွှန်းကိန်း ၃. လုပ်သားစုဆောင်းမှုကုန်ကျစရိတ်များပေးခဲ့ရေသော အလုပ်သမားများ နှင့် လုပ်သားစုဆောင်းမှုဆိုင်ရာ အန္တရာယ်များကို အကဲဖြတ်ရန်  စစ်တမ်းများ ကောက်ယူဆောင်ရွက်ခဲ့သည့် လုပ်ငန်းရှင်များ အရေအတွက်  "
+
+#~ msgid "ER INDICATOR 4. Percentage of workers in supply chain reimbursed for recruitment-related fees they have paid"
+#~ msgstr "ER ညွှန်းကိန်း ၄. ကုန်ထုတ်လုပ်မှု ကွင်းဆက်ရှိ အလုပ်သမားများ၏ ၎င်းတို့ပေးဆောင်ထားသော လုပ်သားစုဆောင်းရေးဆိုင်ရာ အခကြေးငွေများအတွက် ပြန်လည်ပေးချေနိုင်ခဲ့သည့်ရာခိုင်နှုန်း"
+
+#~ msgid "workers in supply chain"
+#~ msgstr "ကုန်ထုတ်လုပ်မှုကွင်းဆက်ရှိအလုပ်သမားများ"
+
+#~ msgid "WORK INDICATOR 1. Ethical sourcing and migrant worker policies put into force that are: "
+#~ msgstr "အလုပ်ညွှန်းကိန်း ၁. လက်ရှိကျင့်သုံးနေေသာ ကျင့်ဝတ်နှင့်ညီသော အရင်းအမြစ်များ နှင့် ရွှေ့ပြောင်းအလုပ်သမားဆိုင်ရာ မူဝါဒများ: "
+
+#~ msgid "WORK INDICATOR 2. Average supplier performance scores:"
+#~ msgstr "အလုပ်ညွှန်းကိန်း ၂. လုပ်ငန်းရှင်စွမ်းဆောင်ရည်ရမှတ်များ:"
+
+#~ msgid "Quality of Response"
+#~ msgstr "တုန့်ပြန်မှုအရည်အသွေး"
+
+#~ msgid "Quality of Response actual"
+#~ msgstr "အမှန်တကယ်တုန့်ပြန်မှုအရည်အသွေး  "
+
+#~ msgid "Actual"
+#~ msgstr "အမှန်တကယ်"
+
+#~ msgid "Timeliness of Response"
+#~ msgstr "အချိန်မီတုန့်ပြန်နိုင်မှုရှိ/မရှိ"
+
+#~ msgid "Timeliness of Response actual"
+#~ msgstr "အမှန်တကယ်အချိန်မီတုန့်ပြန်နိုင်မှုရှိ/မရှိ"
+
+#~ msgid "Openness to Reform"
+#~ msgstr "ပြုပြင်ပြောင်းလဲရန် ပွင့်လင်းမှု"
+
+#~ msgid "Openness to Reform actual"
+#~ msgstr "အမှန်တကယ်ပြုပြင်ပြောင်းလဲရန် ပွင့်လင်းမှု"
+
+#~ msgid "WORK INDICATOR 3. Percentage of worker-reported issues in the supply chain resolved in under 60 days"
+#~ msgstr "အလုပ်ညွှန်းကိန်း ၃. ကုန်စည်ထုတ်လုပ်မှုကွင်းဆက်ရှိ အလုပ်သမားမှ တင်ပြထားသော ပြဿနာများအား  ရက် 60 အတွင်း ဖြေရှင်းပေးနိုင်ခဲ့သည့်ရာခိုင်နှုန်း"
+
+#~ msgid "WORK INDICATOR 4. Percentage of remediation efforts of specific issues resolved at a Fair, Good or Excellent level"
+#~ msgstr "အလုပ်ညွှန်းကိန်း ၄.\"အတော်အသင့်\"၊ \"ကောင်းသော\" သို့မဟုတ် \"အလွန်ကောင်းသော\" အဆင့်တွင် ဖြေရှင်းနိုင်ခဲ့သည့် သီးသန့်ပြဿနာများအတွက် ပြန်လည်ကုစားရေးကြိုးပမ်းမှု ရာခိုင်နှုန်း"
+
+#~ msgid "REMEDIATION"
+#~ msgstr "ပြန်လည်ကုစားပေးချင်း(ပြဿနာဖြေရှင်းပေးမှု)"
+
+#~ msgid "OUTCOMES"
+#~ msgstr "ရလဒ်များ"
+
+#~ msgid "PROGRESS ON PRIORITY WORKPLAN ACTIVITIES"
+#~ msgstr "ဦးစားပေးလုပ်ငန်းအစီအစဉ်တွင် တိုးတက်မှု"
+
+#~ msgid "Priority Activities Not Found"
+#~ msgstr "ဦးစားပေးလုပ်ငန်းစဥ်များရှာမတွေ့ပါ။ "
+
+#~ msgid "Red = not started"
+#~ msgstr "အနီရောင် = မစရသေးပါ။ "
+
+#~ msgid "Yellow = in progress"
+#~ msgstr "အ၀ါရောင် = လုပ်ဆောင်နေဆဲ"
+
+#~ msgid "Green = complete"
+#~ msgstr "အစိမ်းရောင် = ပြီးစီးသွားသော"
+
+#~ msgid "AREA"
+#~ msgstr "နယ်ပယ်"
+
+#~ msgid "ACTIVITY"
+#~ msgstr "လုပ်ဆောင်ချက်"
+
+#~ msgid "STATUS"
+#~ msgstr "အခြေအနေ"
+
+#~ msgid "Workplan not found!"
+#~ msgstr "လုပ်ငန်းအစီအစဉ် မတွေ့ပါ။ "
+
+#~ msgid "Are you sure?"
+#~ msgstr "သေချာပါသလား?"
+
+#~ msgid "Once deleted, you will not be able to recover this file!"
+#~ msgstr "ဒီဖိုင်ကိုဖျက်ပြီးရင်ပြန်ရှာလို့ရနိုင်မည်မဟုတ်ပါ။ "
+
+#~ msgid "Document removed successfully!"
+#~ msgstr "စာရွက်စာတမ်းကို အောင်မြင်စွာ ဖယ်ရှားလိုက်ပါပြီ။ "
+
+#~ msgid "Changes has not been saved."
+#~ msgstr "အပြောင်းအလဲများကို မသိမ်းဆည်းရသေးပါ။ "
+
+#~ msgid "Do not show this again."
+#~ msgstr "နောက်တစ်ခါမပြလိုပါ။ "
+
+#~ msgid "1 of 5. Intro"
+#~ msgstr "၁/၅. နိဒါန်း"
+
+#~ msgid "This annual workplanning form aims to help your company identify and maintain focus on key business priorities with regard to ethical sourcing and ethical recruitment across your supply chain. The target progress indicators that you indicate here will display on your SP Progress Metrics Dashboard. At any time, you can visit the SP Progress Metrics to see your progress to date against each target as well as update this Workplanning Form if priorities change."
+#~ msgstr "ဤနှစ်စဉ်လုပ်ငန်းနှစ်စဉ်လုပ်ငန်းစီမံချက်ပုံစံ(ဖောင်)သည် သင့်ကုမ္ပဏီအား ကျင့်ဝတ်ဆိုင်ရာ အရင်းအမြစ်ရှာဖွေခြင်းနှင့် ကုန်ထုတ်လုပ်မှုကွင်းဆက်တစ်လျှောက်ရှိ ကျင့်ဝတ်နှင့်ညီသော လုပ်သားစုဆောင်းခြင်းဆိုင်ရာ အဓိကစီးပွားရေး ဦးစားပေးများကို ဖော်ထုတ်ထိန်းသိမ်းရန် ကူညီပေးရန် ရည်ရွယ်ပါသည်။ ဤနေရာတွင် သင်ညွှန်ပြသော ပစ်မှတ်တိုးတက်မှု ညွှန်းကိန်းများသည် သင်၏ SP Progress Metrics Dashboard တွင် ပြသမည်ဖြစ်သည်။ ပစ်မှတ်တစ်ခုစီနှင့် ပတ်သက်သည့် သင်၏တိုးတက်မှုကို ယနေ့အထိကြည့်ရှုနိုင်သည့်အပြင် ဦးစားပေးများပြောင်းလဲပါက ဤလုပ်ငန်းအစီအစဉ်ပုံစံကို အပ်ဒိတ်လုပ်ရန် အချိန်မရွေး သင်၏ SP Progress Metrics သို့ သွားရောက်နိုင်ပါသည်။   "
+
+#~ msgid "The SP Workplanning has 4 sections: 1. Intro, 2. Main Goals and Priority Partnership Areas, 3. Progress Indicators, and 4. Priority Workplan Activities."
+#~ msgstr "SP ( ၀ယ်လက်) လုပ်ငန်းစဥ်စီမံချက်မှာ အပိုင်း ၄ ပိုင်းပါရှိပါသည်။ ၁. နိဒါန်း၊ ၂. ပင်မပန်းတိုင်များနှင့် ဦးစားပေး မိတ်ဖက်ကဏ္ဍများ၊ တိုးတက်မှု အညွှန်းကိန်းများ နှင့် ၄. ဦးစားပေး လုပ်ငန်းအစီအစဉ် လှုပ်ရှားမှုများ "
+
+#~ msgid "Please enter FP name"
+#~ msgstr "ကျေးဇူးပြုပြီးSP (ဝယ်လက်)နာမည်ကိုထည့်ပါ။"
+
+#~ msgid "Suggested date for mid-year check-in"
+#~ msgstr "နှစ်လယ်ပိုင်း စစ်ဆေးမှုအတွက် အကြံပြုထားသော ရက်စွဲ "
+
+#~ msgid "Please check that all foundational documents and materials that have been shared with Issara. If not, you can upload them here ."
+#~ msgstr "Issara နှင့်မျှဝေထားသော အခြေခံစာရွက်စာတမ်းများနှင့် ပစ္စည်းများအားလုံးကို စစ်ဆေးပါ။ မရှိပါက ဤနေရာတွင် အပ်လုဒ်လုပ်နိုင်ပါသည်။"
+
+#~ msgid "Updated supply chain information"
+#~ msgstr "ကုန်ထုတ်လုပ်မှုကွင်းဆက်အချက်အလက်ကို အပ်ဒိတ်လုပ်ထားသည်။"
+
+#~ msgid "Helpful information to include:"
+#~ msgstr "အထောက်အကူဖြစ်စေသောအချက်အလက်များထည့်ရန်: "
+
+#~ msgid "Supplier address"
+#~ msgstr "ကုန်သွင်းလုပ်ငန်းရှင်လိပ်စာ"
+
+#~ msgid "Product sourced"
+#~ msgstr "ကုန်ထုတ်လုပ်မှုအရင်းအမြစ်"
+
+#~ msgid "Supplier key focal point name, title, and contact information"
+#~ msgstr "လုပ်ငန်းရှင် အဓိက တာ၀န်ခံနာမည်၊ ရာထူးနှင့် ဆက်သွယ်ရန် အချက်အလက်"
+
+#~ msgid "Length of sourcing relationship"
+#~ msgstr "အရင်းအမြစ်ဆက်သွယ်ချက်ကာလ"
+
+#~ msgid "Number and breakdown of workers by nationality and gender"
+#~ msgstr "နိုင်ငံသားနှင့် ကျား-မ အလိုက် အလုပ်သမားအရေအတွက်နှင့် ခွဲခြမ်းစိတ်ဖြာခြင်း။"
+
+#~ msgid "Company policy: human rights"
+#~ msgstr "ကုမ္ပဏီမူဝါဒ- လူ့အခွင့်အရေး"
+
+#~ msgid "Company policy: migrant worker"
+#~ msgstr "ကုမ္ပဏီမူဝါဒ-ရွှေ့ပြောင်းအလုပ်သမား"
+
+#~ msgid "Company policy: ethical recruitment"
+#~ msgstr "ကုမ္ပဏီမူဝါဒ- ကျင့်ဝတ်နှင့်ညီသောလုပ်သားစုဆောင်းမှုစနစ်"
+
+#~ msgid "Escalation protocol for worker-reported issues and worker voice"
+#~ msgstr "အလုပ်သမားတင်ပြသည့် ပြဿနာများနှင့် အလုပ်သမားအသံအတွက် တင်ပြနည်း (စနစ်) ပရိုတိုကော"
+
+#~ msgid "Other key policy or background documents"
+#~ msgstr "အခြားသော အဓိကမူဝါဒ သို့မဟုတ် နောက်ခံစာရွက်စာတမ်းများ"
+
+#~ msgid "2 of 5. Main Goals and Priority Partnership Areas"
+#~ msgstr "၂/၅. အဓိကရည်မှန်းချက်နှင့်ပထမဦးစားပေးမိတ်ဖက်နယ်မြေများ"
+
+#~ msgid "What are your company's main goals in responsible sourcing and ethical recruitment over the next 3 years?"
+#~ msgstr "လာမည့် 3 နှစ်တာကာလအတွင်း တာဝန်ယူမှုရှိသော အရင်းအမြစ်များနှင့် ကျင့်ဝတ်ဆိုင်ရာ လုပ်သားစုဆောင်းမှုတွင် သင့်ကုမ္ပဏီ၏ အဓိကပန်းတိုင်များကား အဘယ်နည်း။"
+
+#~ msgid "What are your company's main priority areas of partnership with Issara Institute?"
+#~ msgstr "Issara Institute နှင့် ပူးပေါင်းဆောင်ရွက်သည့် သင့်ကုမ္ပဏီ၏ အဓိကဦးစားပေးကဏ္ဍများကား ဘာလဲ?"
+
+#~ msgid "How will worker voice via Issara Inclusive Labour Monitoring (ILM) be actioned and escalated in the company? "
+#~ msgstr "အစ်ဆာရာအလုပ်သမားအသံစောင့်ကြည့်ရေးစနစ် (ILM) မှတစ်ဆင့် အလုပ်သမားများ၏ အသံကို ကုမ္ပဏီတွင် မည်သို့ အရေးယူဆောင်ရွက်မည်နည်း?"
+
+#~ msgid "3 of 5. Progress Indicators"
+#~ msgstr "၃/၅. တိုးတက်မှု ညွှန်းကိန်းများ"
+
+#~ msgid "The target progress indicators for your company that you indicate here will display on your SP Progress Metrics Dashboard. At any time, you can visit the SP Progress Dashboard to see your targets as well as the progress made to date against each one. "
+#~ msgstr "ဤနေရာတွင် သင်ညွှန်ပြသော သင့်ကုမ္ပဏီအတွက် ပစ်မှတ်တိုးတက်မှု အညွှန်းများသည် သင်၏ SP Progress Metrics Dashboard တွင် ပြသမည်ဖြစ်သည်။ အချိန်မရွေး SP Progress Dashboard သို့ သင့်ပစ်မှတ်များအပြင် တစ်ခုချင်းစီနှင့် ယနေ့အထိ လုပ်ဆောင်ခဲ့သော တိုးတက်မှုများကို ကြည့်ရှုနိုင်သည်။"
+
+#~ msgid "If additional details need to be provided, please use the note box at bottom."
+#~ msgstr "နောက်ထပ်အသေးစိတ်အချက်များ ထပ်ထည့်ရန် လိုအပ်ပါက အောက်မှာ ပေးထားတဲ့ မှတ်စုအကွက်မှာ ရေးထည့်ပါ။"
+
+#~ msgid "WV INDICATOR 1.  Percentage of tier-1 suppliers (export level) in your supply chain with Issara worker voice channels available to workers"
+#~ msgstr "အလုပ်သမားအသံ ညွှန်းကိန်း ၁. Issara အလုပ်သမားအသံလမ်းကြောင်းကိုကျင့်သုံးနေေသော ကုန်ထုတ်လုပ်မှုကွင်းဆက်ရှိ (ပို့ကုန်အဆင့်) (အဆင့် 1) လုပ်ငန်းရှင်များရာခိုင်နှုန်း"
+
+#~ msgid "WV INDICATOR 2. Percentage of upstream (tier-2 and beyond) suppliers in your supply chain with Issara worker voice channels available to workers, based on supply chain infromation provided"
+#~ msgstr "အလုပ်သမားအသံ ညွှန်းကိန်း ၂. Issara အလုပ်သမားအသံလမ်းကြောင်းကိုကျင့်သုံးနေေသော ကုန်ထုတ်လုပ်မှုကွင်းဆက်ရှိ (အဆင့် - ၂ နှင့်အထက်) ကုန်းကြမ်းထုတ်လုပ်သည့်အဆင့်ရှိလုပ်ငန်းရှင်များရာခိုင်နှုန်း"
+
+#~ msgid "ER INDICATOR 1. Ethical recruitment policy in force is (tick all that are within your goal for this year):"
+#~ msgstr "ER ညွှန်းကိန်း ၁. လက်ရှိကျင့်သုံးနေေသာ ကျင့်၀တ်နှင့်ဆိုင်သော မူ၀ါဒများ (ယခုနှစ်အတွက် သင့်ပန်းတိုင်အတွင်းရှိ အားလုံးကို အမှတ်ခြစ်ပါ)။"
+
+#~ msgid "Integrated into commercial processes (supplier scorecards, contracts, etc.)"
+#~ msgstr "ကုန်သွယ်မှု လုပ်ငန်းစဉ်များတွင် ပေါင်းစပ်ထားသည့် (ပေးသွင်းသူ အမှတ်စာရင်းများ၊ စာချုပ်များ စသည်ဖြင့်)"
+
+#~ msgid "Indicator 2A: Number of recruitment agencies mapped across supplier base. "
+#~ msgstr "ညွှန်းကိန်း 2A- လုပ်ငန်းရှင်များ၏အချက်အလက်ကို အခြေခံပြီး တွင် ပုံဖော်ထားသော အလုပ်သမားစုဆောင်းရေးအေဂျင်စီအရေအတွက်။"
+
+#~ msgid "Indicator 2C: Number of suppliers utilizing Golden Dreams Marketplace to reduce risk of worker indebtedness and workers paying fees to brokers and middlemen"
+#~ msgstr "ညွှန်းကိန်း 2C- ညွှန်းကိန်း 2C- အလုပ်သမားများအနေဖြင့် ပွဲစားများနှင့် ကြားခံလူများကို အခကြေးငွေပေးဆောင်ရခြင်းနှင့် အလုပ်သမားကြွေးမြီဖြစ်နိုင်ခြေကို လျှော့ချရန်အတွက် \"ရွှေအိပ်မက် အလုပ်ရှာဖွေရာနေရာ\" ကို အသုံးပြုသည့် လုပ်ငန်းရှင် အရေအတွက် "
+
+#~ msgid "ER INDICATOR 3. Number of suppliers that have undertaken recruitment surveys by Issara to assess recruitment process-related risks, and  recruitment-related fees paid by workers"
+#~ msgstr "ER ညွှန်းကိန်း 3. လုပ်သားခေါ်ယူမှု လုပ်ငန်းစဉ်ဆိုင်ရာ အန္တရာယ်များနှင့် အလုပ်ရှာဖွေရေးဆိုင်ရာကုန်ကျစရိတ်များကိုပေးရသောအလုပ်သမားကို အကဲဖြတ်ရန်အစ်ဆာရာ၏လုပ်သားစုဆောင်းရေးဆိုင်ရာစစ်တမ်းကို လုပ်ဆောင်ပြီးသောလုပ်ငန်းရှင်အရေအတွက်များ"
+
+#~ msgid "ER INDICATOR 4. Percentage of workers in supply chain reimbursed for recruitment-related fees owed"
+#~ msgstr "ER ညွှန်းကိန်း 4. အလုပ်ရှာဖွေမှုဆိုင်ရာကုန်ကျစရိတ်များပေး ကို ပြန်လည်ရယူပေးခဲ့သော ကုန်ထုတ်လုပ်မှုကွင်းဆက်ရှိ အလုပ်သမားများ၏ ရာခိုင်နှုန်း"
+
+#~ msgid "WORK INDICATOR 1. Ethical sourcing and migrant worker policies put into force (tick all that are within your goal for this year).:"
+#~ msgstr "အလုပ်ညွှန်းကိန်း 1. ကျင့်ဝတ်ဆိုင်ရာ အရင်းအမြစ်ရှာဖွေခြင်းနှင့် လက်ရှိကျင့်သုံးနေသော ရွှေ့ပြောင်းအလုပ်သမားမူဝါဒများ (ယခုနှစ်အတွက် သင့်ရည်မှန်းချက်မှာပါသည့် အချက်တိုင်းကို အမှတ်ခြစ်ပါ)။-"
+
+#~ msgid "WORK INDICATOR 2. Average supplier performance scores (scale of 1-5, where 1 is poor and 5 is excellent):"
+#~ msgstr "အလုပ်ညွှန်းကိန်း 2. လုပ်ငန်းရှင်၏ ပျမ်းမျှစွမ်းဆောင်ရည်ရမှတ်များ ( စကေး 1-5 အထိ၊ 1 သည် ညံ့ဖျင်းပြီး 5 သည် အကောင်းဆုံးဖြစ်သည့်)"
+
+#~ msgid "• Quality of remediation "
+#~ msgstr "• ပြန်လည်ကုစားခြင်း(ပြဿနာဖြေရှင်းပေးမှု) အရည်အသွေး"
+
+#~ msgid "• Timeliness of remediation "
+#~ msgstr "• ပြန်လည်ကုစားခြင်း(ပြဿနာဖြေရှင်းပေးမှု) မြန်ဆန်မှု"
+
+#~ msgid "• Openness to reform "
+#~ msgstr "• ပြုပြင်ပြောင်းလဲရန်ဆန္ဒရှိမှု"
+
+#~ msgid "NOTES & REMARKS ON THE PROGRESS INDICATORS FOR THE ANNUAL WORKPLAN "
+#~ msgstr "နှစ်စဉ်လုပ်ငန်းစီမံချက်အတွက် တိုးတက်မှုအညွှန်းကိန်းများဆိုင်ရာ မှတ်စုများနှင့် မှတ်ချက်များ"
+
+#~ msgid "Please feel free to add any note in this space, either for yourself or to note for the Issara team."
+#~ msgstr "သင့်အတွက်ဖြစ်စေ Issara အဖွဲ့အတွက်ဖြစ်စေ မှတ်သားရန် ဤနေရာ၌ မည်သည့်မှတ်စုကိုမဆို ထည့်သွင်းပါ။"
+
+#~ msgid "4 of 5. Priority Workplan Activities (please check all that apply)"
+#~ msgstr "၄/၅. ဦးစားပေး လုပ်ငန်းအစီအစဉ် လုပ်ဆောင်ချက်များ (သက်ဆိုင်သမျှကို စစ်ဆေးပါ)"
+
+#~ msgid "The priority activities for your company that you indicate here will appear on your SP Progress Dashboard. "
+#~ msgstr "ဤနေရာတွင် သင်ညွှန်ပြသော သင့်ကုမ္ပဏီအတွက် ဦးစားပေးလုပ်ဆောင်မှုများသည် သင်၏ SP Progress Dashboard တွင် ပေါ်လာမည်ဖြစ်သည်။"
+
+#~ msgid "If additional details need to be provided, please use the note box at bottom. "
+#~ msgstr "နောက်ထပ်အသေးစိတ်အချက်များ ထည့်ဖြည့်ရန်လိုအပ်ပါက အောက်က မှတ်စုအကွက်မှာ ထည့်ပေးပါ။"
+
+#~ msgid "Foundational activities"
+#~ msgstr "အဖွဲ့အစည်းလှုပ်ရှားမှုများ"
+
+#~ msgid "Supply chain activities"
+#~ msgstr "ကုန်ထုတ်လုပ်မှုကွင်းဆက်ရှိလှုပ်ရှားမှုများ"
+
+#~ msgid "4 of 5. Priority Workplan Activities"
+#~ msgstr "၄/၅. ဦးစားပေးလုပ်ငန်းစဥ်များ"
+
+#~ msgid "NOTES & REMARKS ON THE PRIORITY WORKPLAN ACTIVITIES FOR THE ANNUAL WORKPLAN"
+#~ msgstr "နှစ်စဉ်လုပ်ဆောင်မှုစီမံချက်အတွက် ဦးစားပေးလုပ်ငန်းအစီအစဉ်ဆိုင်ရာ မှတ်စုများနှင့် မှတ်ချက်များ"
+
+#~ msgid "Back"
+#~ msgstr "အနောက်ကိုပြန်သွားမည်"
+
+#~ msgid "Review Workplan"
+#~ msgstr "လုပ်ဆောင်မှုစီမံချက်ကိုသုံးသပ်မည်"
+
+#~ msgid "5 of 5. Review and Finalize Annual Workplan"
+#~ msgstr "၅/၅. နှစ်စဥ်လုပ်ဆောင်မှုစီမံချက်ကို ပြန်လည်သုံးသပ်ပြီး အပြီးသတ်မည်။"
+
+#~ msgid "CONGRATULATIONS!"
+#~ msgstr "၀မ်းသာဂုဏ်ယူပါတယ်။"
+
+#~ msgid "Great work, you have finalized your Issara Annual Workplan! We will look forward to reviewing your company's progress at the mid-year review. "
+#~ msgstr " အောင်မြင်ပြီးစီးသွားပါပြီ။ သင်၏ အစ်ဆာရာတစ်နှစ်စာ လုပ်ငန်းစီမံချက် အစီအစဥ်အား အပြီးသတ်ပြီးပါပြီ။ နှစ်လယ်သုံးသပ်ချက်တွင် သင့်ကုမ္ပဏီ၏တိုးတက်မှုကို ပြန်လည်သုံးသပ်ရန် ကျွန်ုပ်တို့ စောင့်မျှော်ပါမည်။"
+
+#~ msgid "Download Workplan PDF"
+#~ msgstr "လုပ်ငန်းစီမံချက် အစီအစဥ်ကို PDF ပုံစံဖြင့် ဒေါင်းလုတ်ဆွဲမည်။"
+
+#~ msgid "Go to SP Progress Metrics"
+#~ msgstr "SP Progress Metrics သို့သွားပါ။"
+
+#~ msgid "Revise"
+#~ msgstr "ပြန်လည်ပြင်ဆင်မည်"
+
+#~ msgid "FINALIZE & SAVE WORKPLAN"
+#~ msgstr "လုပ်ငန်းစဥ်စီမံချက်ကို အပြီးသတ်ပြီးသိမ်းဆည်းမည်"
+
+#~ msgid "Revice"
+#~ msgstr "တုံ့ပြန်မှု"
+
+#~ msgid "Mou Thailand Demand Data"
+#~ msgstr "ထိုင်း MOU Demand အချက်အလက်"
+
+#~ msgid "Search Results(Found:"
+#~ msgstr "ရှာဖွေမှုရလဒ်များ(တွေ့ရှိချက်:"
+
+#~ msgid "Record Date"
+#~ msgstr "စာရင်းသွင်းသည့်နေ့စွဲ"
+
+#~ msgid "Factory Type"
+#~ msgstr "စက်ရုံအမျိုးအစား"
+
+#~ msgid "Males"
+#~ msgstr "ကျား"
+
+#~ msgid "Females"
+#~ msgstr "မ"
+
+#~ msgid "Calls and Messages from Workers"
+#~ msgstr "အလုပ်သမားများဆီမှဖုန်းခေါ်ဆိုမှုများနှင့်မက်ဆေ့များ"
+
+#~ msgid "Supplier Performance"
+#~ msgstr "လုပ်ငန်းရှင်များ စွမ်းဆောင်ရည်"
+
+#~ msgid "* Please Select Supplier"
+#~ msgstr "* ကျေးဇူးပြု၍အလုပ်ရှင်နာမည်ရွေးပါ။"
+
+#~ msgid "Report File"
+#~ msgstr "အစီရင်ခံစာဖိုင်"
+
+#~ msgid "File Name :"
+#~ msgstr "ဖိုင်နာမည် :"
+
+#~ msgid "Click to see the file"
+#~ msgstr "ဖိုင်ကြည့်ရန်နှိပ်ပါ။"
+
+#~ msgid "View"
+#~ msgstr "ကြည့်မည်။"
+
+#~ msgid "Please select supply chain for Myanmar-Thai MOU Sending data"
+#~ msgstr "ကျေးဇူးပြု၍ မြန်မာ-ထိုင်း MOU အလုပ်သမားပို့ဆောင်ခြင်း အချက်အလက်အတွက် \"Supply Chain\" ကို ရွေးချယ်ပါ။"
+
+#~ msgid "Number of workers recruited by Recruitment Agency"
+#~ msgstr "အလုပ်ရှာဖွေရေးအေဂျင်စီမှခေါ်ယူသော အလုပ်သမားအရေအတွက်"
+
+#~ msgid "No data found"
+#~ msgstr "အချက်အလက်ရှာမတွေ့ပါ။"
+
+#~ msgid "Rerendering..."
+#~ msgstr "ပုံဖေါ်နေသည်..."
+
+#~ msgid "Number of workers recruited by Gender"
+#~ msgstr "ခေါ်ယူသော အလုပ်သမား အရေအတွက် ကျား/မဖြင့်ဖော်ပြမည်။"
+
+#~ msgid "Total:"
+#~ msgstr "စုစုပေါင်း:"
+
+#~ msgid "Female:"
+#~ msgstr "မ:  "
+
+#~ msgid "Male:"
+#~ msgstr "ကျား:"
+
+#~ msgid "Download As XLS File<"
+#~ msgstr "XLS File< အဖြစ်ဒေါင်းလုတ်ဆွဲမည်"
+
+#~ msgid "Mou Thailand Sending Data"
+#~ msgstr "ထိုင်း MOU အလုပ်သမားများ ပို့ဆောင်သည့်အချက်အလက်"
+
+#~ msgid "Sending Males"
+#~ msgstr "ပို့ဆောင်သည့်အမျိုးသားများ"
+
+#~ msgid "Sending Females"
+#~ msgstr "ပို့ဆောင်သည့်အမျိုးသမီးများ"
+
+#~ msgid "Sending Total"
+#~ msgstr "စုစုပေါင်းပို့ဆောင်သည့်ဦးရေ"
+
+#~ msgid "Labour recruitment"
+#~ msgstr "လုပ်သားစုဆောင်းရေး"
+
+#~ msgid "Payment systems and transparency"
+#~ msgstr "လုပ်အားခပေးချေမှုစနစ်များနှင့် ပွင့်လင်းမြင်သာမှု"
+
+#~ msgid "Working conditions"
+#~ msgstr "လုပ်ငန်းခွင်အခြေအနေများ"
+
+#~ msgid "Employer-employee communications and relations"
+#~ msgstr "အလုပ်ရှင်-အလုပ်သမား ပြောဆိုဆက်ဆံရေးနှင့် ဆက်သွယ်ရေး"
+
+#~ msgid "Living and eating conditions"
+#~ msgstr "နေရာထိုင်ခင်းနှင့် ထမင်းစားဆောင် အခြေအနေ"
+
+#~ msgid "Summary of Open/Closed Issues"
+#~ msgstr "အမှုဖွင့်/အမှုပိတ်ထားသော ပြဿနာများ အကျဉ်းချုပ်"
+
+#~ msgid "The graph of open/closed issues represents the supplier(s) and date range selected above. Details of the 5 open/closed labor category KPIs are presented below."
+#~ msgstr "အမှုဖွင့်/အမှုပိတ် ပြဿနာများ၏ ဂရပ်သည် အထက်ဖော်ပြပါ ရွေးချယ်ထားသောလုပ်ငန်းရှင်(များ) နှင့် ရက်အပိုင်းအခြားကို ကိုယ်စားပြုသည်။ အမှုဖွင့်/အမှုပိတ် ၍ရသော အလုပ်သမားအခွင့်အရေးဆိုင်ရာ KPIs၅ ခု၏ အသေးစိတ်ကို အောက်တွင်ဖော်ပြထားသည်။"
+
+#~ msgid "Labour Recruitment"
+#~ msgstr "အလုပ်သမား စုဆောင်းခန့်ထားရေး"
+
+#~ msgid "Payment Systems And Transparency"
+#~ msgstr "လုပ်အားခပေးချေမှုစနစ်များနှင့် ပွင့်လင်းမြင်သာမှု"
+
+#~ msgid "Working Conditions"
+#~ msgstr "လုပ်ငန်းခွင်အခြေအနေများ"
+
+#~ msgid "Employer-Employee Communications And Relations"
+#~ msgstr "အလုပ်ရှင်-အလုပ်သမား ပြောဆိုဆက်ဆံရေးနှင့် ဆက်သွယ်ရေး"
+
+#~ msgid "Living And Eating Conditions"
+#~ msgstr "နေရာထိုင်ခင်းနှင့် ထမင်းစားဆောင်အခြေအနေများ"
+
+#~ msgid "You may select and filter suppliers to show your entire supply chain (default), suppliers by industry and by sub-industry, or specific supplier(s).  The date range further enables visibility of the selection over a specific timeframe (default is 1/1/2019 to present). The selections made will determine the supply chain analytics displayed below. Please press the Search button after selections are made."
+#~ msgstr "သင်၏ ကုန်ထုတ်လုပ်မှုကွင်းဆက်တစ်ခုလုံး (ပုံသေ)၊ လုပ်ငန်းနှင့် စက်မှုလုပ်ငန်းခွဲအလိုက် အလုပ်ရှင်များ သို့မဟုတ် သတ်မှတ်ထားသောလုပ်ငန်းရှင်(များ)ကို ပြသရန် လုပ်ငန်းရှင်များကို ရွေးချယ်ပြီး စစ်ထုတ်နိုင်ပါသည်။ ရက်စွဲအပိုင်းအခြားသည် သတ်မှတ်ထားသောအချိန်ဘောင်တစ်ခုပေါ်မှ ရွေးချယ်မှုကို ပိုမိုမြင်နိုင်စေသည် (ပုံသေအလိုအလျှောက်ရွေးချယ်နိုင့်သသည့်နေ့စွဲသည် 1/1/2019 မှ လက်ရှိအချိန်အထိဖြစ်သည်)။ ရွေးချယ်မှုများသည် အောက်တွင်ဖော်ပြထားသော ကုန်ထုတ်လုပ်မှုကွင်းဆက်၏ခွဲခြမ်းစိတ်ဖြာမှုကို ဆုံးဖြတ်ပေးမည်ဖြစ်သည်။ ရွေးချယ်မှုများ ပြုလုပ်ပြီးနောက် ရှာဖွေရန် ခလုတ်ကို နှိပ်ပါ။"
+
+#~ msgid "Hotline Calls"
+#~ msgstr "ဟော့လိုင်းဖုန်းခေါ်ဆိုမှုများ"
+
+#~ msgid "go to filter"
+#~ msgstr "စစ်ထုတ်မည်"
+
+#~ msgid "Reset All"
+#~ msgstr "အသစ်ပြန်စမည်"
+
+#~ msgid "Created By"
+#~ msgstr "ဖန်တီးထားပါသည်"
+
+#~ msgid "Add Grievance Mechanism"
+#~ msgstr "ပြဿနာဖြေရှင်းမှုစနစ် (မကျေနပ်ချက်) ယန္တရားထည့်ပါ။"
+
+#~ msgid "Date Of Review"
+#~ msgstr "ပြန်လည်သုံးသပ်သည့်နေ့စွဲ"
+
+#~ msgid "Assessment of grievance mechanism"
+#~ msgstr "ပြဿနာဖြေရှင်းမှုစနစ် (မကျေနပ်ချက်) ယန္တရားများကို အကဲဖြတ်ခြင်း။"
+
+#~ msgid "Submit"
+#~ msgstr "တင်ပြမည်"
+
+#~ msgid "Recommended supplier:"
+#~ msgstr "အကြံပြုထားသောလုပ်ငန်းရှင်များ:"
+
+#~ msgid "Cal-Comp Electronics (Thailand) Public Co., Ltd. - Phetchaburi"
+#~ msgstr "ကယ်ကွန်းလျှပ်စစ်ပစ္စည်းထုတ်လုပ်သည့်ကုမ္ပဏီ လီမိတက် (ထိုင်း)_ဖက်ချဘူရီ"
+
+#~ msgid "Quality Comments"
+#~ msgstr "အရည်အသွေးမှတ်ချက်များ"
+
+#~ msgid "Timeliness Comments"
+#~ msgstr "အချိန်သတ်မှတ်ချက်မှတ်ချက်များ"
+
+#~ msgid "Openness Comments"
+#~ msgstr "ပွင့်လင်းမှုမှတ်ချက်များ"
+
+#~ msgid "Recruiter CRC:"
+#~ msgstr "အေဂျင်စီ CRC:"
+
+#~ msgid "created_at:"
+#~ msgstr "မှာ ဖန်တီးသည်:"
+
+#~ msgid "Avg Worker Response Feedback:"
+#~ msgstr "ပျမ်းမျှ အလုပ်သမား တုံ့ပြန်မှု အကြံပြုချက်:"
+
+#~ msgid "Avg Worker Recruitment Mngmt Feedback:"
+#~ msgstr "ပျမ်းမျှ အလုပ်သမား ခေါ်ယူမှု Mngmt တုံ့ပြန်ချက်-"
+
+#~ msgid "Issara Tech Assessment Rresponse Quality hr:"
+#~ msgstr " အစ်ဆာရာနည်းပညာပိုင်းဆိုင်ရာအကဲဖြတ်မှုအရည်အသွေး (hr):"
+
+#~ msgid "Issara Tech Assessment Response Quality Production:"
+#~ msgstr "အစ်ဆာရာနည်းပညာပိုင်းဆိုင်ရာအကဲဖြတ်ခြင်းတုံ့ပြန်မှု အရည်အသွေး ထုတ်လုပ်မှု:"
+
+#~ msgid "Duration of Time_taken to Respond:"
+#~ msgstr "အကြောင်းပြန်ရန်သတ်မှတ်ထားသောအချိန်ကာလအပိုင်းအခြား:"
+
+#~ msgid "Duration of Time_taken to Revert On Action Plan:"
+#~ msgstr "လုပ်ငန်းစဥ်အစီအစဥ်အဖြစ် ပြောင်းလဲဆောင်ရွက်ရန်ရန်သတ်မှတ်ထားသောအချိန်ကာလအပိုင်းအခြား:"
+
+#~ msgid "Duration of Time_taken to Resolve Issues:"
+#~ msgstr "ပြဿနာဖြေရှင်းရန်သတ်မှတ်ထားသောအချိန်ကာလအပိုင်းအခြား:"
+
+#~ msgid "Site Cooperation With Ethicall Distribution:"
+#~ msgstr "ကျင့်၀တ်နှင့်ညီသောဖြန့်ဝေမှုဖြင့် နယ်ပယ်အချင်းချင်း ပူးပေါင်းဆောင်ရွက်ခြင်း:"
+
+#~ msgid "Business Attitude Toward Suggested Remedies:"
+#~ msgstr "အကြံပြုထားသော ကုထုံး(ကုစားချက်)များအပေါ် လုပ်ငန်းရှင်သဘောထား:"
+
+#~ msgid "Business Attitude Toward Capacity and Risks:"
+#~ msgstr "စွမ်းဆောင်ရည်နှင့် ဘေးအန္တရာယ်ကျရောက်နိုင်ခြေရှိမှုများအပေါ် လုပ်ငန်းရှင်သဘောထား:"
+
+#~ msgid "Business Attitude Toward Promoting Worker Voice:"
+#~ msgstr "အလုပ်သမားအသံမြှင့်တင်ခြင်းနှင့်ပတ်သက်ပြီးလုပ်ငန်းရှင်သဘောထား:"
+
+#~ msgid "Business Attitude Toward Worker Treatment:"
+#~ msgstr "အလုပ်သမားအားပြဿနာဖြေရှင်းပေးမှု(ကုသမှု)နှင့်ပတ်သက်ပြီးလုပ်ငန်းရှင်သဘောထား:"
+
+#~ msgid "Business Attitude Toward Issara:"
+#~ msgstr "အစ်ဆာရာအဖွဲ့အစည်းအပေါ်လုပ်ငန်းရှင်သဘောထားမှု:"
+
+#~ msgid "Comments:"
+#~ msgstr " မှတ်ချက်များ:"
+
+#~ msgid "Response Quality Comments:"
+#~ msgstr "တုံ့ပြန်မှု အရည်အသွေး မှတ်ချက်များ:  "
+
+#~ msgid "Response Timeliness Comments:"
+#~ msgstr "အချိန်မီတုံ့ပြန်မှု မှတ်ချက်များ:"
+
+#~ msgid "Response Openness Comments:"
+#~ msgstr "တုံ့ပြန်မှုမြင်သာထင်ရှားမှုရှိ/မရှိမှတ်ချက်များ:"
+
+#~ msgid "Recruiter was updated"
+#~ msgstr "အေဂျင်စီကိုအပ်ဒိတ်လုပ်ထားပါသည်"
+
+#~ msgid "Recruiter has been successfully created"
+#~ msgstr "အေဂျင်စီအကောင့်(နာမည်) တစ်ခုကို အောင်မြင်စွာထည့်ထားလိုက်ပါပြီ။"
+
+#~ msgid "Quality Of Response"
+#~ msgstr "တုန့်ပြန်မှုအရည်အသွေး"
+
+#~ msgid "Timeliness Of Response"
+#~ msgstr "အချိန်မီတုန့်ပြန်နိုင်မှုရှိ/မရှိ"
+
+#~ msgid "Openness To Reform"
+#~ msgstr "ပြုပြင်ပြောင်းလဲရန် ပွင့်လင်းမှု"
+
+#~ msgid "Add/Edit Recruiter"
+#~ msgstr "အေဂျင်စီအမည်ကိုထည့်မည်/ပြင်မည်"
+
+#~ msgid "Name of Recruiter"
+#~ msgstr "အေဂျင်စီနာမည်"
+
+#~ msgid "facebook_website"
+#~ msgstr "ဖေ့ဘုတ်_၀က်ဆိုက်"
+
+#~ msgid "zipcode"
+#~ msgstr "ဇစ်ကုတ်(zipcode)"
+
+#~ msgid "lng"
+#~ msgstr "lng"
+
+#~ msgid "lat"
+#~ msgstr "lat"
+
+#~ msgid "gps"
+#~ msgstr "gps"
+
+#~ msgid "tier_id"
+#~ msgstr "အဆင့်(tier)_id"
+
+#~ msgid "golden_dreams_recruiter_id"
+#~ msgstr "ရွှေအိပ်မက်အေဂျင်စီကဏ္_id"
+
+#~ msgid "worker_placement_industries"
+#~ msgstr "အလုပ်သမားနေရာချထားခြင်:_လုပ်ငန်းနယ်ပယ်များ"
+
+#~ msgid "other"
+#~ msgstr "အခြား"
+
+#~ msgid "Following Recruiters will be merged:"
+#~ msgstr "အောက်ပါအေဂျင်စီများကို ပေါင်းစည်းပါမည်:"
+
+#~ msgid "Existing Recruiters"
+#~ msgstr "စာရင်းရှိအေဂျင်စီများ"
+
+#~ msgid "Gps:"
+#~ msgstr "Gps:"
+
+#~ msgid "facebook_website:"
+#~ msgstr "ဖေ့ဘုတ်_ဝက်ဆိုက်:"
+
+#~ msgid "Golden Dreams Recruiter ID:"
+#~ msgstr "ရွှေအိပ်မက်အေဂျင်စီID:"
+
+#~ msgid "num_of_staff:"
+#~ msgstr "၀န်းထမ်းအရေအတွက်:"
+
+#~ msgid "num_lisc_agents:"
+#~ msgstr "လိုင်စင်ရအေဂျင်စီအရေအတွက်"
+
+#~ msgid "worker_placement_industries:"
+#~ msgstr "အလုပ်သမား_တာ၀န်ခန့်ထားရာနေရာ_လုပ်ငန်းနယ်ပယ်များ:"
+
+#~ msgid "News And Updates:"
+#~ msgstr "သတင်းနှင့်အချက်အလက်သစ်များ:"
+
+#~ msgid "No Future News And Updates at this time."
+#~ msgstr "လက်ရှိ အနာဂတ်သတင်းများနှင့် အပ်ဒိတ်များ မရှိပါ။"
+
+#~ msgid "News Updates (Found: "
+#~ msgstr "မည်သည့်အပ်ဒိတ်မှရှာမတွေ့ပါ: "
+
+#~ msgid "Title"
+#~ msgstr "ခေါင်းစဥ်/ရာထူး"
+
+#~ msgid "WELCOME!"
+#~ msgstr "ကြိုဆိုပါတယ်!"
+
+#~ msgid "The Issara Institute launched the Strategic Partners Dashboard in 2021, building upon the feedback and aspirations of the Issara Institute team, Strategic Partners, and donors."
+#~ msgstr "Issara Institute သည် 2021 ခုနှစ်တွင် Strategic Partners Dashboard ကို စတင်ခဲ့ပြီး Issara Institute အဖွဲ့၊ Strategic Partners နှင့် အလှူရှင်များ၏ အကြံပြုချက်များနှင့် မျှော်မှန်းချက်များကို အခြေခံ၍ စတင်ခဲ့ပါသည်။"
+
+#~ msgid "Objective: The objective of this Dashboard is to provide brands, retailers, and importers/agents with a robust tool to help monitor, benchmark, remediate, and improve labor issues, systems, and business performance in global supply chains."
+#~ msgstr "ရည်ရွယ်ချက်- ဤ Dashboard ၏ ရည်ရွယ်ချက်မှာ ကမ္ဘာလုံးဆိုင်ရာ ကုန်စည်စီးဆင်းမှုကွင်းဆက်များရှိ အလုပ်သမားရေးရာ ပြဿနာများ၊ စနစ်များနှင့် လုပ်ငန်းရှင်များ၏စွမ်းဆောင်ရည်များကို စောင့်ကြည့်ရန်၊ စံညွှန်းပြုမှုရှိရန်၊ ပြုပြင်ရန်နှင့် တိုးတက်စေရန်အတွက် ခိုင်မာသောကိရိယာတစ်ခုဖြင့် အမှတ်တံဆိပ်များ၊ လက်လီရောင်းချသူများနှင့် တင်သွင်းသူများ/ကိုယ်စားလှယ်များကို ပံ့ပိုးပေးရန်ဖြစ်သည်။"
+
+#~ msgid "Confidentiality: The information in the Dashboard is confidential to each Strategic Partner and is tailored to your own unique supply chain. All information provided via the Dashboard is governed by your company’s Strategic Partner agreement with Issara Institute. The information may not be shard externally, including with your suppliers."
+#~ msgstr "လျှို့ဝှက်ထားမှု- Dashboard ရှိ အချက်အလက်များသည် မဟာတွက် လျှို့ဝှက်ထားပြီး သင့်ကိုယ်ပိုင်ထူးခြားသောထောက်ပံ့ရေးကွင်းဆက်နှင့် အံဝင်ခွင်ကျဖြစ်စေပါသည်။ ဒက်ရှ်ဘုတ်မှတစ်ဆင့် ပံ့ပိုးပေးထားသည့် အချက်အလက်အားလုံးကို Issara Institute နှင့် သင့်ကုမ္ပဏီ၏ မဟာဗျူဟာမိတ်ဖက် သဘောတူညီချက်ဖြင့် အုပ်ချုပ်သည်။ သင်ရဲ့လုပ်ငန်းရှင်များအပါအဝင် အချက်အလက်များသည် ပြင်ပတွင် ကွဲလွဲမည်မဟုတ်ပါ။"
+
+#~ msgid "Features: Issara will continue to advance features within the Dashboard, and we welcome your feedback and input to make the Dashboard as useful and impactful as possible. For example, benchmarking and trend analysis are slated for upcoming iterations. How this information may be integrated with your internal practices and protocols (current and planned), will also be part of discussions with each Strategic Partner as part of the revised Strategic Partners Program, launched in January 2021."
+#~ msgstr "အင်္ဂါရပ်များ- Issara သည် ဒက်ရှ်ဘုတ်အတွင်း အင်္ဂါရပ်များကို ဆက်လက်မြှင့်တင်သွားမည်ဖြစ်ပြီး Dashboard ကို တတ်နိုင်သမျှ အသုံးဝင်ပြီး အကျိုးသက်ရောက်မှုရှိစေရန် သင်၏တုံ့ပြန်ချက်နှင့် ထည့်သွင်းမှုကို ကျွန်ုပ်တို့ကြိုဆိုပါသည်။ ဥပမာအားဖြင့်၊ စံညွှန်းသတ်မှတ်ခြင်းနှင့် လမ်းကြောင်းသစ်ခွဲခြမ်းစိတ်ဖြာခြင်းကို နောက်လာမည့်လုပ်ငန်းစဥ်များအတွက် စီစဉ်ထားသည်။ ဤအချက်အလက်များသည် သင်အဖွဲ့အစည်းတွင်းကျင့်သုံးနေသော အလေ့အကျင့်များနှင့်  (လက်ရှိနှင့် စီစဉ်ထားသည့်)ပရိုတိုကောများသည် မဟာဗျူဟာမိတ်ဖက်တစ်ဦးစီနှင့် ဆွေးနွေးမှုများ၏ တစ်စိတ်တစ်ပိုင်းမှာ ပါ၀င်လာမည် ဖြစ်ပြီး 2021 ခုနှစ် ဇန်နဝါရီလတွင် စတင်ခဲ့သော ပြန်လည်ပြင်ဆင်ထားသည့် မဟာဗျူဟာမိတ်ဖက်များပရိုဂရမ်၏ ဆွေးနွေးမှုတစ်စိတ်တစ်ပိုင်းအနေဖြင့် ပါ၀င်မည်ဖြစ်ပါသည်။"
+
+#~ msgid "We are excited about the breadth of information, data analysis, and transparency that the Strategic Partners Dashboard can provide. We look forward to our ongoing collaboration with you to support ethical supply chains and improved working conditions. If you have any questions, please contact your Issara Institute Strategic Partner dashboard focal point, "
+#~ msgstr "Strategic Partners Dashboard မှ ပေးစွမ်းနိုင်သော အချက်အလက် ကျယ်ပြန့်မှု၊ ဒေတာခွဲခြမ်းစိတ်ဖြာမှုနှင့် ပွင့်လင်းမြင်သာမှုတို့အတွက် ကျွန်ုပ်တို့ စိတ်လှုပ်ရှားပါသည်။ ကျင့်ဝတ်ဆိုင်ရာ ထောက်ပံ့ရေးကွင်းဆက်များနှင့် ပိုမိုကောင်းမွန်သော လုပ်ငန်းခွင်အခြေအနေများကို ပံ့ပိုးပေးရန်အတွက် ကျွန်ုပ်တို့၏ ဆက်လက်ပူးပေါင်းဆောင်ရွက်မှုကို မျှော်လင့်ပါသည်။ သင့်တွင်မေးခွန်းများရှိပါက၊ သင်၏ Issara Institute Strategic Partner Dashboard အဓိက တာ၀န်ခံကို ဆက်သွယ်ပါ။"
+
+#~ msgid "Jarrett Basedow"
+#~ msgstr "ဂျရက်ဘေ့စဒိုး"
+
+#~ msgid "Legal Disclaimer"
+#~ msgstr "ဥပဒေရေးရာရှင်းလင်းချက်များ"
+
+#~ msgid "While we have made our best efforts to ensure the accuracy and reliability of the information collected and contained in this dashboard, Issara Institute is not responsible for any errors or omissions, or for the results obtained from the use of this information."
+#~ msgstr "ဤဒက်ရှ်ဘုတ်တွင်ပါရှိသော အချက်အလက်များ၏ တိကျမှုနှင့် ယုံကြည်စိတ်ချရမှုတို့ကို သေချာစေရန် ကျွန်ုပ်တို့၏ အကောင်းဆုံးကြိုးပမ်းအားထုတ်မှုများ ပြုလုပ်ထားသော်လည်း၊ Issara Institute အနေဖြင့် မည်သည့်အမှားအယွင်းများ (သို့မဟုတ်) ပျက်ကွက်မှုများ (သို့မဟုတ်)ဤအချက်အလက်အသုံးပြုမှုမှ ရရှိသောရလဒ်များအတွက် တာဝန်ယူမည်မဟုတ်ပါ။"
+
+#~ msgid " All information in this dashboard is provided \"as is\", with no guarantee of completeness, accuracy, timeliness or of the results obtained from the use of this information, and without warranty of any kind, express or implied, including, but not limited to warranties of performance, merchantability and fitness for a particular purpose. Nothing herein shall to any extent substitute for the independent investigation and the sound technical and business judgment of the reader."
+#~ msgstr "ဤဒက်ရှ်ဘုတ်ရှိ အချက်အလက်အားလုံးကို ပြည့်စုံမှု၊ တိကျမှု၊ အချိန်မီမှု သို့မဟုတ် ဤအချက်အလက်အသုံးပြုမှုမှရရှိသော ရလဒ်များ၏ အာမခံချက်မရှိဘဲ \"ဖြစ်စဥ်အတိုင်း\" ပေးထားသည်။ ဒါ့အပြင် သီးခြားရည်ရွယ်ချက်တစ်ခုအတွက် အာမခံချက်မရှိဘဲ၊ စွမ်းဆောင်ရည်၊ ရောင်းဝယ်ဖောက်ကားနိုင်မှုနှင့် ကြံ့ခိုင်မှုဆိုင်ရာ အာမခံချက်များအတွက် အကန့်အသတ်မရှိ ပါ၀င်ထားသည့်အတိုင်း ဖော်ပြထားသည် (သို့မဟုတ်) အဓိပ္ပာယ်ဖွင့်ဆိုထားသည်။ ဤနေရာတွင် မည်သည့်အရာမှ လွတ်လပ်သော စုံစမ်းစစ်ဆေးမှုနှင့် စာဖတ်သူ၏ ခိုင်မာသော နည်းပညာပိုင်းနှင့် စီးပွားရေးဆိုင်ရာ စီရင်ဆုံးဖြတ်မှုအတွက် မည်သည့်အတိုင်းအတာအထိ အစားထိုးမည်မဟုတ်ပါ။"
+
+#~ msgid "Partner Message Board:"
+#~ msgstr "ပါတနာ မက်ဆေ့ချ်ဘုတ်:"
+
+#~ msgid "No Future Partner Message Board at this time."
+#~ msgstr "လတ်တလောမှာ ရောက်လာမည့် ပါတနာ မက်ဆေ့ချ်ဘုတ်မရှိပါ။"
+
+#~ msgid "Partner Message Board Items(Found:"
+#~ msgstr "ပါတနာ မက်ဆေ့ချ်ဘုတ် (ရှာဖွေတွေ့ရှိသည်:"
+
+#~ msgid "Strategic Partner Login Tracking (Found: "
+#~ msgstr "မဟာဗျူဟာမိတ်ဖွဲ့(၀ယ်လက်)အကောင့်ဝင်ခြင်း (log-in) ခြေရာခံခြင်း (တွေ့ရှိသည်:"
+
+#~ msgid "Strategic Partner Logins:"
+#~ msgstr "မဟာဗျူဟာမိတ်ဖွဲ့(၀ယ်လက်)အကောင့်ဝင်ခြင်း (log-in):"
+
+#~ msgid "No Strategic Partner Logins at this time."
+#~ msgstr "လက်ရှိ ဘယ်မဟာဗျူဟာမိတ်ဖွဲ့(၀ယ်လက်)မှ အကောင့်ဝင်ထားခြင်း (log-in)မရှိပါ။"
+
+#~ msgid "User"
+#~ msgstr "အသုံးပြုသူ"
+
+#~ msgid "Partner"
+#~ msgstr "မိတ်ဖက်"
+
+#~ msgid "Log-In"
+#~ msgstr "အကောင့်၀င်မည်"
+
+#~ msgid "Log-Out"
+#~ msgstr "အကောင့်ထွက်မည်"
+
+#~ msgid "Reference Documents:"
+#~ msgstr "ကိုးကားထားသောစာရွက်စာတမ်းများ"
+
+#~ msgid "No Reference Documents at this time."
+#~ msgstr "လက်ရှိကိုးကားထားသောစာရွက်စာတမ်းများမရှိပါ။"
+
+#~ msgid "Reference Documents (Found:"
+#~ msgstr "ကိုးကားထားသောစာရွက်စာတမ်းများ (တွေ့ရှိသည်:"
+
+#~ msgid "Send Notification Email to Partners"
+#~ msgstr "မိတ်ဆက်အဖွဲ့အစည်းများဆီသို့အီးမေးလ်ပို့မည်"
+
+#~ msgid "Products Sourced"
+#~ msgstr "Products Sourced"
+
+#~ msgid "Payment Amount"
+#~ msgstr "ငွေပေးချေမှုပမာဏ"
+
+#~ msgid "Payment Receipt Date:"
+#~ msgstr "ငွေပေးချေမှု ပြေစာရက်စွဲ:"
+
+#~ msgid "Open calendar"
+#~ msgstr "ပြက္ခဒိန်ကိုဖွင့်ပါ။"
+
+#~ msgid "Contract Start Date:"
+#~ msgstr "စာချုပ်စတင်သည့်ရက်စွဲ:"
+
+#~ msgid "Contract End Date:"
+#~ msgstr "စာချုပ်ပြီးဆုံးသည့်ရက်စွဲ:"
+
+#~ msgid "Last Annual Risk Report Date:"
+#~ msgstr "နောက်ဆုံး နှစ်ပတ်လည် အန္တရာယ်ကျရောက်နိုင်ခြေရှိ/မရှိ အစီရင်ခံစာ ရက်စွဲ:"
+
+#~ msgid "Last Interaction Date:"
+#~ msgstr "နောက်ဆုံး အပြန်အလှန်တုံ့ပြန်သည့်ရက်စွဲ-"
+
+#~ msgid "*Please Note: To Add or Edit Strategic Partners you must have 'Directors' Group added to your account ."
+#~ msgstr "*ကျေးဇူးပြု၍ မှတ်ချက်ရေးပါ- မဟာဗျူဟာမိတ်ဖက်များ ထည့်ရန် သို့မဟုတ် ပြင်ရန် သင့်အကောင့်တွင် 'ဒါရိုက်တာများ' အဖွဲ့ကို ထည့်ထားရပါမည်။"
+
+#~ msgid "Partner Icon"
+#~ msgstr "ပါတနာ သင်္ကေတ"
+
+#~ msgid "Focal Point"
+#~ msgstr "တာ၀န်ခံပုဂ္ဂိုလ်"
+
+#~ msgid "Email Notify"
+#~ msgstr "အီးမေးလ်ဖြင့်အကြောင်းကြားမည်"
+
+#~ msgid "Email Notify:"
+#~ msgstr "အီးမေးလ်ဖြင့်အကြောင်းကြားမည်y:"
+
+#~ msgid "Focal Point Name:"
+#~ msgstr "တာ၀န်ခံပုဂ္ဂိုလ်နာမည်:"
+
+#~ msgid "Focal Point Title:"
+#~ msgstr "တာ၀န်ခံပုဂ္ဂိုလ်ရာထူး:"
+
+#~ msgid "Focal Point Email:"
+#~ msgstr "တာ၀န်ခံပုဂ္ဂိုလ်အီးမေးလ်:"
+
+#~ msgid "Focal Phone Number:"
+#~ msgstr "တာ၀န်ခံပုဂ္ဂိုလ်ဖုန်းနံပါတ်:"
+
+#~ msgid "Products Sourced:"
+#~ msgstr "Products Sourced:"
+
+#~ msgid "Last Annual Risk Report:"
+#~ msgstr "နောက်ဆုံး နှစ်ပတ်လည် အန္တရာယ်ကျရောက်နိုင်ခြေရှိ/မရှိ အစီရင်ခံစာ ရက်စွဲ:"
+
+#~ msgid "Last Call Meeting Visit:"
+#~ msgstr "နောက်ဆုံးခေါ်ဆိုမှု အစည်းအဝေးပြုလုပ်ခြင်း:"
+
+#~ msgid "Company policy"
+#~ msgstr "ကုမ္ပဏီမူ၀ါဒ"
+
+#~ msgid "Interaction Location"
+#~ msgstr "အပြန်အလှန်ဆက်ဆံသည့်နေရာ"
+
+#~ msgid "Name of business contact"
+#~ msgstr "လုပ်ငန်းအဆက်အသွယ်အမည်"
+
+#~ msgid "Interaction Date"
+#~ msgstr "အပြန်အလှန်ဆက်သွယ်သည့်နေ့စွဲ"
+
+#~ msgid "Strategic Partner:"
+#~ msgstr "မဟာဗျူဟာမိတ်ဖွဲ့များ (၀ယ်လက်):"
+
+#~ msgid "Interaction Type:"
+#~ msgstr "အပြန်အလှန်ဆက်သွယ်သည့်အမျိုးအစား:"
+
+#~ msgid "Interaction Location:"
+#~ msgstr "အပြန်အလှန်ဆက်ဆံသည့်နေရာ:"
+
+#~ msgid "Interaction Date:"
+#~ msgstr "အပြန်အလှန်ဆက်သွယ်သည့်နေ့စွဲ:"
+
+#~ msgid "Response Focal Point:"
+#~ msgstr "တာ၀န်ခံပုဂ္ဂိုလ်:"
+
+#~ msgid "General Notes:"
+#~ msgstr "အထွေထွေမှတ်စုများ"
+
+#~ msgid "Issara Focal Point:"
+#~ msgstr "အစ်ဆာရာတာ၀န်ခံပုဂ္ဂိုလ်:"
+
+#~ msgid " WORK INDICATOR 1. Supplier performance in relation to responding to worker-reported grievances and collaborating with Issara Institute staff"
+#~ msgstr "အလုပ်အညွှန်း ၁. အလုပ်သမား-အစီရင်ခံထားသော မကျေနပ်ချက်များကို တုံ့ပြန်ခြင်းနှင့် Issara Institute ဝန်ထမ်းများနှင့် ပူးပေါင်းဆောင်ရွက်ခြင်းနှင့်စပ်လျဉ်း၍ လုပ်ငန်းရှင်စွမ်းဆောင်ရည်"
+
+#~ msgid "WORK INDICATOR 2. Percentage of worker-reported issues in the supply chain resolved in under 60 days"
+#~ msgstr "အလုပ်အညွှန်း ၃. ကုန်စည်ထုတ်လုပ်မှုကွင်းဆက်ရှိ အလုပ်သမားမှ တင်ပြထားသော ပြဿနာများအား  ရက် 60 အတွင်း ဖြေရှင်းပေးနိုင်ခဲ့သည့်ရာခိုင်နှုန်း"
+
+#~ msgid "Unresolved"
+#~ msgstr "မဖြေရှင်းနိုင်သေးသော"
+
+#~ msgid "Resolved"
+#~ msgstr "ဖြေရှင်းပြီးသော"
+
+#~ msgid "WORK INDICATOR 3.Percentage of remediation efforts of specific issues resolved at Poor, Fair, Good and Excellent level"
+#~ msgstr "အလုပ်အညွှန်း ၄.\"အတော်အသင့်\"၊ \"ကောင်းသော\" သို့မဟုတ် \"အလွန်ကောင်းသော\" အဆင့်တွင် ဖြေရှင်းနိုင်ခဲ့သည့် သီးသန့်ပြဿနာများအတွက် ပြန်လည်ကုစားရေးကြိုးပမ်းမှု ရာခိုင်နှုန်း"
+
+#~ msgid "Select Supplier"
+#~ msgstr "လုပ်ငန်းရှင်ရွေးပါ"
+
+#~ msgid "None"
+#~ msgstr "မရှိပါ"
+
+#~ msgid "Supply Chain was updated"
+#~ msgstr "ကုန်ထုတ်လုပ်မှုကွင်းဆက်အချက်အလက်ကို အပ်ဒိတ်လုပ်ထားသည်။ "
+
+#~ msgid "Supply Chain has been successfully created"
+#~ msgstr "အေဂျင်စီအကောင့်(နာမည်) တစ်ခုကို အောင်မြင်စွာထည့်ထားလိုက်ပါပြီ။ "
+
+#~ msgid "Name must contain a value."
+#~ msgstr "အမည်တွင် တန်ဖိုးတစ်ခု ပါရှိရမည်။"
+
+#~ msgid "strategic_partner must contain a value."
+#~ msgstr "မဟာဗျူဟာ မိတ်ဖက်အမည်တွင် တန်ဖိုးတစ်ခု ပါရှိရမည်။"
+
+#~ msgid "At least one supplier must be selected."
+#~ msgstr "အနည်းဆုံးလုပ်ငန်းရှင်တစ်ခုကို ရွေးချယ်ရပါမည်"
+
+#~ msgid "Add/Edit Supply Chain"
+#~ msgstr "လုပ်ငန်းရှင်အမည်ကိုထည့်မည်/ပြင်မည်"
+
+#~ msgid "*Please Note: To Add or Edit supply chains you must have 'Directors' Group added to your account ."
+#~ msgstr "*ကျေးဇူးပြု၍ မှတ်ချက်ရေးပါ- လုပ်ငန်းရှင်နာမည် ထည့်ရန် သို့မဟုတ် ပြင်ရန် သင့်အကောင့်တွင် 'ဒါရိုက်တာများ' အဖွဲ့ကို ထည့်ထားရပါမည်။"
+
+#~ msgid "You have successfully updated supply chain suppliers to"
+#~ msgstr "သင်သည် ကုန်စည်စီးဆင်းမှုကွင်းဆက်ရှိ လုပ်ငန်းများကို အောင်မြင်စွာ (အပ်ဒိတ်) မွမ်းမံပြီးပါပြီ။"
+
+#~ msgid "Visible Suppiler Names"
+#~ msgstr "မြင်ရသောလုပ်ငန်းရှင်နာမည်များ"
+
+#~ msgid "Anonymous (Hidden) Supplier Names"
+#~ msgstr "အမည်မသိ (ဝှက်ထားသော) လုပ်ငန်းရှင်အမည်များ"
+
+#~ msgid "Belongs to Partner:"
+#~ msgstr "ပါတနာနှင့် သက်ဆိုင်သည်:"
+
+#~ msgid "Business Response"
+#~ msgstr "လုပ်ငန်းရှင်တုန့်ပြန်မှု"
+
+#~ msgid "Participants:"
+#~ msgstr "တက်ရောက်သူများ"
+
+#~ msgid "Suppliers Notes:"
+#~ msgstr "လုပ်ငန်းရှင်မှတ်စုများ:"
+
+#~ msgid "Recruiters Notes:"
+#~ msgstr "အေဂျင်စီမှတ်စုများ:  "
+
+#~ msgid "Global Buyers:"
+#~ msgstr "ကမ္ဘာ့၀ယ်လက်များ:"
+
+#~ msgid "Global Buyers Notes:"
+#~ msgstr "ကမ္ဘာ့၀ယ်လက်များမှတ်စုများ:"
+
+#~ msgid "Other Participants Notes:"
+#~ msgstr "အခြားတက်ရောက်သူများမှတ်စုများ:"
+
+#~ msgid "Event Details:"
+#~ msgstr "အစီအစဉ်အသေးစိတ်:"
+
+#~ msgid "Details:"
+#~ msgstr "အသေးစိတ်များ:"
+
+#~ msgid "Agreed Next Steps:"
+#~ msgstr "သဘောတူထားသော နောက်အဆင့်များ:"
+
+#~ msgid "Suppliers Next Steps:"
+#~ msgstr "လုပ်ငန်းရှင်များအတွက်နောက်ထပ်လုပ်ဆောင်ရမည့်အဆင့်များ:"
+
+#~ msgid "Suppliers Focal Points:"
+#~ msgstr "လုပ်ငန်းရှင်တာ၀န်ခံပုဂ္ဂိုလ်:"
+
+#~ msgid "Suppliers Next Steps Deadline:"
+#~ msgstr "လုပ်ငန်းရှင်များအတွက် နောက်ထပ်လုပ်ဆောင်ရမည့်အဆင့်များ နောက်ဆုံးရက်:"
+
+#~ msgid "Recruiters Next Steps:"
+#~ msgstr "အေဂျင်စီများအတွက်နောက်ထပ်လုပ်ဆောင်ရမည့်အဆင့်များ:"
+
+#~ msgid "Recruiters Focal Points:"
+#~ msgstr "အေဂျင်စီတာ၀န်ခံပုဂ္ဂိုလ်:"
+
+#~ msgid "Recruiters Next Steps Deadline:"
+#~ msgstr "အေဂျင်စီများအတွက် နောက်ထပ်လုပ်ဆောင်ရမည့်အဆင့်များ နောက်ဆုံးရက်:"
+
+#~ msgid "Global Buyers Next Steps:"
+#~ msgstr "ကမ္ဘာ့၀ယ်လက်များအတွက်နောက်ထပ်လုပ်ဆောင်ရမည့်အဆင့်များ:"
+
+#~ msgid "Global Buyers Focal Points:"
+#~ msgstr "ကမ္ဘာ့၀ယ်လက်တာ၀န်ခံပုဂ္ဂိုလ်:"
+
+#~ msgid "Global Buyers Next Steps Deadline:"
+#~ msgstr "ကမ္ဘာ့၀ယ်လက်များအတွက်နောက်ထပ်လုပ်ဆောင်ရမည့်အဆင့်များနောက်ဆုံးရက်:"
+
+#~ msgid "Issara Next Steps:"
+#~ msgstr "အစ်ဆာရာအတွက်နောက်ထပ်လုပ်ဆောင်ရမည့်အဆင့်များ:"
+
+#~ msgid "Issara Focal Points:"
+#~ msgstr "အစ်ဆာရာတာ၀န်ခံပုဂ္ဂိုလ်:"
+
+#~ msgid "Issara Next Steps Deadline:"
+#~ msgstr "အစ်ဆာရာအတွက်နောက်ထပ်လုပ်ဆောင်ရမည့်အဆင့်များနောက်ဆုံးရက်:"
+
+#~ msgid "Partners"
+#~ msgstr "မိတ်ဆက်အဖွဲ့အစည်းများ"
+
+#~ msgid "Grievance mechanism was updated"
+#~ msgstr "ပြဿနာဖြေရှင်းမှုစနစ်ကို မွမ်းမံပြင်ဆင်(အပ်ဒိတ်) ပြီးပါပြီ။"
+
+#~ msgid "New grievance mechanism has been successfully created"
+#~ msgstr "ပြဿနာဖြေရှင်းမှုစနစ် ကိုအောင်မြင်စွာ ပြုလုပ် ပြီးပါပြီ။"
+
+#~ msgid "Grievance Mechanisms"
+#~ msgstr "ပြဿနာဖြေရှင်းမှုစနစ်"
+
+#~ msgid "Select Date of review"
+#~ msgstr "ပြန်လည်သုံးသပ်သည့်နေ့စွဲကိုရွေးချယ်ပါ"
+
+#~ msgid "Detail View:"
+#~ msgstr "အသေးစိတ်ကြည့်မည်:"
+
+#~ msgid "Date of Review:"
+#~ msgstr "ပြန်လည်သုံးသပ်သည့်နေ့စွဲ:"
+
+#~ msgid "Assessment:"
+#~ msgstr "သုံးသပ်ခြင်း:"
+
+#~ msgid "Contact was updated"
+#~ msgstr "ဆက်သွယ်ရန်အချက်လက်များကိုအပ်ဒိတ်လုပ်ထားပြီးပြီ"
+
+#~ msgid "Contact has been successfully created"
+#~ msgstr "ဆက်သွယ်ရန်အချက်လက်များကိုအောင်မြင်စွာပြုလုပ်ထားပြီးပြီ"
+
+#~ msgid "Contact"
+#~ msgstr "ဆက်သွယ်ရန်အချက်အလက်"
+
+#~ msgid "Name of Contact"
+#~ msgstr "ဆက်သွယ်ရမည့်ပုဂ္ဂိုလ်"
+
+#~ msgid "Contact Description"
+#~ msgstr "ဆက်သွယ်ရန်ဖော်ပြချက်"
+
+#~ msgid "Select a Supplier To Update"
+#~ msgstr "အပ်ဒိတ်လုပ်ရန် လုပ်ငန်းရှင်အား ရွေးချယ်ပါ။   "
+
+#~ msgid "Please enter or select the name of the supplier to update"
+#~ msgstr "အပ်ဒိတ်လုပ်မည့် လုပ်ငန်းရှင်နာမည်ကို ကျေးဇူးပြု၍ နှိပ်ပါ (သို့) ရွေးချယ်ပါ။  "
+
+#~ msgid "OK"
+#~ msgstr "OK"
+
+#~ msgid "Supplier Reference Documents:"
+#~ msgstr "လုပ်ငန်းရှင် ကိုးကားထားသောစာရွက်စာတမ်းများ:"
+
+#~ msgid "Openness"
+#~ msgstr "ပွင့်လင်းမှု"
+
+#~ msgid "Supplier CRC was updated"
+#~ msgstr "လုပ်ငန်းရှင် CRC ကိုအပ်ဒိတ်လုပ်ထားပါသည်"
+
+#~ msgid "Supplier CRC has been successfully created"
+#~ msgstr "လုပ်ငန်းရှင် CRC ကို အောင်မြင်စွာပြုလုပ်ပြီးပါပြီ"
+
+#~ msgid "Edit/Add CRC: "
+#~ msgstr "CRC ပြင်မည်/ထည့်မည်:"
+
+#~ msgid "Is there worker voice in this workplace?"
+#~ msgstr "ဤလုပ်ငန်းခွင်တွင် မှတ်တမ်းတင်ထားသော အလုပ်သမားဖုန်းခေါ်ဆိုထားမှုရှိပါသလား?"
+
+#~ msgid "Hiring Practice"
+#~ msgstr "ဝမ်ထန်းခန့်ထားရေးအမူအကျင့်များ"
+
+#~ msgid "Source vesseled Numbers"
+#~ msgstr "ငါးဖမ်းလှေနံပါတ်(အမှတ်စဥ်)မူရင်း"
+
+#~ msgid "Total Men Workers"
+#~ msgstr "စုစုပေါင်းအမျိုးသားအလုပ်သမားအရေအတွက်"
+
+#~ msgid "Total Women Workers"
+#~ msgstr "စုစုပေါင်းအမျိုးသမီးအလုပ်သမားအရေအတွက်"
+
+#~ msgid "Total Thai Workers"
+#~ msgstr "စုစုပေါင်းထိုင်းအလုပ်သမားအရေအတွက်"
+
+#~ msgid "Total Cambodian Workers"
+#~ msgstr "စုစုပေါင်းကမ္ဘောဒီးယားအလုပ်သမားအရေအတွက်"
+
+#~ msgid "Total Myanmar Workers"
+#~ msgstr "စုစုပေါင်းမြန်မာအလုပ်သမားအရေအတွက်"
+
+#~ msgid "Total Indonesian Workers"
+#~ msgstr "စုစုပေါင်းအင်ဒိုနီးရှားအလုပ်သမားအရေအတွက်"
+
+#~ msgid "Total Malaysian Workers"
+#~ msgstr "စုစုပေါင်းမလေးရှားအလုပ်သမားအရေအတွက်"
+
+#~ msgid "Total Indian Workers"
+#~ msgstr "စုစုပေါင်းအိန္ဒိယအလုပ်သမားအရေအတွက်"
+
+#~ msgid "Total Pakistani Workers"
+#~ msgstr "စုစုပေါင်းပါကစ်စတန်အလုပ်သမားအရေအတွက်"
+
+#~ msgid "Total Sri Lankan Workers"
+#~ msgstr "စုစုပေါင်းသီရိလင်္ကာအလုပ်သမားအရေအတွက်"
+
+#~ msgid "Total Lao Workers"
+#~ msgstr "စုစုပေါင်းလာအိုအလုပ်သမားအရေအတွက်"
+
+#~ msgid "Total Vietnamese Workers"
+#~ msgstr "စုစုပေါင်းဗီယက်နမ်အလုပ်သမားအရေအတွက်"
+
+#~ msgid "You get these values from the golden dreams tab"
+#~ msgstr "ရွှေအိမ်မက်ဖုန်းအပလီကေးရှင်းမှတစ်ဆင့် ဤတန်ဖိုးများကို သင်ရရှိသည်။"
+
+#~ msgid "Golden Dreams Employer Id"
+#~ msgstr "ရွှေအိပ်မက်အလုပ်ရှင် Id"
+
+#~ msgid "Gray = Not yet initiated; "
+#~ msgstr "မီးခိုးရောင် = မစတင်သေးပါ။"
+
+#~ msgid "ACTIVITIES & ACHIEVEMENTS SUMMARY"
+#~ msgstr "လှုပ်ဆောင်မှုများနှင့် အောင်မြင်မှုများ အကျဉ်းချုပ်"
+
+#~ msgid "1. Number of workers with access to Issara worker voice channels"
+#~ msgstr "1. Issara အလုပ်သမား အသံချန်နယ်များနှင့် ထိတွေ့ဆက်သွယ်နိုင်သော အလုပ်သမားအရေအတွက်"
+
+#~ msgid "2. Date of most recent worker satisfaction survey"
+#~ msgstr "2. နောက်ဆုံး အလုပ်သမား လုပ်ငန်းခွင်စိတ်ကျေနပ်မှုရှိ/မရှိ စစ်တမ်းကောက်ယူမှု နေ့စွဲ "
+
+#~ msgid "Date of most recent worker satisfaction survey"
+#~ msgstr "နောက်ဆုံး အလုပ်သမား လုပ်ငန်းခွင်စိတ်ကျေနပ်မှုရှိ/မရှိ စစ်တမ်းကောက်ယူမှု နေ့စွဲ "
+
+#~ msgid "3. Date of most recent recruitment survey"
+#~ msgstr "3. နောက်ဆုံး အလုပ်အကိုင်ရှာဖွေမှုဆိုင်ရာကုန်ကျစရိတ် စစ်တမ်းကောက်ယူမှု နေ့စွဲ "
+
+#~ msgid "4. Number of workers reimbursed recruitment fees"
+#~ msgstr "4. အလုပ်အကိုင်ရှာဖွေမှုဆိုင်ရာကုန်ကျစရိတ်ကိုပြန်လည်ရရှိသောအလုပ်သမားအရေအတွက်"
+
+#~ msgid "5. Remaining number of workers owed recruitment fee reimbursement"
+#~ msgstr "5. အလုပ်အကိုင်ရှာဖွေရေးဆိုင်ရာကုန်ကျစရိတ် ပြန်ဆပ်ရန် ကျန်ရှိသည့် အလုပ်သမား အရေအတွက်"
+
+#~ msgid "6. Total amount of recruitment fees reimbursed to workers (US dollars)"
+#~ msgstr "6. အလုပ်သမားများကိုပြန်ပေးသည့်အလုပ်အကိုင်ရှာဖွေရေးဆိုင်ရာကုန်ကျစရိတ်စုစုပေါင်းပမာဏ (ဒေါ်လာဖြင့်)"
+
+#~ msgid "7. Remaining amount owed, recruitment fee reimbursement to workers (US dollars)"
+#~ msgstr "7. အလုပ်သမားများကိုပြန်ပေးရန် ကျန်ရှိနေသည့်အလုပ်အကိုင်ရှာဖွေရေးဆိုင်ရာကုန်ကျစရိတ်စုစုပေါင်းပမာဏ (ဒေါ်လာဖြင့်)"
+
+#~ msgid "KPIs were successfully updated"
+#~ msgstr "KPIs များကို အောင်မြင်စွာ မွမ်းမံ(အပ်ဒိတ်)ပြီးပါပြီ။"
+
+#~ msgid "Not selected suppliers to chart"
+#~ msgstr "ဇယားထဲကိုရွေးချယ်ထားတဲ့ လုပ်ငန်းရှင်နာမည်မတွေ့ပါ။"
+
+#~ msgid "These workforce demographics are based on figures provided by your supplier to Issara Institute. Please note the figures correspond to the suppliers selected at top."
+#~ msgstr "ဤလုပ်သားအင်အားစုအခြေအနေပြဇယားသည် သင်လုပ်ငန်းရှင်မှ Issara Institute ကိုပေးထားသည့် ကိန်းဂဏာန်းများအပေါ် အခြေခံထားသည်။ တစ်ခုမှတ်ထားရမှာက ကိန်းဂဏန်းများသည် ထိပ်ဆုံးမှ ရွေးချယ်ထားသော လုပ်ငန်းရှင်နှင့် သက်ဆိုင်ကြောင်း သတိပြုပါ။"
+
+#~ msgid "Workforce Demographics"
+#~ msgstr "လုပ်သားအင်အားစုအခြေအနေပြဇယား"
+
+#~ msgid "Source Recruiters"
+#~ msgstr "မူရင်းနိုင်ငံမှအေဂျင်စီများ"
+
+#~ msgid "# Call References"
+#~ msgstr "# ဖုန်းခေါ်ဆိုမှုကိုးကားချက်"
+
+#~ msgid "No source recruiters logged for this Supplier KPI:"
+#~ msgstr "ဤ လုပ်ငန်းရှင် KPI အတွက် မူရင်းနိုင်ငံမှအေဂျင်စီများ စာရင်းသွင်းထားခြင်းမရှိပါ။"
+
+#~ msgid "Destination Recruiters"
+#~ msgstr "ဆိုက်ရောက်နိုင်ငံမှအေဂျင်စီများ"
+
+#~ msgid "No destination recruiters logged for this Supplier KPI:"
+#~ msgstr "ဤ လုပ်ငန်းရှင် KPI အတွက် ဆိုက်ရောက်နိုင်ငံမှအေဂျင်စီများ စာရင်းသွင်းထားခြင်းမရှိပါ။"
+
+#~ msgid "Please select Supplier KPI Updates for deletion."
+#~ msgstr "ဖျက်သိမ်းမှုလုပ်ရန်လုပ်ငန်းရှင်၏ KPI အပ်ဒိတ်များကိုရွေးချယ်ပါ။"
+
+#~ msgid "Delete Selected Supplier KPI Updates"
+#~ msgstr "ရွေးချယ်ထားသောလုပ်ငန်းရှင် KPI အပ်ဒိတ်များကိုဖျက်မည်"
+
+#~ msgid "Copy values from Supplier KPI Update:"
+#~ msgstr "လုပ်ငန်းရှင် KPI အပ်ဒိတ်မှ တန်ဖိုးများကိုကူးမည်။"
+
+#~ msgid "to Supplier KPI:"
+#~ msgstr "လုပ်ငန်းရှင်KPI ဆီသို့:"
+
+#~ msgid "View Update"
+#~ msgstr "အပ်ဒိတ်များကိုကြည့်မည်"
+
+#~ msgid "* KPI Current Status ⇢ "
+#~ msgstr "* KPI လက်ရှိအခြေအနေ⇢ "
+
+#~ msgid "Update #"
+#~ msgstr "အပ်ဒိတ် #"
+
+#~ msgid "status:"
+#~ msgstr "အခြေအနေများ:"
+
+#~ msgid "quality:"
+#~ msgstr "အရည်အသွေး:"
+
+#~ msgid "duration was open:"
+#~ msgstr "ဖွင့်ပေးထးသောအချိန်ကာလ:"
+
+#~ msgid "opened_at:"
+#~ msgstr "မှာ ဖွင့်ထားသည်:"
+
+#~ msgid "closed_at:"
+#~ msgstr "မှာ ပိတ်ထားသည်:"
+
+#~ msgid "closed_quality:"
+#~ msgstr "အမှုပိတ်သိမ်းခြင်း_အရည်အသွေး:"
+
+#~ msgid "updated:"
+#~ msgstr "အပ်ဒိတ်လုပ်နေသည်:"
+
+#~ msgid "closed_notes:"
+#~ msgstr "အမှုပိတ်ရသည့် မှတ်ချက်:"
+
+#~ msgid "documents_deadline:"
+#~ msgstr "စာရွက်စာတမ်းများ_နောက်ဆုံးသတ်မှတ်ရက်:"
+
+#~ msgid "payment_deadline:"
+#~ msgstr "ငွေပေးချေမှု_နောက်ဆုံးသတ်မှတ််ရက်:"
+
+#~ msgid "change_deadline:"
+#~ msgstr "နောက်ဆုံးသတ်မှတ်ရက်များကို ပြောင်းလဲမည်:"
+
+#~ msgid "progress:"
+#~ msgstr "တိုးတက်မှုများ:"
+
+#~ msgid "aligned:"
+#~ msgstr "ညှိထားသည်:"
+
+#~ msgid "steps:"
+#~ msgstr "အဆင့်များ:"
+
+#~ msgid "remaining:"
+#~ msgstr "ကျန်ရှိနေသော:"
+
+#~ msgid "remedation notes:"
+#~ msgstr "ကုစားခြင်းမှတ်ချက်များ:"
+
+#~ msgid "remediation action:"
+#~ msgstr "ကုစားခြင်းအတွက်အရေးယူဆောင်ရွက်ခြင်း:"
+
+#~ msgid "remmediation validation:"
+#~ msgstr "ကုစားမှုနှင့်ပတ်သက်ပြီးမှန်ကန်ကြောင်းအတည်ပြုခြင်း:"
+
+#~ msgid "remmediation results:"
+#~ msgstr "ကုစားခြင်းနှင့်ပတ်သက်သည့်ရလဒ်များ:"
+
+#~ msgid "affected_workers:"
+#~ msgstr "ထိခိုက်ခံရသော အလုပ်သမားများ:"
+
+#~ msgid "retaliation:"
+#~ msgstr "လက်တုံ့ပြန်ခြင်း:"
+
+#~ msgid "Call(s) Referencing this KPI"
+#~ msgstr "ဒီ KPI ကိုရည်ညွှန်းထားသောဖုန်းခေါ်ဆိုမှုများ"
+
+#~ msgid "Interacted:"
+#~ msgstr "Interacted:"
+
+#~ msgid "Modified:"
+#~ msgstr "မွမ်းမံပြင်ဆင်ထားသည်:"
+
+#~ msgid "Client Nickname:"
+#~ msgstr "ဖုန်းခေါ်ဆိုသူအခြားနာမည်:"
+
+#~ msgid "Client Phone Number:"
+#~ msgstr "ဖုန်းခေါ်ဆိုသူဖုန်းနံပါတ်:"
+
+#~ msgid "Assigned Issara Staff:"
+#~ msgstr "တာ၀န်ပေးထားသောအစ်ဆာရာ၀န်ထမ်း:"
+
+#~ msgid "Call Level:"
+#~ msgstr "ဖုန်းခေါ်ဆိုမှုအဆင့်:"
+
+#~ msgid "Source Recrutier:"
+#~ msgstr "မူရင်းနိုင်ငံမှအေဂျင်စီ:"
+
+#~ msgid "Destination Recrutier:"
+#~ msgstr "မူရင်းနိုင်ငံမှအေဂျင်စီ:"
+
+#~ msgid "Referal Notes:"
+#~ msgstr "အမှုလွဲမှတ်စုများ:"
+
+#~ msgid "Show Closed"
+#~ msgstr "ပိတ်ထားကြောင်းပြသည်"
+
+#~ msgid "Must set closed At Date when closing"
+#~ msgstr "အမှုပိတ်သည့်အခါတွင် စနစ်မှာပိတ်ထားတဲ့ရက်စွဲအတိုင်း  သတ်မှတ်ရပါမည်။"
+
+#~ msgid "Must set openedAt, this field can't be blank"
+#~ msgstr "အမှုဖွင့်ထားသည့်ရက်(OpenAt) ကို သတ်မှတ်ရမည်၊ ဤအကွက်ကို ကွက်လပ်ထား၍မရပါ။"
+
+#~ msgid "Remediation Deadline:"
+#~ msgstr "ပြန်လည်ကုစားခြင်းအတွက်နောက်ဆုံးသတ်မှတ်ရက်:"
+
+#~ msgid "Not implemented"
+#~ msgstr "အကောင်အထည်မဖော်ရသေးပါ"
+
+#~ msgid "Systems Change Deadline:"
+#~ msgstr "စနစ်များ ပြောင်းလဲခြင်းအတွက်နောက်ဆုံးသတ်မှတ်ရက်:"
+
+#~ msgid "# Impacted:"
+#~ msgstr "#ထိခိုက်ခံရသော:"
+
+#~ msgid "Opened At:"
+#~ msgstr "မှာ ဖွင့်ထားသည်:"
+
+#~ msgid "Closed At:"
+#~ msgstr "မှာ ပိတ်ထားသည်:"
+
+#~ msgid "Please assess quality of remediation"
+#~ msgstr "ကျေးဇူးပြုပြီး ပြန်လည်ကုစားခြင်းအတွက် အရည်အသွေးကိုအကဲဖြတ်ပါ။"
+
+#~ msgid "Please explain the rationale for this remediation outcome assessment."
+#~ msgstr "ကျေးဇူးပြု၍ ဤပြန်လည်ကုစားခြင်းရလဒ်အကဲဖြတ်ခြင်းအတွက် ကျိုးကြောင်းဆီလျော်မှုရှိ/မရှိကို ရှင်းပြပါ။"
+
+#~ msgid "Number of affected workers related to this KPI"
+#~ msgstr "ဒီKPIနဲ့ပတ်သက်ဆက်နွယ်မှုရှိသောထိခိုက်ခံရသည့်အလုပ်သမားအရေအတွက်"
+
+#~ msgid "Have there been any retaliation or threats to workers?"
+#~ msgstr "အလုပ်သမားများကို လက်တုံ့ပြန်ခြင်း သို့မဟုတ် ခြိမ်းခြောက်မှုများ ရှိခဲ့ပါသလား။"
+
+#~ msgid "Do not include in Supplier Dashboard as per risk assessment."
+#~ msgstr "အန္တရာယ်အကဲဖြတ်မှုအရ Supplier Dashboard တွင် မပါဝင်ပါနှင့်။ (မထည့်ပါနှင့်)"
+
+#~ msgid "Please summarize Issara's recommendations for remediation to address this KPI, including timeframe"
+#~ msgstr "အချိန်ကာလအပိုင်းအခြားအပါအဝင် ဤ KPI ကိုဖြေရှင်းရန်အတွက် ပြန်လည်ကုစားခြင်းအတွက် Issara ၏အကြံပြုချက်များကို အကျဉ်းချုပ်ဖော်ပြပါ။"
+
+#~ msgid "What date has been communicated as the recommended deadline for completion of payments and/or next major payment milestone?"
+#~ msgstr "ငွေပေးချေမှုများပြီးမြောက်ရန် အကြံပြုထားသော နောက်ဆုံးရက်နှင့်/သို့မဟုတ် နောက်လာမည့် အဓိကငွေပေးချေမှုမှတ်တိုင်အဖြစ် မည်သည့်ရက်စွဲကို အကြောင်းကြားထားသနည်း?"
+
+#~ msgid "How much progress has been made on remediation, as recommended by Issara?"
+#~ msgstr "Issara မှ အကြံပြုထားသည့်အတိုင်း ပြန်လည်ကုစားခြင်းတွင် တိုးတက်မှု ဘယ်လောက်ရှိပြီလဲ။"
+
+#~ msgid "How aligned are the business's responses with Issara's recommendations and international ethical standards?"
+#~ msgstr "စီးပွားရေးလုပ်ငန်း၏ တုံ့ပြန်မှုများသည် Issara ၏ အကြံပြုချက်များနှင့် နိုင်ငံတကာကျင့်ဝတ်စံနှုန်းများနှင့်  မည်မျှ လိုက်လျောညီထွေရှိသနည်း။"
+
+#~ msgid "Describe steps taken by the business so far."
+#~ msgstr "ယခုအချိန်အထိ အလုပ်ရှင်ဘက်က ဆောင်ရွက်ခဲ့သည့် အဆင့်များကို ဖော်ပြပါ။"
+
+#~ msgid "Describe steps remaining by the business."
+#~ msgstr "လုပ်ငန်းရှင်မှအရေးယူဆောင်ရွက်ရန်ကျန်နေသောအဆင့်များ:"
+
+#~ msgid "How much money is owed in total to all workers? (If none is owed, please enter '0')"
+#~ msgstr "အလုပ်သမားအားလုံးကိုဆပ်ရန်ရှိသည့် စုစုပေါင်းအကြွေး ဘယ်လောက်ရှိလဲ။ (အကြွေးမတင်ပါက '0' ဟု ရိုက်ထည့်ပါ)"
+
+#~ msgid " How much money has been paid back so far? (If none is has been paid, please enter '0')"
+#~ msgstr "အခုထိ အလုပ်သမားအားလုံးကို ငွေဘယ်လောက်ပြန်ဆပ်ပြီးပြီလဲ။။ (ဘာမှပြန်မဆပ်ရသေးပါက '0' ဟု ရိုက်ထည့်ပါ)"
+
+#~ msgid "(* Special field for Mark or Lisa Only) Please share any other detail about remediation results."
+#~ msgstr "(* Mark သို့မဟုတ် Lisa အတွက် ဖြည့်ရန် သီးသန့်နေရာ) ကျေးဇူးပြု၍ ပြန်လည်ကုစားခြင်းရလဒ်များအကြောင်းနှင့်ပတ်သက်ပြီး အခြားအသေးစိတ်အချက်အလက်များကို မျှဝေပါ။"
+
+#~ msgid "Please summarize Issara's recommendations for systems change to address this KPI, including timeframe."
+#~ msgstr "အချိန်ကာလအပိုင်းအခြားအပါအဝင် ဤ KPI ကိုဖြေရှင်းရန်လိုအပ်တဲ့ စနစ်များပြောင်းလဲခြင်းအတွက် Issara ၏အကြံပြုချက်များကို အကျဉ်းချုပ်ဖော်ပြပါ။"
+
+#~ msgid "How much progress has been made on systems change, as recommended by Issara?"
+#~ msgstr "Issara မှ အကြံပြုထားသည့်အတိုင်း စနစ်များ ပြောင်းလဲခြင်းတွင် တိုးတက်မှု မည်မျှရှိသနည်း။"
+
+#~ msgid "Anonymous Supplier"
+#~ msgstr "နာမည်မဖော်ပြထားသောလုပ်ငန်းရှင်"
+
+#~ msgid "The Issara Institute launched the Suppliers Dashboard in 2022, building upon the feedback and aspirations of the Issara Institute team, Suppliers, and donors."
+#~ msgstr "Issara Institute သည် Suppliers Dashboard ကို 2022 ခုနှစ်တွင် စတင်ခဲ့ပြီး Issara Institute အဖွဲ့သားများ၊ လုပ်ငန်းရှင်များနှင့် အလှူရှင်များ၏ အကြံပြုချက်များနှင့် မျှော်မှန်းချက်များကို အခြေခံ၍ စတင်ခဲ့သည်။"
+
+#~ msgid "Objective: The objective of this Dashboard is to provide suppliers with a robust tool to help monitor, benchmark, remediate, and improve labor issues, systems, and business performance in global supply chains."
+#~ msgstr "ရည်ရွယ်ချက်- ဤ Dashboard ၏ ရည်ရွယ်ချက်မှာ ကမ္ဘာလုံးဆိုင်ရာ ကုန်စီစီးဆင်းမှုကွင်းဆက်များတွင် စောင့်ကြည့်ကြပ်မတ်ရန်၊ စံသတ်မှတ်ချက်၊ ပြန်လည်ပြင်ဆင်ခြင်းနှင့် အလုပ်သမားရေးရာပြဿနာများ၊ စနစ်များနှင့် လုပ်ငန်းစွမ်းဆောင်ရည်များ တိုးတက်ကောင်းမွန်လာစေရန်အတွက် လုပ်ငန်းရှင်များအား ခိုင်မာသောကိရိယာတစ်ခုဖြင့် ပံ့ပိုးပေးရန်ဖြစ်သည်။"
+
+#~ msgid "Confidentiality: The information in the Dashboard is confidential to each supplier and is tailored to your own unique company. All information provided via the Dashboard is governed by your company’s Suppliers Partner agreement with Issara Institute. The information may not be shared externally."
+#~ msgstr "လျှို့ဝှက်ထားမှု- Dashboard ရှိ အချက်အလက်များသည် လုပ်ငန်းရှင်တိုင်းအတွက် လျှို့ဝှက်ထားပြီး သင့်ကိုယ်ပိုင်ကုမ္ပဏီနှင့် အံဝင်ခွင်ကျဖြစ်စေပါသည်။ ဒက်ရှ်ဘုတ် (Dashboard) မှတစ်ဆင့် တင်ပြထားသည့် အချက်အလက်အားလုံးကို Issara Institute နှင့် သင့်ကုမ္ပဏီ၏ \"လုပ်ငန်းရှင် နှင့် မိတ်ဆက် သဘောတူညီချက်\" (Suppliers Partner agreement with Issara Institute) ဖြင့် အုပ်ချုပ်သည်။ အချက်အလက်များကို ပြင်ပတွင် မျှဝေခြင်းမပြုနိုင်ပါ။"
+
+#~ msgid "Features: Issara will continue to advance features within the Dashboard, and we welcome your feedback and input to make the Dashboard as useful and impactful as possible. For example, benchmarking and trend analysis are slated for upcoming iterations. How this information may be integrated with your internal practices and protocols (current and planned), will also be part of discussions with each supplier. "
+#~ msgstr "အင်္ဂါရပ်များ- Issara သည် ဒက်ရှ်ဘုတ်အတွင်းရှိ အင်္ဂါရပ်များကို ဆက်လက်မြှင့်တင်သွားမည်ဖြစ်ပြီး Dashboard ကို တတ်နိုင်သမျှ အသုံးဝင်ပြီး အကျိုးသက်ရောက်မှုရှိစေရန် သင်၏တုံ့ပြန်ချက်နှင့် အကြံပြုမှုကို ကျွန်ုပ်တို့ကြိုဆိုပါသည်။ ဥပမာအားဖြင့်၊ စံညွှန်းသတ်မှတ်ခြင်းနှင့် ခေတ်ရေစီးကြောင်းနှင့် လိုက်လျှောညီထွေမှုရှိသော ခွဲခြမ်းစိတ်ဖြာခြင်းကို လာမည့်လုပ်ငန်းစဥ်အစီအစဥ်များအတွက် စီစဉ်ထားသည်။ ဤအချက်အလက်ကို သင်၏ ကုမ္ပဏီတွင်းကျင့်သုံးနေသော အလေ့အကျင့်များနှင့် ပရိုတိုကောများ (လက်ရှိနှင့် စီစဉ်ထားသည့်) ကို မည်သို့ပေါင်းစပ်နိုင်နိုင်ကြောင်း ကို ဆွေးနွေးခြင်း တစ်စိတ်တစ်ပိုင်းလည်းဖြစ်သည်။"
+
+#~ msgid "We are excited about the breadth of information, data analysis, and transparency that the Suppliers Dashboard can provide. We look forward to our ongoing collaboration with you to support ethical labour recruitment and improved working conditions. If you have any questions, please contact your Issara Institute Supplier dashboard focal point,"
+#~ msgstr "Suppliers Dashboard မှပေးစွမ်းနိုင်သည့် ကျယ်ပြန့်သော အချက်အလက်၊ ဒေတာခွဲခြမ်းစိတ်ဖြာမှုနှင့် ပွင့်လင်းမြင်သာမှုတို့အတွက် ကျွန်ုပ်တို့ စိတ်လှုပ်ရှားမိပါသည်။ ကျင့်ဝတ်ဆိုင်ရာ အလုပ်သမား စုဆောင်းရေးနှင့် ပိုမိုကောင်းမွန်သော လုပ်ငန်းခွင်အခြေအနေများကို ပံ့ပိုးကူညီရန် ကျွန်ုပ်တို့၏ ဆက်လက်ပူးပေါင်းဆောင်ရွက်မှုကို မျှော်လင့်ပါသည်။ သင့်တွင်မေးခွန်းများရှိပါက ကျေးဇူးပြု၍ သင်၏ (အစ်ဆာရာအင်စတီကျုလုပ်ငန်းရှင်များ ဒတ်ရှ်ဘုတ်) Issara Institute Supplier Dashboard ကို ဆက်သွယ်ပါ။  "
+
+#~ msgid "Mark Taylor"
+#~ msgstr "မတ်(ခ်)တေလာ"
+
+#~ msgid " While we have made our best efforts to ensure the accuracy and reliability of the information collected and contained in this dashboard, Issara Institute is not responsible for any errors or omissions, or for the results obtained from the use of this information."
+#~ msgstr "ဤဒက်ရှ်ဘုတ်တွင်ပါရှိသော အချက်အလက်များ၏ တိကျမှုနှင့် ယုံကြည်စိတ်ချရမှုတို့ကို သေချာစေရန် ကျွန်ုပ်တို့၏ အကောင်းဆုံးကြိုးပမ်းအားထုတ်မှုများ ပြုလုပ်ထားသော်လည်း၊ Issara Institute အနေဖြင့် မည်သည့်အမှားအယွင်းများ (သို့မဟုတ်) ပျက်ကွက်မှုများ (သို့မဟုတ်)ဤအချက်အလက်အသုံးပြုမှုမှ ရရှိသောရလဒ်များအတွက် တာဝန်ယူမည်မဟုတ်ပါ။"
+
+#~ msgid "All information in this dashboard is provided \"as is\", with no guarantee of completeness, accuracy, timeliness or of the results obtained from the use of this information, and without warranty of any kind, express or implied, including, but not limited to warranties of performance, merchantability and fitness for a particular purpose. Nothing herein shall to any extent substitute for the independent investigation and the sound technical and business judgment of the reader."
+#~ msgstr "ဤဒက်ရှ်ဘုတ်ရှိ အချက်အလက်အားလုံးကို ပြည့်စုံမှု၊ တိကျမှု၊ အချိန်မီမှု သို့မဟုတ် ဤအချက်အလက်အသုံးပြုမှုမှရရှိသော ရလဒ်များ၏ အာမခံချက်မရှိဘဲ \"ဖြစ်စဥ်အတိုင်း\" ပေးထားသည်။ ဒါ့အပြင် သီးခြားရည်ရွယ်ချက်တစ်ခုအတွက် အာမခံချက်မရှိဘဲ၊ စွမ်းဆောင်ရည်၊ ရောင်းဝယ်ဖောက်ကားနိုင်မှုနှင့် ကြံ့ခိုင်မှုဆိုင်ရာ အာမခံချက်များအတွက် အကန့်အသတ်မရှိ အပါအဝင်၊ ဖော်ပြထားသည် (သို့မဟုတ်) အဓိပ္ပာယ်ဖွင့်ဆိုထားသည်။ ဤနေရာတွင် မည်သည့်အရာမှ လွတ်လပ်သော စုံစမ်းစစ်ဆေးမှုနှင့် စာဖတ်သူ၏ ခိုင်မာသော နည်းပညာပိုင်းနှင့် စီးပွားရေးဆိုင်ရာ စီရင်ဆုံးဖြတ်မှုအတွက် မည်သည့်အတိုင်းအတာအထိ အစားထိုးမည်မဟုတ်ပါ။"
+
+#~ msgid "Any views, opinions and guidance set out in this dashboard are provided for information purposes only, and do not purport to be legal and/or professional advice or a definitive interpretation of any law. In no event will Issara Institute or its employees be liable to you or anyone else for any decision made or action taken in reliance on the information in this report or for any consequential,special or similar damages, even if advised of the possibility of such damages. The information contained in this dashboard is intended solely to provide general guidance on matters of interest for the use of the reader, who accepts full responsibility for its use."
+#~ msgstr "ဤဒက်ရှ်ဘုတ်တွင်ဖော်ပြထားသော မည်သည့်အမြင်များ၊ ထင်မြင်ယူဆချက်များနှင့် လမ်းညွှန်ချက်များသည် သတင်းအချက်အလတ်များအတွက်သာ ပံ့ပိုးပေးထားပြီး ဥပဒေနှင့်/သို့မဟုတ် ပရော်ဖက်ရှင်နယ် အကြံဉာဏ်များ သို့မဟုတ် ဥပဒေတစ်ခုခု၏ တိကျသေချာသော အဓိပ္ပာယ်ဖွင့်ဆိုချက်ဖြစ်ရန် မရည်ရွယ်ပါ။ Issara Institute သို့မဟုတ် ၎င်း၏ဝန်ထမ်းများသည် ဤအစီရင်ခံစာပါ အချက်အလက်များအပေါ် အားကိုး၍ ပြုလုပ်ခဲ့သော ဆုံးဖြတ်ချက် သို့မဟုတ် လုပ်ဆောင်မှုများအတွက် သို့မဟုတ် အကျိုးဆက်ဖြစ်သော၊ အထူး သို့မဟုတ် အလားတူ ပျက်စီးဆုံးရှုံးမှုများအတွက် အကြံပေးထားလျှင်ပင် မည်သည့်ဖြစ်ရပ်အတွက်မဆို Issara Institute သို့မဟုတ် ၎င်း၏ဝန်ထမ်းများသည် သင် သို့မဟုတ် အခြားသူတစ်ဦးဦးထံတွင် တာဝန်ယူမည်မဟုတ်ပါ။ ဤဒက်ရှ်ဘုတ်တွင်ပါရှိသော အချက်အလက်များသည် စာဖတ်သူ (သုံးစွဲသူ) ၏အသုံးပြုမှုအတွက် စိတ်ဝင်စားဖွယ်ကိစ္စရပ်များအတွက် ယေဘုယျလမ်းညွှန်ချက်ပေးရန် ရည်ရွယ်ပြီး ၎င်းကိုအသုံးပြုမှုအတွက် အပြည့်အဝတာဝန်ယူသော စာဖတ်သူ (အသုံးပြုသူ)သာ  အသုံးပြုရန်ဖြစ်သည်။"
+
+#~ msgid "\"Lng\""
+#~ msgstr "\"Lng\""
+
+#~ msgid "(*New Master*) -"
+#~ msgstr "(*New Master*) -"
+
+#~ msgid "Supplier Message Board(Found: "
+#~ msgstr "ပါတနာ မက်ဆေ့ချ်ဘုတ် (ရှာဖွေတွေ့ရှိသည်:"
+
+#~ msgid "fishing_gear_liscense_number:"
+#~ msgstr "ငါးဖမ်းခြင်_ဂီယာ_လိုင်စင်_နံပါတ်:"
+
+#~ msgid "Tier_Id:"
+#~ msgstr "အဆင့်(Tier)_ID:"
+
+#~ msgid "WORK INDICATOR 2. % of worker-reported issues in the supply chain resolved in under 60 days"
+#~ msgstr "အလုပ်အညွှန်း ၂. ကုန်စည်စီးဆင်းမှုကွင်းဆက်ရှိ အလုပ်သမား တင်ပြထားသော ပြဿနာများကို ရက် 60 အတွင်း ဖြေရှင်းနိုင်သည့် ရာခိုင်နှုန်း"
+
+#~ msgid "WORK INDICATOR 3. % of remediation efforts of specific issues resolved at Poor, Fair, Good and Excellent level"
+#~ msgstr "အလုပ်အညွှန်း ၂.\"အတော်အသင့်\"၊ \"ကောင်းသော\" သို့မဟုတ် \"အလွန်ကောင်းသော\" အဆင့်တွင် ဖြေရှင်းနိုင်ခဲ့သည့် သီးသန့်ပြဿနာများအတွက် ပြန်လည်ကုစားရေးကြိုးပမ်းမှု ရာခိုင်နှုန်း"
+
+#~ msgid "WORKER VOICE"
+#~ msgstr "အလုပ်သမားအသံ"
+
+#~ msgid "Grey = Not yet initiated; Yellow = Partial progress; Green = Completed/ongoing"
+#~ msgstr "မီးခိုးရောင် = မစတင်သေးပါ။ အဝါရောင် = တစ်စိတ်တစ်ပိုင်း တိုးတက်မှု၊ အစိမ်းရောင် = ပြီးစီးသည်/လုပ်ဆောင်နေဆဲ"
+
+#~ msgid "LABOUR RECRUITMENT"
+#~ msgstr "လုပ်သားစုဆောင်းရေး"
+
+#~ msgid "WORKING CONDITIONS"
+#~ msgstr "လုပ်ငန်းခွင်အခြေအနေများ"
+
+#~ msgid "Number of workers with access to Issara worker voice channels"
+#~ msgstr "အစ်ဆာရာအလုပ်သမား အသံချန်နယ်များနှင့် ထိတွေ့ဆက်သွယ်နိုင်သော အလုပ်သမားအရေအတွက်"
+
+#~ msgid "Not available"
+#~ msgstr "မရနိုင်ပါ"
+
+#~ msgid "Date of most recent recruitment survey"
+#~ msgstr "နောက်ဆုံး အလုပ်အကိုင်ရှာဖွေမှုဆိုင်ရာကုန်ကျစရိတ် စစ်တမ်းကောက်ယူမှု နေ့စွဲ "
+
+#~ msgid "Number of workers reimbursed recruitment fees"
+#~ msgstr "အလုပ်အကိုင်ရှာဖွေမှုဆိုင်ရာကုန်ကျစရိတ်ကိုပြန်လည်ရရှိသောအလုပ်သမားအရေအတွက်"
+
+#~ msgid "Remaining number of workers owed recruitment fee reimbursement"
+#~ msgstr "အလုပ်အကိုင်ရှာဖွေရေးဆိုင်ရာကုန်ကျစရိတ် ပြန်ဆပ်ရန် ကျန်ရှိသည့် အလုပ်သမားများ အရေအတွက်"
+
+#~ msgid "Total amount of recruitment fees reimbursed to workers (US dollars)"
+#~ msgstr "အလုပ်သမားများကိုပြန်ပေးသည့်အလုပ်အကိုင်ရှာဖွေရေးဆိုင်ရာကုန်ကျစရိတ်စုစုပေါင်းပမာဏ (ဒေါ်လာဖြင့်)"
+
+#~ msgid "Remaining amount owed, recruitment fee reimbursement to workers (US dollars)"
+#~ msgstr "အလုပ်သမားများကိုပြန်ပေးရန် ကျန်ရှိနေသည့်အလုပ်အကိုင်ရှာဖွေရေးဆိုင်ရာကုန်ကျစရိတ်စုစုပေါင်းပမာဏ (ဒေါ်လာဖြင့်)"
+
+#~ msgid "Report File Uploader"
+#~ msgstr "ဖိုင်အပ်လုတ်ဒါကို ရီပို့ထုမည်။"
+
+#~ msgid "Please enter the name of the report and select the file"
+#~ msgstr "ကျေးဇူးပြု၍ အစီရင်ခံစာအမည်ကို ရိုတ်ထည့်ပါ။ ပြီးရင် ဖိုင်ကို ရွေးပါ။ "
+
+#~ msgid "Upload"
+#~ msgstr "အပ်လုတ်မည်(တင်မည်)"
+
+#~ msgid "Supplier Login Tracking (Found: "
+#~ msgstr "လုပ်ငန်းရှင် အကောင့်ဝင်ခြင်း (log-in) ခြေရာခံခြင်း (တွေ့ရှိသည်:"
+
+#~ msgid "Supplier Logins:"
+#~ msgstr "လုပ်ငန်းရှင်အကောင့်၀င်ခြင်းများ (Logins):"
+
+#~ msgid "No Supplier Logins at this time."
+#~ msgstr "လက်ရှိ ဘယ်လုပ်ငန်းရှင်မှ အကောင့်ဝင်ထားခြင်း (log-in)မရှိပါ။"
+
+#~ msgid "Strategic Partners"
+#~ msgstr "မဟာဗျူဟာမိတ်ဖက်(၀ယ်လက်)"
+
+#~ msgid "Other Primary Focus Description"
+#~ msgstr "အခြားအဓိကအာရုံစိုက်နေသောအကြောင်းအရာ"
+
+#~ msgid "Estimated number of people reached"
+#~ msgstr "ရောက်ရှိနိုင်မည့် ခန့်မှန်းခြေ လူအရေအတွက် "
+
+#~ msgid "This value can not be greater than the total "
+#~ msgstr "ဤတန်ဖိုးသည် စုစုပေါင်းတန်ဖိုးထက် မပိုနိုင်ပါ။"
+
+#~ msgid "MM Hotline Total"
+#~ msgstr "မြန်မာဟော့လိုင်းစုစုပေါင်း"
+
+#~ msgid "MM Facebok Total"
+#~ msgstr "မြန်မာဖေ့ဘုတ်စုစုပေါင်း"
+
+#~ msgid "MM Line Total"
+#~ msgstr "မြန်မာလိုင်း(စိမ်း)စုစုပေါင်း"
+
+#~ msgid "MM Viber Total"
+#~ msgstr "မြန်မာဘိုင်ဘာစုစုပေါင်း"
+
+#~ msgid "CB Hotline Total"
+#~ msgstr "ကမ္ဘောဒီးယားဟော့လိုင်းစုစုပေါင်း"
+
+#~ msgid "CB Line Total"
+#~ msgstr "ကမ္ဘောဒီးယားလိုင်း(စိမ်း)စုစုပေါင်း"
+
+#~ msgid "CB Telegram Total"
+#~ msgstr "ကမ္ဘောဒီးယားတယ်လီဂရမ်စုစုပေါင်း"
+
+#~ msgid "CB Viber Total"
+#~ msgstr "ကမ္ဘောဒီးယားဘိုင်ဘာစုစုပေါင်း"
+
+#~ msgid "TH Hotline Total"
+#~ msgstr "ထိုင်းဟော့လိုင်းစုစုပေါင်း"
+
+#~ msgid "TH Facebook Total"
+#~ msgstr "ထိုင်းဖေ့ဘုတ်စုစုပေါင်း"
+
+#~ msgid "TH Line Total"
+#~ msgstr "ထိုင်းလိုင်း(စိမ်း)စုစုပေါင်း"
+
+#~ msgid "TH Viber Total"
+#~ msgstr "ထိုင်းဘိုင်ဘာစုစုပေါင်း"
+
+#~ msgid " No. of Workers Reached In Pre-Departure mm"
+#~ msgstr "ပြည်ပမထွက်ခွာခင်အကြိုသင်တန်းမှာချိတ်ဆက်မိသောအလုပ်သမားများအရေအတွက် (မြန်မာ)"
+
+#~ msgid "update"
+#~ msgstr "အပ်ဒိတ်"
+
+#~ msgid "Well Done!!"
+#~ msgstr "အောင်မြင်သည်! "
+
+#~ msgid "Reset Password"
+#~ msgstr "လျှို့ဝှက်ကုတ်အသစ်ပြန်လည်သတ်မှတ်မည်"

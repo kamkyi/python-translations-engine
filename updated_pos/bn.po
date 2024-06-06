@@ -1,0 +1,2723 @@
+#
+msgid ""
+msgstr ""
+
+#: src/views/calls/WizardSteps/EmploymentFields.js
+msgid "1"
+msgstr ""
+
+#: src/views/calls/WizardSteps/EmploymentFields.js
+msgid "2"
+msgstr ""
+
+#: src/views/calls/WizardSteps/EmploymentFields.js
+msgid "3"
+msgstr ""
+
+#: src/views/calls/WizardSteps/EmploymentFields.js
+msgid "4"
+msgstr ""
+
+#: src/views/calls/WizardSteps/EmploymentFields.js
+msgid "5"
+msgstr ""
+
+#: src/components/Footer/Footer.js
+msgid "Issara Institute"
+msgstr ""
+
+#: src/components/Footer/Footer.js
+msgid "All rights reserved. V3.0.0"
+msgstr ""
+
+#: src/components/ilmdb/CallerStatusDropdown.js
+#: src/views/calls/InteractionCallModal.js
+msgid "Client Status"
+msgstr ""
+
+#: src/components/ilmdb/CallerStatusDropdown.js
+msgid "Status of Client"
+msgstr ""
+
+#: src/components/ilmdb/CaseCategoriesDropdown.js
+#: src/views/calls/InteractionCallModal.js
+msgid "Case/Call Type"
+msgstr ""
+
+#: src/components/ilmdb/CaseCategoriesDropdown.js
+msgid "Type of Call/Case"
+msgstr ""
+
+#: src/components/ilmdb/ChannelsDropdown.js
+msgid "Worker Voice Channel"
+msgstr ""
+
+#: src/components/ilmdb/ClientTypesDropdown.js
+#: src/views/calls/InteractionCallModal.js
+msgid "Client Type"
+msgstr ""
+
+#: src/components/ilmdb/ClientTypesDropdown.js
+msgid "Type of Client"
+msgstr ""
+
+#: src/components/ilmdb/ContractTypesDropdown.js
+msgid "Daily worker"
+msgstr ""
+
+#: src/components/ilmdb/ContractTypesDropdown.js
+msgid "Piece work"
+msgstr ""
+
+#: src/components/ilmdb/ContractTypesDropdown.js
+msgid "Seasonal worker"
+msgstr ""
+
+#: src/components/ilmdb/ContractTypesDropdown.js
+msgid "Full-time position"
+msgstr ""
+
+#: src/components/ilmdb/ContractTypesDropdown.js
+#: src/components/ilmdb/GendersDropdown.js
+#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
+msgid "Other"
+msgstr ""
+
+#: src/components/ilmdb/ContractTypesDropdown.js
+#: src/views/calls/InteractionCallModal.js
+msgid "Contract Type"
+msgstr ""
+
+#: src/components/ilmdb/CountriesDropdown.js
+#: src/views/calls/InteractionCallModal.js
+#: src/views/references/KpiLegalViolationList.js
+#: src/views/suppliers/SupplierKPIsList.js src/views/suppliers/SupplierList.js
+msgid "Country"
+msgstr ""
+
+#: src/components/ilmdb/DistrictsDropdown.js
+#: src/views/calls/InteractionCallModal.js src/views/suppliers/SupplierList.js
+msgid "District"
+msgstr ""
+
+#: src/components/ilmdb/DocumentTypesDropdown.js
+msgid "Undocumented"
+msgstr ""
+
+#: src/components/ilmdb/DocumentTypesDropdown.js
+msgid "Pink card"
+msgstr ""
+
+#: src/components/ilmdb/DocumentTypesDropdown.js
+msgid "CI/TD"
+msgstr ""
+
+#: src/components/ilmdb/DocumentTypesDropdown.js
+msgid "Passport"
+msgstr ""
+
+#: src/components/ilmdb/DocumentTypesDropdown.js
+msgid "Border pass"
+msgstr ""
+
+#: src/components/ilmdb/DocumentTypesDropdown.js
+msgid ""
+msgstr ""
+
+#: src/components/ilmdb/DocumentTypesDropdown.js
+#: src/views/calls/InteractionCallModal.js
+msgid "Document Type"
+msgstr ""
+
+#: src/components/ilmdb/EthnicitiesDropdown.js
+#: src/views/calls/InteractionCallModal.js
+msgid "Ethnicity"
+msgstr ""
+
+#: src/components/ilmdb/FieldworkTypeDropdown.js
+msgid "Fetching fieldwork types.."
+msgstr ""
+
+#: src/components/ilmdb/FieldworkTypeDropdown.js
+msgid "Activity Type"
+msgstr ""
+
+#: src/components/ilmdb/GendersDropdown.js
+msgid "Select Gender"
+msgstr ""
+
+#: src/components/ilmdb/GendersDropdown.js
+#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
+msgid "Male"
+msgstr ""
+
+#: src/components/ilmdb/GendersDropdown.js
+#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
+msgid "Female"
+msgstr ""
+
+#: src/components/ilmdb/GendersDropdown.js
+msgid "Non-Binary"
+msgstr ""
+
+#: src/components/ilmdb/GendersDropdown.js
+#: src/views/calls/InteractionCallList.js
+#: src/views/calls/InteractionCallModal.js
+msgid "Gender"
+msgstr ""
+
+#: src/components/ilmdb/HowHearIssara.js
+msgid "How did the client hear about the organization? (check all that apply)"
+msgstr ""
+
+#: src/components/ilmdb/HowHearIssara.js
+msgid "How did the client hear about Issara? (check all that apply)"
+msgstr ""
+
+#: src/components/ilmdb/HowHearIssara.js
+#: src/views/Dashboard/KpiReferencesList.js
+#: src/views/references/KpiReferencesList.js
+msgid "Loading..."
+msgstr ""
+
+#: src/components/ilmdb/IssaraStaffDropdown.js
+msgid "Fetching suppliers..."
+msgstr ""
+
+#: src/components/ilmdb/IssaraStaffDropdown.js
+msgid "Organization staff"
+msgstr ""
+
+#: src/components/ilmdb/IssaraStaffDropdown.js
+#: src/views/calls/InteractionCallModal.js
+msgid "Issara Staff"
+msgstr ""
+
+#: src/components/ilmdb/KpiCategoriesDropdown.js
+msgid "Fetching KPI categories.."
+msgstr ""
+
+#: src/components/ilmdb/KpiCategoriesDropdown.js
+msgid "KPI category"
+msgstr ""
+
+#: src/components/ilmdb/KpiSelector.js
+msgid "KPI(s)"
+msgstr ""
+
+#: src/components/ilmdb/KpiSelector.js
+msgid "Edit"
+msgstr ""
+
+#: src/components/ilmdb/KpiSelector.js
+#: src/views/Dashboard/KpiReferencesList.js
+#: src/views/references/KpiReferencesList.js
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Category"
+msgstr ""
+
+#: src/components/ilmdb/KpiSelector.js src/views/calls/InteractionCallList.js
+msgid "Kpi"
+msgstr ""
+
+#: src/components/ilmdb/KpiSelector.js src/views/calls/InteractionCallList.js
+#: src/views/Dashboard/KpiReferencesList.js
+#: src/views/references/KpiReferencesList.js
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Level"
+msgstr ""
+
+#: src/components/ilmdb/KpiSelector.js
+#: src/views/Dashboard/KpiReferencesList.js
+#: src/views/references/KpiReferencesList.js
+msgid "Goal"
+msgstr ""
+
+#: src/components/ilmdb/KpiSelector.js
+msgid "Done"
+msgstr ""
+
+#: src/components/ilmdb/KpiSelector.js
+msgid "Loading.."
+msgstr ""
+
+#: src/components/ilmdb/NationalitiesDropdown.js
+#: src/views/calls/InteractionCallList.js
+#: src/views/calls/InteractionCallModal.js
+msgid "Nationality"
+msgstr ""
+
+#: src/components/ilmdb/ProvincesDropdown.js
+#: src/views/calls/InteractionCallModal.js src/views/suppliers/SupplierList.js
+msgid "Province"
+msgstr ""
+
+#: src/components/ilmdb/ReasonsDropdown.js
+msgid "Purpose of Call/Message"
+msgstr ""
+
+#: src/components/ilmdb/ReasonsDropdown.js
+msgid "Purpose"
+msgstr ""
+
+#: src/components/ilmdb/RecruitersDropdown.js
+msgid "Fetching recruiters.."
+msgstr ""
+
+#: src/components/ilmdb/SuppliersDropdown.js
+msgid "Fetching suppliers.."
+msgstr ""
+
+#: src/components/Navbars/AdminNavbarLinks.js
+#: src/components/Navbars/AdminNavbarLinks.Old.js
+msgid "English"
+msgstr ""
+
+#: src/components/Navbars/AdminNavbarLinks.js
+#: src/components/Navbars/AdminNavbarLinks.Old.js
+msgid "Nepali"
+msgstr ""
+
+#: src/components/Navbars/AdminNavbarLinks.js
+#: src/components/Navbars/AdminNavbarLinks.Old.js
+#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
+msgid "Burmese"
+msgstr ""
+
+#: src/components/Navbars/AdminNavbarLinks.js
+#: src/components/Navbars/AdminNavbarLinks.Old.js
+#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
+msgid "Thai"
+msgstr ""
+
+#: src/components/Navbars/AdminNavbarLinks.js
+#: src/components/Navbars/AdminNavbarLinks.Old.js
+msgid "Japanese"
+msgstr ""
+
+#: src/components/Navbars/AdminNavbarLinks.js
+#: src/components/Navbars/AdminNavbarLinks.Old.js
+msgid "Person"
+msgstr ""
+
+#: src/components/Navbars/AdminNavbarLinks.js
+#: src/components/Navbars/AdminNavbarLinks.Old.js
+msgid "Profile"
+msgstr ""
+
+#: src/components/Navbars/AdminNavbarLinks.js
+#: src/components/Navbars/AdminNavbarLinks.Old.js
+msgid "Log out"
+msgstr ""
+
+#: src/components/Navbars/LanguageChangeDialog.js
+msgid "Are you sure want to change the language ?"
+msgstr ""
+
+#: src/components/Navbars/LanguageChangeDialog.js
+msgid "Are you sure want to change the language to"
+msgstr ""
+
+#: src/components/Navbars/LanguageChangeDialog.js
+msgid "The application will be refreshed to effect the changed language."
+msgstr ""
+
+#: src/components/Navbars/LanguageChangeDialog.js
+msgid "Cancel"
+msgstr ""
+
+#: src/components/Navbars/LanguageChangeDialog.js
+msgid "Yes, Sure Please"
+msgstr ""
+
+#: src/layouts/Admin.js
+msgid "ILM 3.0"
+msgstr ""
+
+#: src/routes.js src/views/suppliers/SupplierModal.js
+msgid "Worker Voice"
+msgstr ""
+
+#: src/routes.js
+msgid "Add Call"
+msgstr ""
+
+#: src/routes.js
+msgid "View Calls"
+msgstr ""
+
+#: src/routes.js
+msgid "Team Activities"
+msgstr ""
+
+#: src/routes.js
+msgid "Add activity"
+msgstr ""
+
+#: src/routes.js
+msgid "Add monthly WV metrics"
+msgstr ""
+
+#: src/routes.js
+msgid "WV and ER metrics"
+msgstr ""
+
+#: src/routes.js
+msgid "Team Tasks"
+msgstr ""
+
+#: src/routes.js
+msgid "Internal Dashboards"
+msgstr ""
+
+#: src/routes.js
+msgid "Team Activity Dashboard"
+msgstr ""
+
+#: src/routes.js
+msgid "Case management"
+msgstr ""
+
+#: src/routes.js
+msgid "Kpi Updates"
+msgstr ""
+
+#: src/routes.js
+msgid "View Supplier KPIs bulk update"
+msgstr ""
+
+#: src/routes.js src/views/calls/InteractionCallList.js
+#: src/views/calls/WizardSteps/RequiredCallFields.js
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/TeamActivity/FieldworkActivityForm.js
+msgid "Suppliers"
+msgstr ""
+
+#: src/routes.js
+msgid "View Suppliers"
+msgstr ""
+
+#: src/routes.js
+msgid "References"
+msgstr ""
+
+#: src/routes.js
+msgid "Kpi References"
+msgstr ""
+
+#: src/routes.js
+msgid "Legal Violations"
+msgstr ""
+
+#: src/routes.js src/views/users/ChangePasswordForm.js
+msgid "Change Password"
+msgstr ""
+
+#: src/routes.js
+msgid "Password Reset"
+msgstr ""
+
+#: src/routes.js
+msgid "Login Page"
+msgstr ""
+
+#: src/routes.js
+msgid "Enter 2 Factor Code"
+msgstr ""
+
+#: src/routes.js
+msgid "Lock Screen Page"
+msgstr ""
+
+#: src/routes.js
+msgid "Error Page"
+msgstr ""
+
+#: src/views/calls/InteractionCallList.js
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/suppliers/SupplierKPIsList.js
+#: src/views/teamtasks/EnhancedTeamTasksList.js
+msgid "Download As XLS File"
+msgstr ""
+
+#: src/views/calls/InteractionCallList.js
+msgid "Edit Item:"
+msgstr ""
+
+#: src/views/calls/InteractionCallList.js
+#: src/views/teamtasks/EnhancedTeamTasksList.js
+msgid "View Item:"
+msgstr ""
+
+#: src/views/calls/InteractionCallList.js
+msgid "No KPIs logged for this call id:"
+msgstr ""
+
+#: src/views/calls/InteractionCallList.js
+msgid "Worker Voice Calls"
+msgstr ""
+
+#: src/views/calls/InteractionCallList.js
+#: src/views/calls/InteractionCallModal.js
+#: src/views/calls/WizardSteps/RecruiterFields.js
+msgid "Source Recruiter"
+msgstr ""
+
+#: src/views/calls/InteractionCallList.js
+#: src/views/calls/InteractionCallModal.js
+#: src/views/calls/WizardSteps/RecruiterFields.js
+msgid "Destination Recruiter"
+msgstr ""
+
+#: src/views/calls/InteractionCallList.js
+msgid "After Date:"
+msgstr ""
+
+#: src/views/calls/InteractionCallList.js
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Date"
+msgstr ""
+
+#: src/views/calls/InteractionCallList.js
+msgid "Before Date:"
+msgstr ""
+
+#: src/views/calls/InteractionCallList.js
+msgid "Search"
+msgstr ""
+
+#: src/views/calls/InteractionCallList.js
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/Dashboard/KpiReferencesList.js
+#: src/views/references/KpiLegalViolationList.js
+#: src/views/references/KpiReferencesList.js
+#: src/views/suppliers/SupplierKPIsList.js src/views/suppliers/SupplierList.js
+#: src/views/teamtasks/EnhancedTeamTasksList.js
+msgid "Search Results"
+msgstr ""
+
+#: src/views/calls/InteractionCallList.js
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/references/KpiLegalViolationList.js
+#: src/views/references/KpiReferencesList.js
+#: src/views/suppliers/SupplierKPIsList.js
+#: src/views/teamtasks/EnhancedTeamTasksList.js
+msgid "Found"
+msgstr ""
+
+#: src/views/calls/InteractionCallList.js
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/suppliers/SupplierKPIsList.js
+#: src/views/teamtasks/EnhancedTeamTasksList.js
+msgid "Search (Fuzzy Search Across all fields)"
+msgstr ""
+
+#: src/views/calls/InteractionCallList.js
+msgid "Fetching..."
+msgstr ""
+
+#: src/views/calls/InteractionCallList.js
+#: src/views/calls/InteractionCallModal.js
+#: src/views/references/KpiLegalViolationList.js
+msgid "Id"
+msgstr ""
+
+#: src/views/calls/InteractionCallList.js
+#: src/views/calls/InteractionCallModal.js
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Supplier"
+msgstr ""
+
+#: src/views/calls/InteractionCallList.js
+msgid "RecruiterSrc"
+msgstr ""
+
+#: src/views/calls/InteractionCallList.js
+#: src/views/calls/InteractionCallModal.js
+msgid "Issue Category"
+msgstr ""
+
+#: src/views/calls/InteractionCallList.js
+msgid "# Kpis"
+msgstr ""
+
+#: src/views/calls/InteractionCallList.js
+#: src/views/calls/InteractionCallModal.js
+#: src/views/Dashboard/KpiReferencesList.js
+#: src/views/references/KpiLegalViolationList.js
+#: src/views/references/KpiReferencesList.js
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Description"
+msgstr ""
+
+#: src/views/calls/InteractionCallList.js
+msgid "Staff"
+msgstr ""
+
+#: src/views/calls/InteractionCallList.js
+msgid "IssaraStaff"
+msgstr ""
+
+#: src/views/calls/InteractionCallList.js
+msgid "Client"
+msgstr ""
+
+#: src/views/calls/InteractionCallList.js
+msgid "Origin Country Province"
+msgstr ""
+
+#: src/views/calls/InteractionCallList.js
+msgid "Incoming Outgoing"
+msgstr ""
+
+#: src/views/calls/InteractionCallList.js
+msgid "Phone"
+msgstr ""
+
+#: src/views/calls/InteractionCallList.js
+msgid "Interaction"
+msgstr ""
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Case ID"
+msgstr ""
+
+#: src/views/calls/InteractionCallModal.js
+#: src/views/calls/NewCallWizardView.js
+msgid "Required"
+msgstr ""
+
+#: src/views/calls/InteractionCallModal.js
+#: src/views/calls/NewCallWizardView.js
+msgid "Call Info"
+msgstr ""
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Interaction Channel"
+msgstr ""
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Interaction Reason"
+msgstr ""
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Interaction Summary"
+msgstr ""
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Inquiry Type"
+msgstr ""
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Interacted Date"
+msgstr ""
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Call Created Date"
+msgstr ""
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Call Last Modified Date"
+msgstr ""
+
+#: src/views/calls/InteractionCallModal.js
+#: src/views/calls/NewCallWizardView.js
+#: src/views/calls/WizardSteps/CallClientInfoFields.js
+msgid "Client Info"
+msgstr ""
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Nickname"
+msgstr ""
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Line Account"
+msgstr ""
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Facebook Account"
+msgstr ""
+
+#: src/views/calls/InteractionCallModal.js
+msgid "WhatsApp Number"
+msgstr ""
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Phone Number"
+msgstr ""
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Viber Account"
+msgstr ""
+
+#: src/views/calls/InteractionCallModal.js
+#: src/views/calls/WizardSteps/CallClientInfoFields.js
+msgid "Staff Notes/Description"
+msgstr ""
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Origin Country"
+msgstr ""
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Origin Province"
+msgstr ""
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Origin District"
+msgstr ""
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Crossing Country"
+msgstr ""
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Crossing Province"
+msgstr ""
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Crossing District"
+msgstr ""
+
+#: src/views/calls/InteractionCallModal.js
+#: src/views/calls/NewCallWizardView.js
+#: src/views/calls/WizardSteps/RecruiterFields.js
+msgid "Recruitment"
+msgstr ""
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Upstream Broker"
+msgstr ""
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Employer Debt Bondage"
+msgstr ""
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Employer Debt Bondage Detail"
+msgstr ""
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Broker Debt Bondage"
+msgstr ""
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Broker Debt Bondage Detail"
+msgstr ""
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Months at job"
+msgstr ""
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Ratings"
+msgstr ""
+
+#: src/views/calls/InteractionCallModal.js
+#: src/views/calls/WizardSteps/EmploymentFields.js
+msgid "Source Broker Rating"
+msgstr ""
+
+#: src/views/calls/InteractionCallModal.js
+#: src/views/calls/WizardSteps/EmploymentFields.js
+msgid "Source Recruiter Rating"
+msgstr ""
+
+#: src/views/calls/InteractionCallModal.js
+#: src/views/calls/WizardSteps/EmploymentFields.js
+msgid "Destination Broker Rating"
+msgstr ""
+
+#: src/views/calls/InteractionCallModal.js
+#: src/views/calls/WizardSteps/EmploymentFields.js
+msgid "Destination Employer Rating"
+msgstr ""
+
+#: src/views/calls/InteractionCallModal.js
+#: src/views/calls/NewCallWizardView.js
+msgid "Client Support"
+msgstr ""
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Vot Needs"
+msgstr ""
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Share Info Consent"
+msgstr ""
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Referral Notes"
+msgstr ""
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Next Steps"
+msgstr ""
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Next Steps Issara Staff"
+msgstr ""
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Referral Action"
+msgstr ""
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Dead Line Date"
+msgstr ""
+
+#: src/views/calls/InteractionCallModal.js
+#: src/views/calls/WizardSteps/CallActionFields.js
+msgid "Final Remarks"
+msgstr ""
+
+#: src/views/calls/InteractionCallModal.js
+#: src/views/calls/WizardSteps/CallActionFields.js
+msgid "Risk Assessment"
+msgstr ""
+
+#: src/views/calls/InteractionCallModal.js
+#: src/views/calls/NewCallWizardView.js
+msgid "Issues"
+msgstr ""
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Offender Description"
+msgstr ""
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Workers Affected"
+msgstr ""
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Workers Affected Description"
+msgstr ""
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Getting Better"
+msgstr ""
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Getting Better Description"
+msgstr ""
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Issue Links"
+msgstr ""
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Loading ..."
+msgstr ""
+
+#: src/views/calls/InteractionCallView.js
+msgid "Success saving the call with id:"
+msgstr ""
+
+#: src/views/calls/InteractionCallView.js
+msgid "Success created a new call with id:"
+msgstr ""
+
+#: src/views/calls/InteractionCallView.js
+msgid "Well Done!"
+msgstr ""
+
+#: src/views/calls/InteractionCallView.js
+msgid "Errors"
+msgstr ""
+
+#: src/views/calls/InteractionCallView.js
+msgid "Error!"
+msgstr ""
+
+#: src/views/calls/InteractionCallView.js src/views/suppliers/SupplierList.js
+#: src/views/TeamActivity/FieldworkActivityForm.js
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+#: src/views/users/ChangePasswordForm.js
+msgid "Error"
+msgstr ""
+
+#: src/views/calls/InteractionCallView.js
+msgid "Unknown/Generic"
+msgstr ""
+
+#: src/views/calls/InteractionCallView.js
+msgid "See details"
+msgstr ""
+
+#: src/views/calls/InteractionCallView.js
+msgid "Saving Data..."
+msgstr ""
+
+#: src/views/calls/InteractionCallView.js
+msgid "Loading Data..."
+msgstr ""
+
+#: src/views/calls/NewCallWizardView.js
+msgid "Rating Businesses"
+msgstr ""
+
+#: src/views/calls/NewCallWizardView.js
+msgid "Interactions"
+msgstr ""
+
+#: src/views/calls/NewCallWizardView.js
+msgid "Edit/Add Worker Call: "
+msgstr ""
+
+#: src/views/calls/NewCallWizardView.js src/views/landing/TeamActionForm.js
+#: src/views/TeamActivity/FieldworkActivityForm.js
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+#: src/views/TeamActivity/WV_and_ER_metrix.js
+msgid "Save"
+msgstr ""
+
+#: src/views/calls/WizardSteps/CallActionFields.js
+msgid "Organization must be selected"
+msgstr ""
+
+#: src/views/calls/WizardSteps/CallActionFields.js
+msgid "Client Support (Organization action)"
+msgstr ""
+
+#: src/views/calls/WizardSteps/CallActionFields.js
+msgid "Client Support (Issara Actions)"
+msgstr ""
+
+#: src/views/calls/WizardSteps/CallActionFields.js
+msgid "What are the most urgent needs of the client?"
+msgstr ""
+
+#: src/views/calls/WizardSteps/CallActionFields.js
+msgid "Consent to pass on details to employer, agency, referral partner?"
+msgstr ""
+
+#: src/views/calls/WizardSteps/CallActionFields.js
+#: src/views/calls/WizardSteps/CallIssuesForm.js
+#: src/views/calls/WizardSteps/RecruiterFields.js
+msgid "Yes"
+msgstr ""
+
+#: src/views/calls/WizardSteps/CallActionFields.js
+#: src/views/calls/WizardSteps/CallIssuesForm.js
+#: src/views/calls/WizardSteps/RecruiterFields.js
+msgid "No"
+msgstr ""
+
+#: src/views/calls/WizardSteps/CallActionFields.js
+msgid "Details on organization action (Referral Notes)"
+msgstr ""
+
+#: src/views/calls/WizardSteps/CallActionFields.js
+msgid "Details on Issara action (Referral Notes)"
+msgstr ""
+
+#: src/views/calls/WizardSteps/CallActionFields.js
+msgid "Next steps organization follow-up and action"
+msgstr ""
+
+#: src/views/calls/WizardSteps/CallActionFields.js
+msgid "Next steps for Issara follow-up and action"
+msgstr ""
+
+#: src/views/calls/WizardSteps/CallActionFields.js
+#: src/views/landing/TeamActionForm.js
+msgid "Responsible Issara focal point"
+msgstr ""
+
+#: src/views/calls/WizardSteps/CallActionFields.js
+#: src/views/landing/TeamActionForm.js
+#: src/views/teamtasks/EnhancedTeamTasksList.js
+msgid "Deadline"
+msgstr ""
+
+#: src/views/calls/WizardSteps/CallActionFields.js
+#: src/views/landing/TeamActionForm.js
+msgid "Deadline Date"
+msgstr ""
+
+#: src/views/calls/WizardSteps/CallClientInfoFields.js
+msgid "Gender must be selected"
+msgstr ""
+
+#: src/views/calls/WizardSteps/CallClientInfoFields.js
+msgid "Client name / nickname"
+msgstr ""
+
+#: src/views/calls/WizardSteps/CallClientInfoFields.js
+msgid "LINE ID"
+msgstr ""
+
+#: src/views/calls/WizardSteps/CallClientInfoFields.js
+msgid "Facebook name"
+msgstr ""
+
+#: src/views/calls/WizardSteps/CallClientInfoFields.js
+msgid "Phone number"
+msgstr ""
+
+#: src/views/calls/WizardSteps/CallClientInfoFields.js
+msgid "Viber account"
+msgstr ""
+
+#: src/views/calls/WizardSteps/CallClientInfoFields.js
+msgid "WhatsApp number"
+msgstr ""
+
+#: src/views/calls/WizardSteps/CallClientInfoFields.js
+msgid "Telegram number"
+msgstr ""
+
+#: src/views/calls/WizardSteps/CallClientInfoFields.js
+msgid "Client Origin"
+msgstr ""
+
+#: src/views/calls/WizardSteps/CallClientInfoFields.js
+msgid "Client crossing border"
+msgstr ""
+
+#: src/views/calls/WizardSteps/CallInfoFields.js
+msgid "Issara Staff must be selected"
+msgstr ""
+
+#: src/views/calls/WizardSteps/CallInfoFields.js
+msgid "Interaction Channel must be selected"
+msgstr ""
+
+#: src/views/calls/WizardSteps/CallInfoFields.js
+msgid "Interaction Reason must be selected"
+msgstr ""
+
+#: src/views/calls/WizardSteps/CallInfoFields.js
+msgid "interacted Date must be selected"
+msgstr ""
+
+#: src/views/calls/WizardSteps/CallInfoFields.js
+msgid "Call/Message Info"
+msgstr ""
+
+#: src/views/calls/WizardSteps/CallInfoFields.js
+msgid "Interaction Type must be selected"
+msgstr ""
+
+#: src/views/calls/WizardSteps/CallInfoFields.js
+msgid "Incoming"
+msgstr ""
+
+#: src/views/calls/WizardSteps/CallInfoFields.js
+msgid "Outgoing"
+msgstr ""
+
+#: src/views/calls/WizardSteps/CallInfoFields.js
+msgid "Summary of the interaction"
+msgstr ""
+
+#: src/views/calls/WizardSteps/CallInfoFields.js
+msgid "Date of interaction"
+msgstr ""
+
+#: src/views/calls/WizardSteps/CallIssues.js
+msgid "Issues at this workplace"
+msgstr ""
+
+#: src/views/calls/WizardSteps/CallIssues.js
+msgid "Instructions:"
+msgstr ""
+
+#: src/views/calls/WizardSteps/CallIssues.js
+msgid ""
+"If the client is adding more information or updates on a previously reported"
+" issue, please click the green pen by the relevant KPI to update."
+msgstr ""
+
+#: src/views/calls/WizardSteps/CallIssues.js
+msgid ""
+"If the client is reporting a new issue at the workplace, please click the "
+"green New Issue button."
+msgstr ""
+
+#: src/views/calls/WizardSteps/CallIssuesForm.js
+msgid "Issue Description"
+msgstr ""
+
+#: src/views/calls/WizardSteps/CallIssuesForm.js
+msgid "Issue Offender Description"
+msgstr ""
+
+#: src/views/calls/WizardSteps/CallIssuesForm.js
+msgid "How many clients are affected by this issue?"
+msgstr ""
+
+#: src/views/calls/WizardSteps/CallIssuesForm.js
+msgid "How many workers are affected by this issue?"
+msgstr ""
+
+#: src/views/calls/WizardSteps/CallIssuesForm.js
+msgid "Client Affected Description (More about the client Affected)."
+msgstr ""
+
+#: src/views/calls/WizardSteps/CallIssuesForm.js
+msgid "Workers Affected Description (More about the workers Affected)"
+msgstr ""
+
+#: src/views/calls/WizardSteps/CallIssuesForm.js
+msgid "Is the issue situation improving?"
+msgstr ""
+
+#: src/views/calls/WizardSteps/CallIssuesForm.js
+msgid "About the Same"
+msgstr ""
+
+#: src/views/calls/WizardSteps/CallIssuesForm.js
+msgid "Describe more about how the issue is getting better or worse"
+msgstr ""
+
+#: src/views/calls/WizardSteps/CallIssuesForm.js
+msgid "Issue Link"
+msgstr ""
+
+#: src/views/calls/WizardSteps/CallIssuesForm.js
+msgid "Enter Issue link here"
+msgstr ""
+
+#: src/views/calls/WizardSteps/CallIssuesForm.js
+#: src/views/TeamActivity/FieldworkActivityForm.js
+msgid "Remove this link"
+msgstr ""
+
+#: src/views/calls/WizardSteps/CallIssuesForm.js
+msgid "Add More Issue Link"
+msgstr ""
+
+#: src/views/calls/WizardSteps/EmploymentFields.js
+msgid ""
+"Business Ratings - How Does the client rate the following actors that were "
+"involved in their recruitment and employment ?"
+msgstr ""
+
+#: src/views/calls/WizardSteps/EmploymentFields.js
+msgid "(1 very low, 5 very high)"
+msgstr ""
+
+#: src/views/calls/WizardSteps/RecruiterFields.js
+msgid "Source Upstream Broker"
+msgstr ""
+
+#: src/views/calls/WizardSteps/RecruiterFields.js
+msgid "How many months working at this workplace?"
+msgstr ""
+
+#: src/views/calls/WizardSteps/RecruiterFields.js
+msgid "Employer Debt Bondage?"
+msgstr ""
+
+#: src/views/calls/WizardSteps/RecruiterFields.js
+msgid ""
+"If there is employer debt bondage, please provide details on amounts, to "
+"whom, how paid, etc"
+msgstr ""
+
+#: src/views/calls/WizardSteps/RecruiterFields.js
+msgid "Broker Debt Bondage?"
+msgstr ""
+
+#: src/views/calls/WizardSteps/RecruiterFields.js
+msgid ""
+"If there is broker debt bondage, please provide details on amounts, to whom,"
+" how paid, etc"
+msgstr ""
+
+#: src/views/calls/WizardSteps/RequiredCallFields.js
+msgid "Supplier must be selected"
+msgstr ""
+
+#: src/views/calls/WizardSteps/RequiredCallFields.js
+msgid "Country must be selected"
+msgstr ""
+
+#: src/views/calls/WizardSteps/RequiredCallFields.js
+msgid "Nationality must be selected"
+msgstr ""
+
+#: src/views/calls/WizardSteps/RequiredCallFields.js
+msgid "CallerStatus must be selected"
+msgstr ""
+
+#: src/views/calls/WizardSteps/RequiredCallFields.js
+msgid "ClientType must be selected"
+msgstr ""
+
+#: src/views/calls/WizardSteps/RequiredCallFields.js
+msgid "CaseCategory must be selected"
+msgstr ""
+
+#: src/views/calls/WizardSteps/RequiredCallFields.js
+msgid ""
+"Please fill out the information and refer this case to Issara Institute. "
+"Thank you, have a great day!"
+msgstr ""
+
+#: src/views/calls/WizardSteps/RequiredCallFields.js
+msgid "Required Info"
+msgstr ""
+
+#: src/views/Dashboard/FieldworkActivityModal.js
+msgid "Fieldwork Activity #{id}"
+msgstr ""
+
+#: src/views/Dashboard/FieldworkActivityModal.js
+msgid "General Information:"
+msgstr ""
+
+#: src/views/Dashboard/FieldworkActivityModal.js
+msgid "Type:"
+msgstr ""
+
+#: src/views/Dashboard/FieldworkActivityModal.js
+msgid "Date:"
+msgstr ""
+
+#: src/views/Dashboard/FieldworkActivityModal.js
+#: src/views/suppliers/SupplierModal.js
+msgid "Location:"
+msgstr ""
+
+#: src/views/Dashboard/FieldworkActivityModal.js
+msgid "Workers Reached:"
+msgstr ""
+
+#: src/views/Dashboard/FieldworkActivityModal.js
+msgid "Suppliers:"
+msgstr ""
+
+#: src/views/Dashboard/FieldworkActivityModal.js
+msgid "Recruiters:"
+msgstr ""
+
+#: src/views/Dashboard/FieldworkActivityModal.js
+msgid "Partners:"
+msgstr ""
+
+#: src/views/Dashboard/FieldworkActivityModal.js
+msgid "Nationality:"
+msgstr ""
+
+#: src/views/Dashboard/FieldworkActivityModal.js
+msgid "Notes:"
+msgstr ""
+
+#: src/views/Dashboard/FieldworkActivityModal.js
+msgid "Links:"
+msgstr ""
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "worker_calls_count_by_month"
+msgstr ""
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "field_visit_count_by_month"
+msgstr ""
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "field_total_workers_reached_by_month"
+msgstr ""
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Between"
+msgstr ""
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Start"
+msgstr ""
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "And"
+msgstr ""
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "End"
+msgstr ""
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Reset all"
+msgstr ""
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "No Data found"
+msgstr ""
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Burmese Facebook messenger"
+msgstr ""
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Burmese Viber in Thailand"
+msgstr ""
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Burmese hotline in Thailand"
+msgstr ""
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Burmese LINE messages"
+msgstr ""
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Burmese hotline in Myanmar"
+msgstr ""
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Khmer hotline"
+msgstr ""
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Khmer Facebook messenger"
+msgstr ""
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Khmer LINE"
+msgstr ""
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Thai Hotline"
+msgstr ""
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Thai Facebook"
+msgstr ""
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Thai LINE"
+msgstr ""
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Indonesian Whatsapp Total"
+msgstr ""
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Indonesian Hotline Total"
+msgstr ""
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Nepalese Whatsapp Total"
+msgstr ""
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Nepalese Hotline Total"
+msgstr ""
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Nepalese Facebook Total"
+msgstr ""
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Burmese Whatsapp Total"
+msgstr ""
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Burmese Viber in Malaysia"
+msgstr ""
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Burmese Tiktok messages"
+msgstr ""
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Nepalese Tiktok messages"
+msgstr ""
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Bangladeshi Facebook Messenger"
+msgstr ""
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Bangladeshi Hotline"
+msgstr ""
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Bangladeshi WhatsApp"
+msgstr ""
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Bangladeshi Tiktok messages"
+msgstr ""
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Worker Metrics"
+msgstr ""
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Total Worker Cases"
+msgstr ""
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Men"
+msgstr ""
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Women"
+msgstr ""
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Unknown"
+msgstr ""
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Worker Voice and Ethical Recruitment metrics"
+msgstr ""
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Workers Connected To Worker Voice Channels"
+msgstr ""
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Suppliers Trained"
+msgstr ""
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Workers Reached In Pre-Departure MM"
+msgstr ""
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Workers Receiving Remedition"
+msgstr ""
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Trained Workers Leaders/Ambassadors"
+msgstr ""
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Recruitment Agencies Trained"
+msgstr ""
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Workers Reached In Pre-Departure NE"
+msgstr ""
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/TeamActivity/WV_and_ER_metrix.js
+msgid "Remediation For Recruitment Fees and Cases"
+msgstr ""
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/TeamActivity/WV_and_ER_metrix.js
+msgid "Recruitment-Related Fees Detected and Intercepted"
+msgstr ""
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "No Data Found"
+msgstr ""
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Total field visits"
+msgstr ""
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Total Workers Reached"
+msgstr ""
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/suppliers/SupplierList.js
+#: src/views/teamtasks/EnhancedTeamTasksList.js
+msgid "ID"
+msgstr ""
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Type"
+msgstr ""
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/TeamActivity/FieldworkActivityForm.js
+msgid "Recruiters"
+msgstr ""
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Location"
+msgstr ""
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Target"
+msgstr ""
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/TeamActivity/FieldworkActivityForm.js
+msgid "Notes"
+msgstr ""
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Links"
+msgstr ""
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Total Worker"
+msgstr ""
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Print Report"
+msgstr ""
+
+#: src/views/Dashboard/KpiReferenceModal.js
+#: src/views/references/KpiLegalViolationModal.js
+#: src/views/references/KpiReferenceModal.js
+#: src/views/suppliers/SupplierModal.js
+msgid "General:"
+msgstr ""
+
+#: src/views/Dashboard/KpiReferenceModal.js
+#: src/views/references/KpiReferenceModal.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Category:"
+msgstr ""
+
+#: src/views/Dashboard/KpiReferenceModal.js
+#: src/views/references/KpiLegalViolationModal.js
+#: src/views/references/KpiReferenceModal.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Description:"
+msgstr ""
+
+#: src/views/Dashboard/KpiReferenceModal.js
+#: src/views/references/KpiReferenceModal.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Level:"
+msgstr ""
+
+#: src/views/Dashboard/KpiReferenceModal.js
+#: src/views/references/KpiReferenceModal.js
+msgid "Goal:"
+msgstr ""
+
+#: src/views/Dashboard/KpiReferenceModal.js
+#: src/views/references/KpiReferenceModal.js
+msgid "ETI:"
+msgstr ""
+
+#: src/views/Dashboard/KpiReferenceModal.js
+#: src/views/references/KpiReferenceModal.js
+msgid "Code:"
+msgstr ""
+
+#: src/views/Dashboard/KpiReferencesList.js
+#: src/views/suppliers/SupplierList.js
+msgid "Found:"
+msgstr ""
+
+#: src/views/Dashboard/KpiReferencesList.js
+#: src/views/references/KpiReferencesList.js
+msgid "ETI Code"
+msgstr ""
+
+#: src/views/landing/TeamActionForm.js
+msgid "Add/Edit Team Task"
+msgstr ""
+
+#: src/views/landing/TeamActionForm.js
+msgid "Tasked By"
+msgstr ""
+
+#: src/views/landing/TeamActionForm.js
+msgid "A sumamry of the task to be completed"
+msgstr ""
+
+#: src/views/landing/TeamActionForm.js
+msgid "General Notes"
+msgstr ""
+
+#: src/views/references/KpiLegalViolationList.js
+#: src/views/suppliers/SupplierList.js
+msgid "Name"
+msgstr ""
+
+#: src/views/references/KpiLegalViolationList.js
+msgid "Law"
+msgstr ""
+
+#: src/views/references/KpiLegalViolationList.js
+msgid "Article"
+msgstr ""
+
+#: src/views/references/KpiLegalViolationModal.js
+msgid "Legal Violation #{id}"
+msgstr ""
+
+#: src/views/references/KpiLegalViolationModal.js
+msgid "Id:"
+msgstr ""
+
+#: src/views/references/KpiLegalViolationModal.js
+msgid "Name:"
+msgstr ""
+
+#: src/views/references/KpiLegalViolationModal.js
+msgid "Law:"
+msgstr ""
+
+#: src/views/references/KpiLegalViolationModal.js
+msgid "Article:"
+msgstr ""
+
+#: src/views/references/KpiLegalViolationModal.js
+#: src/views/suppliers/SupplierModal.js
+msgid "Country:"
+msgstr ""
+
+#: src/views/references/KpiReferenceModal.js
+msgid "Other:"
+msgstr ""
+
+#: src/views/references/KpiReferenceModal.js
+msgid "Legal Violation:"
+msgstr ""
+
+#: src/views/references/KpiReferenceModal.js
+msgid "Recommended Remediation:"
+msgstr ""
+
+#: src/views/references/KpiReferenceModal.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Systems Change:"
+msgstr ""
+
+#: src/views/references/KpiReferencesList.js
+#: src/views/suppliers/SupplierKPIsList.js src/views/suppliers/SupplierList.js
+msgid "View:"
+msgstr ""
+
+#: src/views/references/KpiReferencesList.js
+msgid "Legal"
+msgstr ""
+
+#: src/views/references/KpiReferencesList.js
+msgid "Remediation"
+msgstr ""
+
+#: src/views/references/KpiReferencesList.js
+msgid "Systems"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Supplier KPI Deleted"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "You have successfully deleted the supplier kpi and it's child updates"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Error Supplier KPI was not deleted"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Error occurred trying to delete those supplier kpi updates"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIModal.js src/views/suppliers/SupplierList.js
+msgid "Confirm"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Confirm Delete ?"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "About to delete supplier kpi id: "
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "*This Supplier KPI has 0 cases and is ok to remove."
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Delete"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Supplier KPI #{id}"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Overview:"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Update Source:"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Supplier:"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Laws Violated:"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "# Workers Impacted:"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIModal.js
+#: src/views/suppliers/SupplierModal.js
+msgid "Status:"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Days Active:"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Open Since:"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIModal.js
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Updated:"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Closed:"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Closed Quality:"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Rationale:"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Remediation:"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Issara Recommendations:"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Progress on remediation:"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "How aligned are the business's responses:"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Business Steps Taken:"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Business Steps Remaining:"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Notes (Talking Points):"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Action (Talking Points):"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Validation (Talking Points):"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Results (Talking Points):"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Payments:"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Owed:"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Paid:"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Payment Deadline:"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Documents:"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Provided:"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Documents Deadline:"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "System Change Deadline:"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Next Step :"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Assign To :-"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Deadline :-"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Description :-"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Closed At"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Closure Date"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Open days"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Quality of the closure"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIsList.js
+#: src/views/suppliers/SupplierModal.js
+msgid "id"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Supplier Kpi ID"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid ""
+"This is the parent Supplier KPI ID.  This is ID in the Supplkier KPI List "
+"table above"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Opened At"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "# Affected"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Status"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Affected"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Updates"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Call #"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "days active"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Calls"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Call Id: {item}"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Opened since:"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Closed since:"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Affected workers:"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Remediation Issues:"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Remediation Action:"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Remediation Validation:"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Remediation Results:"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "less than 15 days"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "16-30"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "31-45"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "46-60"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "61-90"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "90+"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Filter by Days Active"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Active Days"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Supply Chain"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Non-Supply Chain"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Supplier KPIs"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid ""
+"You can enter a text or number thats used in the object.  Call IDs Also "
+"work. (You'll get the supplier KPIs that have that Call ID in the drop down "
+"panel or info view"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Update selected KPIs"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Supplier KPI Updated History"
+msgstr ""
+
+#: src/views/suppliers/SupplierList.js
+msgid "Supplier Updates"
+msgstr ""
+
+#: src/views/suppliers/SupplierList.js
+msgid "You have successfully updated suppliers anonymous flags"
+msgstr ""
+
+#: src/views/suppliers/SupplierList.js
+msgid "Error Occured:"
+msgstr ""
+
+#: src/views/suppliers/SupplierList.js
+msgid "Edit:"
+msgstr ""
+
+#: src/views/suppliers/SupplierList.js
+msgid "Supplier Name"
+msgstr ""
+
+#: src/views/suppliers/SupplierList.js
+msgid "Anonymous"
+msgstr ""
+
+#: src/views/suppliers/SupplierList.js
+msgid "website"
+msgstr ""
+
+#: src/views/suppliers/SupplierList.js
+msgid "Company Description"
+msgstr ""
+
+#: src/views/suppliers/SupplierList.js
+msgid "Created"
+msgstr ""
+
+#: src/views/suppliers/SupplierList.js
+msgid "Address"
+msgstr ""
+
+#: src/views/suppliers/SupplierList.js
+msgid "Zipcode"
+msgstr ""
+
+#: src/views/suppliers/SupplierList.js
+msgid "Industry"
+msgstr ""
+
+#: src/views/suppliers/SupplierList.js
+msgid "Sub Industry"
+msgstr ""
+
+#: src/views/suppliers/SupplierList.js
+msgid "Contact Name"
+msgstr ""
+
+#: src/views/suppliers/SupplierList.js
+msgid "Contact Phone"
+msgstr ""
+
+#: src/views/suppliers/SupplierList.js
+msgid "Contact Email"
+msgstr ""
+
+#: src/views/suppliers/SupplierList.js
+msgid "Vessel Number"
+msgstr ""
+
+#: src/views/suppliers/SupplierList.js
+msgid "Tier ID"
+msgstr ""
+
+#: src/views/suppliers/SupplierList.js
+msgid "Cambodian Workers"
+msgstr ""
+
+#: src/views/suppliers/SupplierList.js
+msgid "Lao Workers"
+msgstr ""
+
+#: src/views/suppliers/SupplierList.js
+msgid "Myanmar Workers"
+msgstr ""
+
+#: src/views/suppliers/SupplierList.js
+msgid "Thai Workers"
+msgstr ""
+
+#: src/views/suppliers/SupplierList.js
+msgid "Vietnamese Workers"
+msgstr ""
+
+#: src/views/suppliers/SupplierList.js
+msgid "Total Workers"
+msgstr ""
+
+#: src/views/suppliers/SupplierList.js
+msgid "Supply Chains Name"
+msgstr ""
+
+#: src/views/suppliers/SupplierList.js
+msgid "Lat"
+msgstr ""
+
+#: src/views/suppliers/SupplierList.js
+msgid "Lng"
+msgstr ""
+
+#: src/views/suppliers/SupplierList.js
+msgid "supply chain data"
+msgstr ""
+
+#: src/views/suppliers/SupplierList.js
+msgid "Search by Strategic Partners"
+msgstr ""
+
+#: src/views/suppliers/SupplierList.js
+msgid "Search by worker Nationality"
+msgstr ""
+
+#: src/views/suppliers/SupplierList.js
+msgid "Filter by Strategic Partners"
+msgstr ""
+
+#: src/views/suppliers/SupplierList.js
+msgid "Filter by Suppliers"
+msgstr ""
+
+#: src/views/suppliers/SupplierList.js
+msgid "Worker Nationality"
+msgstr ""
+
+#: src/views/suppliers/SupplierList.js
+msgid "Download"
+msgstr ""
+
+#: src/views/suppliers/SupplierList.js
+msgid "Disable"
+msgstr ""
+
+#: src/views/suppliers/SupplierList.js
+msgid "Enable"
+msgstr ""
+
+#: src/views/suppliers/SupplierList.js
+msgid "cleaning mode"
+msgstr ""
+
+#: src/views/suppliers/SupplierList.js
+msgid "Active Supply Chains"
+msgstr ""
+
+#: src/views/suppliers/SupplierList.js
+msgid "Thailand"
+msgstr ""
+
+#: src/views/suppliers/SupplierList.js
+msgid "total_num_thai_workers"
+msgstr ""
+
+#: src/views/suppliers/SupplierList.js
+msgid "Cambodia"
+msgstr ""
+
+#: src/views/suppliers/SupplierList.js
+msgid "total_num_cambodian_workers"
+msgstr ""
+
+#: src/views/suppliers/SupplierList.js
+msgid "Myanmar"
+msgstr ""
+
+#: src/views/suppliers/SupplierList.js
+msgid "Laos"
+msgstr ""
+
+#: src/views/suppliers/SupplierList.js
+msgid "total_num_lao_workers"
+msgstr ""
+
+#: src/views/suppliers/SupplierList.js
+msgid "Vietnam"
+msgstr ""
+
+#: src/views/suppliers/SupplierList.js
+msgid "total_num_vietnamese_workers"
+msgstr ""
+
+#: src/views/suppliers/SupplierList.js
+msgid "Nepal"
+msgstr ""
+
+#: src/views/suppliers/SupplierList.js
+msgid "total_num_nepalese_workers"
+msgstr ""
+
+#: src/views/suppliers/SupplierList.js
+msgid "Bangladesh"
+msgstr ""
+
+#: src/views/suppliers/SupplierList.js
+msgid "total_num_bangladeshi_workers"
+msgstr ""
+
+#: src/views/suppliers/SupplierList.js
+msgid "Indonesia"
+msgstr ""
+
+#: src/views/suppliers/SupplierList.js
+msgid "total_num_indonesian_workers"
+msgstr ""
+
+#: src/views/suppliers/SupplierList.js
+msgid "India"
+msgstr ""
+
+#: src/views/suppliers/SupplierList.js
+msgid "total_num_indian_workers"
+msgstr ""
+
+#: src/views/suppliers/SupplierList.js
+msgid "Pakistan"
+msgstr ""
+
+#: src/views/suppliers/SupplierList.js
+msgid "total_num_pakistani_workers"
+msgstr ""
+
+#: src/views/suppliers/SupplierList.js
+msgid "Sri Lanka"
+msgstr ""
+
+#: src/views/suppliers/SupplierList.js
+msgid "total_num_sri_lankan_workers"
+msgstr ""
+
+#: src/views/suppliers/SupplierList.js
+msgid "Merge duplicates"
+msgstr ""
+
+#: src/views/suppliers/SupplierList.js
+msgid "Flip Anonymous Flag"
+msgstr ""
+
+#: src/views/suppliers/SupplierList.js
+msgid "Following suppliers will be merged:"
+msgstr ""
+
+#: src/views/suppliers/SupplierList.js
+msgid "New Master"
+msgstr ""
+
+#: src/views/suppliers/SupplierList.js
+msgid "Merge/Removal"
+msgstr ""
+
+#: src/views/suppliers/SupplierModal.js
+msgid "website:"
+msgstr ""
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Company Description:"
+msgstr ""
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Created:"
+msgstr ""
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Address:"
+msgstr ""
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Zipcode:"
+msgstr ""
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Province:"
+msgstr ""
+
+#: src/views/suppliers/SupplierModal.js
+msgid "District:"
+msgstr ""
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Industry:"
+msgstr ""
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Sub Industry:"
+msgstr ""
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Lng:"
+msgstr ""
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Lat:"
+msgstr ""
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Contact:"
+msgstr ""
+
+#: src/views/suppliers/SupplierModal.js
+msgid "contact_name:"
+msgstr ""
+
+#: src/views/suppliers/SupplierModal.js
+msgid "contact_phone:"
+msgstr ""
+
+#: src/views/suppliers/SupplierModal.js
+msgid "contact_email:"
+msgstr ""
+
+#: src/views/suppliers/SupplierModal.js
+msgid "vessel_number:"
+msgstr ""
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Work Environment:"
+msgstr ""
+
+#: src/views/suppliers/SupplierModal.js
+msgid "name_harvesting_business:"
+msgstr ""
+
+#: src/views/suppliers/SupplierModal.js
+msgid "num_vessels_sourced_from:"
+msgstr ""
+
+#: src/views/suppliers/SupplierModal.js
+msgid "total_num_workers:"
+msgstr ""
+
+#: src/views/suppliers/SupplierModal.js
+msgid "total_num_men_workers:"
+msgstr ""
+
+#: src/views/suppliers/SupplierModal.js
+msgid "total_num_women_workers:"
+msgstr ""
+
+#: src/views/suppliers/SupplierModal.js
+msgid "total_num_thai_workers:"
+msgstr ""
+
+#: src/views/suppliers/SupplierModal.js
+msgid "total_num_cambodian_workers:"
+msgstr ""
+
+#: src/views/suppliers/SupplierModal.js
+msgid "total_num_myanmar_workers:"
+msgstr ""
+
+#: src/views/suppliers/SupplierModal.js
+msgid "total_num_lao_workers:"
+msgstr ""
+
+#: src/views/suppliers/SupplierModal.js
+msgid "total_num_vietnamese_workers:"
+msgstr ""
+
+#: src/views/suppliers/SupplierModal.js
+msgid "total_num_nepalese_workers:"
+msgstr ""
+
+#: src/views/suppliers/SupplierModal.js
+msgid "total_num_bangladeshi_workers:"
+msgstr ""
+
+#: src/views/suppliers/SupplierModal.js
+msgid "total_num_indonesian_workers:"
+msgstr ""
+
+#: src/views/suppliers/SupplierModal.js
+msgid "total_num_malaysian_workers:"
+msgstr ""
+
+#: src/views/suppliers/SupplierModal.js
+msgid "total_num_indian_workers:"
+msgstr ""
+
+#: src/views/suppliers/SupplierModal.js
+msgid "total_num_pakistani_workers:"
+msgstr ""
+
+#: src/views/suppliers/SupplierModal.js
+msgid "total_num_sri_lankan_workers:"
+msgstr ""
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Informative:"
+msgstr ""
+
+#: src/views/suppliers/SupplierModal.js
+msgid "hiring_practice:"
+msgstr ""
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Recruiter:"
+msgstr ""
+
+#: src/views/suppliers/SupplierModal.js
+msgid "recruiter:"
+msgstr ""
+
+#: src/views/suppliers/SupplierModal.js
+msgid "other:"
+msgstr ""
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Supply Chains"
+msgstr ""
+
+#: src/views/suppliers/SupplierModal.js
+msgid "name"
+msgstr ""
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Reports"
+msgstr ""
+
+#: src/views/suppliers/SupplierModal.js
+msgid "There is worker voice in this workplace"
+msgstr ""
+
+#: src/views/suppliers/SupplierModal.js
+msgid "There is no worker voice in this workplace"
+msgstr ""
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Worker Voice Rolled Out"
+msgstr ""
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Engaged with supplier and worker voice rolled out"
+msgstr ""
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Is NOT Engaged with supplier and worker voice NOT rolled out"
+msgstr ""
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Google Maps:"
+msgstr ""
+
+#: src/views/suppliers/SupplierModal.js
+msgid "total workers"
+msgstr ""
+
+#: src/views/suppliers/SupplierModal.js
+msgid "total men workers"
+msgstr ""
+
+#: src/views/suppliers/SupplierModal.js
+msgid "total women workers"
+msgstr ""
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Thai workers"
+msgstr ""
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Cambodian workers"
+msgstr ""
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Myanmar workers"
+msgstr ""
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Lao workers"
+msgstr ""
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Vietanmese workers"
+msgstr ""
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Nepalese workers"
+msgstr ""
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Bangladeshi workers"
+msgstr ""
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Indonesian workers"
+msgstr ""
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Malaysian workers"
+msgstr ""
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Indian workers"
+msgstr ""
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Pakistani workers"
+msgstr ""
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Sri Lankan workers"
+msgstr ""
+
+#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
+msgid "Estimated number of workers reached"
+msgstr ""
+
+#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
+msgid "Total"
+msgstr ""
+
+#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
+msgid "This value can not be greater than the total"
+msgstr ""
+
+#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
+msgid "Cambodian"
+msgstr ""
+
+#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
+msgid "Lao"
+msgstr ""
+
+#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
+msgid "Nepalese"
+msgstr ""
+
+#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
+msgid "Bangladeshi"
+msgstr ""
+
+#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
+msgid "Indonesian"
+msgstr ""
+
+#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
+msgid "Malaysian"
+msgstr ""
+
+#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
+msgid "Indian"
+msgstr ""
+
+#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
+msgid "Total ({total_workers_reached})"
+msgstr ""
+
+#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
+msgid "Sum of nationalities ({sum_of_nationalities})"
+msgstr ""
+
+#: src/views/TeamActivity/FieldworkActivityForm.js
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+#: src/views/TeamActivity/WV_and_ER_metrix.js
+#: src/views/users/ChangePasswordForm.js
+msgid "Well done!"
+msgstr ""
+
+#: src/views/TeamActivity/FieldworkActivityForm.js
+msgid "New fieldwork activity has been successfully created"
+msgstr ""
+
+#: src/views/TeamActivity/FieldworkActivityForm.js
+msgid "Please contact a developer"
+msgstr ""
+
+#: src/views/TeamActivity/FieldworkActivityForm.js
+msgid "Link"
+msgstr ""
+
+#: src/views/TeamActivity/FieldworkActivityForm.js
+msgid "Enter link here"
+msgstr ""
+
+#: src/views/TeamActivity/FieldworkActivityForm.js
+msgid "Add More Link"
+msgstr ""
+
+#: src/views/TeamActivity/FieldworkActivityForm.js
+msgid "Date of fieldwork"
+msgstr ""
+
+#: src/views/TeamActivity/FieldworkActivityForm.js
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Click here to open calendar"
+msgstr ""
+
+#: src/views/TeamActivity/FieldworkActivityForm.js
+msgid "Please choose the date"
+msgstr ""
+
+#: src/views/TeamActivity/FieldworkActivityForm.js
+msgid "Please choose a fieldwork type"
+msgstr ""
+
+#: src/views/TeamActivity/FieldworkActivityForm.js
+msgid "Please fix the errors above"
+msgstr ""
+
+#: src/views/TeamActivity/FieldworkActivityForm.js
+msgid ""
+"*Please Note: To Edit you must have 'Issara Management' Group added to your "
+"account and to add new Items you must have 'Activity User' Group added to "
+"your account ."
+msgstr ""
+
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "New monthly worker voice record has been successfully created"
+msgstr ""
+
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+#: src/views/TeamActivity/WV_and_ER_metrix.js
+msgid "Month Year"
+msgstr ""
+
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Burmese Titok messages"
+msgstr ""
+
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Bangladeshi Facebook messenger"
+msgstr ""
+
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Bangladeshi hotline"
+msgstr ""
+
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Bangladeshi Whatsapp"
+msgstr ""
+
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Khmer Telegram"
+msgstr ""
+
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Thai Facebook Messenger"
+msgstr ""
+
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Indonesian WhatsApp in Malaysia"
+msgstr ""
+
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Indonesian hotline in Malaysia"
+msgstr ""
+
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Nepalese WhatsApp"
+msgstr ""
+
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Nepalese hotline"
+msgstr ""
+
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Nepalese Facebook Messenger"
+msgstr ""
+
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Burmese WhatsApp in Malaysia"
+msgstr ""
+
+#: src/views/TeamActivity/WV_and_ER_metrix.js
+msgid "record has been successfully created"
+msgstr ""
+
+#: src/views/TeamActivity/WV_and_ER_metrix.js
+msgid "Click here to open calendar *"
+msgstr ""
+
+#: src/views/TeamActivity/WV_and_ER_metrix.js
+msgid "Date field is required"
+msgstr ""
+
+#: src/views/TeamActivity/WV_and_ER_metrix.js
+msgid "No. of Workers Connected To Workers Voice Channels"
+msgstr ""
+
+#: src/views/TeamActivity/WV_and_ER_metrix.js
+msgid "No. of Workers Receiving Remedition"
+msgstr ""
+
+#: src/views/TeamActivity/WV_and_ER_metrix.js
+msgid "No. of Workers Reached In Pre-Departure NE"
+msgstr ""
+
+#: src/views/TeamActivity/WV_and_ER_metrix.js
+msgid "No. of Workers Reached In Pre-Departure MM"
+msgstr ""
+
+#: src/views/TeamActivity/WV_and_ER_metrix.js
+msgid "No. of Recruitment Agencies Trained"
+msgstr ""
+
+#: src/views/TeamActivity/WV_and_ER_metrix.js
+msgid "No. of Suppliers Trained"
+msgstr ""
+
+#: src/views/TeamActivity/WV_and_ER_metrix.js
+msgid "No. of Trained Worker Leaders/Mobilizers"
+msgstr ""
+
+#: src/views/teamtasks/EnhancedTeamTasksList.js
+msgid "Show finished"
+msgstr ""
+
+#: src/views/teamtasks/EnhancedTeamTasksList.js
+msgid "Source ID"
+msgstr ""
+
+#: src/views/teamtasks/EnhancedTeamTasksList.js
+msgid "Source Type"
+msgstr ""
+
+#: src/views/teamtasks/EnhancedTeamTasksList.js
+msgid "Assigned by"
+msgstr ""
+
+#: src/views/teamtasks/EnhancedTeamTasksList.js
+msgid "Assigned to"
+msgstr ""
+
+#: src/views/users/ChangePasswordForm.js
+msgid "Password has been successfully changed."
+msgstr ""
+
+#: src/views/users/ChangePasswordForm.js
+msgid "Old Password"
+msgstr ""
+
+#: src/views/users/ChangePasswordForm.js
+msgid "lock_outline"
+msgstr ""
+
+#: src/views/users/ChangePasswordForm.js
+msgid "New Password"
+msgstr ""
+
+#: src/views/users/ChangePasswordForm.js
+msgid "Re-Enter Password to Verify"
+msgstr ""
+
+#: src/views/users/ChangePasswordForm.js
+msgid "Update"
+msgstr ""
+
+#: src/views/users/ForgotPasswordView.js
+msgid "Reset your password"
+msgstr ""
+
+#: src/views/users/ForgotPasswordView.js
+msgid "Email"
+msgstr ""
+
+#: src/views/users/ForgotPasswordView.js
+msgid "The input is not valid Email"
+msgstr ""
+
+#: src/views/users/ForgotPasswordView.js
+msgid "Please input your Email"
+msgstr ""
+
+#: src/views/users/ForgotPasswordView.js
+msgid "Send reset link"
+msgstr ""
+
+#: src/views/users/ForgotPasswordView.js
+msgid ""
+"We will send password reset link to this email address, please change your "
+"password within 24 hours."
+msgstr ""
