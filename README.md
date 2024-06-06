@@ -102,7 +102,7 @@ TRANSLATIONS_ENGINE/
 ├── excel_to_po.py
 ├── po_to_excels_two.py
 ├── excels_to_pos_two.py
-├── pos/
+├── source_pos/
 │   ├── kh.po
 │   ├── bn.po
 │   ├── mm.po
@@ -115,7 +115,7 @@ TRANSLATIONS_ENGINE/
 
 - `po_to_excel.py` and `excel_to_po.py` are the scripts for basic conversion.
 - `po_to_excels_two.py` and `excels_to_pos_two.py` are the scripts for enhanced conversion with additional fields and metadata.
-- `pos/` is the directory containing your PO files.
+- `source_pos/` is the directory containing your PO files.
 - `excel/` is the directory containing your Excel files.
 - `updated_pos/` and `updated_pos_two/` are the directories where the output PO files will be saved.
 
