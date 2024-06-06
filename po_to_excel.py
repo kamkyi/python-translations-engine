@@ -47,9 +47,9 @@ def multiple_po_to_excel(po_file_paths, excel_file_path):
 
 # Example usage
 po_file_paths = [
-    "/home/kamkyi/Desktop/TRANSLATIONS_ENGINE/pos/kh.po",
-    "/home/kamkyi/Desktop/TRANSLATIONS_ENGINE/pos/bn.po",
-    "/home/kamkyi/Desktop/TRANSLATIONS_ENGINE/pos/mm.po",
+    "/home/kamkyi/Desktop/TRANSLATIONS_ENGINE/source_pos/kh.po",
+    "/home/kamkyi/Desktop/TRANSLATIONS_ENGINE/source_pos/bn.po",
+    "/home/kamkyi/Desktop/TRANSLATIONS_ENGINE/source_pos/mm.po",
 ]
 excel_file_path = "/home/kamkyi/Desktop/TRANSLATIONS_ENGINE/excel/multi.xlsx"
 multiple_po_to_excel(po_file_paths, excel_file_path)

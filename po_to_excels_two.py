@@ -56,9 +56,9 @@ def po_to_excel(po_file_paths, excel_file_path):
 # Example usage
 if __name__ == "__main__":
     po_file_paths = [
-        "/home/kamkyi/Desktop/TRANSLATIONS_ENGINE/pos/kh.po",
-        "/home/kamkyi/Desktop/TRANSLATIONS_ENGINE/pos/bn.po",
-        "/home/kamkyi/Desktop/TRANSLATIONS_ENGINE/pos/mm.po",
+        "/home/kamkyi/Desktop/TRANSLATIONS_ENGINE/source_pos/kh.po",
+        "/home/kamkyi/Desktop/TRANSLATIONS_ENGINE/source_pos/bn.po",
+        "/home/kamkyi/Desktop/TRANSLATIONS_ENGINE/source_pos/mm.po",
     ]  # List of PO file paths
     excel_file_path = "/home/kamkyi/Desktop/TRANSLATIONS_ENGINE/excel_two/multi_two.xlsx"  # Path to the output Excel file
     po_to_excel(po_file_paths, excel_file_path)
