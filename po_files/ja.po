@@ -3,40 +3,35 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2024-11-08 16:09+0700\n"
+"PO-Revision-Date: 2025-03-10 14:02+0700\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.4.4\n"
+"X-Generator: Poedit 3.5\n"
 "X-Poedit-Basepath: .\n"
 
 #: src/views/calls/WizardSteps/EmploymentFields.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
 msgid "1"
-msgstr "1"
+msgstr ""
 
 #: src/views/calls/WizardSteps/EmploymentFields.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
 msgid "2"
-msgstr "2"
+msgstr ""
 
 #: src/views/calls/WizardSteps/EmploymentFields.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
 msgid "3"
-msgstr "3"
+msgstr ""
 
 #: src/views/calls/WizardSteps/EmploymentFields.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
 msgid "4"
-msgstr "4"
+msgstr ""
 
 #: src/views/calls/WizardSteps/EmploymentFields.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
 msgid "5"
-msgstr "5"
+msgstr ""
 
 #: src/components/Async/SuppliersPaginateDropdown.js
 #, fuzzy
@@ -78,10 +73,8 @@ msgid "Loading chart.."
 msgstr "データを読み込み中..."
 
 #: src/components/Charts/SupplierKpisTimelineChart.js
-#, fuzzy
-#| msgid "KPI(s)"
 msgid "KPI"
-msgstr "KPI"
+msgstr ""
 
 #: src/components/Charts/SupplierKpisTimelineChart.js
 msgid "Time"
@@ -94,6 +87,548 @@ msgstr "イサラ研究所"
 #: src/components/Footer/Footer.js
 msgid "All rights reserved. V3.0.0"
 msgstr "無断転載禁止。V3.0.0"
+
+#: src/components/Grievance/GrievanceComponent.js
+msgid "KPI ID :"
+msgstr ""
+
+#: src/components/Grievance/GrievanceComponent.js
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "-"
+msgstr ""
+
+#: src/components/Grievance/GrievanceComponent.js
+msgid "KPI :"
+msgstr ""
+
+#: src/components/Grievance/GrievanceComponent.js
+#, fuzzy
+#| msgid "Opened since:"
+msgid "Opened since: "
+msgstr "からオープン:"
+
+#: src/components/Grievance/GrievanceComponent.js
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "Affected workers:"
+msgstr "影響を受けた労働者数:"
+
+#: src/components/Grievance/GrievanceComponent.js
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "1-10"
+msgstr "1-10人"
+
+#: src/components/Grievance/GrievanceComponent.js
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "11-50"
+msgstr "11-50人"
+
+#: src/components/Grievance/GrievanceComponent.js
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "51-100"
+msgstr "51-100人"
+
+#: src/components/Grievance/GrievanceComponent.js
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "101-500"
+msgstr "101-500人"
+
+#: src/components/Grievance/GrievanceComponent.js
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "501-1000"
+msgstr "501-1000人"
+
+#: src/components/Grievance/GrievanceComponent.js
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "1000+"
+msgstr "1000人以上"
+
+#: src/components/Grievance/GrievanceComponent.js
+#, fuzzy
+#| msgid "Affected workers:"
+msgid "Affected workers: "
+msgstr "影響を受けた労働者数:"
+
+#: src/components/Grievance/GrievanceComponent.js
+#, fuzzy
+#| msgid "Level:"
+msgid "Level: "
+msgstr "レベル:"
+
+#: src/components/Grievance/GrievanceComponent.js
+#, fuzzy
+#| msgid "Days active"
+msgid "Day active: "
+msgstr "アクティブな日数"
+
+#: src/components/Grievance/GrievanceComponent.js
+#, fuzzy
+#| msgid "Status:"
+msgid "Status: "
+msgstr "ステータス:"
+
+#: src/components/Grievance/GrievanceComponent.js
+#, fuzzy
+#| msgid "Issues:"
+msgid "Issues: "
+msgstr "問題:"
+
+#: src/components/Grievance/GrievanceComponent.js
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "Issues:"
+msgstr "問題:"
+
+#: src/components/Grievance/GrievanceComponent.js
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "Remediation Notes (Summary):"
+msgstr "改善メモ(概要):"
+
+#: src/components/Grievance/GrievanceComponent.js
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "Action:"
+msgstr "対応:"
+
+#: src/components/Grievance/GrievanceComponent.js
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "Worker Validation:"
+msgstr "労働者による検証:"
+
+#: src/components/Grievance/GrievanceComponent.js
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "Results:"
+msgstr "結果:"
+
+#: src/components/Grievance/GrievanceForm.js
+msgid "1. Introduction: Interactive Ethical Grievance Management Tool"
+msgstr ""
+
+#: src/components/Grievance/GrievanceForm.js
+msgid "2. Information collection"
+msgstr ""
+
+#: src/components/Grievance/GrievanceForm.js
+#, fuzzy
+#| msgid "Affected workers:"
+msgid "3. Safeguarding affected workers"
+msgstr "影響を受けた労働者数:"
+
+#: src/components/Grievance/GrievanceForm.js
+msgid "4. Ensuring an ethical investigation"
+msgstr ""
+
+#: src/components/Grievance/GrievanceForm.js
+msgid "5. Communicating with the workers reporting issues"
+msgstr ""
+
+#: src/components/Grievance/GrievanceForm.js
+msgid "6. Monitoring and communicating finds more broadly"
+msgstr ""
+
+#: src/components/Grievance/GrievanceForm.js
+msgid "7. Trainings"
+msgstr ""
+
+#: src/components/Grievance/GrievanceForm.js
+msgid ""
+"Would you like assistance from Issara Institute to follow up on ethical "
+"grievance processes?"
+msgstr ""
+
+#: src/components/Grievance/GrievanceForm.js
+msgid "Would you like to save the grievance form as a draft before leaving?"
+msgstr ""
+
+#: src/components/Grievance/PreviewGrievance.js
+#, fuzzy
+#| msgid "Supplier Overview"
+msgid "Supplier Grievance Preview"
+msgstr "サプライヤーの概要"
+
+#: src/components/Grievance/PreviewGrievance.js
+#, fuzzy
+#| msgid "Interaction Reason"
+msgid "Information Collection"
+msgstr "問合せ理由"
+
+#: src/components/Grievance/PreviewGrievance.js
+#: src/components/Grievance/Tabs/InformationCollection.js
+msgid ""
+"Please review the information shared in ILM. Do you want to talk to Issara "
+"to get more context on the worker-reported issue?"
+msgstr ""
+
+#: src/components/Grievance/PreviewGrievance.js
+#: src/components/Grievance/Tabs/InformationCollection.js
+msgid ""
+"Have you checked with the HR team to see if similar worker-reported issues "
+"have been filed and/or solved recently?"
+msgstr ""
+
+#: src/components/Grievance/PreviewGrievance.js
+#: src/components/Grievance/Tabs/InformationCollection.js
+msgid ""
+"Is this worker-reported issue a repeat issue, meaning that there might be a "
+"root cause that needs to be identified and addressed?"
+msgstr ""
+
+#: src/components/Grievance/PreviewGrievance.js
+#: src/components/Grievance/Tabs/CommunicatingWithTheWorkers.js
+#: src/components/Grievance/Tabs/EnsuringAnEthicalInvestigation.js
+#: src/components/Grievance/Tabs/InformationCollection.js
+#: src/components/Grievance/Tabs/SafeguardingAffectedWorkers.js
+#, fuzzy
+#| msgid "General Notes"
+msgid "Additional Notes"
+msgstr "一般的な注意事項"
+
+#: src/components/Grievance/PreviewGrievance.js
+#, fuzzy
+#| msgid "Affected workers:"
+msgid "Safeguarding Affected Workers"
+msgstr "影響を受けた労働者数:"
+
+#: src/components/Grievance/PreviewGrievance.js
+#: src/components/Grievance/Tabs/SafeguardingAffectedWorkers.js
+msgid ""
+"Is zero tolerance of retaliation being followed by everyone involved in this "
+"case?"
+msgstr ""
+
+#: src/components/Grievance/PreviewGrievance.js
+#: src/components/Grievance/Tabs/SafeguardingAffectedWorkers.js
+msgid ""
+"Have you reviewed all the possible individuals identified in the worker-"
+"reported issue and conducted a risk assessment to ensure that workers remain "
+"safe during the duration of the grievance investigation and remediation?"
+msgstr ""
+
+#: src/components/Grievance/PreviewGrievance.js
+msgid ""
+"Have you reviewed all the possible individuals that would be involved in the "
+"grievance investigation and remediation process, including interpreters, and "
+"ensured that there are no conflicts of interest?"
+msgstr ""
+
+#: src/components/Grievance/PreviewGrievance.js
+#: src/components/Grievance/Tabs/SafeguardingAffectedWorkers.js
+msgid ""
+"All individuals have received the training ensuring they understand how to "
+"prioritize safety, confidentiality, privacy and company protocols for "
+"efficient response to worker-reported issues?"
+msgstr ""
+
+#: src/components/Grievance/PreviewGrievance.js
+#: src/components/Grievance/Tabs/SafeguardingAffectedWorkers.js
+msgid ""
+"Has a trained and impartial individual reached out to the worker(s) to "
+"introduce themselves as the case focal point, inform them that the company "
+"is about to launch an investigation into their grievance, specify the start "
+"date, and confirm that there are no conflicts of interest within the "
+"investigation team?"
+msgstr ""
+
+#: src/components/Grievance/PreviewGrievance.js
+msgid "Ensuring an Ethical Investigation"
+msgstr ""
+
+#: src/components/Grievance/PreviewGrievance.js
+#: src/components/Grievance/Tabs/EnsuringAnEthicalInvestigation.js
+msgid ""
+"Ethical. Have you reviewed all possible individuals to be involved in the "
+"investigation, including interpreters, and ensured that all are fully "
+"committed to 'do no harm' and maintaining worker safeguards at all times?"
+msgstr ""
+
+#: src/components/Grievance/PreviewGrievance.js
+#: src/components/Grievance/Tabs/EnsuringAnEthicalInvestigation.js
+msgid ""
+"Professional. Have you ensured that responsible persons in the grievance "
+"process are knowledgeable, qualified, and trained to serve impartially in "
+"the grievance process?"
+msgstr ""
+
+#: src/components/Grievance/PreviewGrievance.js
+#: src/components/Grievance/Tabs/EnsuringAnEthicalInvestigation.js
+msgid ""
+"Impartial. Have you ensured that responsible persons in the grievance "
+"process have no biases and can refrain from making snap judgments when "
+"hearing the perspectives of workers versus other worksite staff?"
+msgstr ""
+
+#: src/components/Grievance/PreviewGrievance.js
+#: src/components/Grievance/Tabs/EnsuringAnEthicalInvestigation.js
+msgid ""
+"Inclusive and Accessible. Have you identified all the language, gender, and "
+"literacy considerations for effective communication with the worker, and "
+"have you communicated with the worker the range of ways they can get in "
+"touch with you?"
+msgstr ""
+
+#: src/components/Grievance/PreviewGrievance.js
+#: src/components/Grievance/Tabs/EnsuringAnEthicalInvestigation.js
+msgid ""
+"Timely and Effective. Have you established responsible timelines and goals "
+"for investigation and remediation that take into account both the interests "
+"of the business and the worker?"
+msgstr ""
+
+#: src/components/Grievance/PreviewGrievance.js
+#, fuzzy
+#| msgid "Clearly communicated to suppliers"
+msgid "Communicating with the workers"
+msgstr "サプライヤーに明確に伝達"
+
+#: src/components/Grievance/PreviewGrievance.js
+#: src/components/Grievance/Tabs/CommunicatingWithTheWorkers.js
+msgid ""
+"Throughout the investigation and upon its conclusion, have you stayed in "
+"touch with the worker to check on their well-being and whether the "
+"investigation has had any positive or negative impacts on them?"
+msgstr ""
+
+#: src/components/Grievance/PreviewGrievance.js
+#: src/components/Grievance/Tabs/CommunicatingWithTheWorkers.js
+msgid ""
+"Do you need help with any more complex consequences arising from the worker-"
+"reported issue, such as psychosocial support for the worker, the need to "
+"quickly repatriate a worker, etc.?"
+msgstr ""
+
+#: src/components/Grievance/PreviewGrievance.js
+#, fuzzy
+#| msgid "Working Conditions"
+msgid "Monitoring and Communication"
+msgstr "労働環境"
+
+#: src/components/Grievance/PreviewGrievance.js
+#: src/components/Grievance/Tabs/MonitoringAndCommunication.js
+msgid "Remediation"
+msgstr "改善"
+
+#: src/components/Grievance/PreviewGrievance.js
+#: src/components/Grievance/Tabs/MonitoringAndCommunication.js
+msgid "Systems Strengthening and Continuous Improvement"
+msgstr ""
+
+#: src/components/Grievance/PreviewGrievance.js
+#, fuzzy
+#| msgid "Ratings"
+msgid "Trainings"
+msgstr "評価"
+
+#: src/components/Grievance/PreviewGrievance.js
+msgid "Submit"
+msgstr ""
+
+#: src/components/Grievance/SummaryComponent.js
+#: src/components/Grievance/Tabs/PrevTextDataComponent.js
+#, fuzzy
+#| msgid "Updated:"
+msgid "Updated At "
+msgstr "更新日:"
+
+#: src/components/Grievance/Tabs/CommunicatingWithTheWorkers.js
+#: src/components/Grievance/Tabs/EnsuringAnEthicalInvestigation.js
+#: src/components/Grievance/Tabs/InformationCollection.js
+#: src/components/Grievance/Tabs/SafeguardingAffectedWorkers.js
+#: src/views/calls/WizardSteps/CallActionFields.js
+#: src/views/calls/WizardSteps/CallIssuesForm.js
+#: src/views/calls/WizardSteps/RecruiterFields.js
+#: src/views/suppliers/SupplierKpiUpdateForm.js
+msgid "Yes"
+msgstr "はい"
+
+#: src/components/Grievance/Tabs/CommunicatingWithTheWorkers.js
+#: src/components/Grievance/Tabs/EnsuringAnEthicalInvestigation.js
+#: src/components/Grievance/Tabs/SafeguardingAffectedWorkers.js
+msgid "No, not yet, but I will do so"
+msgstr ""
+
+#: src/components/Grievance/Tabs/CommunicatingWithTheWorkers.js
+#: src/components/Grievance/Tabs/EnsuringAnEthicalInvestigation.js
+#: src/components/Grievance/Tabs/SafeguardingAffectedWorkers.js
+msgid "No, I do not think that is necessary"
+msgstr ""
+
+#: src/components/Grievance/Tabs/CommunicatingWithTheWorkers.js
+#: src/components/Grievance/Tabs/EnsuringAnEthicalInvestigation.js
+#: src/components/Grievance/Tabs/SafeguardingAffectedWorkers.js
+msgid "Please describe why?"
+msgstr ""
+
+#: src/components/Grievance/Tabs/CommunicatingWithTheWorkers.js
+#: src/components/Grievance/Tabs/InformationCollection.js
+#: src/components/Grievance/Tabs/SafeguardingAffectedWorkers.js
+#: src/views/calls/WizardSteps/CallActionFields.js
+#: src/views/calls/WizardSteps/CallIssuesForm.js
+#: src/views/calls/WizardSteps/RecruiterFields.js
+#: src/views/suppliers/SupplierKpiUpdateForm.js
+msgid "No"
+msgstr "いいえ"
+
+#: src/components/Grievance/Tabs/CommunicatingWithTheWorkers.js
+msgid ""
+"The Issara team will be notified of this and will reach out to you soon! "
+"Issara Institute has trained trauma-informed counselors, teams working in "
+"the origin countries of the workers, and a network of trusted service "
+"providers, all which are happy to help with complex cases and service needs."
+msgstr ""
+
+#: src/components/Grievance/Tabs/CommunicatingWithTheWorkers.js
+#: src/components/Grievance/Tabs/EnsuringAnEthicalInvestigation.js
+#: src/components/Grievance/Tabs/InformationCollection.js
+#: src/components/Grievance/Tabs/MonitoringAndCommunication.js
+#: src/components/Grievance/Tabs/SafeguardingAffectedWorkers.js
+msgid "Save as Draft"
+msgstr ""
+
+#: src/components/Grievance/Tabs/InformationCollection.js
+#, fuzzy
+#| msgid "Vot Needs"
+msgid "No Need"
+msgstr "投票の必要性"
+
+#: src/components/Grievance/Tabs/InformationCollection.js
+msgid "Yes, I want more information from my Issara focal"
+msgstr ""
+
+#: src/components/Grievance/Tabs/InformationCollection.js
+msgid "Yes, I already reached out to my Issara focal"
+msgstr ""
+
+#: src/components/Grievance/Tabs/Introduction.js
+msgid "Ethical"
+msgstr ""
+
+#: src/components/Grievance/Tabs/Introduction.js
+#, fuzzy
+#| msgid "Profile"
+msgid "Professional"
+msgstr "プロフィール"
+
+#: src/components/Grievance/Tabs/Introduction.js
+msgid "Inclusive"
+msgstr ""
+
+#: src/components/Grievance/Tabs/Introduction.js
+msgid "Accessible"
+msgstr ""
+
+#: src/components/Grievance/Tabs/Introduction.js
+msgid "Safe"
+msgstr ""
+
+#: src/components/Grievance/Tabs/Introduction.js
+msgid "Impartial"
+msgstr ""
+
+#: src/components/Grievance/Tabs/Introduction.js
+msgid "Timely action"
+msgstr ""
+
+#: src/components/Grievance/Tabs/Introduction.js
+#, fuzzy
+#| msgid "Affected"
+msgid "Effective"
+msgstr "影響を受ける"
+
+#: src/components/Grievance/Tabs/Introduction.js
+msgid ""
+"The ILM interactive grievance management tool allows you to receive and "
+"review ongoing worker feedback and worker-reported issues at your site, and "
+"respond in a timely and ethical manner. Functioning ethical grievance "
+"mechanisms must always have two things: (1) Safeguarded workers, and (2) "
+"Responsive, respectful employers and recruiters. To review more on the 8 "
+"components of Ethical Grievance Mechanisms, please download the one-page "
+"primer here "
+msgstr ""
+
+#: src/components/Grievance/Tabs/Introduction.js
+msgid "PDF"
+msgstr ""
+
+#: src/components/Grievance/Tabs/Introduction.js
+msgid "Reminder! The 8 components of Ethical Grievance Mechanisms: "
+msgstr ""
+
+#: src/components/Grievance/Tabs/Introduction.js
+#: src/views/Dashboard/SPWorkPlanning/SPMainGoalsForm.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIntroForm.js
+msgid "Next"
+msgstr "次へ"
+
+#: src/components/Grievance/Tabs/MonitoringAndCommunication.js
+msgid ""
+"Case updates entered here are time-stamped and viewable by your team, the "
+"Issara team, and your customers that are Strategic Partners in the ILM "
+"system. If there is any additional information that you would like to add "
+"regarding Remediation or Systems Strengthening and Continuous Improvement, "
+"please enter it here:"
+msgstr ""
+
+#: src/components/Grievance/Tabs/MonitoringAndCommunication.js
+#, fuzzy
+#| msgid "• Quality of remediation"
+msgid "Please add notes on case remediation"
+msgstr "• 改善の質"
+
+#: src/components/Grievance/Tabs/MonitoringAndCommunication.js
+msgid ""
+"Please add notes on Systems Strengthening and Continuous Improvement related "
+"to this worker-reported issue"
+msgstr ""
+
+#: src/components/Grievance/Tabs/MonitoringAndCommunication.js
+#: src/components/Grievance/Tabs/Trainings.js
+msgid "Preview & Submit"
+msgstr ""
+
+#: src/components/Grievance/Tabs/PrevTextDataComponent.js
+#, fuzzy
+#| msgid "Notes"
+msgid "Note"
+msgstr "参照"
+
+#: src/components/Grievance/Tabs/SafeguardingAffectedWorkers.js
+msgid ""
+"The remediation case is at risk. The Issara team will be following up with "
+"your company's focal point to discuss how to safeguard all affected workers "
+"from retaliation, and build better systems for zero tolerance against "
+"retaliation, and build better systems for zero tolerance against retaliation."
+msgstr ""
+
+#: src/components/Grievance/Tabs/SafeguardingAffectedWorkers.js
+msgid ""
+"The remediation case is at risk. The Issara team will be following up with "
+"your company's focal point to discuss how to safeguard all affected workers "
+"from retaliation, and build better systems for zero tolerance against "
+"retaliation."
+msgstr ""
+
+#: src/components/Grievance/Tabs/SafeguardingAffectedWorkers.js
+msgid ""
+"Have you reviewed all the possible individuals that would be involved in the "
+"grievance investigation and remediation process, including interpreters, and "
+"ensured that:"
+msgstr ""
+
+#: src/components/Grievance/Tabs/SafeguardingAffectedWorkers.js
+msgid ""
+"Is there any conflict of interest? Please do not proceed until it is certain "
+"that there are no relationships or conflicts of interest between grievance "
+"response personnel and the individual(s) who are the subjects of the "
+"complaint."
+msgstr ""
+
+#: src/components/Grievance/Tabs/SafeguardingAffectedWorkers.js
+msgid "Your Issara focal has been notified; they will reach out to you soon."
+msgstr ""
+
+#: src/components/Grievance/Tabs/Trainings.js
+msgid ""
+"Please review the list of trainings below and indicate if you would like to "
+"request any of them from Issara. "
+msgstr ""
 
 #: src/components/ilmdb/CallerStatusDropdown.js
 #: src/views/calls/InteractionCallModal.js
@@ -377,6 +912,7 @@ msgstr "サプライヤーを取得中"
 #: src/components/ilmdb/SupplyChainFilter.js
 #: src/views/Dashboard/IssaraActivityDashboard.js
 #: src/views/Dashboard/SupplierKpiDashboard.js
+#: src/views/suppliers/kpiupdates/SupplierKpiFilters.js
 #: src/views/suppliers/SupplierKpiDashboard.js
 #: src/views/suppliers/SupplierKPIsList.js
 msgid "End"
@@ -392,6 +928,7 @@ msgstr "検索"
 #: src/views/calls/WizardSteps/RequiredCallFields.js
 #: src/views/Dashboard/IssaraActivityDashboard.js
 #: src/views/strategicpartners/SupplierProgressDashboard.js
+#: src/views/suppliers/kpiupdates/SupplierKpiFilters.js
 #: src/views/suppliers/SupplierKPIsList.js
 #: src/views/TeamActivity/FieldworkActivityForm.js
 msgid "Suppliers"
@@ -424,6 +961,22 @@ msgstr "これらの検索パラメータに該当するサプライヤーは存
 #: src/components/ilmdb/SupplyChainFilter.js
 msgid "Close Checkbox Panel"
 msgstr "チェックボックスパネルを閉じる"
+
+#: src/components/Indicator/IndicatorInfo.js
+msgid "Grey = Not yet initiated"
+msgstr ""
+
+#: src/components/Indicator/IndicatorInfo.js
+#, fuzzy
+#| msgid "Yellow = in progress"
+msgid "Yellow = Partial progress"
+msgstr "黄 = 進行中"
+
+#: src/components/Indicator/IndicatorInfo.js
+#, fuzzy
+#| msgid "Green = complete"
+msgid "Green = Completed/ongoing"
+msgstr "緑 = 完了"
 
 #: src/components/Maintenance/Maintenance.js
 msgid "This feature is currently under maintenance."
@@ -493,7 +1046,8 @@ msgid "The application will be refreshed to effect the changed language."
 msgstr "変更した言語を有効にするために、アプリケーションが更新されます。"
 
 #: src/components/Navbars/LanguageChangeDialog.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
 msgid "Cancel"
 msgstr "キャンセル"
 
@@ -503,7 +1057,7 @@ msgstr "はい、お願いします"
 
 #: src/layouts/Admin.js
 msgid "ILM 3.0"
-msgstr "ILM 3.0"
+msgstr ""
 
 #: src/routes.js
 msgid "Partner Overview"
@@ -645,7 +1199,6 @@ msgstr "法違反"
 #: src/views/Dashboard/IssaraActivityDashboard.js
 #: src/views/Dashboard/SupplierMouThaiDashboard.js
 #: src/views/suppliers/SupplierKPIsList.js
-#: src/views/teamtasks/EnhancedTeamTasksList.js
 msgid "Download As XLS File"
 msgstr "XLS ファイルとしてダウンロード"
 
@@ -703,6 +1256,8 @@ msgstr "日付以前:"
 #: src/views/Dashboard/SupplyChainDashboardKpi.js
 #: src/views/references/KpiLegalViolationList.js
 #: src/views/references/KpiReferencesList.js
+#: src/views/suppliers/kpiupdates/SupplierKpiTable.js
+#: src/views/suppliers/kpiupdates/SupplierKpiUpdateHistoryTable.js
 #: src/views/suppliers/SupplierKPIsList.js src/views/suppliers/SupplierList.js
 #: src/views/teamtasks/EnhancedTeamTasksList.js
 msgid "Search Results"
@@ -713,6 +1268,8 @@ msgstr "検索結果"
 #: src/views/Dashboard/SupplyChainDashboardKpi.js
 #: src/views/references/KpiLegalViolationList.js
 #: src/views/references/KpiReferencesList.js
+#: src/views/suppliers/kpiupdates/SupplierKpiTable.js
+#: src/views/suppliers/kpiupdates/SupplierKpiUpdateHistoryTable.js
 #: src/views/suppliers/SharedFileList.js
 #: src/views/suppliers/SupplierKPIsList.js
 #: src/views/teamtasks/EnhancedTeamTasksList.js
@@ -738,7 +1295,7 @@ msgstr "サプライヤー"
 
 #: src/views/calls/InteractionCallList.js
 msgid "RecruiterSrc"
-msgstr "RecruiterSrc"
+msgstr ""
 
 #: src/views/calls/InteractionCallList.js
 msgid "# Kpis"
@@ -754,6 +1311,7 @@ msgstr ""
 #: src/views/strategicpartners/PartnerMessageBoardList.js
 #: src/views/strategicpartners/PartnerReferenceDocList.js
 #: src/views/strategicpartners/SharedFileList.js
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js
 #: src/views/suppliers/SharedFileList.js
 #: src/views/suppliers/SupplierKPIsList.js
 #: src/views/suppliers/SupplierKpiUpdateForm.js
@@ -1070,7 +1628,10 @@ msgid "Edit/Add Worker Call: "
 msgstr "労働者による問合せ内容の編集/追加:"
 
 #: src/views/calls/NewCallWizardView.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
+#: src/views/Dashboard/SPWorkPlanning/SPMainGoalsForm.js
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIntroForm.js
 #: src/views/landing/TeamActionForm.js
 #: src/views/TeamActivity/FieldworkActivityForm.js
 #: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
@@ -1097,20 +1658,6 @@ msgstr "クライアントの最も喫緊のニーズは何ですか?"
 #: src/views/calls/WizardSteps/CallActionFields.js
 msgid "Consent to pass on details to employer, agency, referral partner?"
 msgstr "雇用企業、関連団体や、照会パートナーに詳細を共有する事に同意しますか?"
-
-#: src/views/calls/WizardSteps/CallActionFields.js
-#: src/views/calls/WizardSteps/CallIssuesForm.js
-#: src/views/calls/WizardSteps/RecruiterFields.js
-#: src/views/suppliers/SupplierKpiUpdateForm.js
-msgid "Yes"
-msgstr "はい"
-
-#: src/views/calls/WizardSteps/CallActionFields.js
-#: src/views/calls/WizardSteps/CallIssuesForm.js
-#: src/views/calls/WizardSteps/RecruiterFields.js
-#: src/views/suppliers/SupplierKpiUpdateForm.js
-msgid "No"
-msgstr "いいえ"
 
 #: src/views/calls/WizardSteps/CallActionFields.js
 msgid "Details on organization action (Referral Notes)"
@@ -1227,26 +1774,6 @@ msgstr "問合せ日時"
 #: src/views/calls/WizardSteps/CallIssues.js
 msgid "Issues at this workplace"
 msgstr "この職場での問題"
-
-#: src/views/calls/WizardSteps/CallIssues.js
-msgid "Instructions:"
-msgstr "手順:"
-
-#: src/views/calls/WizardSteps/CallIssues.js
-msgid ""
-"If the client is adding more information or updates on a previously reported "
-"issue, please click the green pen by the relevant KPI to update."
-msgstr ""
-"クライアントからの以前に報告された問題に関する詳細情報や更新情報を追加する場"
-"合は、関連するKPI の横にある緑色のペンをクリックして更新してください。"
-
-#: src/views/calls/WizardSteps/CallIssues.js
-msgid ""
-"If the client is reporting a new issue at the workplace, please click the "
-"green New Issue button."
-msgstr ""
-"クライアントから職場で新しい問題の報告があった場合は、緑色の [新しい問題] ボ"
-"タンをクリックして、情報を追加してください。"
 
 #: src/views/calls/WizardSteps/CallIssuesForm.js
 msgid "Issue Description"
@@ -1452,6 +1979,7 @@ msgstr "国籍によるフィルターはまだ適用されていません"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
 #: src/views/Dashboard/SupplierKpiDashboard.js
+#: src/views/suppliers/kpiupdates/SupplierKpiFilters.js
 #: src/views/suppliers/SupplierKpiDashboard.js
 #: src/views/suppliers/SupplierKPIsList.js
 msgid "Between"
@@ -1459,6 +1987,7 @@ msgstr "期間"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
 #: src/views/Dashboard/SupplierKpiDashboard.js
+#: src/views/suppliers/kpiupdates/SupplierKpiFilters.js
 #: src/views/suppliers/SupplierKpiDashboard.js
 #: src/views/suppliers/SupplierKPIsList.js
 msgid "Start"
@@ -1466,6 +1995,7 @@ msgstr "開始"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
 #: src/views/Dashboard/SupplierKpiDashboard.js
+#: src/views/suppliers/kpiupdates/SupplierKpiFilters.js
 #: src/views/suppliers/SupplierKpiDashboard.js
 #: src/views/suppliers/SupplierKPIsList.js
 msgid "And"
@@ -1473,6 +2003,7 @@ msgstr "そして"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
 #: src/views/Dashboard/SupplierKpiDashboard.js
+#: src/views/suppliers/kpiupdates/SupplierKpiFilters.js
 #: src/views/suppliers/SupplierKpiDashboard.js
 #: src/views/suppliers/SupplierKPIsList.js
 msgid "Reset all"
@@ -1521,7 +2052,9 @@ msgid "Suppliers Trained"
 msgstr "研修を受けたサプライヤー"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
-msgid "Workers Reached In Pre-Departure MM"
+#, fuzzy
+#| msgid "Workers Reached In Pre-Departure MM"
+msgid "Workers Reached In Pre-Departure Myanmar"
 msgstr "ミャンマー出発前に連絡が出来た労働者"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
@@ -1537,16 +2070,16 @@ msgid "Recruitment Agencies Trained"
 msgstr "研修を受けた送り出し・受け入れ機関"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
-msgid "Workers Reached In Pre-Departure NE"
+#, fuzzy
+#| msgid "Workers Reached In Pre-Departure NE"
+msgid "Workers Reached In Pre-Departure Nepal"
 msgstr "ネパール出発前に連絡が出来た労働者"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
-#: src/views/TeamActivity/WV_and_ER_metrix.js
 msgid "Remediation For Recruitment Fees and Cases"
 msgstr "採用コストと労働問題の改善措置"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
-#: src/views/TeamActivity/WV_and_ER_metrix.js
 msgid "Recruitment-Related Fees Detected and Intercepted"
 msgstr "違法な採用関連コストの把握・求職者の保護"
 
@@ -1564,18 +2097,18 @@ msgstr "連絡の取れた労働者の合計"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
 #: src/views/Dashboard/SupplyChainDashboardKpi.js
+#: src/views/suppliers/kpiupdates/SupplierKpiTable.js
+#: src/views/suppliers/kpiupdates/SupplierKpiUpdateHistoryTable.js
 #: src/views/suppliers/SupplierKPIsList.js
-#: src/views/teamtasks/EnhancedTeamTasksList.js
 msgid "Search (Fuzzy Search Across all fields)"
 msgstr "検索 (全てのフィールドでのあいまい検索)"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
-#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
 #: src/views/Dashboard/SupplyChainDashboardKpi.js
 #: src/views/suppliers/SupplierList.js
 #: src/views/teamtasks/EnhancedTeamTasksList.js
 msgid "ID"
-msgstr "ID"
+msgstr ""
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
 #, fuzzy
@@ -1597,11 +2130,11 @@ msgid "Location"
 msgstr "場所"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
-#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
 msgid "Target"
 msgstr "ターゲット"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
 #: src/views/TeamActivity/FieldworkActivityForm.js
 msgid "Notes"
 msgstr "参照"
@@ -1613,6 +2146,12 @@ msgstr "リンク"
 #: src/views/Dashboard/IssaraActivityDashboard.js
 msgid "Total Worker"
 msgstr "合計従業員数"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#, fuzzy
+#| msgid "Created"
+msgid "Created By"
+msgstr "作成"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
 msgid "worker_calls_count_by_month"
@@ -1641,6 +2180,8 @@ msgstr "一般:"
 
 #: src/views/Dashboard/KpiReferenceModal.js
 #: src/views/references/KpiReferenceModal.js
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
 #: src/views/suppliers/SupplierKPIModal.js
 #: src/views/suppliers/SupplierKpiUpdateForm.js
 msgid "Category:"
@@ -1649,6 +2190,8 @@ msgstr "カテゴリ:"
 #: src/views/Dashboard/KpiReferenceModal.js
 #: src/views/references/KpiLegalViolationModal.js
 #: src/views/references/KpiReferenceModal.js
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
 #: src/views/suppliers/SupplierKPIModal.js
 #: src/views/suppliers/SupplierKpiUpdateForm.js
 msgid "Description:"
@@ -1656,6 +2199,8 @@ msgstr "概要:"
 
 #: src/views/Dashboard/KpiReferenceModal.js
 #: src/views/references/KpiReferenceModal.js
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
 #: src/views/suppliers/SupplierKPIModal.js
 #: src/views/suppliers/SupplierKpiUpdateForm.js
 msgid "Level:"
@@ -1689,9 +2234,228 @@ msgstr "見つかったもの:"
 msgid "ETI Code"
 msgstr "倫理研修イニシアチブ(ETI)コード"
 
+#: src/views/Dashboard/SPWorkPlanning/ActivitiesReview.js
+msgid "Priority Workplan Activities"
+msgstr "業務計画における優先活動"
+
+#: src/views/Dashboard/SPWorkPlanning/ActivitiesReview.js
+msgid ""
+"The priority activities for your company that you indicate here will appear "
+"on your SP Progress Dashboard."
+msgstr ""
+"ここで指定した貴社の優先活動は、戦略的パートナー(SP)進捗ダッシュボードに表示"
+"されます。"
+
+#: src/views/Dashboard/SPWorkPlanning/ActivitiesReview.js
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+#: src/views/suppliers/SupplierProgressActivitySummary.js
+#, fuzzy
+#| msgid "AREA 1. WORKER VOICE"
+msgid "ACTIVITIES FOR AREA 1 - WORKER VOICE"
+msgstr "領域1. 労働者の声"
+
+#: src/views/Dashboard/SPWorkPlanning/ActivitiesReview.js
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+#: src/views/suppliers/SupplierProgressActivitySummary.js
+msgid "Policies, Operational Systems, & Procedures"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/ActivitiesReview.js
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+msgid "1.1. Worker voice / worker validation policy"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/ActivitiesReview.js
+msgid "N/A"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/ActivitiesReview.js
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+msgid "1.2. Operational plans & rollout"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/ActivitiesReview.js
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+#: src/views/suppliers/SupplierProgressActivitySummary.js
+msgid "Effective Communications"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/ActivitiesReview.js
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+msgid "1.3. Communications to workers (for Partner manufacturer/processor)"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/ActivitiesReview.js
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+#, fuzzy
+#| msgid "Clearly communicated to suppliers"
+msgid "1.4. Communications between Global Buyers & Suppliers"
+msgstr "サプライヤーに明確に伝達"
+
+#: src/views/Dashboard/SPWorkPlanning/ActivitiesReview.js
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+#: src/views/suppliers/SupplierProgressActivitySummary.js
+msgid "System Strengthening"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/ActivitiesReview.js
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+#: src/views/suppliers/SupplierProgressActivitySummary.js
+#, fuzzy
+#| msgid "Company policy: ethical recruitment"
+msgid "1.5. Capacity building: Ethical Grievance Mechanisms"
+msgstr "企業方針: 倫理的採用"
+
+#: src/views/Dashboard/SPWorkPlanning/ActivitiesReview.js
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+#: src/views/suppliers/SupplierProgressActivitySummary.js
+#, fuzzy
+#| msgid "AREA 2. LABOUR RECRUITMENT"
+msgid "ACTIVITIES FOR AREA 2 - LABOR RECRUITMENT"
+msgstr "領域2. 労働者の採用"
+
+#: src/views/Dashboard/SPWorkPlanning/ActivitiesReview.js
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+#, fuzzy
+#| msgid "ER INDICATOR 1. Ethical recruitment policy in force is:"
+msgid "2.1. Ethical recruitment policy / roadmap plan"
+msgstr "倫理的採用 (ER) 指標 1. 実施されている倫理的採用方針は次の通りです。"
+
+#: src/views/Dashboard/SPWorkPlanning/ActivitiesReview.js
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+#: src/views/suppliers/SupplierProgressActivitySummary.js
+msgid "2.2. System and Procedures for Ethical Recruitment"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/ActivitiesReview.js
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+#, fuzzy
+#| msgid "Company policy: ethical recruitment"
+msgid "2.3. Transparency in labor recruitment channels"
+msgstr "企業方針: 倫理的採用"
+
+#: src/views/Dashboard/SPWorkPlanning/ActivitiesReview.js
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+#, fuzzy
+#| msgid "Clearly communicated to suppliers"
+msgid "2.4 Communication to suppliers"
+msgstr "サプライヤーに明確に伝達"
+
+#: src/views/Dashboard/SPWorkPlanning/ActivitiesReview.js
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+#: src/views/suppliers/SupplierProgressActivitySummary.js
+msgid "2.5. Communication of Recruitment Policies to Job Candidates & Workers"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/ActivitiesReview.js
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+#, fuzzy
+#| msgid "Recruitment"
+msgid "2.6 Recruitment surveys"
+msgstr "採用"
+
+#: src/views/Dashboard/SPWorkPlanning/ActivitiesReview.js
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+#, fuzzy
+#| msgid "Recruitment Agencies Trained"
+msgid "2.7 Recruitment fee repayment"
+msgstr "研修を受けた送り出し・受け入れ機関"
+
+#: src/views/Dashboard/SPWorkPlanning/ActivitiesReview.js
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+#, fuzzy
+#| msgid "Company policy: ethical recruitment"
+msgid "2.8 Capacity building: ethical recruitment trainings"
+msgstr "企業方針: 倫理的採用"
+
+#: src/views/Dashboard/SPWorkPlanning/ActivitiesReview.js
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+msgid "2.10 Golden Dreams"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/ActivitiesReview.js
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+#: src/views/suppliers/SupplierProgressActivitySummary.js
+#, fuzzy
+#| msgid "AREA 3. WORKING CONDITIONS"
+msgid "ACTIVITIES FOR AREA 3 - WORKING CONDITIONS"
+msgstr "領域3. 労働環境"
+
+#: src/views/Dashboard/SPWorkPlanning/ActivitiesReview.js
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+#, fuzzy
+#| msgid "ER INDICATOR 1. Ethical recruitment policy in force is:"
+msgid "3.1. Establish sourcing policy / roadmap plan"
+msgstr "倫理的採用 (ER) 指標 1. 実施されている倫理的採用方針は次の通りです。"
+
+#: src/views/Dashboard/SPWorkPlanning/ActivitiesReview.js
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+#, fuzzy
+#| msgid "Date of most recent worker satisfaction survey"
+msgid "3.5. Independent worker satisfaction surveys"
+msgstr "最新の労働者満足度調査(WSS)の日時"
+
+#: src/views/Dashboard/SPWorkPlanning/ActivitiesReview.js
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+#, fuzzy
+#| msgid "Clearly communicated to suppliers"
+msgid "3.3 Communication to suppliers"
+msgstr "サプライヤーに明確に伝達"
+
+#: src/views/Dashboard/SPWorkPlanning/ActivitiesReview.js
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+#, fuzzy
+#| msgid "Clearly communicated to suppliers"
+msgid "3.4 Communication to workers"
+msgstr "サプライヤーに明確に伝達"
+
+#: src/views/Dashboard/SPWorkPlanning/ActivitiesReview.js
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+#, fuzzy
+#| msgid "No. of Workers Receiving Remedition"
+msgid "3.2. Ongoing worker-driven remediation"
+msgstr "報告した労働問題の改善措置を受けた労働者の数"
+
+#: src/views/Dashboard/SPWorkPlanning/ActivitiesReview.js
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+msgid "3.6. Capacity building: HRDD"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/ActivitiesReview.js
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+msgid "3.7. Capacity building: interpreters & line supervisors"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/ActivitiesReview.js
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+#, fuzzy
+#| msgid "Company policy: ethical recruitment"
+msgid "3.8. Capacity building: management & leadership"
+msgstr "企業方針: 倫理的採用"
+
+#: src/views/Dashboard/SPWorkPlanning/CustomToggleButtonGroup.js
+msgid "Not yet initiated"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/CustomToggleButtonGroup.js
+#, fuzzy
+#| msgid "No Progress"
+msgid "Partial Progress"
+msgstr "進捗なし"
+
+#: src/views/Dashboard/SPWorkPlanning/CustomToggleButtonGroup.js
+msgid "Completed / Ongoing"
+msgstr ""
+
 #: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
 msgid "Workplan Reviews"
 msgstr "業務計画の確認"
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+#, fuzzy
+#| msgid "Workplanning"
+msgid "Work Plan"
+msgstr "作業計画"
 
 #: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
 msgid "Introduction"
@@ -1723,11 +2487,21 @@ msgstr ""
 "されていない場合は、ここにアップロードできます。"
 
 #: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+#, fuzzy
+#| msgid "Document Type"
+msgid "Document Type:"
+msgstr "文書タイプ"
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+msgid "File url:"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
 msgid "Main Goals and Priority Partnership Areas"
 msgstr "主な目標と提携における優先分野"
 
 #: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
+#: src/views/Dashboard/SPWorkPlanning/SPMainGoalsForm.js
 msgid ""
 "What are the company's main goals in responsible sourcing and ethical "
 "recruitment over the next 3 years?"
@@ -1735,14 +2509,14 @@ msgstr ""
 "今後3年間における貴社の責任ある調達及び倫理的採用に関する主な目標は何ですか？"
 
 #: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
+#: src/views/Dashboard/SPWorkPlanning/SPMainGoalsForm.js
 msgid ""
 "What are the company's main priority areas of partnership with Issara "
 "Institute?"
 msgstr "イサラ研究所との提携における貴社の主な優先分野は何ですか？"
 
 #: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
+#: src/views/Dashboard/SPWorkPlanning/SPMainGoalsForm.js
 msgid ""
 "How worker voice via Inclusive Labor Monitoring (ILM) will be actioned and "
 "escalated at Partner:"
@@ -1751,7 +2525,7 @@ msgstr ""
 "パートナーへエスカレーションされるか:"
 
 #: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
+#: src/views/Dashboard/SPWorkPlanning/SPMainGoalsForm.js
 msgid ""
 "Priority suppliers, countries, and/or regions for continued focus or "
 "expansion:"
@@ -1762,110 +2536,397 @@ msgid "Progress Indicators"
 msgstr "進捗状況指標"
 
 #: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
-msgid "AREA 1. WORKER VOICE: ANNUAL TARGETS"
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+#, fuzzy
+#| msgid "AREA 1. WORKER VOICE: ANNUAL TARGETS"
+msgid "INDICATORS FOR AREA 1. WORKER VOICE: ANNUAL TARGETS"
 msgstr "領域1. 労働者の声: 年間目標"
 
 #: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
-msgid "AREA 2. LABOUR RECRUITMENT: ANNUAL TARGETS"
-msgstr "領域 2. 労働者の採用: 年間目標"
-
-#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
 #, fuzzy
-#| msgid ""
-#| "WV INDICATOR - Ethical recruitment policy in force is (tick all that are "
-#| "within your goal for this year):"
-msgid ""
-"WV INDICATOR - Ethical recruitment policy in force is (tick all that are "
-"within your goal for this year) :"
-msgstr ""
-"労働者の声 (WV) 指標 - 実施されている倫理的な採用方針は (今年の目標に該当する"
-"もの全てをチェックしてください):"
+#| msgid "Worker Voice Calls"
+msgid "Worker Voice Indicator 1"
+msgstr "労働者からの問い合わせ"
 
 #: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
 #: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
-msgid "ER INDICATOR 2."
-msgstr "倫理的採用 (ER) 指標 2."
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid "Worker voice roll-out and ongoing engagement"
+msgstr ""
 
 #: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
-msgid "Number of recruitment agencies mapped"
-msgstr "マッピングされた送り出し・受け入れ機関の数"
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+#, fuzzy
+#| msgid "Worker Voice Calls"
+msgid "Worker Voice Indicator 2"
+msgstr "労働者からの問い合わせ"
 
 #: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
-msgid "Number of suppliers collaborating with Issara"
-msgstr "イサラ研究所と連携しているサプライヤーの数"
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid ""
+"Policy & procedures review: Ethical grievance mechanisms policy is in force "
+"that:"
+msgstr ""
 
 #: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
-msgid "Number of suppliers utilizing GD Marketplace"
-msgstr "Golden Dream マーケットプレイスを利用するサプライヤーの数"
+#, fuzzy
+#| msgid "Status"
+msgid "Statuses"
+msgstr "ステータス"
 
 #: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
-msgid "AREA 3. WORKING CONDITIONS: ANNUAL TARGETS"
-msgstr "領域3. 労働環境: 年間目標"
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+#, fuzzy
+#| msgid "AREA 2. LABOUR RECRUITMENT: ANNUAL TARGETS"
+msgid "INDICATORS FOR AREA 2. LABOR RECRUITMENT: ANNUAL TARGETS"
+msgstr "領域 2. 労働者の採用: 年間目標"
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+#, fuzzy
+#| msgid "Progress Indicators"
+msgid "ER Indicator 1"
+msgstr "進捗状況指標"
 
 #: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
 msgid ""
-"WV INDICATOR - Ethical sourcing and migrant worker policies put into force "
-"that are ( tick all that are within your goal for this year ) :"
+"Policy & procedures review: Ethical recruitment / migrant recruitment laws "
+"and policies are in force that are:"
 msgstr ""
-"労働者の声(WV)指標 - 倫理的な調達と移住労働者に関するポリシーが実施されている"
-"かどうか (今年の目標に該当するもの全てをチェックしてください):"
 
 #: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
-msgid "Quality of response"
-msgstr "対応の質"
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid "In line with international standards and definitions"
+msgstr "国際基準及び定義に準拠"
 
 #: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
-msgid "Timeliness of response"
-msgstr "タイムリーな対応"
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid "Clearly communicated to suppliers"
+msgstr "サプライヤーに明確に伝達"
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+#, fuzzy
+#| msgid ""
+#| "Integrated into commercial processes (supplier scorecards, contracts, "
+#| "etc.)"
+msgid ""
+"Integrated into commercial processes such as supplier scorecards and "
+"contracts"
+msgstr "商業プロセスに統合されています (サプライヤースコアカード、契約など)"
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+#, fuzzy
+#| msgid "Progress Indicators"
+msgid "ER Indicator 3"
+msgstr "進捗状況指標"
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid "Review of MSAs between employer/suppliers and recruitment agencies"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+#, fuzzy
+#| msgid "Progress Indicators"
+msgid "ER Indicator 4"
+msgstr "進捗状況指標"
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+#, fuzzy
+#| msgid "Number of recruitment agencies mapped"
+msgid "Communications: disclosure of recruitment agencies used"
+msgstr "マッピングされた送り出し・受け入れ機関の数"
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+#, fuzzy
+#| msgid "Progress Indicators"
+msgid "ER Indicator 6"
+msgstr "進捗状況指標"
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+#, fuzzy
+#| msgid "Recruitment"
+msgid "Recruitment system assessment"
+msgstr "採用"
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+#, fuzzy
+#| msgid "Progress Indicators"
+msgid "ER Indicator 7"
+msgstr "進捗状況指標"
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+#, fuzzy
+#| msgid "Company policy: ethical recruitment"
+msgid "Institutional capacity building: ethical recruitment trainings"
+msgstr "企業方針: 倫理的採用"
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+#, fuzzy
+#| msgid "AREA 3. WORKING CONDITIONS: ANNUAL TARGETS"
+msgid "INDICATORS FOR AREA 3. WORKING CONDITIONS: ANNUAL TARGETS"
+msgstr "領域3. 労働環境: 年間目標"
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+#, fuzzy
+#| msgid "Progress Indicators"
+msgid "WORK Indicator 1"
+msgstr "進捗状況指標"
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+#, fuzzy
+#| msgid "Date of most recent worker satisfaction survey"
+msgid "Worker satisfaction surveys"
+msgstr "最新の労働者満足度調査(WSS)の日時"
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+#, fuzzy
+#| msgid "Progress Indicators"
+msgid "WORK Indicator 2"
+msgstr "進捗状況指標"
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid ""
+"Institutional capacity building: training of working level/technical staff"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+#, fuzzy
+#| msgid "Progress Indicators"
+msgid "WORK Indicator 3"
+msgstr "進捗状況指標"
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid "Institutional capacity building: training of management/leadership"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+#, fuzzy
+#| msgid ""
+#| "WORK INDICATOR 2. Average supplier performance scores (scale of 1-5, "
+#| "where 1 is poor and 5 is excellent):"
+msgid ""
+"IMPACT INDICATOR 1. Average performance scores or supply chain businesses "
+"(Scale of 1-5, where 1 is poor and 5 is excellent):"
+msgstr ""
+"業務指標 2. サプライヤーの平均実績評価 (5段階評価 (1 ～ 5)、1 は低く5 は優れ"
+"ている):"
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+#, fuzzy
+#| msgid "• Quality of remediation"
+msgid "Quality of remediation"
+msgstr "• 改善の質"
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+#, fuzzy
+#| msgid "• Timeliness of remediation"
+msgid "Timeliness of remediation"
+msgstr "• タイムリーな改善"
 
 #: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
 msgid "Openness to reform"
 msgstr "改革への開放性"
 
 #: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+#, fuzzy
+#| msgid ""
+#| "WORK INDICATOR 2. % of worker-reported issues in the supply chain "
+#| "resolved in under 60 days"
+msgid ""
+"IMPACT INDICATOR 2. % of worker-reported issues in the supply chain resolved "
+"in under 60 days"
+msgstr ""
+"業務指標 2. サプライ チェーンで労働者が報告した問題の内、60 日以内に解決され"
+"た問題の割合"
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+#, fuzzy
+#| msgid ""
+#| "WORK INDICATOR 3. % of remediation efforts of specific issues resolved at "
+#| "Poor, Fair, Good and Excellent level"
+msgid ""
+"IMPACT INDICATOR 3. % of remediation efforts of specific issues resolved at "
+"a level of 'fair' or better (Fair, Good, or Excellent)"
+msgstr ""
+"業務指標 3. 改善努力が、「悪い」、「普通」、「良い」、及び「優良」レベルで解"
+"決された問題の割合"
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+#, fuzzy
+#| msgid ""
+#| "ER INDICATOR 4. Percentage of workers in supply chain reimbursed for "
+#| "recruitment-related fees they have paid"
+msgid ""
+"IMPACT INDICATOR 4. % of eligible workers reimbursed for recruitment fees "
+"they have paid"
+msgstr ""
+"倫理的採用 (ER) 指標4. サプライチェーンの労働者の内、支払った採用関連費用の払"
+"い戻しを受けた労働者の割合"
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+#, fuzzy
+#| msgid ""
+#| "ER INDICATOR 4. Percentage of workers in supply chain reimbursed for "
+#| "recruitment-related fees they have paid"
+msgid ""
+"IMPACT INDICATOR 5. % Amount of money owed versus amount of money reimbursed "
+"to workers for recruitment fees that they have paid"
+msgstr ""
+"倫理的採用 (ER) 指標4. サプライチェーンの労働者の内、支払った採用関連費用の払"
+"い戻しを受けた労働者の割合"
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
 msgid "Notes and remark"
 msgstr "注釈とコメント"
-
-#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
-msgid "Priority Workplan Activities"
-msgstr "業務計画における優先活動"
-
-#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
-msgid ""
-"The priority activities for your company that you indicate here will appear "
-"on your SP Progress Dashboard."
-msgstr ""
-"ここで指定した貴社の優先活動は、戦略的パートナー(SP)進捗ダッシュボードに表示"
-"されます。"
-
-#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
-#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
-msgid "AREA 2. LABOUR RECRUITMENT"
-msgstr "領域2. 労働者の採用"
-
-#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
-#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
-msgid "AREA 3. WORKING CONDITIONS"
-msgstr "領域3. 労働環境"
 
 #: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
 msgid "Notes and remarks"
 msgstr "注釈と参照"
 
-#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
-msgid "In line with international standards and definitions"
-msgstr "国際基準及び定義に準拠"
+#: src/views/Dashboard/SPWorkPlanning/OtherIndustrySelector.js
+#, fuzzy
+#| msgid "Sub Industry"
+msgid "Select Industry"
+msgstr "サブ業種"
+
+#: src/views/Dashboard/SPWorkPlanning/SPMainGoalsForm.js
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid "Changes have not been saved."
+msgstr "変更は保存されていません"
+
+#: src/views/Dashboard/SPWorkPlanning/SPMainGoalsForm.js
+msgid "Do not show this again."
+msgstr "今後表示しない。"
+
+#: src/views/Dashboard/SPWorkPlanning/SPMainGoalsForm.js
+msgid "2 of 5. Main Goals and Priority Partnership Areas"
+msgstr "5 件中 2 件。主な目標と優先提携分野"
+
+#: src/views/Dashboard/SPWorkPlanning/SPMainGoalsForm.js
+msgid ""
+"Summary of the Partner’s main goals in responsible sourcing and ethical "
+"recruitment over the next year and the next three years:"
+msgstr ""
+"今後1年間及び3年間の責任ある調達と倫理的な採用に関する提携企業・機関の主な目"
+"標の概要:"
+
+#: src/views/Dashboard/SPWorkPlanning/SPMainGoalsForm.js
+msgid "Partner’s main priority areas of partnership with Issara Institute:"
+msgstr "イサラ研究所との提携における提携先の主な優先分野:"
+
+#: src/views/Dashboard/SPWorkPlanning/SPMainGoalsForm.js
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningFormReview.js
+msgid "Back"
+msgstr "戻る"
+
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+#, fuzzy
+#| msgid "Priority Workplan Activities"
+msgid "Priority Workplan Activities Data saved successfully."
+msgstr "業務計画における優先活動"
+
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid "Proceed Anyway"
+msgstr "とにかく続行"
+
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+#, fuzzy
+msgid "4 of 5. Priority Workplan Activities"
+msgstr "5件中4件。作業計画の優先アクティビティ"
+
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+#, fuzzy
+#| msgid ""
+#| "The priority activities for your company that you indicate here will "
+#| "appear on your SP Progress Dashboard."
+msgid ""
+"The priority activities for your company that you indicate here will appear "
+"on your SP Progress Dashboard. Please check the status boxes according to "
+"your company's status."
+msgstr ""
+"ここで指定した貴社の優先活動は、戦略的パートナー(SP)進捗ダッシュボードに表示"
+"されます。"
+
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+msgid ""
+"NOTES & REMARKS ON THE PRIORITY WORKPLAN ACTIVITIES FOR THE ANNUAL WORKPLAN"
+msgstr "年間業務計画の優先活動に関する参照"
+
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid ""
+"Please feel free to add any note in this space, either for yourself or to "
+"note for the Issara team."
+msgstr ""
+"このスペースに、ご自身用またはイサラ研究所の担当者用のメモを自由に記入してく"
+"ださい。"
+
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+msgid "Review Workplan"
+msgstr "業務計画の確認"
+
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkPlanActivity.js
+#: src/views/suppliers/SupplierProgressActivitySummary.js
+msgid "List of Traingings Joined"
+msgstr ""
 
 #: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
+msgid "Supplier List for Worker Voice Categories"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+#, fuzzy
+#| msgid "No data found"
+msgid "No data to display"
+msgstr "データが見つかりません"
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+#, fuzzy
+#| msgid "Closed"
+msgid "Close"
+msgstr "解決済"
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
 msgid "Clearly communicated to suppliers, including effective date"
 msgstr "サプライヤーに明確に伝達 (発効日を含む）"
 
@@ -1874,205 +2935,340 @@ msgid "Integrated into commercial processes"
 msgstr "商業プロセスに統合"
 
 #: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
-msgid "Clearly communicated to suppliers"
-msgstr "サプライヤーに明確に伝達"
-
-#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
-msgid "Workplan Progress Dashboard"
-msgstr "業務計画進捗ダッシュボード"
-
-#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
-msgid "AREA 1. WORKER VOICE"
-msgstr "領域1. 労働者の声"
-
-#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
-msgid ""
-"WORK INDICATOR 1. Percentage of tier-1 suppliers (export level) in supply "
-"chain with worker voice"
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid "Company Targets / Notes"
 msgstr ""
-"業務指標1.サプライチェーンにおける労働者の声を反映したティア1サプライヤー(輸"
-"出レベル)の割合"
 
 #: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+#, fuzzy
+#| msgid "Actual"
+msgid "Actual status"
+msgstr "実際の結果"
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+#, fuzzy
+#| msgid "ER INDICATOR 2."
+msgid "IMPACT INDICATORS"
+msgstr "倫理的採用 (ER) 指標 2."
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+#, fuzzy
+#| msgid "ER INDICATOR 2."
+msgid "IMPACT INDICATOR 1:"
+msgstr "倫理的採用 (ER) 指標 2."
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+#, fuzzy
+#| msgid ""
+#| "WORK INDICATOR 1. Supplier performance in relation to responding to "
+#| "worker-reported grievances and collaborating with Issara Institute staff"
 msgid ""
-"WORK INDICATOR 2. Percentage of upstream suppliers in supply chain with "
-"worker voice"
+"Supplier average performance responding to worker-reported grievances and "
+"collaboration with Issara Institute"
 msgstr ""
-"業務指標2.サプライチェーンにおける上流サプライヤーの内、労働者の意見を反映し"
-"ているサプライヤーの割合"
+"業務指標1. 労働者からの苦情への対応とイサラ研究所スタッフとの協力に関するサプ"
+"ライヤーの実績"
 
 #: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
-msgid "ER INDICATOR 1. Ethical recruitment policy in force is:"
-msgstr "倫理的採用 (ER) 指標 1. 実施されている倫理的採用方針は次の通りです。"
+#, fuzzy
+#| msgid "Supply Chain"
+msgid "Your Supply Chain"
+msgstr "サプライチェーン"
 
 #: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
-msgid "Wait..."
-msgstr "待って下さい"
+#, fuzzy
+#| msgid "Active Supply Chains"
+msgid "Other Supply Chains"
+msgstr "アクティブなサプライチェーン"
 
 #: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
-msgid ""
-"Indicator 2A: Number of recruitment agencies mapped across supplier base."
+msgid "Select Industry & Sub-Industry"
 msgstr ""
-"指標 2A: サプライヤー ベース全体を対象にマッピングされた送り出し・受け入れ機"
-"関の数。"
 
 #: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
+#, fuzzy
+#| msgid "ER INDICATOR 2."
+msgid "IMPACT INDICATOR 2:"
+msgstr "倫理的採用 (ER) 指標 2."
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+#, fuzzy
+#| msgid ""
+#| "WORK INDICATOR 2. % of worker-reported issues in the supply chain "
+#| "resolved in under 60 days"
 msgid ""
-"Indicator 2B: Number of suppliers collaborating with Issara and their "
-"recruitment agencies on pre-departure orientations and strengthened "
-"recruitment practices"
+"% of worker-reported issues in the supply chain resolved in under 60 days"
 msgstr ""
-"指標 2B: イサラ研究所と連携しているサプライヤー数。また、これらのサプライヤー"
-"が提携する送り出し・受け入れ機関で、出発前オリエンテーションの実施や採用慣行"
-"を強化している機関の数。"
+"業務指標 2. サプライ チェーンで労働者が報告した問題の内、60 日以内に解決され"
+"た問題の割合"
 
 #: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
+#, fuzzy
+#| msgid "ER INDICATOR 2."
+msgid "IMPACT INDICATOR 3:"
+msgstr "倫理的採用 (ER) 指標 2."
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+#, fuzzy
+#| msgid ""
+#| "WORK INDICATOR 3. % of remediation efforts of specific issues resolved at "
+#| "Poor, Fair, Good and Excellent level"
 msgid ""
-"Indicator 2C: Number of suppliers utilizing Golden Dreams Marketplace to "
-"reduce risk of worker indebtedness and workers paying fees to brokers and "
-"middlemen"
+"% of remediation efforts of specific issues resolved at a level of poor, "
+"fair, good, excellent"
 msgstr ""
-"指標 2C: 労働者の負債やブローカーや仲買人への手数料支払いリスクを減らすため"
-"に、Golden Dreamsマーケットプレースを利用しているサプライヤーの数"
+"業務指標 3. 改善努力が、「悪い」、「普通」、「良い」、及び「優良」レベルで解"
+"決された問題の割合"
 
 #: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
-msgid ""
-"ER INDICATOR 3. Number of suppliers that have undertaken recruitment surveys "
-"to assess recruitment process-related risks, and recruitment-related fees "
-"paid by workers"
-msgstr ""
-"倫理的採用 (ER) 指標3. 採用プロセス関連リスク及び労働者が支払う採用関連費用を"
-"評価する為に、イサラ研究所による採用システム評価調査 (RSA) を実施したサプライ"
-"ヤーの数"
+#, fuzzy
+#| msgid "ER INDICATOR 2."
+msgid "IMPACT INDICATOR 4:"
+msgstr "倫理的採用 (ER) 指標 2."
 
 #: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+#, fuzzy
+#| msgid ""
+#| "ER INDICATOR 4. Percentage of workers in supply chain reimbursed for "
+#| "recruitment-related fees they have paid"
 msgid ""
-"ER INDICATOR 4. Percentage of workers in supply chain reimbursed for "
-"recruitment-related fees they have paid"
+"Number of eligible workers reimbursed for recruitment fees they have paid"
 msgstr ""
 "倫理的採用 (ER) 指標4. サプライチェーンの労働者の内、支払った採用関連費用の払"
 "い戻しを受けた労働者の割合"
 
 #: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+#, fuzzy
+#| msgid "ER INDICATOR 2."
+msgid "IMPACT INDICATOR 5:"
+msgstr "倫理的採用 (ER) 指標 2."
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+#, fuzzy
+#| msgid ""
+#| "ER INDICATOR 4. Percentage of workers in supply chain reimbursed for "
+#| "recruitment-related fees they have paid"
 msgid ""
-"WORK INDICATOR 1. Ethical sourcing and migrant worker policies put into "
-"force that are:"
+"Amount of money owed versus amount of money reimbursed to workers for "
+"recruitment fees that they have paid"
 msgstr ""
-"業務指標 1. 次のような倫理的な調達と移住労働者に関する政策が実施されている:"
+"倫理的採用 (ER) 指標4. サプライチェーンの労働者の内、支払った採用関連費用の払"
+"い戻しを受けた労働者の割合"
 
 #: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
-msgid "WORK INDICATOR 2. Average supplier performance scores:"
-msgstr "業務指標 2. サプライヤーの平均実績スコア:"
+msgid "PROGRESS DASHBOARD"
+msgstr ""
 
 #: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
-#: src/views/suppliers/SupplierProgressDashboard.js
-msgid "Quality of Response"
-msgstr "対応の質"
+#, fuzzy
+#| msgid "AREA 1. WORKER VOICE"
+msgid "INDICATORS FOR AREA 1 – WORKER VOICE"
+msgstr "領域1. 労働者の声"
 
 #: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
-msgid "Actual"
-msgstr "実際の結果"
+msgid "List of Active suppliers with/without worker voice"
+msgstr ""
 
 #: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
-#: src/views/suppliers/SupplierProgressDashboard.js
-msgid "Timeliness of Response"
-msgstr "タイムリーな対応"
-
-#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
-#: src/views/suppliers/SupplierProgressDashboard.js
-msgid "Openness to Reform"
-msgstr "改革への開放性"
-
-#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+#, fuzzy
+#| msgid ""
+#| "WV INDICATOR 1. Percentage of tier-1 suppliers (export level) in your "
+#| "supply chain with Issara worker voice channels available to workers"
 msgid ""
-"WORK INDICATOR 3. Percentage of worker-reported issues in the supply chain "
-"resolved in under 60 days"
+"Percentage of tier-1 suppliers (export level) in your supply chain with "
+"Issara worker voice channels available to workers"
 msgstr ""
-"業務指標 3. サプライ チェーンで働く労働者より報告を受けた労働問題の内、60 日"
-"以内に解決された問題の割合"
+"WV指標1. サプライチェーン内のティア 1 サプライヤー (輸出レベル) の内、労働者"
+"がイサラ研究所の相談窓口を利用できるサプライヤーの割合"
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+#, fuzzy
+#| msgid ""
+#| "WV INDICATOR 2. Percentage of upstream (tier-2 and beyond) suppliers in "
+#| "your supply chain with Issara worker voice channels available to workers, "
+#| "based on supply chain information provided"
+msgid ""
+"Percentage of upstream (tier-2 and beyond) suppliers in your supply chain "
+"with Issara worker voice channels available to workers, based on supply "
+"chain information provided"
+msgstr ""
+"WV指標2. サプライ チェーン情報に基づき、サプライ チェーン内の上流 (ティア2以"
+"降)サプライヤーの内、労働者がイサラ研究所の相談窓口を利用できるサプライヤーの"
+"割合"
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid "Covers requirements and mechanisms for managing grievances"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid "Includes a clear non-retaliation policy"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid "Undergoes periodic review to identify means for continuous improvement"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+#, fuzzy
+#| msgid "AREA 2. LABOUR RECRUITMENT"
+msgid "INDICATORS FOR AREA 2 – LABOR RECRUITMENT"
+msgstr "領域2. 労働者の採用"
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid ""
+"Policy & procedures review: Ethical recruitment / migrant recruitment laws "
+"and policies is in force that is:"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+#, fuzzy
+#| msgid "In line with international standards and definitions"
+msgid "In line with international standards and definitions "
+msgstr "国際基準及び定義に準拠"
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+msgid "Policy & procedures review: Management Service Agreements:"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+msgid "Review of MSAs between employers/suppliers and recruitment agencies"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+#, fuzzy
+#| msgid "Number of recruitment agencies mapped"
+msgid "Communications: Disclosure of recruitment agencies used"
+msgstr "マッピングされた送り出し・受け入れ機関の数"
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+#, fuzzy
+#| msgid "Recruitment"
+msgid "Recruitment fees surveys"
+msgstr "採用"
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+#, fuzzy
+#| msgid "Company policy: ethical recruitment"
+msgid "Institutional capacity building: Ethical recruitment trainings"
+msgstr "企業方針: 倫理的採用"
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+#, fuzzy
+#| msgid "AREA 3. WORKING CONDITIONS"
+msgid "INDICATORS FOR AREA 3 – WORKING CONDITIONS"
+msgstr "領域3. 労働環境"
 
 #: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
 msgid ""
-"WORK INDICATOR 4. Percentage of remediation efforts of specific issues "
-"resolved at a Fair, Good or Excellent level"
+"Institutional capacity building: Training of working level / technical staff"
 msgstr ""
-"業務指標 4. 特定の労働問題の改善努力が「普通」、「良好」、または「優秀」レベ"
-"ルで解決された割合"
 
 #: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
-msgid "REMEDIATION"
-msgstr "改善"
-
-#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
-msgid "OUTCOMES"
-msgstr "結果"
+msgid "Institutional capacity building: Training of management / leadership"
+msgstr ""
 
 #: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
 msgid "PROGRESS ON PRIORITY WORKPLAN ACTIVITIES"
 msgstr "優先業務計画活動の進捗状況"
 
 #: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
-msgid "Priority Activities Not Found"
-msgstr "優先活動が見つかりません"
+#, fuzzy
+#| msgid "Worker Voice"
+msgid "No Worker Voice"
+msgstr "労働者の声"
 
 #: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
-msgid "Red = not started"
-msgstr "赤 = 開始されていません"
+#, fuzzy
+#| msgid "Supplier name"
+msgid "Without Supplier Engagement"
+msgstr "サプライヤー名"
 
 #: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
-msgid "Yellow = in progress"
-msgstr "黄 = 進行中"
+#, fuzzy
+#| msgid "Supplier name"
+msgid "With Supplier Engagement"
+msgstr "サプライヤー名"
 
-#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
-msgid "Green = complete"
-msgstr "緑 = 完了"
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+#, fuzzy
+#| msgid "Data save sucsessfully"
+msgid "SP Progress Indicators Data saved successfully"
+msgstr "データが正常に保存されました"
 
-#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
-msgid "AREA"
-msgstr "領域"
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid "An error occurred while saving SP Progress Indicators data"
+msgstr ""
 
-#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
-msgid "ACTIVITY"
-msgstr "活動"
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+#, fuzzy
+#| msgid "Data save sucsessfully"
+msgid "SP Note and Remark Data saved successfully."
+msgstr "データが正常に保存されました"
 
-#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
-msgid "STATUS"
-msgstr "ステータス"
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid "An error occurred while saving SP Notes and Remarks data"
+msgstr ""
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
-msgid "Are you sure?"
-msgstr "よろしいですか?"
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid "Please create a work plan in Step 1."
+msgstr ""
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
-msgid "Once deleted, you will not be able to recover this file!"
-msgstr "削除すると、このファイルを復元できなくなります!"
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid "3 of 5. Progress Indicators"
+msgstr "5件中3件。進捗指標"
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
-msgid "Document removed successfully!"
-msgstr "ドキュメントは正常に削除されました!"
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid ""
+"The target progress indicators for your company that you indicate here will "
+"display on your SP Progress Metrics Dashboard. At any time, you can visit "
+"the SP Progress Dashboard to see your targets as well as the progress made "
+"to date against each one."
+msgstr ""
+"ここで指定した貴社の目標進捗指標は、SP進捗指標ダッシュボードに表示されます。"
+"いつでもSP進捗ダッシュボードにアクセスして、目標や各目標に対する今日までの進"
+"捗状況を確認できます。"
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
-msgid "Changes have not been saved."
-msgstr "変更は保存されていません。"
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid "add note"
+msgstr ""
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
-msgid "Proceed Anyway"
-msgstr "とにかく続行"
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid "Add note..."
+msgstr ""
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
-msgid "Do not show this again."
-msgstr "今後表示しない。"
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+#, fuzzy
+#| msgid "Recruitment"
+msgid "Recruitment System Assessment"
+msgstr "採用"
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid "• Quality of remediation"
+msgstr "• 改善の質"
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid "• Timeliness of remediation"
+msgstr "• タイムリーな改善"
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid "• Openness to reform"
+msgstr "• 改革への開放性"
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid "NOTES & REMARKS ON THE PROGRESS INDICATORS FOR THE ANNUAL WORKPLAN"
+msgstr "年間業務計画の進捗指標に関する参照"
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIntroForm.js
 msgid "1 of 5. Intro"
 msgstr "5 件中 1 件目。はじめに"
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIntroForm.js
 msgid ""
 "This annual workplanning form aims to help your company identify and "
 "maintain focus on key business priorities with regard to ethical sourcing "
@@ -2089,7 +3285,7 @@ msgstr ""
 "認したり、優先事項が変わった場合には、この業務計画フォームを更新したり出来ま"
 "す。"
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIntroForm.js
 msgid ""
 "The SP Workplanning has 4 sections: 1. Intro, 2. Main Goals and Priority "
 "Partnership Areas, 3. Progress Indicators, and 4. Priority Workplan "
@@ -2098,15 +3294,15 @@ msgstr ""
 "SP 業務計画には、1. 概要、2. 主な目標と優先提携分野、3. 進捗指標、4. 優先業務"
 "計画活動の4つのセクションがあります。"
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIntroForm.js
 msgid "Please enter FP name"
 msgstr "FP名を入力してください"
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIntroForm.js
 msgid "Suggested date for mid-year check-in"
 msgstr "中間チェックインの推奨日"
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIntroForm.js
 msgid ""
 "Please check that all foundational documents and materials that have been "
 "shared with Issara. If not, you can upload them here ."
@@ -2114,272 +3310,86 @@ msgstr ""
 "イサラ研究所と共有されている全ての基礎文書と資料を確認してください。まだ共有"
 "されていない場合は、ここにアップロードできます。"
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIntroForm.js
 msgid "Change"
 msgstr "変更"
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIntroForm.js
 msgid "Upload"
 msgstr "アップロード"
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIntroForm.js
 msgid "Review"
 msgstr "確認"
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIntroForm.js
 msgid "Updated supply chain information"
 msgstr "更新されたサプライ チェーン情報"
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIntroForm.js
 msgid "Helpful information to include:"
 msgstr "次の情報を含めると役立つ:"
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIntroForm.js
 msgid "Supplier name"
 msgstr "サプライヤー名"
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIntroForm.js
 msgid "Supplier address"
 msgstr "サプライヤーの住所"
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIntroForm.js
 msgid "Product sourced"
 msgstr "調達した製品"
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIntroForm.js
 msgid "Supplier key focal point name, title, and contact information"
 msgstr "サプライヤーの主要担当者名、役職、連絡先情報"
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIntroForm.js
 msgid "Length of sourcing relationship"
 msgstr "調達している期間"
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIntroForm.js
 msgid "Number and breakdown of workers by nationality and gender"
 msgstr "国籍と性別ごとの労働者数と内訳"
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIntroForm.js
 msgid "Company policy: human rights"
 msgstr "企業方針: 人権"
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIntroForm.js
 msgid "Company policy: migrant worker"
 msgstr "企業方針: 移住労働者"
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIntroForm.js
 #, fuzzy
 #| msgid "Company policy: human rights"
 msgid "Company policy: ethical recruitment"
 msgstr "企業方針: 人権"
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIntroForm.js
 msgid "Escalation protocol for worker-reported issues and worker voice"
 msgstr ""
 "労働者により報告があった労働問題や労働者の声に関するエスカレーション規定"
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIntroForm.js
 msgid "Audit reports for suppliers"
 msgstr "サプライヤーの監査レポート"
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIntroForm.js
 msgid "Other key policy or background documents"
 msgstr "その他の主要な方針または背景文書"
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
-msgid "Next"
-msgstr "次へ"
-
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
-msgid "Changes have not been saved."
-msgstr "変更は保存されていません。"
-
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
-msgid "2 of 5. Main Goals and Priority Partnership Areas"
-msgstr "5 件中 2 件。主な目標と優先提携分野"
-
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
-msgid ""
-"Summary of the Partner’s main goals in responsible sourcing and ethical "
-"recruitment over the next year and the next three years:"
-msgstr ""
-"今後1年間及び3年間の責任ある調達と倫理的な採用に関する提携企業・機関の主な目"
-"標の概要:"
-
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
-msgid "Partner’s main priority areas of partnership with Issara Institute:"
-msgstr "イサラ研究所との提携における提携先の主な優先分野:"
-
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
-msgid "Back"
-msgstr "戻る"
-
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
-#, fuzzy
-#| msgid "Data save sucsessfully"
-msgid "Data save sucsessfully"
-msgstr "データが正常に保存されました"
-
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
-msgid "3 of 5. Progress Indicators"
-msgstr "5件中3件。進捗指標"
-
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
-msgid ""
-"The target progress indicators for your company that you indicate here will "
-"display on your SP Progress Metrics Dashboard. At any time, you can visit "
-"the SP Progress Dashboard to see your targets as well as the progress made "
-"to date against each one."
-msgstr ""
-"ここで指定した貴社の目標進捗指標は、SP進捗指標ダッシュボードに表示されます。"
-"いつでもSP進捗ダッシュボードにアクセスして、目標や各目標に対する今日までの進"
-"捗状況を確認できます。"
-
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
-msgid ""
-"If additional details need to be provided, please use the note box at bottom."
-msgstr ""
-"追加の詳細を提供する必要がある場合は、下部の参照ボックスを使用してください。"
-
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
-#, fuzzy
-#| msgid ""
-#| "WV INDICATOR 1. Percentage of tier-1 suppliers (export level) in your "
-#| "supply chain with Issara worker voice channels available to workers"
-msgid ""
-"WV INDICATOR 1. Percentage of tier-1 suppliers (export level) in your supply "
-"chain with Issara worker voice channels available to workers"
-msgstr ""
-"WV指標1. サプライチェーン内のティア 1 サプライヤー (輸出レベル) の内、労働者"
-"がイサラ研究所の相談窓口を利用できるサプライヤーの割合"
-
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
-#, fuzzy
-#| msgid ""
-#| "WV INDICATOR 2. Percentage of upstream (tier-2 and beyond) suppliers in "
-#| "your supply chain with Issara worker voice channels available to workers, "
-#| "based on supply chain information provided"
-msgid ""
-"WV INDICATOR 2. Percentage of upstream (tier-2 and beyond) suppliers in your "
-"supply chain with Issara worker voice channels available to workers, based "
-"on supply chain information provided"
-msgstr ""
-"WV指標2. サプライ チェーン情報に基づき、サプライ チェーン内の上流 (ティア2以"
-"降)サプライヤーの内、労働者がイサラ研究所の相談窓口を利用できるサプライヤーの"
-"割合"
-
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
-msgid ""
-"ER INDICATOR 1. Ethical recruitment policy in force is (tick all that are "
-"within your goal for this year):"
-msgstr ""
-"倫理的採用(ER)指標 1. 実施されている倫理的採用方針は次のとおりです (今年の目"
-"標に該当するものすべてをチェックしてください):"
-
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
-#, fuzzy
-#| msgid ""
-#| "Integrated into commercial processes (supplier scorecards, contracts, "
-#| "etc.)"
-msgid ""
-"Integrated into commercial processes (supplier scorecards, contracts, etc.)"
-msgstr "商業プロセスに統合されています (サプライヤースコアカード、契約など)"
-
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
-msgid ""
-"ER INDICATOR 3. Number of suppliers that have undertaken recruitment surveys "
-"by Issara to assess recruitment process-related risks, and recruitment-"
-"related fees paid by workers"
-msgstr ""
-"倫理的採用(ER)指標3. 採用プロセス関連リスク及び労働者が支払う採用関連費用を評"
-"価する為に、イサラ研究所による採用システム評価調査を実施したサプライヤーの数"
-
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
-msgid ""
-"ER INDICATOR 4. Percentage of workers in supply chain reimbursed for "
-"recruitment-related fees owed"
-msgstr ""
-"倫理的採用(ER)指標 4. サプライチェーンにおける未払いの採用関連費用を払い戻さ"
-"れた労働者の割合"
-
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
-msgid ""
-"WORK INDICATOR 1. Ethical sourcing and migrant worker policies put into "
-"force (tick all that are within your goal for this year)."
-msgstr ""
-"業務指標 1. 倫理的な調達と移住労働者に関する方針の施行 (今年の目標に該当する"
-"もの全てをチェックしてください)。"
-
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
-#, fuzzy
-#| msgid ""
-#| "WORK INDICATOR 2. Average supplier performance scores (scale of 1-5, "
-#| "where 1 is poor and 5 is excellent):"
-msgid ""
-"WORK INDICATOR 2. Average supplier performance scores (scale of 1-5, where 1 "
-"is poor and 5 is excellent):"
-msgstr ""
-"業務指標 2. サプライヤーの平均実績評価 (5段階評価 (1 ～ 5)、1 は低く5 は優れ"
-"ている):"
-
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
-msgid "• Quality of remediation"
-msgstr "• 改善の質"
-
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
-msgid "• Timeliness of remediation"
-msgstr "• タイムリーな改善"
-
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
-msgid "• Openness to reform"
-msgstr "• 改革への開放性"
-
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
-msgid "NOTES & REMARKS ON THE PROGRESS INDICATORS FOR THE ANNUAL WORKPLAN"
-msgstr "年間業務計画の進捗指標に関する参照"
-
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
-msgid ""
-"Please feel free to add any note in this space, either for yourself or to "
-"note for the Issara team."
-msgstr ""
-"このスペースに、ご自身用またはイサラ研究所の担当者用のメモを自由に記入してく"
-"ださい。"
-
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
-msgid "4 of 5. Priority Workplan Activities"
-msgstr ""
-"5件中4件。作業計画の優先アクティビティ"
-
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
-msgid "Foundational activities"
-msgstr "基礎的活動"
-
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
-msgid "Supply chain activities"
-msgstr "サプライチェーン活動"
-
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
-msgid "4 of 5. Priority Workplan Activities"
-msgstr "5件中4件。優先業務計画活動"
-
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
-msgid ""
-"NOTES & REMARKS ON THE PRIORITY WORKPLAN ACTIVITIES FOR THE ANNUAL WORKPLAN"
-msgstr "年間業務計画の優先活動に関する参照"
-
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
-msgid "Review Workplan"
-msgstr "業務計画の確認"
-
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
+#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningFormReview.js
 msgid "5 of 5. Review and Finalize Annual Workplan"
 msgstr "5件中5件。年間業務計画の確認と確定"
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
+#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningFormReview.js
 msgid "CONGRATULATIONS!"
 msgstr "おめでとうございます！"
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
+#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningFormReview.js
 msgid ""
 "Great work, you have finalized your Issara Annual Workplan! We will look "
 "forward to reviewing your company's progress at the mid-year review."
@@ -2387,19 +3397,19 @@ msgstr ""
 "おめでとうございます。イサラ研究所年間業務計画が確定しました。中間レビューで"
 "貴社の進捗状況を確認できることを楽しみにしています。"
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
+#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningFormReview.js
 msgid "Download Workplan PDF"
 msgstr "業務計画(PDF)をダウンロード"
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
+#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningFormReview.js
 msgid "Go to SP Progress Metrics"
 msgstr "戦略的パートナー(SP)進捗指標に移動"
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
+#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningFormReview.js
 msgid "Revise"
 msgstr "修正"
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.js
+#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningFormReview.js
 msgid "FINALIZE & SAVE WORKPLAN"
 msgstr "業務計画を確定して保存"
 
@@ -2645,64 +3655,12 @@ msgid "Opened since:"
 msgstr "からオープン:"
 
 #: src/views/Dashboard/SupplyChainDashboardKpi.js
-msgid "-"
-msgstr "-"
-
-#: src/views/Dashboard/SupplyChainDashboardKpi.js
 msgid "Closed since:"
 msgstr "からクローズ:"
 
 #: src/views/Dashboard/SupplyChainDashboardKpi.js
 msgid "Remediation Quality:"
 msgstr "改善の質:"
-
-#: src/views/Dashboard/SupplyChainDashboardKpi.js
-msgid "Affected workers:"
-msgstr "影響を受けた労働者数:"
-
-#: src/views/Dashboard/SupplyChainDashboardKpi.js
-msgid "1-10"
-msgstr "1-10人"
-
-#: src/views/Dashboard/SupplyChainDashboardKpi.js
-msgid "11-50"
-msgstr "11-50人"
-
-#: src/views/Dashboard/SupplyChainDashboardKpi.js
-msgid "51-100"
-msgstr "51-100人"
-
-#: src/views/Dashboard/SupplyChainDashboardKpi.js
-msgid "101-500"
-msgstr "101-500人"
-
-#: src/views/Dashboard/SupplyChainDashboardKpi.js
-msgid "501-1000"
-msgstr "501-1000人"
-
-#: src/views/Dashboard/SupplyChainDashboardKpi.js
-msgid "1000+"
-msgstr "1000人以上"
-
-#: src/views/Dashboard/SupplyChainDashboardKpi.js
-msgid "Issues:"
-msgstr "問題:"
-
-#: src/views/Dashboard/SupplyChainDashboardKpi.js
-msgid "Remediation Notes (Summary):"
-msgstr "改善メモ(概要):"
-
-#: src/views/Dashboard/SupplyChainDashboardKpi.js
-msgid "Action:"
-msgstr "対応:"
-
-#: src/views/Dashboard/SupplyChainDashboardKpi.js
-msgid "Worker Validation:"
-msgstr "労働者による検証:"
-
-#: src/views/Dashboard/SupplyChainDashboardKpi.js
-msgid "Results:"
-msgstr "結果:"
 
 #: src/views/Dashboard/SupplyChainDashboardKpi.js
 msgid "Working conditions"
@@ -2993,12 +3951,16 @@ msgid "Recommended Remediation:"
 msgstr "推奨される改善措置:"
 
 #: src/views/references/KpiReferenceModal.js
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
 #: src/views/suppliers/SupplierKPIModal.js
 #: src/views/suppliers/SupplierKpiUpdateForm.js
 msgid "Systems Change:"
 msgstr "システム改善:"
 
 #: src/views/references/KpiReferencesList.js
+#: src/views/suppliers/kpiupdates/SupplierKpiTable.js
+#: src/views/suppliers/kpiupdates/SupplierKpiUpdateHistoryTable.js
 #: src/views/suppliers/SupplierKPIsList.js src/views/suppliers/SupplierList.js
 msgid "View:"
 msgstr "表示:"
@@ -3085,9 +4047,7 @@ msgstr ""
 "目的: 戦略的パートナー(SP)ダッシュボードの目的は、ブランドホルダー、小売業者"
 "や輸入業者/代理店に、グローバルサプライチェーンにおける労働問題、システムやビ"
 "ジネスパフォーマンスの監視、ベンチマーク、改善や向上に役立つ強力なツールを提"
-"供することです。\n"
-"\n"
-"\n"
+"供することです"
 
 #: src/views/strategicpartners/PartnerLandingPage.js
 msgid ""
@@ -3287,15 +4247,13 @@ msgstr "サプライヤーを選択"
 
 #: src/views/strategicpartners/SupplierProgressDashboard.js
 #: src/views/suppliers/SupplierProgressDashboard.js
-msgid "WORKER VOICE"
-msgstr "労働者の声"
+msgid "BUSINESS PROGRESS INDICATOR"
+msgstr ""
 
 #: src/views/strategicpartners/SupplierProgressDashboard.js
 #: src/views/suppliers/SupplierProgressDashboard.js
-msgid ""
-"Grey = Not yet initiated; Yellow = Partial progress; Green = Completed/"
-"ongoing"
-msgstr "灰色 = まだ開始されていない、黄色 = 一部進捗あり、緑 = 完了/進行中"
+msgid "WORKER VOICE"
+msgstr "労働者の声"
 
 #: src/views/strategicpartners/SupplierProgressDashboard.js
 #: src/views/suppliers/SupplierProgressDashboard.js
@@ -3307,51 +4265,629 @@ msgstr "労働者の採用"
 msgid "WORKING CONDITIONS"
 msgstr "労働環境"
 
-#: src/views/strategicpartners/SupplierProgressDashboard.js
-#: src/views/suppliers/SupplierProgressDashboard.js
-msgid "ACTIVITIES & ACHIEVEMENTS SUMMARY"
-msgstr "活動と成果の概要"
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js
+#: src/views/suppliers/SupplierKpiUpdateForm.js
+#, fuzzy
+#| msgid "Opened At"
+msgid "Opened At:"
+msgstr "に報告を受ける"
 
-#: src/views/strategicpartners/SupplierProgressDashboard.js
-#: src/views/suppliers/SupplierProgressDashboard.js
-msgid "Number of workers with access to Issara worker voice channels"
-msgstr "イサラ研究所が提供する労働者の相談窓口へアクセスした労働者の数"
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js
+#: src/views/suppliers/SupplierKpiUpdateForm.js
+#: src/views/TeamActivity/FieldworkActivityForm.js
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Click here to open calendar"
+msgstr "ここをクリックしてカレンダーを開きます"
 
-#: src/views/strategicpartners/SupplierProgressDashboard.js
-#: src/views/suppliers/SupplierProgressDashboard.js
-msgid "Not available"
-msgstr "利用不可"
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js
+#: src/views/suppliers/SupplierKpiUpdateForm.js
+#, fuzzy
+#| msgid "Closed At"
+msgid "Closed At:"
+msgstr "で解決"
 
-#: src/views/strategicpartners/SupplierProgressDashboard.js
-#: src/views/suppliers/SupplierProgressDashboard.js
-msgid "Date of most recent worker satisfaction survey"
-msgstr "最新の労働者満足度調査(WSS)の日時"
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js
+#: src/views/suppliers/SupplierKpiUpdateForm.js
+#, fuzzy
+#| msgid "• Quality of remediation"
+msgid "Please assess quality of remediation"
+msgstr "• 改善の質"
 
-#: src/views/strategicpartners/SupplierProgressDashboard.js
-#: src/views/suppliers/SupplierProgressDashboard.js
-msgid "Date of most recent recruitment survey"
-msgstr "最新の採用システム評価調査(RSA)の日時"
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js
+#: src/views/suppliers/SupplierKpiUpdateForm.js
+msgid "Please explain the rationale for this remediation outcome assessment."
+msgstr ""
 
-#: src/views/strategicpartners/SupplierProgressDashboard.js
-#: src/views/suppliers/SupplierProgressDashboard.js
-msgid "Number of workers reimbursed recruitment fees"
-msgstr "採用関連費用の払い戻しを受けた労働者の数"
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js
+#: src/views/suppliers/SupplierKpiUpdateForm.js
+#, fuzzy
+#| msgid "Number of workers recruited by Gender"
+msgid "Number of affected workers related to this KPI"
+msgstr "労働者の採用数 (性別ごと)"
 
-#: src/views/strategicpartners/SupplierProgressDashboard.js
-#: src/views/suppliers/SupplierProgressDashboard.js
-msgid "Remaining number of workers owed recruitment fee reimbursement"
-msgstr "採用関連費用の返済義務のある労働者の数"
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js
+#: src/views/suppliers/SupplierKpiUpdateForm.js
+msgid "Have there been any retaliation or threats to workers?"
+msgstr ""
 
-#: src/views/strategicpartners/SupplierProgressDashboard.js
-#: src/views/suppliers/SupplierProgressDashboard.js
-msgid "Total amount of recruitment fees reimbursed to workers (US dollars)"
-msgstr "労働者に払い戻された採用関連費用の総額 (米ドル)"
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js
+msgid "Do not include in Supplier Dashboard as per risk assessment."
+msgstr ""
 
-#: src/views/strategicpartners/SupplierProgressDashboard.js
-#: src/views/suppliers/SupplierProgressDashboard.js
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js
+#: src/views/suppliers/SupplierKpiUpdateForm.js
 msgid ""
-"Remaining amount owed, recruitment fee reimbursement to workers (US dollars)"
-msgstr "労働者への払い戻しが必要な採用関連費用の総額 (米ドル)"
+"Please summarize the organization's recommendations for remediation to "
+"address this KPI, including timeframe"
+msgstr ""
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js
+#: src/views/suppliers/SupplierKpiUpdateForm.js
+msgid ""
+"Please summarize Issara's recommendations for remediation to address this "
+"KPI, including timeframe"
+msgstr ""
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js
+#: src/views/suppliers/SupplierKpiUpdateForm.js
+msgid ""
+"What date has been communicated as the recommended deadline for the needed "
+"remediation or the next action?"
+msgstr ""
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js
+#: src/views/suppliers/SupplierKpiUpdateForm.js
+msgid ""
+"What date has been communicated as the recommended deadline for completion "
+"of payments and/or next major payment milestone?"
+msgstr ""
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js
+#: src/views/suppliers/SupplierKpiUpdateForm.js
+msgid ""
+"How much progress has been made on remediation, as recommended by the "
+"organization?"
+msgstr ""
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js
+#: src/views/suppliers/SupplierKpiUpdateForm.js
+msgid ""
+"How much progress has been made on remediation, as recommended by Issara?"
+msgstr ""
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js
+#: src/views/suppliers/SupplierKpiUpdateForm.js
+msgid ""
+"How aligned are the responses with the recommendations of the organization "
+"based on international ethical standards?"
+msgstr ""
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js
+#: src/views/suppliers/SupplierKpiUpdateForm.js
+msgid ""
+"How aligned are the business's responses with Issara's recommendations and "
+"international ethical standards?"
+msgstr ""
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js
+#: src/views/suppliers/SupplierKpiUpdateForm.js
+msgid "Describe steps taken so far."
+msgstr ""
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js
+#: src/views/suppliers/SupplierKpiUpdateForm.js
+msgid ""
+"Describe steps taken by offender/s or responsible party to solve the issue "
+"so far."
+msgstr ""
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js
+#: src/views/suppliers/SupplierKpiUpdateForm.js
+msgid "Describe remaining steps."
+msgstr ""
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js
+#: src/views/suppliers/SupplierKpiUpdateForm.js
+msgid "Describe steps remaining by the offender/s."
+msgstr ""
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js
+#: src/views/suppliers/SupplierKpiUpdateForm.js
+msgid ""
+"How much money is owed in total to all workers? (If none is owed, please "
+"enter '0')"
+msgstr ""
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js
+#: src/views/suppliers/SupplierKpiUpdateForm.js
+#, fuzzy
+#| msgid "Thai"
+msgid "Thai Baht"
+msgstr "タイ語"
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js
+#: src/views/suppliers/SupplierKpiUpdateForm.js
+#, fuzzy
+#| msgid "Myanmar"
+msgid "Myanmar Kyat"
+msgstr "ミャンマー"
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js
+#: src/views/suppliers/SupplierKpiUpdateForm.js
+#, fuzzy
+#| msgid "Malaysian"
+msgid "Malaysian Ringitt"
+msgstr "マレーシア語"
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js
+#: src/views/suppliers/SupplierKpiUpdateForm.js
+msgid "US Dollars"
+msgstr ""
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js
+#: src/views/suppliers/SupplierKpiUpdateForm.js
+msgid ""
+"How much money has been paid back so far? (If none has been paid, please "
+"enter '0')"
+msgstr ""
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js
+#: src/views/suppliers/SupplierKpiUpdateForm.js
+#, fuzzy
+#| msgid "How many workers are affected by this issue?"
+msgid "How many workers have received payments to date?"
+msgstr "この問題の影響を受ける労働者は何人ですか?"
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js
+#: src/views/suppliers/SupplierKpiUpdateForm.js
+#, fuzzy
+#| msgid "How many workers are affected by this issue?"
+msgid "How many workers are owed documents, visas, or WPs?"
+msgstr "この問題の影響を受ける労働者は何人ですか?"
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js
+#: src/views/suppliers/SupplierKpiUpdateForm.js
+#, fuzzy
+#| msgid "How many workers are affected by this issue?"
+msgid "How many workers have received back their documents, visas, or WPs?"
+msgstr "この問題の影響を受ける労働者は何人ですか?"
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js
+#: src/views/suppliers/SupplierKpiUpdateForm.js
+msgid ""
+"What date has been communicated as the recommended deadline for return of "
+"documents and/or next major document processing milestone?"
+msgstr ""
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js
+#: src/views/suppliers/SupplierKpiUpdateForm.js
+msgid "(* Special field for Director/s only). Issues"
+msgstr ""
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js
+#: src/views/suppliers/SupplierKpiUpdateForm.js
+msgid "(* Special field for Director/s only). Action"
+msgstr ""
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js
+#: src/views/suppliers/SupplierKpiUpdateForm.js
+msgid "(* Special field for Director/s only). Worker Validation"
+msgstr ""
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js
+#: src/views/suppliers/SupplierKpiUpdateForm.js
+msgid "(* Special field for Director/s only). Results"
+msgstr ""
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js
+#: src/views/suppliers/SupplierKpiUpdateForm.js
+msgid ""
+"Please summarize Issara's recommendations for systems change to address this "
+"KPI, including timeframe."
+msgstr ""
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js
+#: src/views/suppliers/SupplierKpiUpdateForm.js
+msgid ""
+"How much progress has been made on systems change, as recommended by the "
+"organization?"
+msgstr ""
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js
+#: src/views/suppliers/SupplierKpiUpdateForm.js
+msgid ""
+"How much progress has been made on systems change, as recommended by Issara?"
+msgstr ""
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js
+#: src/views/suppliers/SupplierKpiUpdateForm.js
+msgid "See supplier's grievance mechanism process in detail"
+msgstr ""
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js
+#: src/views/suppliers/SupplierKpiUpdateForm.js
+#, fuzzy
+#| msgid "Deadline Date"
+msgid "Deadline date"
+msgstr "期限日"
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js
+#: src/views/suppliers/SupplierKpiUpdateForm.js
+#, fuzzy
+#| msgid "Saving Data..."
+msgid "fatching staff.."
+msgstr "データを保存しています..."
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js
+#: src/views/suppliers/SupplierKpiUpdateForm.js
+#: src/views/users/ChangePasswordForm.js
+msgid "Update"
+msgstr "更新"
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js
+#: src/views/suppliers/SupplierKpiUpdateForm.js
+msgid "Must set closed At Date when closing"
+msgstr ""
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js
+#: src/views/suppliers/SupplierKpiUpdateForm.js
+msgid "Must set openedAt, this field can't be blank"
+msgstr ""
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+#: src/views/suppliers/SupplierKpiUpdateForm.js
+msgid "Update Source:"
+msgstr "更新元:"
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+#: src/views/suppliers/SupplierKpiUpdateForm.js
+msgid "Supplier:"
+msgstr "サプライヤー:"
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+#: src/views/suppliers/SupplierKpiUpdateForm.js
+msgid "Open Since:"
+msgstr "労働問題の報告日:"
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+#: src/views/suppliers/SupplierKpiUpdateForm.js
+msgid "Remediation:"
+msgstr "改善:"
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js
+#: src/views/suppliers/SupplierKpiUpdateForm.js
+#, fuzzy
+#| msgid "Remediation Quality:"
+msgid "Remediation Deadline:"
+msgstr "改善の質:"
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js
+#: src/views/suppliers/SupplierKpiUpdateForm.js
+msgid "Not implemented"
+msgstr ""
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js
+#: src/views/suppliers/SupplierKpiUpdateForm.js
+#, fuzzy
+#| msgid "System Change Deadline:"
+msgid "Systems Change Deadline:"
+msgstr "システム変更期限:"
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js
+#: src/views/suppliers/SupplierKpiUpdateForm.js
+#, fuzzy
+#| msgid "# Workers Impacted:"
+msgid "# Impacted:"
+msgstr "影響を受けた労働者数:"
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+#: src/views/suppliers/SupplierKpiUpdateForm.js
+msgid "Laws Violated:"
+msgstr "違反した法律:"
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js
+#: src/views/suppliers/SupplierKpiUpdateForm.js
+#, fuzzy
+#| msgid "Partner Overview"
+msgid "KPI Status Overview"
+msgstr "パートナーの概要"
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js
+#: src/views/suppliers/SupplierKpiUpdateForm.js
+msgid "Assessment: systems change"
+msgstr ""
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js
+#: src/views/suppliers/SupplierKpiUpdateForm.js
+#, fuzzy
+#| msgid "Next Steps"
+msgid "Next steps"
+msgstr "次のステップ"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiFilters.js
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "less than 15 days"
+msgstr "15日未満"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiFilters.js
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "16-30"
+msgstr ""
+
+#: src/views/suppliers/kpiupdates/SupplierKpiFilters.js
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "31-45"
+msgstr ""
+
+#: src/views/suppliers/kpiupdates/SupplierKpiFilters.js
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "46-60"
+msgstr ""
+
+#: src/views/suppliers/kpiupdates/SupplierKpiFilters.js
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "61-90"
+msgstr ""
+
+#: src/views/suppliers/kpiupdates/SupplierKpiFilters.js
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "90+"
+msgstr "90歳以上"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiFilters.js
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Filter by Days Active"
+msgstr "アクティブ日数でフィルタリング"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiFilters.js
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Active Days"
+msgstr "アクティブ日数"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiFilters.js
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Show Closed"
+msgstr "解決した項目を表示"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiTable.js
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Supplier KPIs"
+msgstr "サプライヤーKPI"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiTable.js
+#: src/views/suppliers/kpiupdates/SupplierKpiUpdateHistoryTable.js
+#: src/views/suppliers/SupplierKPIsList.js
+#, fuzzy
+#| msgid ""
+#| "You can enter a text or number thats used in the object. Call IDs Also "
+#| "work. (You'll get the supplier KPIs that have that Call ID in the drop "
+#| "down panel or info view)"
+msgid ""
+"You can enter a text or number thats used in the object.  Call IDs Also "
+"work. (You'll get the supplier KPIs that have that Call ID in the drop down "
+"panel or info view"
+msgstr ""
+"オブジェクトで使用されるテキストまたは番号を入力できます。コールIDも使用でき"
+"ます (ドロップダウンパネルまたはインフォビューに、そのコールIDを持つサプライ"
+"ヤーKPIが表示されます)。"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiTable.js
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Update selected KPIs"
+msgstr "選択したKPIを更新する"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiUpdateHistoryTable.js
+#, fuzzy
+#| msgid "Supplier KPI Updated History"
+msgid "Supplier KPI Update History"
+msgstr "サプライヤーKPI更新履歴"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Supplier KPI Deleted"
+msgstr "サプライヤーKPIが削除されました"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+#, fuzzy
+#| msgid "You have successfully deleted the supplier kpi"
+msgid "You have successfully deleted the supplier kpi and it's child updates"
+msgstr "サプライヤーKPIが正常に削除されました"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Error Supplier KPI was not deleted"
+msgstr "「エラー」サプライヤーKPIは削除されませんでした"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Error occurred trying to delete those supplier kpi updates"
+msgstr "サプライヤーKPI更新を削除しようとしてエラーが発生しました"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js src/views/suppliers/SupplierList.js
+msgid "Confirm"
+msgstr "確認"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Confirm Delete ?"
+msgstr "本当に削除しますか?"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "About to delete supplier kpi id: "
+msgstr "サプライヤーKPI IDを削除しようとしています:"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "*This Supplier KPI has 0 cases and is ok to remove."
+msgstr "*このサプライヤーKPIには0件のケースがあり、削除しても問題ありません。"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Delete"
+msgstr "削除"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Supplier KPI #{id}"
+msgstr "サプライヤーKPI #{id}"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Overview:"
+msgstr "概要:"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "# Workers Impacted:"
+msgstr "影響を受けた労働者数:"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js src/views/suppliers/SupplierModal.js
+msgid "Status:"
+msgstr "ステータス:"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Days Active:"
+msgstr "アクティブ日数:"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Updated:"
+msgstr "更新日:"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Closed:"
+msgstr "解決済:"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Closed Quality:"
+msgstr "解決の質:"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Rationale:"
+msgstr "根拠:"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Issara Recommendations:"
+msgstr "イサラ研究所からの提案:"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Progress on remediation:"
+msgstr "改善活動の進捗状況:"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "How aligned are the business's responses:"
+msgstr "ビジネスによる対応の整合性:"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Business Steps Taken:"
+msgstr "実行したビジネス手順:"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Business Steps Remaining:"
+msgstr "残りのビジネス手順:"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Notes (Talking Points):"
+msgstr "注記 (論点): "
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Action (Talking Points):"
+msgstr "アクション (要点): "
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Validation (Talking Points):"
+msgstr "検証 (要点):"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Results (Talking Points):"
+msgstr "結果 (要点):"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Payments:"
+msgstr "支払い:"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Owed:"
+msgstr "未払い:"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Paid:"
+msgstr "支払済み:"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Payment Deadline:"
+msgstr "支払い期限:"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Documents:"
+msgstr "書類:"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Provided:"
+msgstr "提供済み:"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Documents Deadline:"
+msgstr "書類提出期限:"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "System Change Deadline:"
+msgstr "システム変更期限:"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Next Step :"
+msgstr "次のステップ:"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Assign To :-"
+msgstr "に割り当てます: -"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Deadline :-"
+msgstr "締め切り:-"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Description :-"
+msgstr "説明:-"
 
 #: src/views/suppliers/SharedFileList.js
 msgid "Supplier Documents:"
@@ -3361,188 +4897,9 @@ msgstr "サプライヤー文書:"
 msgid "Reference Documents"
 msgstr "参考文書: "
 
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "Supplier KPI Deleted"
-msgstr "サプライヤーKPIが削除されました"
-
-#: src/views/suppliers/SupplierKPIModal.js
-#, fuzzy
-#| msgid "You have successfully deleted the supplier kpi"
-msgid "You have successfully deleted the supplier kpi and it's child updates"
-msgstr "サプライヤーKPIが正常に削除されました"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "Error Supplier KPI was not deleted"
-msgstr "「エラー」サプライヤーKPIは削除されませんでした"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "Error occurred trying to delete those supplier kpi updates"
-msgstr "サプライヤーKPI更新を削除しようとしてエラーが発生しました"
-
-#: src/views/suppliers/SupplierKPIModal.js src/views/suppliers/SupplierList.js
-msgid "Confirm"
-msgstr "確認"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "Confirm Delete ?"
-msgstr "本当に削除しますか?"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "About to delete supplier kpi id: "
-msgstr "サプライヤーKPI IDを削除しようとしています:"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "*This Supplier KPI has 0 cases and is ok to remove."
-msgstr "*このサプライヤーKPIには0件のケースがあり、削除しても問題ありません。"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "Delete"
-msgstr "削除"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "Supplier KPI #{id}"
-msgstr "サプライヤーKPI #{id}"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "Overview:"
-msgstr "概要:"
-
-#: src/views/suppliers/SupplierKPIModal.js
-#: src/views/suppliers/SupplierKpiUpdateForm.js
-msgid "Update Source:"
-msgstr "更新元:"
-
-#: src/views/suppliers/SupplierKPIModal.js
-#: src/views/suppliers/SupplierKpiUpdateForm.js
-msgid "Supplier:"
-msgstr "サプライヤー:"
-
-#: src/views/suppliers/SupplierKPIModal.js
-#: src/views/suppliers/SupplierKpiUpdateForm.js
-msgid "Laws Violated:"
-msgstr "違反した法律:"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "# Workers Impacted:"
-msgstr "影響を受けた労働者数:"
-
-#: src/views/suppliers/SupplierKPIModal.js src/views/suppliers/SupplierModal.js
-msgid "Status:"
-msgstr "ステータス:"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "Days Active:"
-msgstr "アクティブ日数:"
-
-#: src/views/suppliers/SupplierKPIModal.js
-#: src/views/suppliers/SupplierKpiUpdateForm.js
-msgid "Open Since:"
-msgstr "労働問題の報告日:"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "Updated:"
-msgstr "更新日:"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "Closed:"
-msgstr "解決済:"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "Closed Quality:"
-msgstr "解決の質:"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "Rationale:"
-msgstr "根拠:"
-
-#: src/views/suppliers/SupplierKPIModal.js
-#: src/views/suppliers/SupplierKpiUpdateForm.js
-msgid "Remediation:"
-msgstr "改善:"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "Issara Recommendations:"
-msgstr "イサラ研究所からの提案:"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "Progress on remediation:"
-msgstr "改善活動の進捗状況:"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "How aligned are the business's responses:"
-msgstr "ビジネスによる対応の整合性:"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "Business Steps Taken:"
-msgstr "実行したビジネス手順:"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "Business Steps Remaining:"
-msgstr "残りのビジネス手順:"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "Notes (Talking Points):"
-msgstr "注記 (論点): "
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "Action (Talking Points):"
-msgstr "アクション (要点): "
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "Validation (Talking Points):"
-msgstr "検証 (要点):"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "Results (Talking Points):"
-msgstr "結果 (要点):"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "Payments:"
-msgstr "支払い:"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "Owed:"
-msgstr "未払い:"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "Paid:"
-msgstr "支払済み:"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "Payment Deadline:"
-msgstr "支払い期限:"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "Documents:"
-msgstr "書類:"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "Provided:"
-msgstr "提供済み:"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "Documents Deadline:"
-msgstr "書類提出期限:"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "System Change Deadline:"
-msgstr "システム変更期限:"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "Next Step :"
-msgstr "次のステップ:"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "Assign To :-"
-msgstr "に割り当てます: -"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "Deadline :-"
-msgstr "締め切り:-"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "Description :-"
-msgstr "説明:-"
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Call Id: {item}"
+msgstr "通話 ID: {item}"
 
 #: src/views/suppliers/SupplierKPIsList.js
 msgid "Closed At"
@@ -3585,8 +4942,10 @@ msgid "# Affected"
 msgstr "＃影響を受ける"
 
 #: src/views/suppliers/SupplierKPIsList.js
-msgid "Updates"
-msgstr "更新"
+#, fuzzy
+#| msgid "Assigned to"
+msgid "Assigned To"
+msgstr "割り当て先"
 
 #: src/views/suppliers/SupplierKPIsList.js
 msgid "Call #"
@@ -3601,42 +4960,6 @@ msgid "Calls"
 msgstr "通話"
 
 #: src/views/suppliers/SupplierKPIsList.js
-msgid "Call Id: {item}"
-msgstr "通話 ID: {item}"
-
-#: src/views/suppliers/SupplierKPIsList.js
-msgid "less than 15 days"
-msgstr "15日未満"
-
-#: src/views/suppliers/SupplierKPIsList.js
-msgid "16-30"
-msgstr "16-30"
-
-#: src/views/suppliers/SupplierKPIsList.js
-msgid "31-45"
-msgstr "31-45"
-
-#: src/views/suppliers/SupplierKPIsList.js
-msgid "46-60"
-msgstr "46-60"
-
-#: src/views/suppliers/SupplierKPIsList.js
-msgid "61-90"
-msgstr "61-90"
-
-#: src/views/suppliers/SupplierKPIsList.js
-msgid "90+"
-msgstr "90歳以上"
-
-#: src/views/suppliers/SupplierKPIsList.js
-msgid "Filter by Days Active"
-msgstr "アクティブ日数でフィルタリング"
-
-#: src/views/suppliers/SupplierKPIsList.js
-msgid "Active Days"
-msgstr "アクティブ日数"
-
-#: src/views/suppliers/SupplierKPIsList.js
 msgid "Supply Chain"
 msgstr "サプライチェーン"
 
@@ -3645,264 +4968,12 @@ msgid "Non-Supply Chain"
 msgstr "非サプライ チェーン"
 
 #: src/views/suppliers/SupplierKPIsList.js
-msgid "Show Closed"
-msgstr "解決した項目を表示"
-
-#: src/views/suppliers/SupplierKPIsList.js
-msgid "Supplier KPIs"
-msgstr "サプライヤーKPI"
-
-#: src/views/suppliers/SupplierKPIsList.js
-#, fuzzy
-#| msgid ""
-#| "You can enter a text or number thats used in the object. Call IDs Also "
-#| "work. (You'll get the supplier KPIs that have that Call ID in the drop "
-#| "down panel or info view)"
-msgid ""
-"You can enter a text or number thats used in the object.  Call IDs Also "
-"work. (You'll get the supplier KPIs that have that Call ID in the drop down "
-"panel or info view"
-msgstr ""
-"オブジェクトで使用されるテキストまたは番号を入力できます。コールIDも使用でき"
-"ます (ドロップダウンパネルまたはインフォビューに、そのコールIDを持つサプライ"
-"ヤーKPIが表示されます)。"
-
-#: src/views/suppliers/SupplierKPIsList.js
-msgid "Update selected KPIs"
-msgstr "選択したKPIを更新する"
-
-#: src/views/suppliers/SupplierKPIsList.js
 msgid "Supplier KPI Updated History"
 msgstr "サプライヤーKPI更新履歴"
 
 #: src/views/suppliers/SupplierKpiUpdateForm.js
-msgid "Must set closed At Date when closing"
-msgstr ""
-
-#: src/views/suppliers/SupplierKpiUpdateForm.js
-msgid "Must set openedAt, this field can't be blank"
-msgstr ""
-
-#: src/views/suppliers/SupplierKpiUpdateForm.js
-#, fuzzy
-#| msgid "Remediation Quality:"
-msgid "Remediation Deadline:"
-msgstr "改善の質:"
-
-#: src/views/suppliers/SupplierKpiUpdateForm.js
-msgid "Not implemented"
-msgstr ""
-
-#: src/views/suppliers/SupplierKpiUpdateForm.js
-#, fuzzy
-#| msgid "System Change Deadline:"
-msgid "Systems Change Deadline:"
-msgstr "システム変更期限:"
-
-#: src/views/suppliers/SupplierKpiUpdateForm.js
-#, fuzzy
-#| msgid "# Workers Impacted:"
-msgid "# Impacted:"
-msgstr "影響を受けた労働者数:"
-
-#: src/views/suppliers/SupplierKpiUpdateForm.js
-#, fuzzy
-#| msgid "Partner Overview"
-msgid "KPI Status Overview"
-msgstr "パートナーの概要"
-
-#: src/views/suppliers/SupplierKpiUpdateForm.js
-#, fuzzy
-#| msgid "Opened At"
-msgid "Opened At:"
-msgstr "に報告を受ける"
-
-#: src/views/suppliers/SupplierKpiUpdateForm.js
-#: src/views/TeamActivity/FieldworkActivityForm.js
-#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
-msgid "Click here to open calendar"
-msgstr "ここをクリックしてカレンダーを開きます"
-
-#: src/views/suppliers/SupplierKpiUpdateForm.js
-#, fuzzy
-#| msgid "Closed At"
-msgid "Closed At:"
-msgstr "で解決"
-
-#: src/views/suppliers/SupplierKpiUpdateForm.js
-#, fuzzy
-#| msgid "• Quality of remediation"
-msgid "Please assess quality of remediation"
-msgstr "• 改善の質"
-
-#: src/views/suppliers/SupplierKpiUpdateForm.js
-msgid "Please explain the rationale for this remediation outcome assessment."
-msgstr ""
-
-#: src/views/suppliers/SupplierKpiUpdateForm.js
-#, fuzzy
-#| msgid "Number of workers recruited by Gender"
-msgid "Number of affected workers related to this KPI"
-msgstr "労働者の採用数 (性別ごと)"
-
-#: src/views/suppliers/SupplierKpiUpdateForm.js
-msgid "Have there been any retaliation or threats to workers?"
-msgstr ""
-
-#: src/views/suppliers/SupplierKpiUpdateForm.js
 msgid "Do not include in Supplier Dashboard as per risk  assessment."
 msgstr ""
-
-#: src/views/suppliers/SupplierKpiUpdateForm.js
-msgid ""
-"Please summarize Issara's recommendations for remediation to address this "
-"KPI, including timeframe"
-msgstr ""
-
-#: src/views/suppliers/SupplierKpiUpdateForm.js
-msgid ""
-"What date has been communicated as the recommended deadline for completion "
-"of payments and/or next major payment milestone?"
-msgstr ""
-
-#: src/views/suppliers/SupplierKpiUpdateForm.js
-msgid ""
-"How much progress has been made on remediation, as recommended by Issara?"
-msgstr ""
-
-#: src/views/suppliers/SupplierKpiUpdateForm.js
-msgid ""
-"How aligned are the business's responses with Issara's recommendations and "
-"international ethical standards?"
-msgstr ""
-
-#: src/views/suppliers/SupplierKpiUpdateForm.js
-msgid ""
-"Describe steps taken by offender/s or responsible party to solve the issue "
-"so far."
-msgstr ""
-
-#: src/views/suppliers/SupplierKpiUpdateForm.js
-msgid "Describe steps remaining by the offender/s."
-msgstr ""
-
-#: src/views/suppliers/SupplierKpiUpdateForm.js
-msgid ""
-"How much money is owed in total to all workers? (If none is owed, please "
-"enter '0')"
-msgstr ""
-
-#: src/views/suppliers/SupplierKpiUpdateForm.js
-#, fuzzy
-#| msgid "Thai"
-msgid "Thai Baht"
-msgstr "タイ語"
-
-#: src/views/suppliers/SupplierKpiUpdateForm.js
-#, fuzzy
-#| msgid "Myanmar"
-msgid "Myanmar Kyat"
-msgstr "ミャンマー"
-
-#: src/views/suppliers/SupplierKpiUpdateForm.js
-#, fuzzy
-#| msgid "Malaysian"
-msgid "Malaysian Ringitt"
-msgstr "マレーシア語"
-
-#: src/views/suppliers/SupplierKpiUpdateForm.js
-msgid "US Dollars"
-msgstr ""
-
-#: src/views/suppliers/SupplierKpiUpdateForm.js
-msgid ""
-"How much money has been paid back so far? (If none has been paid, please "
-"enter '0')"
-msgstr ""
-
-#: src/views/suppliers/SupplierKpiUpdateForm.js
-#, fuzzy
-#| msgid "How many workers are affected by this issue?"
-msgid "How many workers have received payments to date?"
-msgstr "この問題の影響を受ける労働者は何人ですか?"
-
-#: src/views/suppliers/SupplierKpiUpdateForm.js
-#, fuzzy
-#| msgid "How many workers are affected by this issue?"
-msgid "How many workers are owed documents, visas, or WPs?"
-msgstr "この問題の影響を受ける労働者は何人ですか?"
-
-#: src/views/suppliers/SupplierKpiUpdateForm.js
-#, fuzzy
-#| msgid "How many workers are affected by this issue?"
-msgid "How many workers have received back their documents, visas, or WPs?"
-msgstr "この問題の影響を受ける労働者は何人ですか?"
-
-#: src/views/suppliers/SupplierKpiUpdateForm.js
-msgid ""
-"What date has been communicated as the recommended deadline for return of "
-"documents and/or next major document processing milestone?"
-msgstr ""
-
-#: src/views/suppliers/SupplierKpiUpdateForm.js
-msgid "(* Special field for Director/s only). Issues"
-msgstr ""
-
-#: src/views/suppliers/SupplierKpiUpdateForm.js
-msgid "(* Special field for Director/s only). Action"
-msgstr ""
-
-#: src/views/suppliers/SupplierKpiUpdateForm.js
-msgid "(* Special field for Director/s only). Worker Validation"
-msgstr ""
-
-#: src/views/suppliers/SupplierKpiUpdateForm.js
-msgid "(* Special field for Director/s only). Results"
-msgstr ""
-
-#: src/views/suppliers/SupplierKpiUpdateForm.js
-msgid "Assessment: systems change"
-msgstr ""
-
-#: src/views/suppliers/SupplierKpiUpdateForm.js
-msgid ""
-"Please summarize Issara's recommendations for systems change to address this "
-"KPI, including timeframe."
-msgstr ""
-
-#: src/views/suppliers/SupplierKpiUpdateForm.js
-#, fuzzy
-#| msgid "Opened At"
-msgid "openedAt"
-msgstr "に報告を受ける"
-
-#: src/views/suppliers/SupplierKpiUpdateForm.js
-msgid ""
-"How much progress has been made on systems change, as recommended by Issara?"
-msgstr ""
-
-#: src/views/suppliers/SupplierKpiUpdateForm.js
-#, fuzzy
-#| msgid "Next Steps"
-msgid "Next steps"
-msgstr "次のステップ"
-
-#: src/views/suppliers/SupplierKpiUpdateForm.js
-#, fuzzy
-#| msgid "Deadline Date"
-msgid "Deadline date"
-msgstr "期限日"
-
-#: src/views/suppliers/SupplierKpiUpdateForm.js
-#, fuzzy
-#| msgid "Saving Data..."
-msgid "fatching staff.."
-msgstr "データを保存しています..."
-
-#: src/views/suppliers/SupplierKpiUpdateForm.js
-#: src/views/users/ChangePasswordForm.js
-msgid "Update"
-msgstr "更新"
 
 #: src/views/suppliers/SupplierLandingPage.js
 msgid ""
@@ -3965,7 +5036,7 @@ msgstr ""
 "ILMサプライヤーダッシュボードは、幅広い情報、データ分析や透明性のあるデータを"
 "提供します。倫理的な労働者の採用と労働条件の改善をサポートするために、今後も"
 "お客様と協力していきたいと考えています。ご質問がある場合は、イサラ研究所サプ"
-"ライヤーダッシュボードの担当者にお問い合わせください。\n"
+"ライヤーダッシュボードの担当者にお問い合わせください"
 
 #: src/views/suppliers/SupplierLandingPage.js
 msgid ""
@@ -4444,10 +5515,146 @@ msgstr "パキスタン人労働者"
 msgid "Sri Lankan workers"
 msgstr "スリランカ人労働者"
 
+#: src/views/suppliers/SupplierProgressActivitySummary.js
+#, fuzzy
+#| msgid "Supply chain activities"
+msgid "Supplier Activities Summary"
+msgstr "サプライチェーン活動"
+
+#: src/views/suppliers/SupplierProgressActivitySummary.js
+msgid "1.1. Establish an Ethical Grievance Mechanisms/Worker Voice Policy"
+msgstr ""
+
+#: src/views/suppliers/SupplierProgressActivitySummary.js
+msgid ""
+"1.2. Systems & Procedures for Worker Voice & Ethical Grievance Mechanisms"
+msgstr ""
+
+#: src/views/suppliers/SupplierProgressActivitySummary.js
+msgid ""
+"1.3. Communications regarding Worker Voice Channels,Grievance Mechanisms & "
+"Worker Surveys"
+msgstr ""
+
+#: src/views/suppliers/SupplierProgressActivitySummary.js
+msgid "1.6. Education & Empowerment"
+msgstr ""
+
+#: src/views/suppliers/SupplierProgressActivitySummary.js
+#, fuzzy
+#| msgid "ER INDICATOR 1. Ethical recruitment policy in force is:"
+msgid "2.1. Ethical/Responsible Recruitment policy"
+msgstr "倫理的採用 (ER) 指標 1. 実施されている倫理的採用方針は次の通りです。"
+
+#: src/views/suppliers/SupplierProgressActivitySummary.js
+#, fuzzy
+#| msgid "Number of recruitment agencies mapped"
+msgid "2.3. Disclosure of Recruitment Agencies & Policies to Customers"
+msgstr "マッピングされた送り出し・受け入れ機関の数"
+
+#: src/views/suppliers/SupplierProgressActivitySummary.js
+#, fuzzy
+#| msgid "Number of recruitment agencies mapped"
+msgid "2.4. Communication of Recruitment Policies & Requirements"
+msgstr "マッピングされた送り出し・受け入れ機関の数"
+
+#: src/views/suppliers/SupplierProgressActivitySummary.js
+#, fuzzy
+#| msgid "Recruitment"
+msgid "2.6. Recruitment Surveys"
+msgstr "採用"
+
+#: src/views/suppliers/SupplierProgressActivitySummary.js
+#, fuzzy
+#| msgid "Recruitment Agencies Trained"
+msgid "2.7. Recruitment Fees Repayment"
+msgstr "研修を受けた送り出し・受け入れ機関"
+
+#: src/views/suppliers/SupplierProgressActivitySummary.js
+msgid "Reimbursed"
+msgstr ""
+
+#: src/views/suppliers/SupplierProgressActivitySummary.js
+msgid "Agreed and in process for reimbursement"
+msgstr ""
+
+#: src/views/suppliers/SupplierProgressActivitySummary.js
+msgid "Not agreed for reimbursement"
+msgstr ""
+
+#: src/views/suppliers/SupplierProgressActivitySummary.js
+msgid "Number of eligible workers that have not been reimbursed"
+msgstr ""
+
+#: src/views/suppliers/SupplierProgressActivitySummary.js
+msgid "Number of eligible workers that have been reimbursed"
+msgstr ""
+
+#: src/views/suppliers/SupplierProgressActivitySummary.js
+#, fuzzy
+#| msgid "Company policy: ethical recruitment"
+msgid "2.8. Capacity Building: Ethical Recruitment Trainings"
+msgstr "企業方針: 倫理的採用"
+
+#: src/views/suppliers/SupplierProgressActivitySummary.js
+#, fuzzy
+#| msgid "ER INDICATOR 1. Ethical recruitment policy in force is:"
+msgid "2.9. Ethical Recruitment Network (ERN) Collaboration"
+msgstr "倫理的採用 (ER) 指標 1. 実施されている倫理的採用方針は次の通りです。"
+
+#: src/views/suppliers/SupplierProgressActivitySummary.js
+msgid "2.10. Golden Dreams"
+msgstr ""
+
+#: src/views/suppliers/SupplierProgressActivitySummary.js
+#, fuzzy
+#| msgid "ER INDICATOR 1. Ethical recruitment policy in force is:"
+msgid "3.1. Ethical Sourcing Policy / Roadmap Plan"
+msgstr "倫理的採用 (ER) 指標 1. 実施されている倫理的採用方針は次の通りです。"
+
+#: src/views/suppliers/SupplierProgressActivitySummary.js
+#, fuzzy
+#| msgid "Date of most recent worker satisfaction survey"
+msgid "3.5. Worker Satisfaction Survey"
+msgstr "最新の労働者満足度調査(WSS)の日時"
+
+#: src/views/suppliers/SupplierProgressActivitySummary.js
+msgid ""
+"3.4. Strengthening Communications & Relations Responding to Workers Voice"
+msgstr ""
+
+#: src/views/suppliers/SupplierProgressActivitySummary.js
+#, fuzzy
+#| msgid "No. of Workers Receiving Remedition"
+msgid "3.2. Ongoing Worker Voice-Driven Remediation"
+msgstr "報告した労働問題の改善措置を受けた労働者の数"
+
+#: src/views/suppliers/SupplierProgressActivitySummary.js
+msgid "3.6. Capacity Building on Business & Human Rights/HRDD"
+msgstr ""
+
+#: src/views/suppliers/SupplierProgressActivitySummary.js
+msgid "3.7. Capacity Building: Interpreters & Line Supervisors"
+msgstr ""
+
+#: src/views/suppliers/SupplierProgressActivitySummary.js
+#, fuzzy
+#| msgid "Company policy: ethical recruitment"
+msgid "3.8. Capacity Building: Management & Leadership"
+msgstr "企業方針: 倫理的採用"
+
+#: src/views/suppliers/SupplierProgressActivitySummary.js
+msgid "3.9. Targeted, Responsive Systems Strengthening"
+msgstr ""
+
 #: src/views/suppliers/SupplierProgressDashboard.js
 #, fuzzy
 #| msgid "Quality of Response"
 msgid "Quality of Response actual"
+msgstr "対応の質"
+
+#: src/views/suppliers/SupplierProgressDashboard.js
+msgid "Quality of Response"
 msgstr "対応の質"
 
 #: src/views/suppliers/SupplierProgressDashboard.js
@@ -4457,9 +5664,17 @@ msgid "Timeliness of Response actual"
 msgstr "タイムリーな対応"
 
 #: src/views/suppliers/SupplierProgressDashboard.js
+msgid "Timeliness of Response"
+msgstr "タイムリーな対応"
+
+#: src/views/suppliers/SupplierProgressDashboard.js
 #, fuzzy
 #| msgid "Openness to Reform"
 msgid "Openness to Reform actual"
+msgstr "改革への開放性"
+
+#: src/views/suppliers/SupplierProgressDashboard.js
+msgid "Openness to Reform"
 msgstr "改革への開放性"
 
 #: src/views/suppliers/SupplierProgressDashboard.js
@@ -4480,7 +5695,7 @@ msgstr ""
 
 #: src/views/suppliers/SupplierProgressDashboard.js
 msgid "x"
-msgstr "x"
+msgstr ""
 
 #: src/views/suppliers/SupplierProgressDashboard.js
 msgid "Worker Calls and Messages By Month"
@@ -4546,6 +5761,10 @@ msgid "Please choose the date"
 msgstr "日付を選択してください"
 
 #: src/views/TeamActivity/FieldworkActivityForm.js
+msgid "Type training name"
+msgstr ""
+
+#: src/views/TeamActivity/FieldworkActivityForm.js
 msgid "Please choose a fieldwork type"
 msgstr "フィールドワークの種類を選択してください"
 
@@ -4579,6 +5798,16 @@ msgstr "ビルマ語Titokメッセージ"
 #: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
 msgid "Nepalese Tiktok messages"
 msgstr "ネパール語Tiktokメッセージ"
+
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Khmer TikTok"
+msgstr ""
+
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+#, fuzzy
+#| msgid "Burmese hotline in Thailand"
+msgid "Hotline in Taiwan"
+msgstr "タイのビルマ語ホットライン"
 
 #: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
 msgid "Bangladeshi Facebook messenger"
@@ -4693,11 +5922,21 @@ msgid "No. of Workers Receiving Remedition"
 msgstr "報告した労働問題の改善措置を受けた労働者の数"
 
 #: src/views/TeamActivity/WV_and_ER_metrix.js
-msgid "No. of Workers Reached In Pre-Departure NE"
+#, fuzzy
+#| msgid "No. of Workers Reached In Pre-Departure NE"
+msgid "No. of Workers Reached in Pre-Departure-Nepal"
 msgstr "ネパールで出国前に対応した労働者の数"
 
 #: src/views/TeamActivity/WV_and_ER_metrix.js
-msgid "No. of Workers Reached In Pre-Departure MM"
+#, fuzzy
+#| msgid "No. of Workers Reached In Pre-Departure NE"
+msgid "No. of Workers Reached in Pre-Departure-Cambodia"
+msgstr "ネパールで出国前に対応した労働者の数"
+
+#: src/views/TeamActivity/WV_and_ER_metrix.js
+#, fuzzy
+#| msgid "No. of Workers Reached In Pre-Departure MM"
+msgid "No. of Workers Reached in Pre-Departure-Myanmar"
 msgstr "ミャンマーで出国前に対応した労働者の数"
 
 #: src/views/TeamActivity/WV_and_ER_metrix.js
@@ -4709,8 +5948,26 @@ msgid "No. of Suppliers Trained"
 msgstr "研修を受けたサプライヤーの数"
 
 #: src/views/TeamActivity/WV_and_ER_metrix.js
+msgid "Enter the total amount in USD."
+msgstr ""
+
+#: src/views/TeamActivity/WV_and_ER_metrix.js
+#, fuzzy
+#| msgid "Remediation For Recruitment Fees and Cases"
+msgid "Remediation for Recruitment Fees and Cases in USD."
+msgstr "採用コストと労働問題の改善措置"
+
+#: src/views/TeamActivity/WV_and_ER_metrix.js
 msgid "No. of Trained Worker Leaders/Mobilizers"
 msgstr "研修を受けた労働者リーダー/モビライザーの数"
+
+#: src/views/TeamActivity/WV_and_ER_metrix.js
+#, fuzzy
+#| msgid "Recruitment-Related Fees Detected and Intercepted"
+msgid ""
+"Recruitment related Fees Detected and intercepted/prevented from job seekers "
+"and workers in USD."
+msgstr "違法な採用関連コストの把握・求職者の保護"
 
 #: src/views/teamtasks/EnhancedTeamTasksList.js
 msgid "Show finished"
@@ -4780,6 +6037,273 @@ msgstr ""
 "このメール アドレスにパスワード リセット リンクを送信します。24 時間以内にパ"
 "スワードを変更してください。"
 
+#~ msgid "Instructions:"
+#~ msgstr "手順:"
+
+#~ msgid ""
+#~ "If the client is adding more information or updates on a previously "
+#~ "reported issue, please click the green pen by the relevant KPI to update."
+#~ msgstr ""
+#~ "クライアントからの以前に報告された問題に関する詳細情報や更新情報を追加する"
+#~ "場合は、関連するKPI の横にある緑色のペンをクリックして更新してください。"
+
+#~ msgid ""
+#~ "If the client is reporting a new issue at the workplace, please click the "
+#~ "green New Issue button."
+#~ msgstr ""
+#~ "クライアントから職場で新しい問題の報告があった場合は、緑色の [新しい問題] "
+#~ "ボタンをクリックして、情報を追加してください。"
+
+#~ msgid "AREA 1. WORKER VOICE: ANNUAL TARGETS"
+#~ msgstr "領域1. 労働者の声: 年間目標"
+
+#~ msgid "AREA 2. LABOUR RECRUITMENT: ANNUAL TARGETS"
+#~ msgstr "領域 2. 労働者の採用: 年間目標"
+
+#, fuzzy
+#~| msgid ""
+#~| "WV INDICATOR - Ethical recruitment policy in force is (tick all that are "
+#~| "within your goal for this year):"
+#~ msgid ""
+#~ "WV INDICATOR - Ethical recruitment policy in force is (tick all that are "
+#~ "within your goal for this year) :"
+#~ msgstr ""
+#~ "労働者の声 (WV) 指標 - 実施されている倫理的な採用方針は (今年の目標に該当"
+#~ "するもの全てをチェックしてください):"
+
+#~ msgid "Number of recruitment agencies mapped"
+#~ msgstr "マッピングされた送り出し・受け入れ機関の数"
+
+#~ msgid "Number of suppliers collaborating with Issara"
+#~ msgstr "イサラ研究所と連携しているサプライヤーの数"
+
+#~ msgid "Number of suppliers utilizing GD Marketplace"
+#~ msgstr "Golden Dream マーケットプレイスを利用するサプライヤーの数"
+
+#~ msgid "AREA 3. WORKING CONDITIONS: ANNUAL TARGETS"
+#~ msgstr "領域3. 労働環境: 年間目標"
+
+#~ msgid ""
+#~ "WV INDICATOR - Ethical sourcing and migrant worker policies put into "
+#~ "force that are ( tick all that are within your goal for this year ) :"
+#~ msgstr ""
+#~ "労働者の声(WV)指標 - 倫理的な調達と移住労働者に関するポリシーが実施されて"
+#~ "いるかどうか (今年の目標に該当するもの全てをチェックしてください):"
+
+#~ msgid "Quality of response"
+#~ msgstr "対応の質"
+
+#~ msgid "Timeliness of response"
+#~ msgstr "タイムリーな対応"
+
+#~ msgid "AREA 2. LABOUR RECRUITMENT"
+#~ msgstr "領域2. 労働者の採用"
+
+#~ msgid "AREA 3. WORKING CONDITIONS"
+#~ msgstr "領域3. 労働環境"
+
+#~ msgid "Workplan Progress Dashboard"
+#~ msgstr "業務計画進捗ダッシュボード"
+
+#~ msgid "AREA 1. WORKER VOICE"
+#~ msgstr "領域1. 労働者の声"
+
+#~ msgid ""
+#~ "WORK INDICATOR 1. Percentage of tier-1 suppliers (export level) in supply "
+#~ "chain with worker voice"
+#~ msgstr ""
+#~ "業務指標1.サプライチェーンにおける労働者の声を反映したティア1サプライヤー"
+#~ "(輸出レベル)の割合"
+
+#~ msgid ""
+#~ "WORK INDICATOR 2. Percentage of upstream suppliers in supply chain with "
+#~ "worker voice"
+#~ msgstr ""
+#~ "業務指標2.サプライチェーンにおける上流サプライヤーの内、労働者の意見を反映"
+#~ "しているサプライヤーの割合"
+
+#~ msgid "ER INDICATOR 1. Ethical recruitment policy in force is:"
+#~ msgstr ""
+#~ "倫理的採用 (ER) 指標 1. 実施されている倫理的採用方針は次の通りです。"
+
+#~ msgid "Wait..."
+#~ msgstr "待って下さい"
+
+#~ msgid ""
+#~ "Indicator 2A: Number of recruitment agencies mapped across supplier base."
+#~ msgstr ""
+#~ "指標 2A: サプライヤー ベース全体を対象にマッピングされた送り出し・受け入れ"
+#~ "機関の数。"
+
+#~ msgid ""
+#~ "Indicator 2B: Number of suppliers collaborating with Issara and their "
+#~ "recruitment agencies on pre-departure orientations and strengthened "
+#~ "recruitment practices"
+#~ msgstr ""
+#~ "指標 2B: イサラ研究所と連携しているサプライヤー数。また、これらのサプライ"
+#~ "ヤーが提携する送り出し・受け入れ機関で、出発前オリエンテーションの実施や採"
+#~ "用慣行を強化している機関の数。"
+
+#~ msgid ""
+#~ "Indicator 2C: Number of suppliers utilizing Golden Dreams Marketplace to "
+#~ "reduce risk of worker indebtedness and workers paying fees to brokers and "
+#~ "middlemen"
+#~ msgstr ""
+#~ "指標 2C: 労働者の負債やブローカーや仲買人への手数料支払いリスクを減らすた"
+#~ "めに、Golden Dreamsマーケットプレースを利用しているサプライヤーの数"
+
+#~ msgid ""
+#~ "ER INDICATOR 3. Number of suppliers that have undertaken recruitment "
+#~ "surveys to assess recruitment process-related risks, and recruitment-"
+#~ "related fees paid by workers"
+#~ msgstr ""
+#~ "倫理的採用 (ER) 指標3. 採用プロセス関連リスク及び労働者が支払う採用関連費"
+#~ "用を評価する為に、イサラ研究所による採用システム評価調査 (RSA) を実施した"
+#~ "サプライヤーの数"
+
+#~ msgid ""
+#~ "ER INDICATOR 4. Percentage of workers in supply chain reimbursed for "
+#~ "recruitment-related fees they have paid"
+#~ msgstr ""
+#~ "倫理的採用 (ER) 指標4. サプライチェーンの労働者の内、支払った採用関連費用"
+#~ "の払い戻しを受けた労働者の割合"
+
+#~ msgid ""
+#~ "WORK INDICATOR 1. Ethical sourcing and migrant worker policies put into "
+#~ "force that are:"
+#~ msgstr ""
+#~ "業務指標 1. 次のような倫理的な調達と移住労働者に関する政策が実施されてい"
+#~ "る:"
+
+#~ msgid "WORK INDICATOR 2. Average supplier performance scores:"
+#~ msgstr "業務指標 2. サプライヤーの平均実績スコア:"
+
+#~ msgid ""
+#~ "WORK INDICATOR 3. Percentage of worker-reported issues in the supply "
+#~ "chain resolved in under 60 days"
+#~ msgstr ""
+#~ "業務指標 3. サプライ チェーンで働く労働者より報告を受けた労働問題の内、60 "
+#~ "日以内に解決された問題の割合"
+
+#~ msgid ""
+#~ "WORK INDICATOR 4. Percentage of remediation efforts of specific issues "
+#~ "resolved at a Fair, Good or Excellent level"
+#~ msgstr ""
+#~ "業務指標 4. 特定の労働問題の改善努力が「普通」、「良好」、または「優秀」レ"
+#~ "ベルで解決された割合"
+
+#~ msgid "REMEDIATION"
+#~ msgstr "改善"
+
+#~ msgid "OUTCOMES"
+#~ msgstr "結果"
+
+#~ msgid "Priority Activities Not Found"
+#~ msgstr "優先活動が見つかりません"
+
+#~ msgid "Red = not started"
+#~ msgstr "赤 = 開始されていません"
+
+#~ msgid "AREA"
+#~ msgstr "領域"
+
+#~ msgid "ACTIVITY"
+#~ msgstr "活動"
+
+#~ msgid "STATUS"
+#~ msgstr "ステータス"
+
+#~ msgid "Are you sure?"
+#~ msgstr "よろしいですか?"
+
+#~ msgid "Once deleted, you will not be able to recover this file!"
+#~ msgstr "削除すると、このファイルを復元できなくなります!"
+
+#~ msgid "Document removed successfully!"
+#~ msgstr "ドキュメントは正常に削除されました!"
+
+#~ msgid ""
+#~ "If additional details need to be provided, please use the note box at "
+#~ "bottom."
+#~ msgstr ""
+#~ "追加の詳細を提供する必要がある場合は、下部の参照ボックスを使用してくださ"
+#~ "い。"
+
+#~ msgid ""
+#~ "ER INDICATOR 1. Ethical recruitment policy in force is (tick all that are "
+#~ "within your goal for this year):"
+#~ msgstr ""
+#~ "倫理的採用(ER)指標 1. 実施されている倫理的採用方針は次のとおりです (今年の"
+#~ "目標に該当するものすべてをチェックしてください):"
+
+#~ msgid ""
+#~ "ER INDICATOR 3. Number of suppliers that have undertaken recruitment "
+#~ "surveys by Issara to assess recruitment process-related risks, and "
+#~ "recruitment-related fees paid by workers"
+#~ msgstr ""
+#~ "倫理的採用(ER)指標3. 採用プロセス関連リスク及び労働者が支払う採用関連費用"
+#~ "を評価する為に、イサラ研究所による採用システム評価調査を実施したサプライ"
+#~ "ヤーの数"
+
+#~ msgid ""
+#~ "ER INDICATOR 4. Percentage of workers in supply chain reimbursed for "
+#~ "recruitment-related fees owed"
+#~ msgstr ""
+#~ "倫理的採用(ER)指標 4. サプライチェーンにおける未払いの採用関連費用を払い戻"
+#~ "された労働者の割合"
+
+#~ msgid ""
+#~ "WORK INDICATOR 1. Ethical sourcing and migrant worker policies put into "
+#~ "force (tick all that are within your goal for this year)."
+#~ msgstr ""
+#~ "業務指標 1. 倫理的な調達と移住労働者に関する方針の施行 (今年の目標に該当す"
+#~ "るもの全てをチェックしてください)。"
+
+#~ msgid "Foundational activities"
+#~ msgstr "基礎的活動"
+
+#~ msgid ""
+#~ "Grey = Not yet initiated; Yellow = Partial progress; Green = Completed/"
+#~ "ongoing"
+#~ msgstr "灰色 = まだ開始されていない、黄色 = 一部進捗あり、緑 = 完了/進行中"
+
+#~ msgid "ACTIVITIES & ACHIEVEMENTS SUMMARY"
+#~ msgstr "活動と成果の概要"
+
+#~ msgid "Number of workers with access to Issara worker voice channels"
+#~ msgstr "イサラ研究所が提供する労働者の相談窓口へアクセスした労働者の数"
+
+#~ msgid "Not available"
+#~ msgstr "利用不可"
+
+#~ msgid "Date of most recent worker satisfaction survey"
+#~ msgstr "最新の労働者満足度調査(WSS)の日時"
+
+#~ msgid "Date of most recent recruitment survey"
+#~ msgstr "最新の採用システム評価調査(RSA)の日時"
+
+#~ msgid "Number of workers reimbursed recruitment fees"
+#~ msgstr "採用関連費用の払い戻しを受けた労働者の数"
+
+#~ msgid "Remaining number of workers owed recruitment fee reimbursement"
+#~ msgstr "採用関連費用の返済義務のある労働者の数"
+
+#~ msgid "Total amount of recruitment fees reimbursed to workers (US dollars)"
+#~ msgstr "労働者に払い戻された採用関連費用の総額 (米ドル)"
+
+#~ msgid ""
+#~ "Remaining amount owed, recruitment fee reimbursement to workers (US "
+#~ "dollars)"
+#~ msgstr "労働者への払い戻しが必要な採用関連費用の総額 (米ドル)"
+
+#~ msgid "Updates"
+#~ msgstr "更新"
+
+#, fuzzy
+#~| msgid "Opened At"
+#~ msgid "openedAt"
+#~ msgstr "に報告を受ける"
+
 #~ msgid "Please choose a supplier"
 #~ msgstr "サプライヤーを選択してください"
 
@@ -4798,9 +6322,6 @@ msgstr ""
 #~ msgid "Legal"
 #~ msgstr "法律"
 
-#~ msgid "Remediation"
-#~ msgstr "改善"
-
 #~ msgid "Systems"
 #~ msgstr "システム"
 
@@ -4815,183 +6336,6 @@ msgstr ""
 
 #~ msgid "Remediation Results:"
 #~ msgstr "改善活動結果:"
-
-#, fuzzy
-#~| msgid ""
-#~| "The priority activities for your company that you indicate here will "
-#~| "appear on your SP Progress Dashboard."
-#~ msgid ""
-#~ "The priority activities for your company that you indicate here will "
-#~ "appear on your SP Progress Dashboard. Please check the status boxes "
-#~ "according to your company's status."
-#~ msgstr ""
-#~ "ここで指定した貴社の優先活動は、戦略的パートナー(SP)進捗ダッシュボードに表"
-#~ "示されます。"
-
-#, fuzzy
-#~| msgid "AREA 1. WORKER VOICE"
-#~ msgid "ACTIVITIES FOR AREA 1 - WORKER VOICE"
-#~ msgstr "領域1. 労働者の声"
-
-#, fuzzy
-#~| msgid "AREA 2. LABOUR RECRUITMENT"
-#~ msgid "ACTIVITIES FOR AREA 2 - LABOR RECRUITMENT"
-#~ msgstr "領域2. 労働者の採用"
-
-#, fuzzy
-#~| msgid "ER INDICATOR 1. Ethical recruitment policy in force is:"
-#~ msgid "2.1. Ethical recruitment policy / roadmap plan"
-#~ msgstr ""
-#~ "倫理的採用 (ER) 指標 1. 実施されている倫理的採用方針は次の通りです。"
-
-#, fuzzy
-#~| msgid "Clearly communicated to suppliers"
-#~ msgid "2.4 Communication to suppliers"
-#~ msgstr "サプライヤーに明確に伝達"
-
-#, fuzzy
-#~| msgid "Recruitment"
-#~ msgid "2.6 Recruitment surveys"
-#~ msgstr "採用"
-
-#, fuzzy
-#~| msgid "Recruitment Agencies Trained"
-#~ msgid "2.7 Recruitment fee repayment"
-#~ msgstr "研修を受けた送り出し・受け入れ機関"
-
-#, fuzzy
-#~| msgid "Company policy: ethical recruitment"
-#~ msgid "2.8 Capacity building: ethical recruitment trainings"
-#~ msgstr "企業方針: 倫理的採用"
-
-#, fuzzy
-#~| msgid "AREA 3. WORKING CONDITIONS"
-#~ msgid "ACTIVITIES FOR AREA 3 - WORKING CONDITIONS"
-#~ msgstr "領域3. 労働環境"
-
-#, fuzzy
-#~| msgid "Date of most recent worker satisfaction survey"
-#~ msgid "3.5. Independent worker satisfaction surveys"
-#~ msgstr "最新の労働者満足度調査(WSS)の日時"
-
-#, fuzzy
-#~| msgid "Clearly communicated to suppliers"
-#~ msgid "3.3 Communication to suppliers"
-#~ msgstr "サプライヤーに明確に伝達"
-
-#, fuzzy
-#~| msgid "No. of Workers Receiving Remedition"
-#~ msgid "3.2. Ongoing worker-driven remediation"
-#~ msgstr "報告した労働問題の改善措置を受けた労働者の数"
-
-#, fuzzy
-#~| msgid "AREA 1. WORKER VOICE: ANNUAL TARGETS"
-#~ msgid "INDICATORS FOR AREA 1. WORKER VOICE: ANNUAL TARGETS"
-#~ msgstr "領域1. 労働者の声: 年間目標"
-
-#, fuzzy
-#~| msgid "Worker Voice Calls"
-#~ msgid "Worker Voice Indicator 1"
-#~ msgstr "労働者からの問い合わせ"
-
-#, fuzzy
-#~| msgid "Worker Voice Calls"
-#~ msgid "Worker Voice Indicator 2"
-#~ msgstr "労働者からの問い合わせ"
-
-#, fuzzy
-#~| msgid "AREA 2. LABOUR RECRUITMENT: ANNUAL TARGETS"
-#~ msgid "INDICATORS FOR AREA 2. LABOR RECRUITMENT: ANNUAL TARGETS"
-#~ msgstr "領域 2. 労働者の採用: 年間目標"
-
-#, fuzzy
-#~| msgid "Progress Indicators"
-#~ msgid "ER Indicator 1"
-#~ msgstr "進捗状況指標"
-
-#, fuzzy
-#~| msgid "Progress Indicators"
-#~ msgid "ER Indicator 3"
-#~ msgstr "進捗状況指標"
-
-#, fuzzy
-#~| msgid "Progress Indicators"
-#~ msgid "ER Indicator 4"
-#~ msgstr "進捗状況指標"
-
-#, fuzzy
-#~| msgid "Number of recruitment agencies mapped"
-#~ msgid "Communications: disclosure of recruitment agencies used"
-#~ msgstr "マッピングされた送り出し・受け入れ機関の数"
-
-#, fuzzy
-#~| msgid "Progress Indicators"
-#~ msgid "ER Indicator 6"
-#~ msgstr "進捗状況指標"
-
-#, fuzzy
-#~| msgid "Recruitment"
-#~ msgid "Recruitment system assessment"
-#~ msgstr "採用"
-
-#, fuzzy
-#~| msgid "Progress Indicators"
-#~ msgid "ER Indicator 7"
-#~ msgstr "進捗状況指標"
-
-#, fuzzy
-#~| msgid "AREA 3. WORKING CONDITIONS: ANNUAL TARGETS"
-#~ msgid "INDICATORS FOR AREA 3. WORKING CONDITIONS: ANNUAL TARGETS"
-#~ msgstr "領域3. 労働環境: 年間目標"
-
-#, fuzzy
-#~| msgid "Date of most recent worker satisfaction survey"
-#~ msgid "Worker satisfaction surveys"
-#~ msgstr "最新の労働者満足度調査(WSS)の日時"
-
-#, fuzzy
-#~| msgid ""
-#~| "WORK INDICATOR 2. % of worker-reported issues in the supply chain "
-#~| "resolved in under 60 days"
-#~ msgid ""
-#~ "IMPACT INDICATOR 2. % of worker-reported issues in the supply chain "
-#~ "resolved in under 60 days"
-#~ msgstr ""
-#~ "業務指標 2. サプライ チェーンで労働者が報告した問題の内、60 日以内に解決さ"
-#~ "れた問題の割合"
-
-#, fuzzy
-#~| msgid ""
-#~| "WORK INDICATOR 3. % of remediation efforts of specific issues resolved "
-#~| "at Poor, Fair, Good and Excellent level"
-#~ msgid ""
-#~ "IMPACT INDICATOR 3. % of remediation efforts of specific issues resolved "
-#~ "at a level of 'fair' or better (Fair, Good, or Excellent)"
-#~ msgstr ""
-#~ "業務指標 3. 改善努力が、「悪い」、「普通」、「良い」、及び「優良」レベルで"
-#~ "解決された問題の割合"
-
-#, fuzzy
-#~| msgid ""
-#~| "ER INDICATOR 4. Percentage of workers in supply chain reimbursed for "
-#~| "recruitment-related fees they have paid"
-#~ msgid ""
-#~ "IMPACT INDICATOR 4. % of eligible workers reimbursed for recruitment fees "
-#~ "they have paid"
-#~ msgstr ""
-#~ "倫理的採用 (ER) 指標4. サプライチェーンの労働者の内、支払った採用関連費用"
-#~ "の払い戻しを受けた労働者の割合"
-
-#, fuzzy
-#~| msgid ""
-#~| "ER INDICATOR 4. Percentage of workers in supply chain reimbursed for "
-#~| "recruitment-related fees they have paid"
-#~ msgid ""
-#~ "IMPACT INDICATOR 5. % Amount of money owed versus amount of money "
-#~ "reimbursed to workers for recruitment fees that they have paid"
-#~ msgstr ""
-#~ "倫理的採用 (ER) 指標4. サプライチェーンの労働者の内、支払った採用関連費用"
-#~ "の払い戻しを受けた労働者の割合"
 
 #~ msgid "# KPIS"
 #~ msgstr "# KPI"

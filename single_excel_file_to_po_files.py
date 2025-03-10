@@ -42,15 +42,15 @@ def excel_to_po(excel_file_path, output_directory):
         # Iterate over each row in the sheet
         for _, row in data.iterrows():
             # Extract values and handle NaNs
-            msgid = str(row["msgid"]) if pd.notna(row["msgid"]) else ""
-            msgstr = str(row["msgstr"]) if pd.notna(row["msgstr"]) else ""
+            msgid = str(row["msgid"]).replace('\n', '') if pd.notna(row["msgid"]) else ""
+            msgstr = str(row["msgstr"]).replace('\n', '') if pd.notna(row["msgstr"]) else ""
             comment = (
-                str(row["comment"])
+                str(row["comment"]).replace('\n', '')
                 if "comment" in row and pd.notna(row["comment"])
                 else ""
             )
             tcomment = (
-                str(row["tcomment"])
+                str(row["tcomment"]).replace('\n', '')
                 if "tcomment" in row and pd.notna(row["tcomment"])
                 else ""
             )
