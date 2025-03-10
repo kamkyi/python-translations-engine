@@ -63,3 +63,8 @@ Thumbs.db
 
 # Custom virtual environment directory
 translate/
+
+# PO files
+po_files/
+excel/
+updated_po_files/
