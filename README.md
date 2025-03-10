@@ -1,19 +1,52 @@
-```markdown
-# Translations Engine
+# Python Translations Engine
 
-This project provides Python scripts to convert PO files to Excel format and vice versa. There are two versions of the scripts: one for basic conversion and another for handling additional fields and metadata.
+## Setup Instructions
 
-## Prerequisites
+1. Create a virtual environment:
 
-- Python 3.x
-- `pandas` library
-- `polib` library
-- `xlsxwriter` library (for writing Excel files)
+   ```sh
+   python3 -m venv venv
+   ```
 
-You can install the required libraries using pip:
+2. Activate the virtual environment:
 
-```bash
-pip install pandas polib xlsxwriter
+   ```sh
+   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+   ```
+
+3. Install the dependencies:
+
+   ```sh
+   pip install -r requirements.txt
+   ```
+
+## Usage
+
+### Convert PO Files to a Single Excel File
+
+To convert PO files located in the `po_files` directory to a single Excel file in the `excel` directory, run:
+
+```sh
+python po_files_to_single_excel_file.py
+```
+
+### Convert a Single Excel File to PO Files
+
+To convert an Excel file located in the `excel` directory to PO files in the `updated_po_files` directory, run:
+
+```sh
+python single_excel_file_to_po_files.py
+```
+
+## Configuration
+
+The paths for the PO files and the Excel file are specified in the `config.json` file:
+
+```json
+{
+  "po_file_paths": ["po_files/kh.po", "po_files/bn.po", "po_files/mm.po"],
+  "excel_file_path": "excel/multiple_translations.xlsx"
+}
 ```
 
 ## Version 1: Basic Conversion
@@ -27,8 +60,8 @@ This script converts multiple PO files into a single Excel file, where each PO f
 1. **Functionality**: This script reads multiple PO files and writes their `msgid` and `msgstr` entries into separate sheets in an Excel file. Each sheet is named after the PO file (without the `.po` extension).
 
 2. **Usage**:
-   - Update the `po_file_paths` list with the paths to your PO files.
-   - Set the `excel_file_path` to the desired output Excel file path.
+
+   - Update the `config.json` file with the relative paths to your PO files and the desired output Excel file path.
    - Run the script.
 
 3. **Example**:
@@ -45,6 +78,7 @@ This script converts an Excel file back into multiple PO files. Each sheet in th
 1. **Functionality**: This script reads an Excel file where each sheet corresponds to a PO file. It converts each sheet back into a PO file with `msgid` and `msgstr` entries.
 
 2. **Usage**:
+
    - Set the `excel_file_path` to the path of your Excel file.
    - Set the `output_directory` to the directory where you want to save the generated PO files.
    - Run the script.
@@ -65,8 +99,8 @@ This script converts multiple PO files into a single Excel file with additional 
 1. **Functionality**: This script reads multiple PO files and writes their `msgid`, `msgstr`, `comment`, `tcomment`, `occurrences`, and `flags` into separate sheets in an Excel file. Each sheet is named after the PO file (without the `.po` extension).
 
 2. **Usage**:
-   - Update the `po_file_paths` list with the paths to your PO files.
-   - Set the `excel_file_path` to the desired output Excel file path.
+
+   - Update the `config.json` file with the relative paths to your PO files and the desired output Excel file path.
    - Run the script.
 
 3. **Example**:
@@ -83,6 +117,7 @@ This script converts an Excel file back into multiple PO files, handling additio
 1. **Functionality**: This script reads an Excel file where each sheet corresponds to a PO file. It converts each sheet back into a PO file with `msgid`, `msgstr`, `comment`, `tcomment`, `occurrences`, and `flags` entries. It also includes PO file headers.
 
 2. **Usage**:
+
    - Set the `excel_file_path` to the path of your Excel file.
    - Set the `output_directory` to the directory where you want to save the generated PO files.
    - Run the script.
@@ -102,27 +137,31 @@ TRANSLATIONS_ENGINE/
 ├── excel_to_po.py
 ├── po_to_excels_two.py
 ├── excels_to_pos_two.py
-├── source_pos/
+├── config.json
+├── po_files/
 │   ├── kh.po
 │   ├── bn.po
 │   ├── mm.po
 ├── excel/
 │   ├── multi.xlsx
+├── excel_two/
 │   ├── multi_two.xlsx
-├── updated_pos/
-├── updated_pos_two/
+├── updated_po_files/
+├── updated_po_files_two/
 ```
 
 - `po_to_excel.py` and `excel_to_po.py` are the scripts for basic conversion.
 - `po_to_excels_two.py` and `excels_to_pos_two.py` are the scripts for enhanced conversion with additional fields and metadata.
-- `source_pos/` is the directory containing your PO files.
+- `config.json` is the configuration file containing the relative paths.
+- `po_files/` is the directory containing your PO files.
 - `excel/` is the directory containing your Excel files.
-- `updated_pos/` and `updated_pos_two/` are the directories where the output PO files will be saved.
+- `excel_two/` is the directory containing your enhanced Excel files.
+- `updated_po_files/` and `updated_po_files_two/` are the directories where the output PO files will be saved.
 
 ## Notes
 
 - Ensure that the columns in your Excel files match the expected column names (`msgid`, `msgstr`, `comment`, `tcomment`, `occurrences`, `flags`) for the enhanced scripts.
-- Modify the example paths in the scripts to match your actual file locations.
+- Modify the example paths in the `config.json` file to match your actual file locations.
 
 ## License
 

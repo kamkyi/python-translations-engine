@@ -3,10 +3,10 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2024-06-06 15:40+0700\n"
+"PO-Revision-Date: 2024-06-27 15:42+0700\n"
 "Last-Translator: \n"
 "Language-Team: \n"
-"Language: bn\n"
+"Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -33,6 +33,36 @@ msgstr ""
 msgid "5"
 msgstr ""
 
+#: src/components/Charts/SupplierKpisTimelineChart.js
+#, fuzzy
+#| msgid "Supplier KPI Deleted"
+msgid "Supplier KPIs timeline chart"
+msgstr "KPI pemasok dihapus"
+
+#: src/components/Charts/SupplierKpisTimelineChart.js
+#: src/components/ilmdb/KpiCategoriesDropdown.js
+msgid "Fetching KPI categories.."
+msgstr "Memuat kategori KPI"
+
+#: src/components/Charts/SupplierKpisTimelineChart.js
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+#, fuzzy
+#| msgid "KPI category"
+msgid "KPI Categories"
+msgstr "Kategori KPI"
+
+#: src/components/Charts/SupplierKpisTimelineChart.js
+#, fuzzy
+#| msgid "Please choose a fieldwork type"
+msgid "Please choose a supplier"
+msgstr "Pilih jenis kerja lapangan"
+
+#: src/components/Charts/SupplierKpisTimelineChart.js
+msgid ""
+"This supplier doesn't have any KPI History for the chosen period of time and "
+"category"
+msgstr ""
+
 #: src/components/Footer/Footer.js
 msgid "Issara Institute"
 msgstr ""
@@ -44,1132 +74,1189 @@ msgstr ""
 #: src/components/ilmdb/CallerStatusDropdown.js
 #: src/views/calls/InteractionCallModal.js
 msgid "Client Status"
-msgstr ""
+msgstr "Status Klien"
 
 #: src/components/ilmdb/CallerStatusDropdown.js
 msgid "Status of Client"
-msgstr ""
+msgstr "Status Klien"
 
 #: src/components/ilmdb/CaseCategoriesDropdown.js
 #: src/views/calls/InteractionCallModal.js
 msgid "Case/Call Type"
-msgstr ""
+msgstr "Jenis kasus/panggilan"
 
 #: src/components/ilmdb/CaseCategoriesDropdown.js
 msgid "Type of Call/Case"
-msgstr ""
+msgstr "Jenis kasus/panggilan"
+
+#: src/components/ilmdb/CaseStatusesDropdown.js
+msgid "open"
+msgstr "Dibuka"
+
+#: src/components/ilmdb/CaseStatusesDropdown.js
+msgid "close"
+msgstr "Diselesaikan"
+
+#: src/components/ilmdb/CaseStatusesDropdown.js
+msgid "Case Status"
+msgstr "Status kasus"
 
 #: src/components/ilmdb/ChannelsDropdown.js
 msgid "Worker Voice Channel"
-msgstr ""
+msgstr "Saluran Suara Pekerja"
 
 #: src/components/ilmdb/ClientTypesDropdown.js
 #: src/views/calls/InteractionCallModal.js
 msgid "Client Type"
-msgstr ""
+msgstr "Jenis klien"
 
 #: src/components/ilmdb/ClientTypesDropdown.js
 msgid "Type of Client"
-msgstr ""
+msgstr "Jenis klien"
 
 #: src/components/ilmdb/ContractTypesDropdown.js
 msgid "Daily worker"
-msgstr ""
+msgstr "Pekerja harian"
 
 #: src/components/ilmdb/ContractTypesDropdown.js
 msgid "Piece work"
-msgstr ""
+msgstr "Pekerja borongan"
 
 #: src/components/ilmdb/ContractTypesDropdown.js
 msgid "Seasonal worker"
-msgstr ""
+msgstr "Pekerja musiman"
 
 #: src/components/ilmdb/ContractTypesDropdown.js
 msgid "Full-time position"
-msgstr ""
+msgstr "Pekerja penuh waktu"
 
 #: src/components/ilmdb/ContractTypesDropdown.js
 #: src/components/ilmdb/GendersDropdown.js
 #: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
 msgid "Other"
-msgstr ""
+msgstr "Lainnya"
 
 #: src/components/ilmdb/ContractTypesDropdown.js
 #: src/views/calls/InteractionCallModal.js
 msgid "Contract Type"
-msgstr ""
+msgstr "Jenis kontrak"
 
 #: src/components/ilmdb/CountriesDropdown.js
 #: src/views/calls/InteractionCallModal.js
 #: src/views/references/KpiLegalViolationList.js
 #: src/views/suppliers/SupplierKPIsList.js src/views/suppliers/SupplierList.js
 msgid "Country"
-msgstr ""
+msgstr "Negara"
 
 #: src/components/ilmdb/DistrictsDropdown.js
 #: src/views/calls/InteractionCallModal.js src/views/suppliers/SupplierList.js
 msgid "District"
-msgstr ""
+msgstr "Kabupaten"
 
 #: src/components/ilmdb/DocumentTypesDropdown.js
 msgid "Undocumented"
-msgstr ""
+msgstr "Tidak berdokumen"
 
 #: src/components/ilmdb/DocumentTypesDropdown.js
 msgid "Pink card"
-msgstr ""
+msgstr "Kartu merah muda"
 
 #: src/components/ilmdb/DocumentTypesDropdown.js
 msgid "CI/TD"
-msgstr ""
+msgstr "CI/TD"
 
 #: src/components/ilmdb/DocumentTypesDropdown.js
 msgid "Passport"
-msgstr ""
+msgstr "Paspor"
 
 #: src/components/ilmdb/DocumentTypesDropdown.js
 msgid "Border pass"
-msgstr ""
+msgstr "Pas perbatasan"
 
 #: src/components/ilmdb/DocumentTypesDropdown.js
-msgid ""
+msgid "NA"
 msgstr ""
 
 #: src/components/ilmdb/DocumentTypesDropdown.js
 #: src/views/calls/InteractionCallModal.js
 msgid "Document Type"
-msgstr ""
+msgstr "Jenis dokumen"
 
 #: src/components/ilmdb/EthnicitiesDropdown.js
 #: src/views/calls/InteractionCallModal.js
 msgid "Ethnicity"
-msgstr ""
+msgstr "Etnisitas"
 
 #: src/components/ilmdb/FieldworkTypeDropdown.js
 msgid "Fetching fieldwork types.."
-msgstr ""
+msgstr "Memuat jenis kerja lapangan"
 
 #: src/components/ilmdb/FieldworkTypeDropdown.js
 msgid "Activity Type"
-msgstr ""
+msgstr "Jenis aktivitas"
 
 #: src/components/ilmdb/GendersDropdown.js
 msgid "Select Gender"
-msgstr ""
+msgstr "Pilih jenis kelamin"
 
 #: src/components/ilmdb/GendersDropdown.js
 #: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
 msgid "Male"
-msgstr ""
+msgstr "Laki-laki"
 
 #: src/components/ilmdb/GendersDropdown.js
 #: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
 msgid "Female"
-msgstr ""
+msgstr "Perempuan"
 
 #: src/components/ilmdb/GendersDropdown.js
 msgid "Non-Binary"
-msgstr ""
+msgstr "Non-biner"
 
 #: src/components/ilmdb/GendersDropdown.js
 #: src/views/calls/InteractionCallList.js
 #: src/views/calls/InteractionCallModal.js
 msgid "Gender"
-msgstr ""
+msgstr "Jenis kelamin"
 
 #: src/components/ilmdb/HowHearIssara.js
 msgid "How did the client hear about the organization? (check all that apply)"
 msgstr ""
+"Dari mana klien mendengar mengenai organisasi? (pilih semua yang sesuai)"
 
 #: src/components/ilmdb/HowHearIssara.js
 msgid "How did the client hear about Issara? (check all that apply)"
 msgstr ""
+"Dari mana klien mendengar mengenai organisasi (pilih semua yang sesuai)"
 
 #: src/components/ilmdb/HowHearIssara.js
 #: src/views/Dashboard/KpiReferencesList.js
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
 #: src/views/references/KpiReferencesList.js
 msgid "Loading..."
-msgstr ""
+msgstr "Memuat"
 
 #: src/components/ilmdb/IssaraStaffDropdown.js
 msgid "Fetching suppliers..."
-msgstr ""
+msgstr "Memuat pemasok"
 
 #: src/components/ilmdb/IssaraStaffDropdown.js
 msgid "Organization staff"
-msgstr ""
+msgstr "Staf organisasi"
 
 #: src/components/ilmdb/IssaraStaffDropdown.js
 #: src/views/calls/InteractionCallModal.js
 msgid "Issara Staff"
-msgstr ""
-
-#: src/components/ilmdb/KpiCategoriesDropdown.js
-msgid "Fetching KPI categories.."
-msgstr ""
+msgstr "Staf Issara"
 
 #: src/components/ilmdb/KpiCategoriesDropdown.js
 msgid "KPI category"
-msgstr ""
+msgstr "Kategori KPI"
 
 #: src/components/ilmdb/KpiSelector.js
 msgid "KPI(s)"
-msgstr ""
+msgstr "KPI(s)"
 
 #: src/components/ilmdb/KpiSelector.js
 msgid "Edit"
-msgstr ""
+msgstr "Sunting"
 
-#: src/components/ilmdb/KpiSelector.js
-#: src/views/Dashboard/KpiReferencesList.js
+#: src/components/ilmdb/KpiSelector.js src/views/Dashboard/KpiReferencesList.js
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
 #: src/views/references/KpiReferencesList.js
 #: src/views/suppliers/SupplierKPIsList.js
 msgid "Category"
-msgstr ""
+msgstr "Kategori"
 
 #: src/components/ilmdb/KpiSelector.js src/views/calls/InteractionCallList.js
 msgid "Kpi"
-msgstr ""
+msgstr "Kpi"
 
 #: src/components/ilmdb/KpiSelector.js src/views/calls/InteractionCallList.js
 #: src/views/Dashboard/KpiReferencesList.js
 #: src/views/references/KpiReferencesList.js
 #: src/views/suppliers/SupplierKPIsList.js
 msgid "Level"
-msgstr ""
+msgstr "Tingkat"
 
-#: src/components/ilmdb/KpiSelector.js
-#: src/views/Dashboard/KpiReferencesList.js
+#: src/components/ilmdb/KpiSelector.js src/views/Dashboard/KpiReferencesList.js
 #: src/views/references/KpiReferencesList.js
 msgid "Goal"
-msgstr ""
+msgstr "Tujuan"
 
 #: src/components/ilmdb/KpiSelector.js
 msgid "Done"
-msgstr ""
+msgstr "Selesai"
 
 #: src/components/ilmdb/KpiSelector.js
 msgid "Loading.."
-msgstr ""
+msgstr "Memuat"
 
 #: src/components/ilmdb/NationalitiesDropdown.js
-#: src/views/calls/InteractionCallList.js
-#: src/views/calls/InteractionCallModal.js
-msgid "Nationality"
-msgstr ""
+#, fuzzy
+#| msgid "Fetching KPI categories.."
+msgid "Fetching nationalities.."
+msgstr "Memuat kategori KPI"
 
 #: src/components/ilmdb/ProvincesDropdown.js
 #: src/views/calls/InteractionCallModal.js src/views/suppliers/SupplierList.js
 msgid "Province"
-msgstr ""
+msgstr "Provinsi"
 
 #: src/components/ilmdb/ReasonsDropdown.js
 msgid "Purpose of Call/Message"
-msgstr ""
+msgstr "Tujuan panggilan/pesan"
 
 #: src/components/ilmdb/ReasonsDropdown.js
 msgid "Purpose"
-msgstr ""
+msgstr "Tujuan"
 
 #: src/components/ilmdb/RecruitersDropdown.js
 msgid "Fetching recruiters.."
-msgstr ""
+msgstr "Memuat agen perekrutan"
+
+#: src/components/ilmdb/ReferralActionsDropdown.js
+msgid "Referral Actions"
+msgstr "Tindakan rujukan"
+
+#: src/components/ilmdb/ReferralOptionDropdown.js
+msgid "Organization Name"
+msgstr "Nama organisasi"
 
 #: src/components/ilmdb/SuppliersDropdown.js
 msgid "Fetching suppliers.."
-msgstr ""
+msgstr "Memuat pemasok"
 
 #: src/components/Navbars/AdminNavbarLinks.js
 #: src/components/Navbars/AdminNavbarLinks.Old.js
 msgid "English"
-msgstr ""
+msgstr "bahasa Inggris"
 
 #: src/components/Navbars/AdminNavbarLinks.js
 #: src/components/Navbars/AdminNavbarLinks.Old.js
 msgid "Nepali"
-msgstr ""
+msgstr "Bahasa Nepal"
 
 #: src/components/Navbars/AdminNavbarLinks.js
 #: src/components/Navbars/AdminNavbarLinks.Old.js
 #: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
 msgid "Burmese"
-msgstr ""
+msgstr "bahasa Burma"
 
 #: src/components/Navbars/AdminNavbarLinks.js
 #: src/components/Navbars/AdminNavbarLinks.Old.js
+#: src/views/suppliers/SupplierKpiDashboard.js
 #: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
 msgid "Thai"
-msgstr ""
+msgstr "Bahasa Thailand"
 
 #: src/components/Navbars/AdminNavbarLinks.js
 #: src/components/Navbars/AdminNavbarLinks.Old.js
 msgid "Japanese"
-msgstr ""
+msgstr "Bahasa Jepang"
+
+#: src/components/Navbars/AdminNavbarLinks.js
+msgid "Khmer"
+msgstr "bahasa Khmer"
 
 #: src/components/Navbars/AdminNavbarLinks.js
 #: src/components/Navbars/AdminNavbarLinks.Old.js
 msgid "Person"
-msgstr ""
+msgstr "Orang"
 
 #: src/components/Navbars/AdminNavbarLinks.js
 #: src/components/Navbars/AdminNavbarLinks.Old.js
 msgid "Profile"
-msgstr ""
+msgstr "Profil"
 
 #: src/components/Navbars/AdminNavbarLinks.js
 #: src/components/Navbars/AdminNavbarLinks.Old.js
 msgid "Log out"
-msgstr ""
+msgstr "Keluar"
 
 #: src/components/Navbars/LanguageChangeDialog.js
 msgid "Are you sure want to change the language ?"
-msgstr ""
+msgstr "Apakah anda yakin ingin mengubah bahasa?"
 
 #: src/components/Navbars/LanguageChangeDialog.js
 msgid "Are you sure want to change the language to"
-msgstr ""
+msgstr "Apakah anda yakin ingin mengubah bahasa ke"
 
 #: src/components/Navbars/LanguageChangeDialog.js
 msgid "The application will be refreshed to effect the changed language."
-msgstr ""
+msgstr "Aplikasi ini akan dimuat ulang untuk menerapkan bahasa yang dipilih"
 
 #: src/components/Navbars/LanguageChangeDialog.js
 msgid "Cancel"
-msgstr ""
+msgstr "Batal"
 
 #: src/components/Navbars/LanguageChangeDialog.js
 msgid "Yes, Sure Please"
-msgstr ""
+msgstr "Ya"
 
 #: src/layouts/Admin.js
 msgid "ILM 3.0"
 msgstr ""
 
-#: src/routes.js src/views/suppliers/SupplierModal.js
-msgid "Worker Voice"
+#: src/routes.js
+#, fuzzy
+#| msgid "Suppliers Trained"
+msgid "Supplier Overview"
+msgstr "Jumlah pemasok yang sudah dilatih"
+
+#: src/routes.js
+msgid "Progress Dashboard"
 msgstr ""
 
 #: src/routes.js
-msgid "Add Call"
-msgstr ""
-
-#: src/routes.js
-msgid "View Calls"
-msgstr ""
-
-#: src/routes.js
-msgid "Team Activities"
-msgstr ""
-
-#: src/routes.js
-msgid "Add activity"
-msgstr ""
-
-#: src/routes.js
-msgid "Add monthly WV metrics"
-msgstr ""
-
-#: src/routes.js
-msgid "WV and ER metrics"
-msgstr ""
-
-#: src/routes.js
-msgid "Team Tasks"
-msgstr ""
-
-#: src/routes.js
-msgid "Internal Dashboards"
-msgstr ""
-
-#: src/routes.js
-msgid "Team Activity Dashboard"
-msgstr ""
-
-#: src/routes.js
-msgid "Case management"
-msgstr ""
-
-#: src/routes.js
-msgid "Kpi Updates"
-msgstr ""
-
-#: src/routes.js
-msgid "View Supplier KPIs bulk update"
-msgstr ""
-
-#: src/routes.js src/views/calls/InteractionCallList.js
-#: src/views/calls/WizardSteps/RequiredCallFields.js
-#: src/views/Dashboard/IssaraActivityDashboard.js
-#: src/views/TeamActivity/FieldworkActivityForm.js
-msgid "Suppliers"
-msgstr ""
-
-#: src/routes.js
-msgid "View Suppliers"
-msgstr ""
-
-#: src/routes.js
-msgid "References"
+msgid "Worker Reported Issues"
 msgstr ""
 
 #: src/routes.js
 msgid "Kpi References"
-msgstr ""
-
-#: src/routes.js
-msgid "Legal Violations"
-msgstr ""
-
-#: src/routes.js src/views/users/ChangePasswordForm.js
-msgid "Change Password"
-msgstr ""
+msgstr "Rujukan Kpi"
 
 #: src/routes.js
 msgid "Password Reset"
-msgstr ""
+msgstr "Reset sandi"
 
 #: src/routes.js
 msgid "Login Page"
-msgstr ""
+msgstr "Halaman login"
 
 #: src/routes.js
 msgid "Enter 2 Factor Code"
-msgstr ""
+msgstr "Masukkan kode 2 faktor"
 
 #: src/routes.js
 msgid "Lock Screen Page"
-msgstr ""
+msgstr "Halaman layar kunci "
 
 #: src/routes.js
 msgid "Error Page"
-msgstr ""
+msgstr "Halaman error"
 
-#: src/views/calls/InteractionCallList.js
+#: src/routes.js src/views/suppliers/SupplierKpiDashboard.js
+#: src/views/suppliers/SupplierModal.js
+msgid "Worker Voice"
+msgstr "Suara Pekerja"
+
+#: src/routes.js
+msgid "Add Call"
+msgstr "Tambahkan panggilan"
+
+#: src/routes.js
+msgid "View Calls"
+msgstr "Lihat panggilan"
+
+#: src/routes.js
+msgid "Team Activities"
+msgstr "Aktivitas tim"
+
+#: src/routes.js
+msgid "Add activity"
+msgstr "Tambah aktivitas"
+
+#: src/routes.js
+msgid "Add monthly WV metrics"
+msgstr "Tambah data bulanan Suara Pekerja"
+
+#: src/routes.js
+msgid "WV and ER metrics"
+msgstr "Data Suara Pekerja dan ER"
+
+#: src/routes.js
+msgid "Team Tasks"
+msgstr "Tugas tim"
+
+#: src/routes.js
+msgid "Internal Dashboards"
+msgstr "Dasbor internal"
+
+#: src/routes.js
+msgid "Team Activity Dashboard"
+msgstr "Dasbor aktivitas tim"
+
+#: src/routes.js
+msgid "Case management"
+msgstr "Manajemen kasus"
+
+#: src/routes.js
+msgid "Kpi Updates"
+msgstr "Pembaruan Kpi"
+
+#: src/routes.js
+msgid "View Supplier KPIs bulk update"
+msgstr "Lihat pembaruan massal KPIs pemasok"
+
+#: src/routes.js src/views/calls/InteractionCallList.js
+#: src/views/calls/WizardSteps/RequiredCallFields.js
 #: src/views/Dashboard/IssaraActivityDashboard.js
 #: src/views/suppliers/SupplierKPIsList.js
-#: src/views/teamtasks/EnhancedTeamTasksList.js
-msgid "Download As XLS File"
-msgstr ""
+#: src/views/TeamActivity/FieldworkActivityForm.js
+msgid "Suppliers"
+msgstr "Pemasok"
+
+#: src/routes.js
+msgid "View Suppliers"
+msgstr "Lihat pemasok"
+
+#: src/routes.js
+msgid "References"
+msgstr "Rujukan"
+
+#: src/routes.js
+msgid "Legal Violations"
+msgstr "Pelanggaran Hukum"
+
+#: src/routes.js src/views/users/ChangePasswordForm.js
+msgid "Change Password"
+msgstr "Ubah sandi"
 
 #: src/views/calls/InteractionCallList.js
 msgid "Edit Item:"
-msgstr ""
+msgstr "Ubah item"
 
 #: src/views/calls/InteractionCallList.js
 #: src/views/teamtasks/EnhancedTeamTasksList.js
 msgid "View Item:"
-msgstr ""
+msgstr "Lihat item"
 
 #: src/views/calls/InteractionCallList.js
 msgid "No KPIs logged for this call id:"
-msgstr ""
+msgstr "Tidak ada KPIs yang didaftarkan untuk panggilan ini"
 
 #: src/views/calls/InteractionCallList.js
 msgid "Worker Voice Calls"
-msgstr ""
+msgstr "Panggilan Suara Pekerja"
 
 #: src/views/calls/InteractionCallList.js
 #: src/views/calls/InteractionCallModal.js
 #: src/views/calls/WizardSteps/RecruiterFields.js
 msgid "Source Recruiter"
-msgstr ""
+msgstr "Perekrut di negara asal"
 
 #: src/views/calls/InteractionCallList.js
 #: src/views/calls/InteractionCallModal.js
 #: src/views/calls/WizardSteps/RecruiterFields.js
 msgid "Destination Recruiter"
-msgstr ""
+msgstr "Perekrut di negara penempatan"
 
 #: src/views/calls/InteractionCallList.js
 msgid "After Date:"
-msgstr ""
+msgstr "Sesudah tanggal"
 
 #: src/views/calls/InteractionCallList.js
 #: src/views/Dashboard/IssaraActivityDashboard.js
 msgid "Date"
-msgstr ""
+msgstr "Tanggal"
 
 #: src/views/calls/InteractionCallList.js
 msgid "Before Date:"
-msgstr ""
+msgstr "Sebelum tanggal"
 
 #: src/views/calls/InteractionCallList.js
 msgid "Search"
-msgstr ""
+msgstr "Cari"
 
 #: src/views/calls/InteractionCallList.js
 #: src/views/Dashboard/IssaraActivityDashboard.js
 #: src/views/Dashboard/KpiReferencesList.js
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
 #: src/views/references/KpiLegalViolationList.js
 #: src/views/references/KpiReferencesList.js
 #: src/views/suppliers/SupplierKPIsList.js src/views/suppliers/SupplierList.js
 #: src/views/teamtasks/EnhancedTeamTasksList.js
 msgid "Search Results"
-msgstr ""
+msgstr "Hasil pencarian"
 
 #: src/views/calls/InteractionCallList.js
 #: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
 #: src/views/references/KpiLegalViolationList.js
 #: src/views/references/KpiReferencesList.js
+#: src/views/suppliers/SharedFileList.js
 #: src/views/suppliers/SupplierKPIsList.js
 #: src/views/teamtasks/EnhancedTeamTasksList.js
 msgid "Found"
-msgstr ""
+msgstr "Ditemukan"
 
 #: src/views/calls/InteractionCallList.js
 #: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
 #: src/views/suppliers/SupplierKPIsList.js
 #: src/views/teamtasks/EnhancedTeamTasksList.js
 msgid "Search (Fuzzy Search Across all fields)"
-msgstr ""
+msgstr "Cari (Pencarian di seluruh kategori)"
 
 #: src/views/calls/InteractionCallList.js
 msgid "Fetching..."
-msgstr ""
+msgstr "Memuat"
 
 #: src/views/calls/InteractionCallList.js
 #: src/views/calls/InteractionCallModal.js
 #: src/views/references/KpiLegalViolationList.js
 msgid "Id"
-msgstr ""
+msgstr "Id"
 
 #: src/views/calls/InteractionCallList.js
 #: src/views/calls/InteractionCallModal.js
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
 #: src/views/suppliers/SupplierKPIsList.js
 msgid "Supplier"
-msgstr ""
+msgstr "Pemasok"
 
 #: src/views/calls/InteractionCallList.js
 msgid "RecruiterSrc"
-msgstr ""
+msgstr "Perekrut"
 
 #: src/views/calls/InteractionCallList.js
 #: src/views/calls/InteractionCallModal.js
 msgid "Issue Category"
-msgstr ""
+msgstr "Kategori Persoalan"
 
 #: src/views/calls/InteractionCallList.js
 msgid "# Kpis"
-msgstr ""
+msgstr "#Kpis"
 
 #: src/views/calls/InteractionCallList.js
 #: src/views/calls/InteractionCallModal.js
 #: src/views/Dashboard/KpiReferencesList.js
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
 #: src/views/references/KpiLegalViolationList.js
 #: src/views/references/KpiReferencesList.js
+#: src/views/suppliers/SharedFileList.js
 #: src/views/suppliers/SupplierKPIsList.js
 msgid "Description"
-msgstr ""
+msgstr "Deskripsi"
 
 #: src/views/calls/InteractionCallList.js
 msgid "Staff"
-msgstr ""
+msgstr "Staf"
 
 #: src/views/calls/InteractionCallList.js
 msgid "IssaraStaff"
-msgstr ""
+msgstr "StafIssara"
 
 #: src/views/calls/InteractionCallList.js
 msgid "Client"
-msgstr ""
+msgstr "Klien"
+
+#: src/views/calls/InteractionCallList.js
+#: src/views/calls/InteractionCallModal.js
+#: src/views/calls/WizardSteps/RequiredCallFields.js
+msgid "Nationality"
+msgstr "Kewarganegaraan"
 
 #: src/views/calls/InteractionCallList.js
 msgid "Origin Country Province"
-msgstr ""
+msgstr "Provinsi di negara asal"
 
 #: src/views/calls/InteractionCallList.js
 msgid "Incoming Outgoing"
-msgstr ""
+msgstr "Masuk Keluar"
 
 #: src/views/calls/InteractionCallList.js
 msgid "Phone"
-msgstr ""
+msgstr "Telepon"
 
 #: src/views/calls/InteractionCallList.js
 msgid "Interaction"
-msgstr ""
+msgstr "Interaksi"
 
 #: src/views/calls/InteractionCallModal.js
 msgid "Case ID"
-msgstr ""
+msgstr "ID kasus"
 
-#: src/views/calls/InteractionCallModal.js
-#: src/views/calls/NewCallWizardView.js
+#: src/views/calls/InteractionCallModal.js src/views/calls/NewCallWizardView.js
 msgid "Required"
-msgstr ""
+msgstr "Wajib"
 
-#: src/views/calls/InteractionCallModal.js
-#: src/views/calls/NewCallWizardView.js
+#: src/views/calls/InteractionCallModal.js src/views/calls/NewCallWizardView.js
 msgid "Call Info"
-msgstr ""
+msgstr "Info panggilan"
 
 #: src/views/calls/InteractionCallModal.js
 msgid "Interaction Channel"
-msgstr ""
+msgstr "Saluran interaksi"
 
 #: src/views/calls/InteractionCallModal.js
 msgid "Interaction Reason"
-msgstr ""
+msgstr "Alasan interaksi"
 
 #: src/views/calls/InteractionCallModal.js
 msgid "Interaction Summary"
-msgstr ""
+msgstr "Ringkasan interaksi"
 
 #: src/views/calls/InteractionCallModal.js
 msgid "Inquiry Type"
-msgstr ""
+msgstr "Jenis pertanyaan"
 
 #: src/views/calls/InteractionCallModal.js
 msgid "Interacted Date"
-msgstr ""
+msgstr "Tanggal interaksi"
 
 #: src/views/calls/InteractionCallModal.js
 msgid "Call Created Date"
-msgstr ""
+msgstr "Tanggal dibuatnya panggilan"
 
 #: src/views/calls/InteractionCallModal.js
 msgid "Call Last Modified Date"
-msgstr ""
+msgstr "Tanggal panggilan terakhir diubah"
 
-#: src/views/calls/InteractionCallModal.js
-#: src/views/calls/NewCallWizardView.js
+#: src/views/calls/InteractionCallModal.js src/views/calls/NewCallWizardView.js
 #: src/views/calls/WizardSteps/CallClientInfoFields.js
 msgid "Client Info"
-msgstr ""
+msgstr "Informasi klien"
 
 #: src/views/calls/InteractionCallModal.js
 msgid "Nickname"
-msgstr ""
+msgstr "Nama panggilan"
 
 #: src/views/calls/InteractionCallModal.js
 msgid "Line Account"
-msgstr ""
+msgstr "Nama di Line"
 
 #: src/views/calls/InteractionCallModal.js
 msgid "Facebook Account"
-msgstr ""
+msgstr "Nama di Facebook"
 
 #: src/views/calls/InteractionCallModal.js
 msgid "WhatsApp Number"
-msgstr ""
+msgstr "Nomor WhatsApp"
 
 #: src/views/calls/InteractionCallModal.js
 msgid "Phone Number"
-msgstr ""
+msgstr "Nomor telepon"
 
 #: src/views/calls/InteractionCallModal.js
 msgid "Viber Account"
-msgstr ""
+msgstr "Nama di Viber"
 
 #: src/views/calls/InteractionCallModal.js
 #: src/views/calls/WizardSteps/CallClientInfoFields.js
 msgid "Staff Notes/Description"
-msgstr ""
+msgstr "Catatan/Deskripsi Staf"
 
 #: src/views/calls/InteractionCallModal.js
 msgid "Origin Country"
-msgstr ""
+msgstr "Negara asal"
 
 #: src/views/calls/InteractionCallModal.js
 msgid "Origin Province"
-msgstr ""
+msgstr "Provinsi asal"
 
 #: src/views/calls/InteractionCallModal.js
 msgid "Origin District"
-msgstr ""
+msgstr "Kabupaten asal"
 
 #: src/views/calls/InteractionCallModal.js
 msgid "Crossing Country"
-msgstr ""
+msgstr "Negara tempat penyeberangan"
 
 #: src/views/calls/InteractionCallModal.js
 msgid "Crossing Province"
-msgstr ""
+msgstr "Provinsi tempat penyeberangan"
 
 #: src/views/calls/InteractionCallModal.js
 msgid "Crossing District"
-msgstr ""
+msgstr "Kabupaten tempat penyeberangan"
 
-#: src/views/calls/InteractionCallModal.js
-#: src/views/calls/NewCallWizardView.js
+#: src/views/calls/InteractionCallModal.js src/views/calls/NewCallWizardView.js
 #: src/views/calls/WizardSteps/RecruiterFields.js
 msgid "Recruitment"
-msgstr ""
+msgstr "Perekrutan"
 
 #: src/views/calls/InteractionCallModal.js
 msgid "Upstream Broker"
-msgstr ""
+msgstr "Calo di hulu"
 
 #: src/views/calls/InteractionCallModal.js
 msgid "Employer Debt Bondage"
-msgstr ""
+msgstr "Ikatan hutang oleh majikan"
 
 #: src/views/calls/InteractionCallModal.js
 msgid "Employer Debt Bondage Detail"
-msgstr ""
+msgstr "Rincian ikatan hutang oleh majikan"
 
 #: src/views/calls/InteractionCallModal.js
 msgid "Broker Debt Bondage"
-msgstr ""
+msgstr "Ikatan hutang oleh calo"
 
 #: src/views/calls/InteractionCallModal.js
 msgid "Broker Debt Bondage Detail"
-msgstr ""
+msgstr "Rincian ikatan hutang oleh calo"
 
 #: src/views/calls/InteractionCallModal.js
 msgid "Months at job"
-msgstr ""
+msgstr "Sudah berapa bulan bekerja"
 
 #: src/views/calls/InteractionCallModal.js
 msgid "Ratings"
-msgstr ""
+msgstr "Penilaian"
 
 #: src/views/calls/InteractionCallModal.js
 #: src/views/calls/WizardSteps/EmploymentFields.js
 msgid "Source Broker Rating"
-msgstr ""
+msgstr "Penilaian Calo di negara asal"
 
 #: src/views/calls/InteractionCallModal.js
 #: src/views/calls/WizardSteps/EmploymentFields.js
 msgid "Source Recruiter Rating"
-msgstr ""
+msgstr "Penilaian perekrut di negara asal"
 
 #: src/views/calls/InteractionCallModal.js
 #: src/views/calls/WizardSteps/EmploymentFields.js
 msgid "Destination Broker Rating"
-msgstr ""
+msgstr "Penilaian Calo di negara penempatan"
 
 #: src/views/calls/InteractionCallModal.js
 #: src/views/calls/WizardSteps/EmploymentFields.js
 msgid "Destination Employer Rating"
-msgstr ""
+msgstr "Penilaian majikan di negara penempatan"
 
-#: src/views/calls/InteractionCallModal.js
-#: src/views/calls/NewCallWizardView.js
+#: src/views/calls/InteractionCallModal.js src/views/calls/NewCallWizardView.js
 msgid "Client Support"
-msgstr ""
+msgstr "Dukungan bagi klien"
 
 #: src/views/calls/InteractionCallModal.js
 msgid "Vot Needs"
-msgstr ""
+msgstr "Kebutuhan Vot"
 
 #: src/views/calls/InteractionCallModal.js
 msgid "Share Info Consent"
-msgstr ""
+msgstr "Persetujuan untuk membagikan informasi"
 
 #: src/views/calls/InteractionCallModal.js
 msgid "Referral Notes"
-msgstr ""
+msgstr "Catatan rujukan"
 
 #: src/views/calls/InteractionCallModal.js
 msgid "Next Steps"
-msgstr ""
+msgstr "Langkah selanjutnya"
 
 #: src/views/calls/InteractionCallModal.js
 msgid "Next Steps Issara Staff"
-msgstr ""
+msgstr "Langkah selanjutnya untuk Staf Issara"
 
 #: src/views/calls/InteractionCallModal.js
 msgid "Referral Action"
-msgstr ""
+msgstr "Tindakan rujukan"
 
 #: src/views/calls/InteractionCallModal.js
 msgid "Dead Line Date"
-msgstr ""
+msgstr "Tanggal tenggat waktu"
 
 #: src/views/calls/InteractionCallModal.js
 #: src/views/calls/WizardSteps/CallActionFields.js
 msgid "Final Remarks"
-msgstr ""
+msgstr "Komentar terakhir"
 
 #: src/views/calls/InteractionCallModal.js
 #: src/views/calls/WizardSteps/CallActionFields.js
 msgid "Risk Assessment"
-msgstr ""
+msgstr "Analisa risiko"
 
-#: src/views/calls/InteractionCallModal.js
-#: src/views/calls/NewCallWizardView.js
+#: src/views/calls/InteractionCallModal.js src/views/calls/NewCallWizardView.js
 msgid "Issues"
-msgstr ""
+msgstr "Persoalan"
 
 #: src/views/calls/InteractionCallModal.js
 msgid "Offender Description"
-msgstr ""
+msgstr "Deskripsi pelaku"
 
 #: src/views/calls/InteractionCallModal.js
 msgid "Workers Affected"
-msgstr ""
+msgstr "Pekerja yang terkena dampak"
 
 #: src/views/calls/InteractionCallModal.js
 msgid "Workers Affected Description"
-msgstr ""
+msgstr "Deskripsi pekerja yang terkena dampak"
 
 #: src/views/calls/InteractionCallModal.js
 msgid "Getting Better"
-msgstr ""
+msgstr "Situasi membaik"
 
 #: src/views/calls/InteractionCallModal.js
 msgid "Getting Better Description"
-msgstr ""
+msgstr "Deskripsi situasi yang membaik"
 
 #: src/views/calls/InteractionCallModal.js
 msgid "Issue Links"
-msgstr ""
+msgstr "Tautan persoalan"
 
 #: src/views/calls/InteractionCallModal.js
 msgid "Loading ..."
-msgstr ""
+msgstr "Memuat"
 
 #: src/views/calls/InteractionCallView.js
 msgid "Success saving the call with id:"
-msgstr ""
+msgstr "Panggilan berhasil didaftarkan dengan id:"
 
 #: src/views/calls/InteractionCallView.js
 msgid "Success created a new call with id:"
-msgstr ""
+msgstr "Panggilan baru berhasil didaftarkan dengan id:"
 
 #: src/views/calls/InteractionCallView.js
 msgid "Well Done!"
-msgstr ""
+msgstr "Selamat!"
 
 #: src/views/calls/InteractionCallView.js
 msgid "Errors"
-msgstr ""
+msgstr "Errors"
 
 #: src/views/calls/InteractionCallView.js
 msgid "Error!"
-msgstr ""
+msgstr "Error!"
 
 #: src/views/calls/InteractionCallView.js src/views/suppliers/SupplierList.js
 #: src/views/TeamActivity/FieldworkActivityForm.js
 #: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
 #: src/views/users/ChangePasswordForm.js
 msgid "Error"
-msgstr ""
+msgstr "Error"
 
 #: src/views/calls/InteractionCallView.js
 msgid "Unknown/Generic"
-msgstr ""
+msgstr "Tidak dapat dikenali/Generik"
 
 #: src/views/calls/InteractionCallView.js
 msgid "See details"
-msgstr ""
+msgstr "Lihat rincian"
 
 #: src/views/calls/InteractionCallView.js
 msgid "Saving Data..."
-msgstr ""
+msgstr "Menyimpan data..."
 
 #: src/views/calls/InteractionCallView.js
 msgid "Loading Data..."
-msgstr ""
+msgstr "Memuat data..."
 
 #: src/views/calls/NewCallWizardView.js
 msgid "Rating Businesses"
-msgstr ""
+msgstr "Penilaian terhadap perusahaan"
 
 #: src/views/calls/NewCallWizardView.js
 msgid "Interactions"
-msgstr ""
+msgstr "Interaksi"
 
 #: src/views/calls/NewCallWizardView.js
 msgid "Edit/Add Worker Call: "
-msgstr ""
+msgstr "Ubah/Tambah Panggilan Pekerja:"
 
 #: src/views/calls/NewCallWizardView.js src/views/landing/TeamActionForm.js
 #: src/views/TeamActivity/FieldworkActivityForm.js
 #: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
 #: src/views/TeamActivity/WV_and_ER_metrix.js
 msgid "Save"
-msgstr ""
+msgstr "Menyimpan"
 
 #: src/views/calls/WizardSteps/CallActionFields.js
 msgid "Organization must be selected"
-msgstr ""
+msgstr "Organisasi harus dipilih"
 
 #: src/views/calls/WizardSteps/CallActionFields.js
 msgid "Client Support (Organization action)"
-msgstr ""
+msgstr "Dukungan bagi klien (tindakan organisasi)"
 
 #: src/views/calls/WizardSteps/CallActionFields.js
 msgid "Client Support (Issara Actions)"
-msgstr ""
+msgstr "Dukungan bagi klien (tindakan Issara)"
 
 #: src/views/calls/WizardSteps/CallActionFields.js
 msgid "What are the most urgent needs of the client?"
-msgstr ""
+msgstr "Apakah kebutuhan klien yang paling mendesak?"
 
 #: src/views/calls/WizardSteps/CallActionFields.js
 msgid "Consent to pass on details to employer, agency, referral partner?"
 msgstr ""
+"Persetujuan untuk membagikan informasi kepada majikan, agen atau mitra "
+"rujukan?"
 
 #: src/views/calls/WizardSteps/CallActionFields.js
 #: src/views/calls/WizardSteps/CallIssuesForm.js
 #: src/views/calls/WizardSteps/RecruiterFields.js
 msgid "Yes"
-msgstr ""
+msgstr "Ya"
 
 #: src/views/calls/WizardSteps/CallActionFields.js
 #: src/views/calls/WizardSteps/CallIssuesForm.js
 #: src/views/calls/WizardSteps/RecruiterFields.js
 msgid "No"
-msgstr ""
+msgstr "Tidak"
 
 #: src/views/calls/WizardSteps/CallActionFields.js
 msgid "Details on organization action (Referral Notes)"
-msgstr ""
+msgstr "Rincian mengenai tindakan organisasi (Catatan Rujukan)"
 
 #: src/views/calls/WizardSteps/CallActionFields.js
 msgid "Details on Issara action (Referral Notes)"
-msgstr ""
+msgstr "Rincian mengenai tindakan Issara (Catatan Rujukan)"
 
 #: src/views/calls/WizardSteps/CallActionFields.js
 msgid "Next steps organization follow-up and action"
-msgstr ""
+msgstr "Langkah selanjutnya, tindak lanjut dan tindakan organisasi"
 
 #: src/views/calls/WizardSteps/CallActionFields.js
 msgid "Next steps for Issara follow-up and action"
-msgstr ""
+msgstr "Langkah selanjutnya, tindak lanjut dan tindakan Issara"
 
 #: src/views/calls/WizardSteps/CallActionFields.js
 #: src/views/landing/TeamActionForm.js
 msgid "Responsible Issara focal point"
-msgstr ""
+msgstr "Staf Issara yang bertanggung jawab"
 
 #: src/views/calls/WizardSteps/CallActionFields.js
 #: src/views/landing/TeamActionForm.js
 #: src/views/teamtasks/EnhancedTeamTasksList.js
 msgid "Deadline"
-msgstr ""
+msgstr "Tenggat waktu"
 
 #: src/views/calls/WizardSteps/CallActionFields.js
 #: src/views/landing/TeamActionForm.js
 msgid "Deadline Date"
-msgstr ""
+msgstr "Tanggal tenggat waktu"
 
 #: src/views/calls/WizardSteps/CallClientInfoFields.js
 msgid "Gender must be selected"
-msgstr ""
+msgstr "Jenis kelamin harus dipilih"
 
 #: src/views/calls/WizardSteps/CallClientInfoFields.js
 msgid "Client name / nickname"
-msgstr ""
+msgstr "Nama klien/nama panggilan"
 
 #: src/views/calls/WizardSteps/CallClientInfoFields.js
 msgid "LINE ID"
-msgstr ""
+msgstr "ID Line"
 
 #: src/views/calls/WizardSteps/CallClientInfoFields.js
 msgid "Facebook name"
-msgstr ""
+msgstr "Nama Facebook"
 
 #: src/views/calls/WizardSteps/CallClientInfoFields.js
 msgid "Phone number"
-msgstr ""
+msgstr "Nomor telepon"
 
 #: src/views/calls/WizardSteps/CallClientInfoFields.js
 msgid "Viber account"
-msgstr ""
+msgstr "Akun Viber"
 
 #: src/views/calls/WizardSteps/CallClientInfoFields.js
 msgid "WhatsApp number"
-msgstr ""
+msgstr "Nomor WhatsApp"
 
 #: src/views/calls/WizardSteps/CallClientInfoFields.js
 msgid "Telegram number"
-msgstr ""
+msgstr "Nomor Telegram"
 
 #: src/views/calls/WizardSteps/CallClientInfoFields.js
 msgid "Client Origin"
-msgstr ""
+msgstr "Asal klien"
 
 #: src/views/calls/WizardSteps/CallClientInfoFields.js
 msgid "Client crossing border"
-msgstr ""
+msgstr "Perbatasan yang dilintasi klien"
 
 #: src/views/calls/WizardSteps/CallInfoFields.js
 msgid "Issara Staff must be selected"
-msgstr ""
+msgstr "Nama Staf Issara harus dipilih"
 
 #: src/views/calls/WizardSteps/CallInfoFields.js
 msgid "Interaction Channel must be selected"
-msgstr ""
+msgstr "Saluran interaksi harus dipilih"
 
 #: src/views/calls/WizardSteps/CallInfoFields.js
 msgid "Interaction Reason must be selected"
-msgstr ""
+msgstr "Alasan interaksi harus dipilih"
 
 #: src/views/calls/WizardSteps/CallInfoFields.js
 msgid "interacted Date must be selected"
-msgstr ""
+msgstr "Tanggal interaksi harus dipilih"
 
 #: src/views/calls/WizardSteps/CallInfoFields.js
 msgid "Call/Message Info"
-msgstr ""
+msgstr "Informasi mengenai panggilan/pesan"
 
 #: src/views/calls/WizardSteps/CallInfoFields.js
 msgid "Interaction Type must be selected"
-msgstr ""
+msgstr "Jenis interaksi harus dipilih"
 
 #: src/views/calls/WizardSteps/CallInfoFields.js
 msgid "Incoming"
-msgstr ""
+msgstr "Masuk"
 
 #: src/views/calls/WizardSteps/CallInfoFields.js
 msgid "Outgoing"
-msgstr ""
+msgstr "Keluar"
 
 #: src/views/calls/WizardSteps/CallInfoFields.js
 msgid "Summary of the interaction"
-msgstr ""
+msgstr "Ringkasan interaksi"
 
 #: src/views/calls/WizardSteps/CallInfoFields.js
 msgid "Date of interaction"
-msgstr ""
+msgstr "Tanggal interaksi"
 
 #: src/views/calls/WizardSteps/CallIssues.js
 msgid "Issues at this workplace"
-msgstr ""
+msgstr "Persoalan di tempat kerja ini"
 
 #: src/views/calls/WizardSteps/CallIssues.js
 msgid "Instructions:"
-msgstr ""
+msgstr "Instruksi:"
 
 #: src/views/calls/WizardSteps/CallIssues.js
 msgid ""
-"If the client is adding more information or updates on a previously reported"
-" issue, please click the green pen by the relevant KPI to update."
+"If the client is adding more information or updates on a previously reported "
+"issue, please click the green pen by the relevant KPI to update."
 msgstr ""
+"Jika klien menambahkan atau memperbarui informasi atas persoalan yang pernah "
+"dilaporkan, ketuk pulpen hijau sesuai dengan KPInya untuk memperbarui"
 
 #: src/views/calls/WizardSteps/CallIssues.js
 msgid ""
 "If the client is reporting a new issue at the workplace, please click the "
 "green New Issue button."
 msgstr ""
+"Jika klien melaporkan persoalan baru di tempat kerja, ketuk tombol hijau "
+"Persoalan Baru"
 
 #: src/views/calls/WizardSteps/CallIssuesForm.js
 msgid "Issue Description"
-msgstr ""
+msgstr "Deskripsi persoalan"
 
 #: src/views/calls/WizardSteps/CallIssuesForm.js
 msgid "Issue Offender Description"
-msgstr ""
+msgstr "Deskripsi pelaku"
 
 #: src/views/calls/WizardSteps/CallIssuesForm.js
 msgid "How many clients are affected by this issue?"
-msgstr ""
+msgstr "Berapa klien yang terdampak oleh persoalan ini?"
 
 #: src/views/calls/WizardSteps/CallIssuesForm.js
 msgid "How many workers are affected by this issue?"
-msgstr ""
+msgstr "Berapa pekerja yang terdampak oleh persoalan ini?"
 
 #: src/views/calls/WizardSteps/CallIssuesForm.js
 msgid "Client Affected Description (More about the client Affected)."
 msgstr ""
+"Deskripsi mengenai klien yang terdampak (informasi lanjut mengenai klien "
+"yang terdampak)"
 
 #: src/views/calls/WizardSteps/CallIssuesForm.js
 msgid "Workers Affected Description (More about the workers Affected)"
 msgstr ""
+"Deskripsi mengenai pekerja yang terdampak (informasi lanjut mengenai pekerja "
+"yang terdampak)"
 
 #: src/views/calls/WizardSteps/CallIssuesForm.js
 msgid "Is the issue situation improving?"
-msgstr ""
+msgstr "Apakah situasinya membaik?"
 
 #: src/views/calls/WizardSteps/CallIssuesForm.js
 msgid "About the Same"
-msgstr ""
+msgstr "Sama saja"
 
 #: src/views/calls/WizardSteps/CallIssuesForm.js
 msgid "Describe more about how the issue is getting better or worse"
-msgstr ""
+msgstr "Jelaskan lebih lanjut bagaimana persoalan ini membaik atau memburuk"
 
 #: src/views/calls/WizardSteps/CallIssuesForm.js
 msgid "Issue Link"
-msgstr ""
+msgstr "Tautan persoalan"
 
 #: src/views/calls/WizardSteps/CallIssuesForm.js
 msgid "Enter Issue link here"
-msgstr ""
+msgstr "Masukkan tautan persoalan di sini"
 
 #: src/views/calls/WizardSteps/CallIssuesForm.js
 #: src/views/TeamActivity/FieldworkActivityForm.js
 msgid "Remove this link"
-msgstr ""
+msgstr "Hapus tautan ini"
 
 #: src/views/calls/WizardSteps/CallIssuesForm.js
 msgid "Add More Issue Link"
-msgstr ""
+msgstr "Tambahkan tautan persoalan"
 
 #: src/views/calls/WizardSteps/EmploymentFields.js
 msgid ""
 "Business Ratings - How Does the client rate the following actors that were "
 "involved in their recruitment and employment ?"
 msgstr ""
+"Penilaian terhadap perusahaan - bagaimana klien menilai aktor-aktor yang "
+"terlibat di dalam perekrutan dan pekerjaan mereka"
 
 #: src/views/calls/WizardSteps/EmploymentFields.js
 msgid "(1 very low, 5 very high)"
-msgstr ""
+msgstr "(1 paling rendah, 5 paling tinggi)"
 
 #: src/views/calls/WizardSteps/RecruiterFields.js
 msgid "Source Upstream Broker"
-msgstr ""
+msgstr "Calo di hulu "
 
 #: src/views/calls/WizardSteps/RecruiterFields.js
 msgid "How many months working at this workplace?"
-msgstr ""
+msgstr "Sudah berapa bulan bekerja di tempat kerja ini?"
 
 #: src/views/calls/WizardSteps/RecruiterFields.js
 msgid "Employer Debt Bondage?"
-msgstr ""
+msgstr "Ikatan hutang oleh majikan?"
 
 #: src/views/calls/WizardSteps/RecruiterFields.js
 msgid ""
 "If there is employer debt bondage, please provide details on amounts, to "
 "whom, how paid, etc"
 msgstr ""
+"Jika ada ikatan hutang oleh majikan, berikan rincian mengenai jumlah, kepada "
+"siapa, bagaimana pembayarannya, dll"
 
 #: src/views/calls/WizardSteps/RecruiterFields.js
 msgid "Broker Debt Bondage?"
-msgstr ""
+msgstr "Ikatan hutang oleh calo?"
 
 #: src/views/calls/WizardSteps/RecruiterFields.js
 msgid ""
-"If there is broker debt bondage, please provide details on amounts, to whom,"
-" how paid, etc"
+"If there is broker debt bondage, please provide details on amounts, to whom, "
+"how paid, etc"
 msgstr ""
+"Jika ada ikatan hutang oleh calo, berikan rincian mengenai jumlah, kepada "
+"siapa, bagaimana pembayarannya, dll"
 
 #: src/views/calls/WizardSteps/RequiredCallFields.js
 msgid "Supplier must be selected"
-msgstr ""
+msgstr "Pemasok harus dipilih"
 
 #: src/views/calls/WizardSteps/RequiredCallFields.js
 msgid "Country must be selected"
-msgstr ""
+msgstr "Negara harus dipilih"
 
 #: src/views/calls/WizardSteps/RequiredCallFields.js
 msgid "Nationality must be selected"
-msgstr ""
+msgstr "Kewarganegaraan harus dipilih"
 
 #: src/views/calls/WizardSteps/RequiredCallFields.js
 msgid "CallerStatus must be selected"
-msgstr ""
+msgstr "Status pembuat panggilan harus dipilih"
 
 #: src/views/calls/WizardSteps/RequiredCallFields.js
 msgid "ClientType must be selected"
-msgstr ""
+msgstr "Jenis klien harus dipilih"
 
 #: src/views/calls/WizardSteps/RequiredCallFields.js
 msgid "CaseCategory must be selected"
-msgstr ""
+msgstr "Kategori persoalan harus dipilih"
 
 #: src/views/calls/WizardSteps/RequiredCallFields.js
 msgid ""
 "Please fill out the information and refer this case to Issara Institute. "
 "Thank you, have a great day!"
 msgstr ""
+"Isi informasi dan rujuk kasus ini kepada Institut Issara. Terima kasih, "
+"semoga hari anda menyenangkan!"
 
 #: src/views/calls/WizardSteps/RequiredCallFields.js
 msgid "Required Info"
-msgstr ""
+msgstr "Informasi wajib"
 
 #: src/views/Dashboard/FieldworkActivityModal.js
 msgid "Fieldwork Activity #{id}"
@@ -1177,392 +1264,640 @@ msgstr ""
 
 #: src/views/Dashboard/FieldworkActivityModal.js
 msgid "General Information:"
-msgstr ""
+msgstr "Informasi umum"
 
 #: src/views/Dashboard/FieldworkActivityModal.js
 msgid "Type:"
-msgstr ""
+msgstr "Jenis:"
 
 #: src/views/Dashboard/FieldworkActivityModal.js
 msgid "Date:"
-msgstr ""
+msgstr "Tanggal:"
 
 #: src/views/Dashboard/FieldworkActivityModal.js
 #: src/views/suppliers/SupplierModal.js
 msgid "Location:"
-msgstr ""
+msgstr "Lokasi"
 
 #: src/views/Dashboard/FieldworkActivityModal.js
 msgid "Workers Reached:"
-msgstr ""
+msgstr "Jumlah pekerja yang dijangkau:"
 
 #: src/views/Dashboard/FieldworkActivityModal.js
 msgid "Suppliers:"
-msgstr ""
+msgstr "Pemasok:"
 
 #: src/views/Dashboard/FieldworkActivityModal.js
 msgid "Recruiters:"
-msgstr ""
+msgstr "Perekrut:"
 
 #: src/views/Dashboard/FieldworkActivityModal.js
 msgid "Partners:"
-msgstr ""
+msgstr "Mitra:"
 
 #: src/views/Dashboard/FieldworkActivityModal.js
 msgid "Nationality:"
-msgstr ""
+msgstr "Kewarganegaraan:"
 
 #: src/views/Dashboard/FieldworkActivityModal.js
 msgid "Notes:"
-msgstr ""
+msgstr "Catatan:"
 
 #: src/views/Dashboard/FieldworkActivityModal.js
 msgid "Links:"
+msgstr "Tautan:"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/suppliers/SupplierKPIsList.js
+#: src/views/teamtasks/EnhancedTeamTasksList.js
+msgid "Download As XLS File"
+msgstr "Unduh sebagai XLS File"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#, fuzzy
+#| msgid "Nationality"
+msgid "Nationalities"
+msgstr "Kewarganegaraan"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Filter by Nationalities is not yet implemented"
 msgstr ""
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
-msgid "worker_calls_count_by_month"
-msgstr ""
-
-#: src/views/Dashboard/IssaraActivityDashboard.js
-msgid "field_visit_count_by_month"
-msgstr ""
-
-#: src/views/Dashboard/IssaraActivityDashboard.js
-msgid "field_total_workers_reached_by_month"
-msgstr ""
-
-#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/suppliers/SupplierKpiDashboard.js
 #: src/views/suppliers/SupplierKPIsList.js
 msgid "Between"
-msgstr ""
+msgstr "Di antara"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/suppliers/SupplierKpiDashboard.js
 #: src/views/suppliers/SupplierKPIsList.js
 msgid "Start"
-msgstr ""
+msgstr "Mulai"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/suppliers/SupplierKpiDashboard.js
 #: src/views/suppliers/SupplierKPIsList.js
 msgid "And"
-msgstr ""
+msgstr "Dan"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/suppliers/SupplierKpiDashboard.js
 #: src/views/suppliers/SupplierKPIsList.js
 msgid "End"
-msgstr ""
+msgstr "Akhir"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/suppliers/SupplierKpiDashboard.js
 #: src/views/suppliers/SupplierKPIsList.js
 msgid "Reset all"
-msgstr ""
+msgstr "Reset semua"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
 msgid "No Data found"
-msgstr ""
-
-#: src/views/Dashboard/IssaraActivityDashboard.js
-#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
-msgid "Burmese Facebook messenger"
-msgstr ""
-
-#: src/views/Dashboard/IssaraActivityDashboard.js
-#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
-msgid "Burmese Viber in Thailand"
-msgstr ""
-
-#: src/views/Dashboard/IssaraActivityDashboard.js
-#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
-msgid "Burmese hotline in Thailand"
-msgstr ""
-
-#: src/views/Dashboard/IssaraActivityDashboard.js
-#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
-msgid "Burmese LINE messages"
-msgstr ""
-
-#: src/views/Dashboard/IssaraActivityDashboard.js
-#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
-msgid "Burmese hotline in Myanmar"
-msgstr ""
-
-#: src/views/Dashboard/IssaraActivityDashboard.js
-#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
-msgid "Khmer hotline"
-msgstr ""
-
-#: src/views/Dashboard/IssaraActivityDashboard.js
-#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
-msgid "Khmer Facebook messenger"
-msgstr ""
-
-#: src/views/Dashboard/IssaraActivityDashboard.js
-#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
-msgid "Khmer LINE"
-msgstr ""
-
-#: src/views/Dashboard/IssaraActivityDashboard.js
-#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
-msgid "Thai Hotline"
-msgstr ""
-
-#: src/views/Dashboard/IssaraActivityDashboard.js
-msgid "Thai Facebook"
-msgstr ""
-
-#: src/views/Dashboard/IssaraActivityDashboard.js
-#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
-msgid "Thai LINE"
-msgstr ""
-
-#: src/views/Dashboard/IssaraActivityDashboard.js
-msgid "Indonesian Whatsapp Total"
-msgstr ""
-
-#: src/views/Dashboard/IssaraActivityDashboard.js
-msgid "Indonesian Hotline Total"
-msgstr ""
-
-#: src/views/Dashboard/IssaraActivityDashboard.js
-msgid "Nepalese Whatsapp Total"
-msgstr ""
-
-#: src/views/Dashboard/IssaraActivityDashboard.js
-msgid "Nepalese Hotline Total"
-msgstr ""
-
-#: src/views/Dashboard/IssaraActivityDashboard.js
-msgid "Nepalese Facebook Total"
-msgstr ""
-
-#: src/views/Dashboard/IssaraActivityDashboard.js
-msgid "Burmese Whatsapp Total"
-msgstr ""
-
-#: src/views/Dashboard/IssaraActivityDashboard.js
-#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
-msgid "Burmese Viber in Malaysia"
-msgstr ""
-
-#: src/views/Dashboard/IssaraActivityDashboard.js
-msgid "Burmese Tiktok messages"
-msgstr ""
-
-#: src/views/Dashboard/IssaraActivityDashboard.js
-#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
-msgid "Nepalese Tiktok messages"
-msgstr ""
-
-#: src/views/Dashboard/IssaraActivityDashboard.js
-msgid "Bangladeshi Facebook Messenger"
-msgstr ""
-
-#: src/views/Dashboard/IssaraActivityDashboard.js
-msgid "Bangladeshi Hotline"
-msgstr ""
-
-#: src/views/Dashboard/IssaraActivityDashboard.js
-msgid "Bangladeshi WhatsApp"
-msgstr ""
-
-#: src/views/Dashboard/IssaraActivityDashboard.js
-#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
-msgid "Bangladeshi Tiktok messages"
-msgstr ""
+msgstr "Data tidak ditemukan"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
 msgid "Worker Metrics"
-msgstr ""
+msgstr "Data metrik Pekerja"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
 msgid "Total Worker Cases"
-msgstr ""
+msgstr "Jumlah total kasus pekerja"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
 msgid "Men"
-msgstr ""
+msgstr "Laki-laki"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
 msgid "Women"
-msgstr ""
+msgstr "Perempuan"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
 msgid "Unknown"
-msgstr ""
+msgstr "Tidak diketahui"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
 msgid "Worker Voice and Ethical Recruitment metrics"
-msgstr ""
+msgstr "Data metrik Suara Pekerja dan Ethical Recruitment"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
 msgid "Workers Connected To Worker Voice Channels"
-msgstr ""
+msgstr "Pekerja yang berhasil terhubung dengan Saluran Suara Pekerja"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
 msgid "Suppliers Trained"
-msgstr ""
+msgstr "Jumlah pemasok yang sudah dilatih"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
 msgid "Workers Reached In Pre-Departure MM"
-msgstr ""
+msgstr "Jumlah pekerja yang dijangkau pra-penempatan di Myanmar"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
 msgid "Workers Receiving Remedition"
-msgstr ""
+msgstr "Jumlah pekerja yang menerima remediasi"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
 msgid "Trained Workers Leaders/Ambassadors"
-msgstr ""
+msgstr "Jumlah pimpinan/duta pekerja yang sudah dilatih"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
 msgid "Recruitment Agencies Trained"
-msgstr ""
+msgstr "Jumlah agen perekrutan yang sudah dilatih"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
+#, fuzzy
+#| msgid "Workers Reached In Pre-Departure NE "
 msgid "Workers Reached In Pre-Departure NE"
-msgstr ""
+msgstr "Jumlah pekerja yang dijangkau pra-penempatan di Nepal"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
 #: src/views/TeamActivity/WV_and_ER_metrix.js
 msgid "Remediation For Recruitment Fees and Cases"
-msgstr ""
+msgstr "Jumlah remediasi untuk kasus dan biaya terkait rekrutmen"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
 #: src/views/TeamActivity/WV_and_ER_metrix.js
 msgid "Recruitment-Related Fees Detected and Intercepted"
-msgstr ""
+msgstr "Biaya-biaya terkait rekrutmen yang terdeteksi dan berhasil dicegat"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
 msgid "No Data Found"
-msgstr ""
+msgstr "Tidak ada data yang ditemukan"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
 msgid "Total field visits"
-msgstr ""
+msgstr "Jumlah total kunjungan lapangan"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
 msgid "Total Workers Reached"
-msgstr ""
+msgstr "Jumlah total pekerja yang dijangkau"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
 #: src/views/suppliers/SupplierList.js
 #: src/views/teamtasks/EnhancedTeamTasksList.js
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
 msgid "Type"
-msgstr ""
+msgstr "Jenis"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
 #: src/views/TeamActivity/FieldworkActivityForm.js
 msgid "Recruiters"
-msgstr ""
+msgstr "Perekrut"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
 msgid "Location"
-msgstr ""
+msgstr "Lokasi"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
 msgid "Target"
-msgstr ""
+msgstr "Target"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
 #: src/views/TeamActivity/FieldworkActivityForm.js
 msgid "Notes"
-msgstr ""
+msgstr "Catatan"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
 msgid "Links"
-msgstr ""
+msgstr "Tautan"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
 msgid "Total Worker"
-msgstr ""
+msgstr "Jumlah Pekerja"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "worker_calls_count_by_month"
+msgstr "jumlah_panggilan_pekerja_dalam_sebulan"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "field_visit_count_by_month"
+msgstr "jumlah_kunjungan_lapangan_dalam_sebulan"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "field_total_workers_reached_by_month"
+msgstr "jumlah_pekerja_yang_dijangkau_oleh_kunjungan_lapangan_dalam_sebulan"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/suppliers/SupplierKpiDashboard.js
 msgid "Print Report"
-msgstr ""
+msgstr "Cetak Laporan"
 
 #: src/views/Dashboard/KpiReferenceModal.js
 #: src/views/references/KpiLegalViolationModal.js
 #: src/views/references/KpiReferenceModal.js
 #: src/views/suppliers/SupplierModal.js
 msgid "General:"
-msgstr ""
+msgstr "Umum:"
 
 #: src/views/Dashboard/KpiReferenceModal.js
 #: src/views/references/KpiReferenceModal.js
 #: src/views/suppliers/SupplierKPIModal.js
 msgid "Category:"
-msgstr ""
+msgstr "Kategori:"
 
 #: src/views/Dashboard/KpiReferenceModal.js
 #: src/views/references/KpiLegalViolationModal.js
 #: src/views/references/KpiReferenceModal.js
 #: src/views/suppliers/SupplierKPIModal.js
 msgid "Description:"
-msgstr ""
+msgstr "Deskripsi:"
 
 #: src/views/Dashboard/KpiReferenceModal.js
 #: src/views/references/KpiReferenceModal.js
 #: src/views/suppliers/SupplierKPIModal.js
 msgid "Level:"
-msgstr ""
+msgstr "Tingkat:"
 
 #: src/views/Dashboard/KpiReferenceModal.js
 #: src/views/references/KpiReferenceModal.js
 msgid "Goal:"
-msgstr ""
+msgstr "Tujuan:"
 
 #: src/views/Dashboard/KpiReferenceModal.js
 #: src/views/references/KpiReferenceModal.js
 msgid "ETI:"
-msgstr ""
+msgstr "ETI:"
 
 #: src/views/Dashboard/KpiReferenceModal.js
 #: src/views/references/KpiReferenceModal.js
 msgid "Code:"
-msgstr ""
+msgstr "Kode:"
 
-#: src/views/Dashboard/KpiReferencesList.js
-#: src/views/suppliers/SupplierList.js
+#: src/views/Dashboard/KpiReferencesList.js src/views/suppliers/SupplierList.js
 msgid "Found:"
-msgstr ""
+msgstr "Ditemukan:"
 
 #: src/views/Dashboard/KpiReferencesList.js
 #: src/views/references/KpiReferencesList.js
 msgid "ETI Code"
+msgstr "Kode ETI"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+#, fuzzy
+#| msgid "Level"
+msgid "level"
+msgstr "Tingkat"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid ""
+"Calls are assigned levels from 1-4 to denote the severity of the situation. "
+"All information queries and communications around coordination are "
+"categorized as Level 1, the least severe level. Level 2 cases are reported "
+"labour violations that do not violate national law but violate most ethical "
+"sourcing standards. Level 3 cases are serious labour violations that are "
+"violations of labour and/or criminal law. Level 4 cases are threat-to-life "
+"cases. Each level has its own response protocol."
+msgstr ""
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+#, fuzzy
+#| msgid "days active"
+msgid "Days active"
+msgstr "Hari aktif"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid ""
+"For Open KPIs: Red if No Progress has been made for over 60 days. Orange if "
+"No Progress has been made for 30 to 60 days. Yellow if Some Progress has "
+"been made in 15 or more days. Black if the case is less than 15 days active."
+msgstr ""
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Status"
+msgstr "Status"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "No Progress for over 60 days"
+msgstr ""
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "No Progress"
+msgstr ""
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "Some Progress"
+msgstr ""
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+#, fuzzy
+#| msgid "Active Days"
+msgid "Active Under 15 days"
+msgstr "Hari aktif"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "Poor"
+msgstr ""
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "Fair"
+msgstr ""
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "Good"
+msgstr ""
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "Excellent"
+msgstr ""
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "Unresolved"
+msgstr ""
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Opened since:"
+msgstr "Dibuka sejak"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "-"
+msgstr ""
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Closed since:"
+msgstr "Selesai sejak"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+#, fuzzy
+#| msgid "Remediation Results:"
+msgid "Remediation Quality:"
+msgstr "Hasil remediasi"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Affected workers:"
+msgstr "Jumlah pekerja yang terdampak:"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "1-10"
+msgstr ""
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "11-50"
+msgstr ""
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "51-100"
+msgstr ""
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "101-500"
+msgstr ""
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "501-1000"
+msgstr ""
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "1000+"
+msgstr ""
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+#, fuzzy
+#| msgid "Issues"
+msgid "Issues:"
+msgstr "Persoalan"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+#, fuzzy
+#| msgid "Remediation Results:"
+msgid "Remediation Notes (Summary):"
+msgstr "Hasil remediasi"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+#, fuzzy
+#| msgid "Location:"
+msgid "Action:"
+msgstr "Lokasi"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+#, fuzzy
+#| msgid "Worker Nationality"
+msgid "Worker Validation:"
+msgstr "Kewarganegaraan Pekerja"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+#, fuzzy
+#| msgid "Search Results"
+msgid "Results:"
+msgstr "Hasil pencarian"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+#, fuzzy
+#| msgid "Workers Receiving Remedition"
+msgid "Working conditions"
+msgstr "Jumlah pekerja yang menerima remediasi"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "Employer-employee communications and relations"
+msgstr ""
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+#, fuzzy
+#| msgid "Recruitment"
+msgid "Labour recruitment"
+msgstr "Perekrutan"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "Payment systems and transparency"
+msgstr ""
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "Living and eating conditions"
+msgstr ""
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "Summary of Open/Closed Issues"
+msgstr ""
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid ""
+"The graph of open/closed issues represents the supplier. Details of the 5 "
+"open/closed labor category KPIs are presented below."
+msgstr ""
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "Open Worker-Reported Violations"
+msgstr ""
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid ""
+"Worker reported labor violations below are organized into the 5 main KPI I "
+"categories. These map to and expand upon internationally recognized types of "
+"labor violations and potential workplace and recruitment issues."
+msgstr ""
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+#, fuzzy
+#| msgid "Recruitment"
+msgid "Labour Recruitment"
+msgstr "Perekrutan"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "Payment Systems And Transparency"
+msgstr ""
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+#, fuzzy
+#| msgid "Remediation Issues:"
+msgid "Working Condition Issues"
+msgstr "Persoalan remediasi"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "Employer-Employee Communications And Relations"
+msgstr ""
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "Living And Eating Conditions"
+msgstr ""
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "Closed Worker-Reported Violations"
+msgstr ""
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+#, fuzzy
+#| msgid "Closed since:"
+msgid "Closed Issues"
+msgstr "Selesai sejak"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+#, fuzzy
+#| msgid "Level"
+msgid "Level (1-4)"
+msgstr "Tingkat"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+#, fuzzy
+#| msgid "Opened At"
+msgid "Opened"
+msgstr "Dibuka sejak"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+#, fuzzy
+#| msgid "Closed:"
+msgid "Closed"
+msgstr "Selesai:"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid ""
+"The estimated number of workers affected by the KPI issue.  If 0 is listed, "
+"the estimate is an unknown number of workers that will be updated as "
+"progress against the issue is made.  Often, issues reported by a smaller "
+"number of workers affect entire lines or additional workers, which is "
+"updated as further information from these workers or the business is "
+"received."
+msgstr ""
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Affected"
+msgstr "Terdampak"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "The final Remediation Score."
+msgstr ""
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "Color for closed:"
+msgstr ""
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "Poor = 'Red',"
+msgstr ""
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "Fair = 'Orange',"
+msgstr ""
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "Good = 'Yellow',"
+msgstr ""
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "Excellent='Green',"
+msgstr ""
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "Unresolved='Grey'"
+msgstr ""
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+#, fuzzy
+#| msgid "Remediation Issues:"
+msgid "Remediation Outcome"
+msgstr "Persoalan remediasi"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+#, fuzzy
+#| msgid "Open days"
+msgid "Open"
+msgstr "Jumlah hari penyelesaian"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid ""
+"The graph of open/closed issues represents the supplier(s) and date range "
+"selected above. Details of the 5 open/closed labor category KPIs are "
+"presented below."
+msgstr ""
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+#, fuzzy
+#| msgid "Closed:"
+msgid "Open/Closed"
+msgstr "Selesai:"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+#, fuzzy
+#| msgid "Workers Receiving Remedition"
+msgid "Working Conditions"
+msgstr "Jumlah pekerja yang menerima remediasi"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid ""
+"You may select and filter suppliers to show your entire supply chain "
+"(default), suppliers by industry and by sub-industry, or specific "
+"supplier(s). The date range further enables visibility of the selection over "
+"a specific timeframe (default is 1/1/2019 to present). The selections made "
+"will determine the supply chain analytics displayed below. Please press the "
+"Search button after selections are made."
 msgstr ""
 
 #: src/views/landing/TeamActionForm.js
 msgid "Add/Edit Team Task"
-msgstr ""
+msgstr "Tambah/Ubah Tugas Tim"
 
 #: src/views/landing/TeamActionForm.js
 msgid "Tasked By"
-msgstr ""
+msgstr "Ditugaskan oleh"
 
 #: src/views/landing/TeamActionForm.js
 msgid "A sumamry of the task to be completed"
-msgstr ""
+msgstr "Ringkasan mengenai tugas yang harus diselesaikan"
 
 #: src/views/landing/TeamActionForm.js
 msgid "General Notes"
-msgstr ""
+msgstr "Catatan umum"
 
 #: src/views/references/KpiLegalViolationList.js
-#: src/views/suppliers/SupplierList.js
+#: src/views/suppliers/SharedFileList.js src/views/suppliers/SupplierList.js
 msgid "Name"
-msgstr ""
+msgstr "Nama"
 
 #: src/views/references/KpiLegalViolationList.js
 msgid "Law"
-msgstr ""
+msgstr "Hukum"
 
 #: src/views/references/KpiLegalViolationList.js
 msgid "Article"
-msgstr ""
+msgstr "Pasal"
 
 #: src/views/references/KpiLegalViolationModal.js
 msgid "Legal Violation #{id}"
@@ -1570,94 +1905,201 @@ msgstr ""
 
 #: src/views/references/KpiLegalViolationModal.js
 msgid "Id:"
-msgstr ""
+msgstr "Id:"
 
 #: src/views/references/KpiLegalViolationModal.js
 msgid "Name:"
-msgstr ""
+msgstr "Nama:"
 
 #: src/views/references/KpiLegalViolationModal.js
 msgid "Law:"
-msgstr ""
+msgstr "Hukum"
 
 #: src/views/references/KpiLegalViolationModal.js
 msgid "Article:"
-msgstr ""
+msgstr "Pasal"
 
 #: src/views/references/KpiLegalViolationModal.js
 #: src/views/suppliers/SupplierModal.js
 msgid "Country:"
-msgstr ""
+msgstr "Negara:"
 
 #: src/views/references/KpiReferenceModal.js
 msgid "Other:"
-msgstr ""
+msgstr "Lainnya:"
 
 #: src/views/references/KpiReferenceModal.js
 msgid "Legal Violation:"
-msgstr ""
+msgstr "Pelanggaran hukum:"
 
 #: src/views/references/KpiReferenceModal.js
 msgid "Recommended Remediation:"
-msgstr ""
+msgstr "Remediasi yang direkomendasikan"
 
 #: src/views/references/KpiReferenceModal.js
 #: src/views/suppliers/SupplierKPIModal.js
 msgid "Systems Change:"
-msgstr ""
+msgstr "Perubahan sistem:"
 
 #: src/views/references/KpiReferencesList.js
 #: src/views/suppliers/SupplierKPIsList.js src/views/suppliers/SupplierList.js
 msgid "View:"
-msgstr ""
+msgstr "Melihat:"
 
 #: src/views/references/KpiReferencesList.js
 msgid "Legal"
-msgstr ""
+msgstr "Legal"
 
 #: src/views/references/KpiReferencesList.js
 msgid "Remediation"
-msgstr ""
+msgstr "Remediasi"
 
 #: src/views/references/KpiReferencesList.js
 msgid "Systems"
+msgstr "Sistem"
+
+#: src/views/suppliers/SharedFileList.js
+#, fuzzy
+#| msgid "Documents:"
+msgid "Supplier Documents:"
+msgstr "Dokumen"
+
+#: src/views/suppliers/SharedFileList.js
+msgid "No Reference Documents at this time."
 msgstr ""
+
+#: src/views/suppliers/SharedFileList.js
+#, fuzzy
+#| msgid "References"
+msgid "Reference Documents"
+msgstr "Rujukan"
+
+#: src/views/suppliers/SharedFileList.js src/views/suppliers/SupplierList.js
+msgid "Created"
+msgstr "Didirikan"
+
+#: src/views/suppliers/SharedFileList.js src/views/suppliers/SupplierList.js
+msgid "Download"
+msgstr "Unduh"
+
+#: src/views/suppliers/SupplierKpiDashboard.js
+msgid "Calls and Messages from Workers"
+msgstr ""
+
+#: src/views/suppliers/SupplierKpiDashboard.js
+msgid "Not selected suppliers to chart"
+msgstr ""
+
+#: src/views/suppliers/SupplierKpiDashboard.js
+msgid ""
+"These workforce demographics are based on figures provided by your supplier "
+"to Issara Institute. Please note the figures correspond to the suppliers "
+"selected at top."
+msgstr ""
+
+#: src/views/suppliers/SupplierKpiDashboard.js
+#, fuzzy
+#| msgid "Worker Metrics"
+msgid "Workforce Demographics"
+msgstr "Data metrik Pekerja"
+
+#: src/views/suppliers/SupplierKpiDashboard.js
+#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
+msgid "Total"
+msgstr "Total"
+
+#: src/views/suppliers/SupplierKpiDashboard.js
+#: src/views/suppliers/SupplierList.js
+msgid "Cambodia"
+msgstr "Kamboja"
+
+#: src/views/suppliers/SupplierKpiDashboard.js
+#: src/views/suppliers/SupplierList.js
+msgid "Myanmar"
+msgstr "Myanmar"
+
+#: src/views/suppliers/SupplierKpiDashboard.js
+#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
+msgid "Lao"
+msgstr "Warga negara Laos"
+
+#: src/views/suppliers/SupplierKpiDashboard.js
+#, fuzzy
+#| msgid "Vietnam"
+msgid "Vietnamese"
+msgstr "Vietnam"
+
+#: src/views/suppliers/SupplierKpiDashboard.js
+#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
+msgid "Nepalese"
+msgstr "Warga negara Nepal"
+
+#: src/views/suppliers/SupplierKpiDashboard.js
+#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
+msgid "Bangladeshi"
+msgstr "Warga Negara Bangladesh"
+
+#: src/views/suppliers/SupplierKpiDashboard.js
+#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
+msgid "Indonesian"
+msgstr "bahasa Indonesia"
+
+#: src/views/suppliers/SupplierKpiDashboard.js
+#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
+msgid "Malaysian"
+msgstr "Warga Negara Malaysia"
+
+#: src/views/suppliers/SupplierKpiDashboard.js
+msgid "* Please Select Supplier"
+msgstr ""
+
+#: src/views/suppliers/SupplierKpiDashboard.js
+#: src/views/suppliers/SupplierModal.js
+msgid "There is worker voice in this workplace"
+msgstr "Ada Suara Pekerja di tempat kerja ini"
+
+#: src/views/suppliers/SupplierKpiDashboard.js
+#: src/views/suppliers/SupplierModal.js
+msgid "There is no worker voice in this workplace"
+msgstr "Tidak ada Suara Pekerja di tempat kerja ini"
 
 #: src/views/suppliers/SupplierKPIModal.js
 msgid "Supplier KPI Deleted"
-msgstr ""
+msgstr "KPI pemasok dihapus"
 
 #: src/views/suppliers/SupplierKPIModal.js
+#, fuzzy
+#| msgid "You have successfully deleted the supplier kpi"
 msgid "You have successfully deleted the supplier kpi and it's child updates"
-msgstr ""
+msgstr "Anda berhasil menghapus kpi pemasok"
 
 #: src/views/suppliers/SupplierKPIModal.js
 msgid "Error Supplier KPI was not deleted"
-msgstr ""
+msgstr "Error KPI pemasok tidak berhasil dihapus"
 
 #: src/views/suppliers/SupplierKPIModal.js
 msgid "Error occurred trying to delete those supplier kpi updates"
-msgstr ""
+msgstr "Error saat berusaha menghapus pembaruan kpi pemasok"
 
 #: src/views/suppliers/SupplierKPIModal.js src/views/suppliers/SupplierList.js
 msgid "Confirm"
-msgstr ""
+msgstr "Konfirmasi"
 
 #: src/views/suppliers/SupplierKPIModal.js
 msgid "Confirm Delete ?"
-msgstr ""
+msgstr "Konfirmasi hapus?"
 
 #: src/views/suppliers/SupplierKPIModal.js
 msgid "About to delete supplier kpi id: "
-msgstr ""
+msgstr "Hendak menghapus kpi pemasok id:"
 
 #: src/views/suppliers/SupplierKPIModal.js
 msgid "*This Supplier KPI has 0 cases and is ok to remove."
-msgstr ""
+msgstr "*KPI pemasok ini memiliki 0 kasus dan boleh dihapus"
 
 #: src/views/suppliers/SupplierKPIModal.js
 msgid "Delete"
-msgstr ""
+msgstr "Hapus"
 
 #: src/views/suppliers/SupplierKPIModal.js
 msgid "Supplier KPI #{id}"
@@ -1665,280 +2107,264 @@ msgstr ""
 
 #: src/views/suppliers/SupplierKPIModal.js
 msgid "Overview:"
-msgstr ""
+msgstr "Ikhtisar"
 
 #: src/views/suppliers/SupplierKPIModal.js
 msgid "Update Source:"
-msgstr ""
+msgstr "Sumber pembaruan"
 
 #: src/views/suppliers/SupplierKPIModal.js
 msgid "Supplier:"
-msgstr ""
+msgstr "Pemasok:"
 
 #: src/views/suppliers/SupplierKPIModal.js
 msgid "Laws Violated:"
-msgstr ""
+msgstr "Hukum yang dilanggar:"
 
 #: src/views/suppliers/SupplierKPIModal.js
 msgid "# Workers Impacted:"
-msgstr ""
+msgstr "# Pekerja yang terdampak:"
 
-#: src/views/suppliers/SupplierKPIModal.js
-#: src/views/suppliers/SupplierModal.js
+#: src/views/suppliers/SupplierKPIModal.js src/views/suppliers/SupplierModal.js
 msgid "Status:"
-msgstr ""
+msgstr "Status:"
 
 #: src/views/suppliers/SupplierKPIModal.js
 msgid "Days Active:"
-msgstr ""
+msgstr "Jumlah hari aktif:"
 
 #: src/views/suppliers/SupplierKPIModal.js
 msgid "Open Since:"
-msgstr ""
+msgstr "Dibuka sejak:"
 
 #: src/views/suppliers/SupplierKPIModal.js
 #: src/views/suppliers/SupplierKPIsList.js
 msgid "Updated:"
-msgstr ""
+msgstr "Pembaruan:"
 
 #: src/views/suppliers/SupplierKPIModal.js
 msgid "Closed:"
-msgstr ""
+msgstr "Selesai:"
 
 #: src/views/suppliers/SupplierKPIModal.js
 msgid "Closed Quality:"
-msgstr ""
+msgstr "Kualitas penyelesaian:"
 
 #: src/views/suppliers/SupplierKPIModal.js
 msgid "Rationale:"
-msgstr ""
+msgstr "Alasan:"
 
 #: src/views/suppliers/SupplierKPIModal.js
 msgid "Remediation:"
-msgstr ""
+msgstr "Remediasi:"
 
 #: src/views/suppliers/SupplierKPIModal.js
 msgid "Issara Recommendations:"
-msgstr ""
+msgstr "Rekomendasi dari Issara:"
 
 #: src/views/suppliers/SupplierKPIModal.js
 msgid "Progress on remediation:"
-msgstr ""
+msgstr "Perkembangan remediasi"
 
 #: src/views/suppliers/SupplierKPIModal.js
 msgid "How aligned are the business's responses:"
-msgstr ""
+msgstr "Seberapa selaraskah tanggapan dari perusahaan?"
 
 #: src/views/suppliers/SupplierKPIModal.js
 msgid "Business Steps Taken:"
-msgstr ""
+msgstr "Langkah-langkah yang telah diambil perusahaan?"
 
 #: src/views/suppliers/SupplierKPIModal.js
 msgid "Business Steps Remaining:"
-msgstr ""
+msgstr "Langkah-langkah yang masih harus diambil perusahaan?"
 
 #: src/views/suppliers/SupplierKPIModal.js
 msgid "Notes (Talking Points):"
-msgstr ""
+msgstr "Catatan (poin pembicaraan)"
 
 #: src/views/suppliers/SupplierKPIModal.js
 msgid "Action (Talking Points):"
-msgstr ""
+msgstr "Tindakan yang harus diambil (poin pembicaraan)"
 
 #: src/views/suppliers/SupplierKPIModal.js
 msgid "Validation (Talking Points):"
-msgstr ""
+msgstr "Validasi (poin pembicaraan)"
 
 #: src/views/suppliers/SupplierKPIModal.js
 msgid "Results (Talking Points):"
-msgstr ""
+msgstr "Hasil (poin pembicaraan)"
 
 #: src/views/suppliers/SupplierKPIModal.js
 msgid "Payments:"
-msgstr ""
+msgstr "Pembayaran"
 
 #: src/views/suppliers/SupplierKPIModal.js
 msgid "Owed:"
-msgstr ""
+msgstr "Terhutang"
 
 #: src/views/suppliers/SupplierKPIModal.js
 msgid "Paid:"
-msgstr ""
+msgstr "Dibayarkan"
 
 #: src/views/suppliers/SupplierKPIModal.js
 msgid "Payment Deadline:"
-msgstr ""
+msgstr "Tenggat waktu pembayaran"
 
 #: src/views/suppliers/SupplierKPIModal.js
 msgid "Documents:"
-msgstr ""
+msgstr "Dokumen"
 
 #: src/views/suppliers/SupplierKPIModal.js
 msgid "Provided:"
-msgstr ""
+msgstr "Disediakan"
 
 #: src/views/suppliers/SupplierKPIModal.js
 msgid "Documents Deadline:"
-msgstr ""
+msgstr "Tenggat waktu pembayaran"
 
 #: src/views/suppliers/SupplierKPIModal.js
 msgid "System Change Deadline:"
-msgstr ""
+msgstr "Tenggat waktu perubahan sistem"
 
 #: src/views/suppliers/SupplierKPIModal.js
 msgid "Next Step :"
-msgstr ""
+msgstr "Langkah selanjutnya"
 
 #: src/views/suppliers/SupplierKPIModal.js
 msgid "Assign To :-"
-msgstr ""
+msgstr "Ditugaskan kepada"
 
 #: src/views/suppliers/SupplierKPIModal.js
 msgid "Deadline :-"
-msgstr ""
+msgstr "Tenggat waktu"
 
 #: src/views/suppliers/SupplierKPIModal.js
 msgid "Description :-"
-msgstr ""
+msgstr "Deksripsi"
 
 #: src/views/suppliers/SupplierKPIsList.js
 msgid "Closed At"
-msgstr ""
+msgstr "Diselesaikan pada"
 
 #: src/views/suppliers/SupplierKPIsList.js
 msgid "Closure Date"
-msgstr ""
+msgstr "Tanggal penyelesaian"
 
 #: src/views/suppliers/SupplierKPIsList.js
 msgid "Open days"
-msgstr ""
+msgstr "Jumlah hari penyelesaian"
 
 #: src/views/suppliers/SupplierKPIsList.js
 msgid "Quality of the closure"
-msgstr ""
+msgstr "Kualitas penyelesaian:"
 
-#: src/views/suppliers/SupplierKPIsList.js
-#: src/views/suppliers/SupplierModal.js
+#: src/views/suppliers/SupplierKPIsList.js src/views/suppliers/SupplierModal.js
 msgid "id"
-msgstr ""
+msgstr "id"
 
 #: src/views/suppliers/SupplierKPIsList.js
 msgid "Supplier Kpi ID"
-msgstr ""
+msgstr "ID Kpi pemasok"
 
 #: src/views/suppliers/SupplierKPIsList.js
 msgid ""
 "This is the parent Supplier KPI ID.  This is ID in the Supplkier KPI List "
 "table above"
 msgstr ""
+"Ini adalah induk KPI ID pemasok. Ini merupakan ID di dalam tabel daftar KPI "
+"pemasok di atas"
 
 #: src/views/suppliers/SupplierKPIsList.js
 msgid "Opened At"
-msgstr ""
+msgstr "Dibuka sejak"
 
 #: src/views/suppliers/SupplierKPIsList.js
 msgid "# Affected"
-msgstr ""
-
-#: src/views/suppliers/SupplierKPIsList.js
-msgid "Status"
-msgstr ""
-
-#: src/views/suppliers/SupplierKPIsList.js
-msgid "Affected"
-msgstr ""
+msgstr "# Terdampak:"
 
 #: src/views/suppliers/SupplierKPIsList.js
 msgid "Updates"
-msgstr ""
+msgstr "Pembaruan"
 
 #: src/views/suppliers/SupplierKPIsList.js
 msgid "Call #"
-msgstr ""
+msgstr "Panggilan #"
 
 #: src/views/suppliers/SupplierKPIsList.js
 msgid "days active"
-msgstr ""
+msgstr "Hari aktif"
 
 #: src/views/suppliers/SupplierKPIsList.js
 msgid "Calls"
-msgstr ""
+msgstr "Panggilan"
 
 #: src/views/suppliers/SupplierKPIsList.js
 msgid "Call Id: {item}"
 msgstr ""
 
 #: src/views/suppliers/SupplierKPIsList.js
-msgid "Opened since:"
-msgstr ""
-
-#: src/views/suppliers/SupplierKPIsList.js
-msgid "Closed since:"
-msgstr ""
-
-#: src/views/suppliers/SupplierKPIsList.js
-msgid "Affected workers:"
-msgstr ""
-
-#: src/views/suppliers/SupplierKPIsList.js
 msgid "Remediation Issues:"
-msgstr ""
+msgstr "Persoalan remediasi"
 
 #: src/views/suppliers/SupplierKPIsList.js
 msgid "Remediation Action:"
-msgstr ""
+msgstr "Tindakan remediasi"
 
 #: src/views/suppliers/SupplierKPIsList.js
 msgid "Remediation Validation:"
-msgstr ""
+msgstr "Validasi remediasi"
 
 #: src/views/suppliers/SupplierKPIsList.js
 msgid "Remediation Results:"
-msgstr ""
+msgstr "Hasil remediasi"
 
 #: src/views/suppliers/SupplierKPIsList.js
 msgid "less than 15 days"
-msgstr ""
+msgstr "kurang dari 15 hari"
 
 #: src/views/suppliers/SupplierKPIsList.js
 msgid "16-30"
-msgstr ""
+msgstr "16-30"
 
 #: src/views/suppliers/SupplierKPIsList.js
 msgid "31-45"
-msgstr ""
+msgstr "31-45"
 
 #: src/views/suppliers/SupplierKPIsList.js
 msgid "46-60"
-msgstr ""
+msgstr "46-60"
 
 #: src/views/suppliers/SupplierKPIsList.js
 msgid "61-90"
-msgstr ""
+msgstr "61-90"
 
 #: src/views/suppliers/SupplierKPIsList.js
 msgid "90+"
-msgstr ""
+msgstr "90+"
 
 #: src/views/suppliers/SupplierKPIsList.js
 msgid "Filter by Days Active"
-msgstr ""
+msgstr "Saring berdasarkan Hari Aktif"
 
 #: src/views/suppliers/SupplierKPIsList.js
 msgid "Active Days"
-msgstr ""
+msgstr "Hari aktif"
 
 #: src/views/suppliers/SupplierKPIsList.js
 msgid "Supply Chain"
-msgstr ""
+msgstr "Rantai pasok"
 
 #: src/views/suppliers/SupplierKPIsList.js
 msgid "Non-Supply Chain"
-msgstr ""
+msgstr "Bukan rantai pasok"
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Show Closed"
+msgstr "Tunjukkan selesai"
 
 #: src/views/suppliers/SupplierKPIsList.js
 msgid "Supplier KPIs"
-msgstr ""
+msgstr "KPI pemasok"
 
 #: src/views/suppliers/SupplierKPIsList.js
 msgid ""
@@ -1946,562 +2372,689 @@ msgid ""
 "work. (You'll get the supplier KPIs that have that Call ID in the drop down "
 "panel or info view"
 msgstr ""
+"Anda dapat memasukkan teks atau nomor yang digunakan di dalam objek. ID "
+"panggilan juga bisa digunakan. (Anda akan mendapatkan KPI pemasok sesuai ID "
+"panggilan tersebut di dalam panel pilihan atau tampilan informasi"
 
 #: src/views/suppliers/SupplierKPIsList.js
 msgid "Update selected KPIs"
-msgstr ""
+msgstr "Pembaruan KPI yang dipilih"
 
 #: src/views/suppliers/SupplierKPIsList.js
 msgid "Supplier KPI Updated History"
+msgstr "Riwayat pembaruan KPI pemasok"
+
+#: src/views/suppliers/SupplierLandingPage.js
+msgid "WELCOME!"
+msgstr ""
+
+#: src/views/suppliers/SupplierLandingPage.js
+msgid ""
+"Issara Institute launched the Inclusive Labour Monitoring (ILM) Suppliers "
+"Dashboard in 2023, building upon the feedback and aspirations of the Issara "
+"Institute team and donors."
+msgstr ""
+
+#: src/views/suppliers/SupplierLandingPage.js
+msgid ""
+"Objective: The objective of this ILM Suppliers Dashboard is to provide "
+"suppliers with a robust tool to help monitor, benchmark, remediate, and "
+"improve labor issues, systems, and business performance in global supply "
+"chains."
+msgstr ""
+
+#: src/views/suppliers/SupplierLandingPage.js
+msgid ""
+"Confidentiality: The information in the ILM Suppliers Dashboard is "
+"confidential to each supplier and is tailored to your own unique company. "
+"All information provided via the ILM Suppliers Dashboard is governed by your "
+"company’s Suppliers Partner agreement with Issara Institute. The information "
+"may not be shared externally."
+msgstr ""
+
+#: src/views/suppliers/SupplierLandingPage.js
+msgid ""
+"Features: Issara will continue to advance features within the ILM Suppliers "
+"Dashboard, and we welcome your feedback and input to make the ILM Suppliers "
+"Dashboard as useful and impactful as possible. For example, the ability to "
+"input the corrective actions taken by the supplier are slated for upcoming "
+"iterations. How this information may be integrated with your internal "
+"practices and protocols (current and planned), will also be part of "
+"discussions with each supplier."
+msgstr ""
+
+#: src/views/suppliers/SupplierLandingPage.js
+msgid ""
+"We are excited about the breadth of information, data analysis, and "
+"transparency that the ILM Suppliers Dashboard can provide. We look forward "
+"to our ongoing collaboration with you to support ethical labour recruitment "
+"and improved working conditions. If you have any questions, please contact "
+"your Issara Institute Supplier dashboard focal point."
+msgstr ""
+
+#: src/views/suppliers/SupplierLandingPage.js
+#, fuzzy
+#| msgid "Legal Violations"
+msgid "Legal Disclaimer"
+msgstr "Pelanggaran Hukum"
+
+#: src/views/suppliers/SupplierLandingPage.js
+msgid ""
+"While we have made our best efforts to ensure the accuracy and reliability "
+"of the information collected and contained in this dashboard, Issara "
+"Institute is not responsible for any errors or omissions, or for the results "
+"obtained from the use of this information."
+msgstr ""
+
+#: src/views/suppliers/SupplierLandingPage.js
+msgid ""
+"All information in this dashboard is provided \"as is\", with no guarantee "
+"of completeness, accuracy, timeliness or of the results obtained from the "
+"use of this information, and without warranty of any kind, express or "
+"implied, including, but not limited to warranties of performance, "
+"merchantability and fitness for a particular purpose. Nothing herein shall "
+"to any extent substitute for the independent investigation and the sound "
+"technical and business judgment of the reader."
+msgstr ""
+
+#: src/views/suppliers/SupplierLandingPage.js
+msgid ""
+"Any views, opinions and guidance set out in this dashboard are provided for "
+"information purposes only, and do not purport to be legal and/or "
+"professional advice or a definitive interpretation of any law. In no event "
+"will Issara Institute or its employees be liable to you or anyone else for "
+"any decision made or action taken in reliance on the information in this "
+"report or for any consequential, special or similar damages, even if advised "
+"of the possibility of such damages. The information contained in this "
+"dashboard is intended solely to provide general guidance on matters of "
+"interest for the use of the reader, who accepts full responsibility for its "
+"use."
 msgstr ""
 
 #: src/views/suppliers/SupplierList.js
 msgid "Supplier Updates"
-msgstr ""
+msgstr "Pembaruan pemasok"
 
 #: src/views/suppliers/SupplierList.js
 msgid "You have successfully updated suppliers anonymous flags"
-msgstr ""
+msgstr "Anda telah berhasil memperbarui bendera anonim pemasok"
 
 #: src/views/suppliers/SupplierList.js
 msgid "Error Occured:"
-msgstr ""
+msgstr "Terjadi error"
 
 #: src/views/suppliers/SupplierList.js
 msgid "Edit:"
-msgstr ""
+msgstr "Ubah:"
 
 #: src/views/suppliers/SupplierList.js
 msgid "Supplier Name"
-msgstr ""
+msgstr "Nama pemasok:"
 
 #: src/views/suppliers/SupplierList.js
 msgid "Anonymous"
-msgstr ""
+msgstr "Anonim"
 
 #: src/views/suppliers/SupplierList.js
 msgid "website"
-msgstr ""
+msgstr "Situs web"
 
 #: src/views/suppliers/SupplierList.js
 msgid "Company Description"
-msgstr ""
-
-#: src/views/suppliers/SupplierList.js
-msgid "Created"
-msgstr ""
+msgstr "Deskripsi perusahaan"
 
 #: src/views/suppliers/SupplierList.js
 msgid "Address"
-msgstr ""
+msgstr "Alamat"
 
 #: src/views/suppliers/SupplierList.js
 msgid "Zipcode"
-msgstr ""
+msgstr "Kode Pos"
 
 #: src/views/suppliers/SupplierList.js
 msgid "Industry"
-msgstr ""
+msgstr "Industri"
 
 #: src/views/suppliers/SupplierList.js
 msgid "Sub Industry"
-msgstr ""
+msgstr "Sub Industri"
 
 #: src/views/suppliers/SupplierList.js
 msgid "Contact Name"
-msgstr ""
+msgstr "Kontak"
 
 #: src/views/suppliers/SupplierList.js
 msgid "Contact Phone"
-msgstr ""
+msgstr "Nomor Telepon Kontak"
 
 #: src/views/suppliers/SupplierList.js
 msgid "Contact Email"
-msgstr ""
+msgstr "Email Kontak"
 
 #: src/views/suppliers/SupplierList.js
 msgid "Vessel Number"
-msgstr ""
+msgstr "Nomor kapal"
 
 #: src/views/suppliers/SupplierList.js
 msgid "Tier ID"
-msgstr ""
+msgstr "ID Tingkat"
 
 #: src/views/suppliers/SupplierList.js
 msgid "Cambodian Workers"
-msgstr ""
+msgstr "Pekerja Kamboja"
 
 #: src/views/suppliers/SupplierList.js
 msgid "Lao Workers"
-msgstr ""
+msgstr "Pekerja Laos"
 
 #: src/views/suppliers/SupplierList.js
 msgid "Myanmar Workers"
-msgstr ""
+msgstr "Pekerja Myanmar"
 
 #: src/views/suppliers/SupplierList.js
 msgid "Thai Workers"
-msgstr ""
+msgstr "Pekerja Thailand"
 
 #: src/views/suppliers/SupplierList.js
 msgid "Vietnamese Workers"
-msgstr ""
+msgstr "Pekerja Vietnam"
 
 #: src/views/suppliers/SupplierList.js
 msgid "Total Workers"
-msgstr ""
+msgstr "Jumlah pekerja "
 
 #: src/views/suppliers/SupplierList.js
 msgid "Supply Chains Name"
-msgstr ""
+msgstr "Nama Rantai Pasok"
 
 #: src/views/suppliers/SupplierList.js
 msgid "Lat"
-msgstr ""
+msgstr "Garis lintang"
 
 #: src/views/suppliers/SupplierList.js
 msgid "Lng"
-msgstr ""
+msgstr "Garis bujur"
 
 #: src/views/suppliers/SupplierList.js
 msgid "supply chain data"
-msgstr ""
+msgstr "Data rantai pasok"
 
 #: src/views/suppliers/SupplierList.js
 msgid "Search by Strategic Partners"
-msgstr ""
+msgstr "Cari berdasarkan Mitra Strategis"
 
 #: src/views/suppliers/SupplierList.js
 msgid "Search by worker Nationality"
-msgstr ""
+msgstr "Cari berdasarkan kewarganegaraan pekerja"
 
 #: src/views/suppliers/SupplierList.js
 msgid "Filter by Strategic Partners"
-msgstr ""
+msgstr "Saring berdasarkan Mitra Strategis"
 
 #: src/views/suppliers/SupplierList.js
 msgid "Filter by Suppliers"
-msgstr ""
+msgstr "Saring berdasarkan Pemasok"
 
 #: src/views/suppliers/SupplierList.js
 msgid "Worker Nationality"
-msgstr ""
-
-#: src/views/suppliers/SupplierList.js
-msgid "Download"
-msgstr ""
+msgstr "Kewarganegaraan Pekerja"
 
 #: src/views/suppliers/SupplierList.js
 msgid "Disable"
-msgstr ""
+msgstr "Dinonaktifkan"
 
 #: src/views/suppliers/SupplierList.js
 msgid "Enable"
-msgstr ""
+msgstr "Mengaktifkan"
 
 #: src/views/suppliers/SupplierList.js
 msgid "cleaning mode"
-msgstr ""
+msgstr "Mode pembersihan"
 
 #: src/views/suppliers/SupplierList.js
 msgid "Active Supply Chains"
-msgstr ""
+msgstr "Rantai Pasok yang Aktif"
 
 #: src/views/suppliers/SupplierList.js
 msgid "Thailand"
-msgstr ""
+msgstr "Thailand"
 
 #: src/views/suppliers/SupplierList.js
 msgid "total_num_thai_workers"
-msgstr ""
-
-#: src/views/suppliers/SupplierList.js
-msgid "Cambodia"
-msgstr ""
+msgstr "jumlah_total_pekerja_Thailand"
 
 #: src/views/suppliers/SupplierList.js
 msgid "total_num_cambodian_workers"
-msgstr ""
-
-#: src/views/suppliers/SupplierList.js
-msgid "Myanmar"
-msgstr ""
+msgstr "jumlah_total_pekerja_Kamboja "
 
 #: src/views/suppliers/SupplierList.js
 msgid "Laos"
-msgstr ""
+msgstr "Laos"
 
 #: src/views/suppliers/SupplierList.js
 msgid "total_num_lao_workers"
-msgstr ""
+msgstr "jumlah_total_pekerja_Laos "
 
 #: src/views/suppliers/SupplierList.js
 msgid "Vietnam"
-msgstr ""
+msgstr "Vietnam"
 
 #: src/views/suppliers/SupplierList.js
 msgid "total_num_vietnamese_workers"
-msgstr ""
+msgstr "jumlah_total_pekerja_Vietnam"
 
 #: src/views/suppliers/SupplierList.js
 msgid "Nepal"
-msgstr ""
+msgstr "Nepal"
 
 #: src/views/suppliers/SupplierList.js
 msgid "total_num_nepalese_workers"
-msgstr ""
+msgstr "jumlah_total_pekerja_Nepal"
 
 #: src/views/suppliers/SupplierList.js
 msgid "Bangladesh"
-msgstr ""
+msgstr "Bangladesh"
 
 #: src/views/suppliers/SupplierList.js
 msgid "total_num_bangladeshi_workers"
-msgstr ""
+msgstr "jumlah_total_pekerja_bangladesh"
 
 #: src/views/suppliers/SupplierList.js
 msgid "Indonesia"
-msgstr ""
+msgstr "Indonesia"
 
 #: src/views/suppliers/SupplierList.js
 msgid "total_num_indonesian_workers"
-msgstr ""
+msgstr "jumlah_total_pekerja_indonesia "
 
 #: src/views/suppliers/SupplierList.js
 msgid "India"
-msgstr ""
+msgstr "India"
 
 #: src/views/suppliers/SupplierList.js
 msgid "total_num_indian_workers"
-msgstr ""
+msgstr "jumlah_total_pekerja_india "
 
 #: src/views/suppliers/SupplierList.js
 msgid "Pakistan"
-msgstr ""
+msgstr "Pakistan"
 
 #: src/views/suppliers/SupplierList.js
 msgid "total_num_pakistani_workers"
-msgstr ""
+msgstr "jumlah_total_pekerja_pakistan"
 
 #: src/views/suppliers/SupplierList.js
 msgid "Sri Lanka"
-msgstr ""
+msgstr "Sri Lanka"
 
 #: src/views/suppliers/SupplierList.js
 msgid "total_num_sri_lankan_workers"
-msgstr ""
+msgstr "jumlah_total_pekerja_sri lanka "
 
 #: src/views/suppliers/SupplierList.js
 msgid "Merge duplicates"
-msgstr ""
+msgstr "Gabung duplikasi"
 
 #: src/views/suppliers/SupplierList.js
 msgid "Flip Anonymous Flag"
-msgstr ""
+msgstr "Balikkan bendera anonim"
 
 #: src/views/suppliers/SupplierList.js
 msgid "Following suppliers will be merged:"
-msgstr ""
+msgstr "Pemasok-pemasok berikut akan digabungkan"
 
 #: src/views/suppliers/SupplierList.js
 msgid "New Master"
-msgstr ""
+msgstr "Induk baru"
 
 #: src/views/suppliers/SupplierList.js
 msgid "Merge/Removal"
-msgstr ""
+msgstr "Gabung/Penghapusan"
 
 #: src/views/suppliers/SupplierModal.js
 msgid "website:"
-msgstr ""
+msgstr "Situs web:"
 
 #: src/views/suppliers/SupplierModal.js
 msgid "Company Description:"
-msgstr ""
+msgstr "Deskripsi perusahaan"
 
 #: src/views/suppliers/SupplierModal.js
 msgid "Created:"
-msgstr ""
+msgstr "Didirikan"
 
 #: src/views/suppliers/SupplierModal.js
 msgid "Address:"
-msgstr ""
+msgstr "Alamat:"
 
 #: src/views/suppliers/SupplierModal.js
 msgid "Zipcode:"
-msgstr ""
+msgstr "Kode pos:"
 
 #: src/views/suppliers/SupplierModal.js
 msgid "Province:"
-msgstr ""
+msgstr "Provinsi:"
 
 #: src/views/suppliers/SupplierModal.js
 msgid "District:"
-msgstr ""
+msgstr "Kabupaten:"
 
 #: src/views/suppliers/SupplierModal.js
 msgid "Industry:"
-msgstr ""
+msgstr "Industri"
 
 #: src/views/suppliers/SupplierModal.js
 msgid "Sub Industry:"
-msgstr ""
+msgstr "Sub Industri"
 
 #: src/views/suppliers/SupplierModal.js
 msgid "Lng:"
-msgstr ""
+msgstr "Garis lintang"
 
 #: src/views/suppliers/SupplierModal.js
 msgid "Lat:"
-msgstr ""
+msgstr "Garis bujur"
 
 #: src/views/suppliers/SupplierModal.js
 msgid "Contact:"
-msgstr ""
+msgstr "Kontak:"
 
 #: src/views/suppliers/SupplierModal.js
 msgid "contact_name:"
-msgstr ""
+msgstr "nama_kontak:"
 
 #: src/views/suppliers/SupplierModal.js
 msgid "contact_phone:"
-msgstr ""
+msgstr "nomor_telepon_kontak:"
 
 #: src/views/suppliers/SupplierModal.js
 msgid "contact_email:"
-msgstr ""
+msgstr "email_kontak"
 
 #: src/views/suppliers/SupplierModal.js
 msgid "vessel_number:"
-msgstr ""
+msgstr "nomor_kapal"
 
 #: src/views/suppliers/SupplierModal.js
 msgid "Work Environment:"
-msgstr ""
+msgstr "Lingkungan kerja"
 
 #: src/views/suppliers/SupplierModal.js
 msgid "name_harvesting_business:"
-msgstr ""
+msgstr "nama_perusahaan_pemanenan"
 
 #: src/views/suppliers/SupplierModal.js
 msgid "num_vessels_sourced_from:"
-msgstr ""
+msgstr "sumber_nomor_kendaraan"
 
 #: src/views/suppliers/SupplierModal.js
 msgid "total_num_workers:"
-msgstr ""
+msgstr "total_jumlah_pekerja"
 
 #: src/views/suppliers/SupplierModal.js
 msgid "total_num_men_workers:"
-msgstr ""
+msgstr "total_jumlah_pekerja_laki-laki"
 
 #: src/views/suppliers/SupplierModal.js
 msgid "total_num_women_workers:"
-msgstr ""
+msgstr "total_jumlah_pekerja_perempuan "
 
 #: src/views/suppliers/SupplierModal.js
 msgid "total_num_thai_workers:"
-msgstr ""
+msgstr "total_jumlah_pekerja_thailand"
 
 #: src/views/suppliers/SupplierModal.js
 msgid "total_num_cambodian_workers:"
-msgstr ""
+msgstr "total_jumlah_pekerja_kamboja"
 
 #: src/views/suppliers/SupplierModal.js
 msgid "total_num_myanmar_workers:"
-msgstr ""
+msgstr "total_jumlah_pekerja_myanmar"
 
 #: src/views/suppliers/SupplierModal.js
 msgid "total_num_lao_workers:"
-msgstr ""
+msgstr "total_jumlah_pekerja_laos"
 
 #: src/views/suppliers/SupplierModal.js
 msgid "total_num_vietnamese_workers:"
-msgstr ""
+msgstr "total_jumlah_pekerja_vietnam"
 
 #: src/views/suppliers/SupplierModal.js
 msgid "total_num_nepalese_workers:"
-msgstr ""
+msgstr "total_jumlah_pekerja_nepal"
 
 #: src/views/suppliers/SupplierModal.js
 msgid "total_num_bangladeshi_workers:"
-msgstr ""
+msgstr "total_jumlah_pekerja_bangladesh"
 
 #: src/views/suppliers/SupplierModal.js
 msgid "total_num_indonesian_workers:"
-msgstr ""
+msgstr "total_jumlah_pekerja_indonesia"
 
 #: src/views/suppliers/SupplierModal.js
 msgid "total_num_malaysian_workers:"
-msgstr ""
+msgstr "total_jumlah_pekerja_malaysia"
 
 #: src/views/suppliers/SupplierModal.js
 msgid "total_num_indian_workers:"
-msgstr ""
+msgstr "total_jumlah_pekerja_india"
 
 #: src/views/suppliers/SupplierModal.js
 msgid "total_num_pakistani_workers:"
-msgstr ""
+msgstr "total_jumlah_pekerja_pakistan"
 
 #: src/views/suppliers/SupplierModal.js
 msgid "total_num_sri_lankan_workers:"
-msgstr ""
+msgstr "total_jumlah_pekerja_sri lanka"
 
 #: src/views/suppliers/SupplierModal.js
 msgid "Informative:"
-msgstr ""
+msgstr "Informatif:"
 
 #: src/views/suppliers/SupplierModal.js
 msgid "hiring_practice:"
-msgstr ""
+msgstr "praktek_perekrutan"
 
 #: src/views/suppliers/SupplierModal.js
 msgid "Recruiter:"
-msgstr ""
+msgstr "Perekrut"
 
 #: src/views/suppliers/SupplierModal.js
 msgid "recruiter:"
-msgstr ""
+msgstr "perekrut:"
 
 #: src/views/suppliers/SupplierModal.js
 msgid "other:"
-msgstr ""
+msgstr "lainnya:"
 
 #: src/views/suppliers/SupplierModal.js
 msgid "Supply Chains"
-msgstr ""
+msgstr "Rantai pasok:"
 
 #: src/views/suppliers/SupplierModal.js
 msgid "name"
-msgstr ""
+msgstr "nama"
 
 #: src/views/suppliers/SupplierModal.js
 msgid "Reports"
-msgstr ""
-
-#: src/views/suppliers/SupplierModal.js
-msgid "There is worker voice in this workplace"
-msgstr ""
-
-#: src/views/suppliers/SupplierModal.js
-msgid "There is no worker voice in this workplace"
-msgstr ""
+msgstr "Laporan"
 
 #: src/views/suppliers/SupplierModal.js
 msgid "Worker Voice Rolled Out"
-msgstr ""
+msgstr "Suara Pekerja diluncurkan"
 
 #: src/views/suppliers/SupplierModal.js
+#, fuzzy
+#| msgid "Is NOT Engaged with supplier and worker voice NOT rolled out"
 msgid "Engaged with supplier and worker voice rolled out"
-msgstr ""
+msgstr "Pemasok tidak dilibatkan dan Suara Pekerja tidak diluncurkan"
 
 #: src/views/suppliers/SupplierModal.js
 msgid "Is NOT Engaged with supplier and worker voice NOT rolled out"
-msgstr ""
+msgstr "Pemasok tidak dilibatkan dan Suara Pekerja tidak diluncurkan"
 
 #: src/views/suppliers/SupplierModal.js
 msgid "Google Maps:"
-msgstr ""
+msgstr "Google Maps:"
 
 #: src/views/suppliers/SupplierModal.js
 msgid "total workers"
-msgstr ""
+msgstr "Jumlah pekerja"
 
 #: src/views/suppliers/SupplierModal.js
 msgid "total men workers"
-msgstr ""
+msgstr "jumlah pekerja laki-laki"
 
 #: src/views/suppliers/SupplierModal.js
 msgid "total women workers"
-msgstr ""
+msgstr "jumlah pekerja perempuan"
 
 #: src/views/suppliers/SupplierModal.js
 msgid "Thai workers"
-msgstr ""
+msgstr "Pekerja Thailand"
 
 #: src/views/suppliers/SupplierModal.js
 msgid "Cambodian workers"
-msgstr ""
+msgstr "Pekerja Kamboja"
 
 #: src/views/suppliers/SupplierModal.js
 msgid "Myanmar workers"
-msgstr ""
+msgstr "Pekerja Myanmar"
 
 #: src/views/suppliers/SupplierModal.js
 msgid "Lao workers"
-msgstr ""
+msgstr "Pekerja Laos"
 
 #: src/views/suppliers/SupplierModal.js
 msgid "Vietanmese workers"
-msgstr ""
+msgstr "Pekerja Vietnam"
 
 #: src/views/suppliers/SupplierModal.js
 msgid "Nepalese workers"
-msgstr ""
+msgstr "Pekerja Nepal"
 
 #: src/views/suppliers/SupplierModal.js
 msgid "Bangladeshi workers"
-msgstr ""
+msgstr "Pekerja Bangladesh"
 
 #: src/views/suppliers/SupplierModal.js
 msgid "Indonesian workers"
-msgstr ""
+msgstr "Pekerja Indonesia"
 
 #: src/views/suppliers/SupplierModal.js
 msgid "Malaysian workers"
-msgstr ""
+msgstr "Pekerja Malaysia"
 
 #: src/views/suppliers/SupplierModal.js
 msgid "Indian workers"
-msgstr ""
+msgstr "Pekerja India"
 
 #: src/views/suppliers/SupplierModal.js
 msgid "Pakistani workers"
-msgstr ""
+msgstr "Pekerja Pakistan"
 
 #: src/views/suppliers/SupplierModal.js
 msgid "Sri Lankan workers"
+msgstr "Pekerja Sri Lanka"
+
+#: src/views/suppliers/SupplierProgressDashboard.js
+msgid ""
+"WORK INDICATOR 1. Supplier performance in relation to responding to worker-"
+"reported grievances and collaborating with Issara Institute staff"
+msgstr ""
+
+#: src/views/suppliers/SupplierProgressDashboard.js
+msgid ""
+"WORK INDICATOR 2. % of worker-reported issues in the supply chain resolved "
+"in under 60 days"
+msgstr ""
+
+#: src/views/suppliers/SupplierProgressDashboard.js
+msgid ""
+"WORK INDICATOR 3. % of remediation efforts of specific issues resolved at "
+"Poor, Fair, Good and Excellent level"
+msgstr ""
+
+#: src/views/suppliers/SupplierProgressDashboard.js
+msgid "x"
+msgstr ""
+
+#: src/views/suppliers/SupplierProgressDashboard.js
+msgid "Worker Calls and Messages By Month"
+msgstr ""
+
+#: src/views/suppliers/SupplierProgressDashboard.js
+msgid "WORKER VOICE"
+msgstr ""
+
+#: src/views/suppliers/SupplierProgressDashboard.js
+msgid ""
+"Grey = Not yet initiated; Yellow = Partial progress; Green = Completed/"
+"ongoing"
+msgstr ""
+
+#: src/views/suppliers/SupplierProgressDashboard.js
+msgid "LABOUR RECRUITMENT"
+msgstr ""
+
+#: src/views/suppliers/SupplierProgressDashboard.js
+msgid "WORKING CONDITIONS"
+msgstr ""
+
+#: src/views/suppliers/SupplierProgressDashboard.js
+msgid "ACTIVITIES & ACHIEVEMENTS SUMMARY"
+msgstr ""
+
+#: src/views/suppliers/SupplierProgressDashboard.js
+#, fuzzy
+#| msgid "No. of New Workers Connected To Workers Voice Channels"
+msgid "Number of workers with access to Issara worker voice channels"
+msgstr "Jumlah pekerja yang terhubung dengan Saluran Suara Pekerja"
+
+#: src/views/suppliers/SupplierProgressDashboard.js
+msgid "Not available"
+msgstr ""
+
+#: src/views/suppliers/SupplierProgressDashboard.js
+msgid "Date of most recent worker satisfaction survey"
+msgstr ""
+
+#: src/views/suppliers/SupplierProgressDashboard.js
+msgid "Date of most recent recruitment survey"
+msgstr ""
+
+#: src/views/suppliers/SupplierProgressDashboard.js
+msgid "Number of workers reimbursed recruitment fees"
+msgstr ""
+
+#: src/views/suppliers/SupplierProgressDashboard.js
+msgid "Remaining number of workers owed recruitment fee reimbursement"
+msgstr ""
+
+#: src/views/suppliers/SupplierProgressDashboard.js
+msgid "Total amount of recruitment fees reimbursed to workers (US dollars)"
+msgstr ""
+
+#: src/views/suppliers/SupplierProgressDashboard.js
+msgid ""
+"Remaining amount owed, recruitment fee reimbursement to workers (US dollars)"
 msgstr ""
 
 #: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
 msgid "Estimated number of workers reached"
-msgstr ""
-
-#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
-msgid "Total"
-msgstr ""
+msgstr "Perkiraan jumlah pekerja yang dijangkau"
 
 #: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
 msgid "This value can not be greater than the total"
-msgstr ""
+msgstr "Nilainya tidak bisa lebih besar daripada jumlah total"
 
 #: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
 msgid "Cambodian"
-msgstr ""
-
-#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
-msgid "Lao"
-msgstr ""
-
-#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
-msgid "Nepalese"
-msgstr ""
-
-#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
-msgid "Bangladeshi"
-msgstr ""
-
-#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
-msgid "Indonesian"
-msgstr ""
-
-#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
-msgid "Malaysian"
-msgstr ""
+msgstr "Warga negara Kamboja"
 
 #: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
 msgid "Indian"
-msgstr ""
+msgstr "Warga negara India"
 
 #: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
 msgid "Total ({total_workers_reached})"
@@ -2516,48 +3069,48 @@ msgstr ""
 #: src/views/TeamActivity/WV_and_ER_metrix.js
 #: src/views/users/ChangePasswordForm.js
 msgid "Well done!"
-msgstr ""
+msgstr "Selamat!"
 
 #: src/views/TeamActivity/FieldworkActivityForm.js
 msgid "New fieldwork activity has been successfully created"
-msgstr ""
+msgstr "Kegiatan kerja lapangan yang baru berhasil ditambahkan"
 
 #: src/views/TeamActivity/FieldworkActivityForm.js
 msgid "Please contact a developer"
-msgstr ""
+msgstr "Silakan hubungi pembuat aplikasi"
 
 #: src/views/TeamActivity/FieldworkActivityForm.js
 msgid "Link"
-msgstr ""
+msgstr "Tautan"
 
 #: src/views/TeamActivity/FieldworkActivityForm.js
 msgid "Enter link here"
-msgstr ""
+msgstr "Masukkan tautan di sini"
 
 #: src/views/TeamActivity/FieldworkActivityForm.js
 msgid "Add More Link"
-msgstr ""
+msgstr "Tambah tautan"
 
 #: src/views/TeamActivity/FieldworkActivityForm.js
 msgid "Date of fieldwork"
-msgstr ""
+msgstr "Tanggal kerja lapangan"
 
 #: src/views/TeamActivity/FieldworkActivityForm.js
 #: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
 msgid "Click here to open calendar"
-msgstr ""
+msgstr "Ketuk di sini untuk membuka kalender"
 
 #: src/views/TeamActivity/FieldworkActivityForm.js
 msgid "Please choose the date"
-msgstr ""
+msgstr "Pilih tanggal"
 
 #: src/views/TeamActivity/FieldworkActivityForm.js
 msgid "Please choose a fieldwork type"
-msgstr ""
+msgstr "Pilih jenis kerja lapangan"
 
 #: src/views/TeamActivity/FieldworkActivityForm.js
 msgid "Please fix the errors above"
-msgstr ""
+msgstr "Perbaiki error di atas"
 
 #: src/views/TeamActivity/FieldworkActivityForm.js
 msgid ""
@@ -2565,131 +3118,186 @@ msgid ""
 "account and to add new Items you must have 'Activity User' Group added to "
 "your account ."
 msgstr ""
+"*Catatan: Untuk mengubah, anda harus memiliki status Grup \"Manajemen Issara"
+"\" di akun anda. Untuk menambah item baru, anda harus memiliki status Grup "
+"\"Aktivitas Pengguna \" di akun Anda "
 
 #: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
 msgid "New monthly worker voice record has been successfully created"
-msgstr ""
+msgstr "Data suara pekerja bulanan yang baru telah berhasil dibuat"
 
 #: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
 #: src/views/TeamActivity/WV_and_ER_metrix.js
 msgid "Month Year"
-msgstr ""
+msgstr "Bulan Tahun"
 
 #: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
 msgid "Burmese Titok messages"
-msgstr ""
+msgstr "Pesan di Tiktok bahasa Burma"
+
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Nepalese Tiktok messages"
+msgstr "Pesan Tiktok bahasa Nepal"
 
 #: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
 msgid "Bangladeshi Facebook messenger"
-msgstr ""
+msgstr "Facebook Messenger bahasa Bangladesh"
 
 #: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
 msgid "Bangladeshi hotline"
-msgstr ""
+msgstr "Hotline bahasa Bangladesh"
 
 #: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
 msgid "Bangladeshi Whatsapp"
-msgstr ""
+msgstr "WhatsApp bahasa Bangladesh"
+
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Bangladeshi Tiktok messages"
+msgstr "Pesan Tiktok bahasa Bangladesh"
+
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Burmese hotline in Thailand"
+msgstr "Hotline bahasa Burma di Thailand"
+
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Burmese hotline in Myanmar"
+msgstr "Hotline bahasa Burma di Myanmar"
+
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Burmese Facebook messenger"
+msgstr "Facebook messenger bahasa Burma"
+
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Burmese LINE messages"
+msgstr "Pesan di LINE bahasa Burma"
+
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Khmer hotline"
+msgstr "Hotline bahasa Khmer"
+
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Khmer Facebook messenger"
+msgstr "Facebook messenger bahasa Khmer"
+
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Khmer LINE"
+msgstr "LINE bahasa Khmer"
 
 #: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
 msgid "Khmer Telegram"
-msgstr ""
+msgstr "Telegram bahasa Khmer"
+
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Thai Hotline"
+msgstr "Hotline bahasa Thailand"
 
 #: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
 msgid "Thai Facebook Messenger"
-msgstr ""
+msgstr "Facebook Messenger bahasa Thailand "
+
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Thai LINE"
+msgstr "LINE bahasa Thailand"
+
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Burmese Viber in Thailand"
+msgstr "Viber bahasa Burma di Thailand"
 
 #: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
 msgid "Indonesian WhatsApp in Malaysia"
-msgstr ""
+msgstr "WhatsApp bahasa Indonesia di Malaysia "
 
 #: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
 msgid "Indonesian hotline in Malaysia"
-msgstr ""
+msgstr "Hotline bahasa Indonesia di Malaysia "
 
 #: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
 msgid "Nepalese WhatsApp"
-msgstr ""
+msgstr "WhatsApp bahasa Nepal"
 
 #: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
 msgid "Nepalese hotline"
-msgstr ""
+msgstr "Hotline bahasa Nepal "
 
 #: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
 msgid "Nepalese Facebook Messenger"
-msgstr ""
+msgstr "Facebook messenger bahasa Nepal "
 
 #: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
 msgid "Burmese WhatsApp in Malaysia"
-msgstr ""
+msgstr "WhatsApp bahasa Burma di Malaysia"
+
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Burmese Viber in Malaysia"
+msgstr "Viber bahasa Burma di Malaysia"
 
 #: src/views/TeamActivity/WV_and_ER_metrix.js
 msgid "record has been successfully created"
-msgstr ""
+msgstr "Data berhasil dibuat"
 
 #: src/views/TeamActivity/WV_and_ER_metrix.js
 msgid "Click here to open calendar *"
-msgstr ""
+msgstr "Ketuk di sini untuk membuka kalender"
 
 #: src/views/TeamActivity/WV_and_ER_metrix.js
 msgid "Date field is required"
-msgstr ""
+msgstr "Kolom tanggal wajib diisi"
 
 #: src/views/TeamActivity/WV_and_ER_metrix.js
-msgid "No. of Workers Connected To Workers Voice Channels"
-msgstr ""
+msgid "No. of New Workers Connected To Workers Voice Channels"
+msgstr "Jumlah pekerja yang terhubung dengan Saluran Suara Pekerja"
 
 #: src/views/TeamActivity/WV_and_ER_metrix.js
 msgid "No. of Workers Receiving Remedition"
-msgstr ""
+msgstr "Jumlah pekerja yang menerima remediasi"
 
 #: src/views/TeamActivity/WV_and_ER_metrix.js
 msgid "No. of Workers Reached In Pre-Departure NE"
-msgstr ""
+msgstr "Jumlah Pekerja yang dijangkau di pra-penempatan Nepal"
 
 #: src/views/TeamActivity/WV_and_ER_metrix.js
 msgid "No. of Workers Reached In Pre-Departure MM"
-msgstr ""
+msgstr "Jumlah Pekerja yang dijangkau di pra-penempatan Myanmar"
 
 #: src/views/TeamActivity/WV_and_ER_metrix.js
 msgid "No. of Recruitment Agencies Trained"
-msgstr ""
+msgstr "Jumlah Agen Perekrutan yang sudah dilatih"
 
 #: src/views/TeamActivity/WV_and_ER_metrix.js
 msgid "No. of Suppliers Trained"
-msgstr ""
+msgstr "Jumlah Pemasok yang sudah dilatih"
 
 #: src/views/TeamActivity/WV_and_ER_metrix.js
 msgid "No. of Trained Worker Leaders/Mobilizers"
-msgstr ""
+msgstr "Jumlah Pimpinan/Penggerak Pekerja yang sudah dilatih"
 
 #: src/views/teamtasks/EnhancedTeamTasksList.js
 msgid "Show finished"
-msgstr ""
+msgstr "Tunjukkan selesai"
 
 #: src/views/teamtasks/EnhancedTeamTasksList.js
 msgid "Source ID"
-msgstr ""
+msgstr "ID sumber"
 
 #: src/views/teamtasks/EnhancedTeamTasksList.js
 msgid "Source Type"
-msgstr ""
+msgstr "Jenis sumber"
 
 #: src/views/teamtasks/EnhancedTeamTasksList.js
 msgid "Assigned by"
-msgstr ""
+msgstr "Ditugaskan oleh"
 
 #: src/views/teamtasks/EnhancedTeamTasksList.js
 msgid "Assigned to"
-msgstr ""
+msgstr "Ditugaskan kepada"
 
 #: src/views/users/ChangePasswordForm.js
 msgid "Password has been successfully changed."
-msgstr ""
+msgstr "Sandi berhasil diubah"
 
 #: src/views/users/ChangePasswordForm.js
 msgid "Old Password"
-msgstr ""
+msgstr "Sandi lama"
 
 #: src/views/users/ChangePasswordForm.js
 msgid "lock_outline"
@@ -2697,38 +3305,76 @@ msgstr ""
 
 #: src/views/users/ChangePasswordForm.js
 msgid "New Password"
-msgstr ""
+msgstr "Sandi baru"
 
 #: src/views/users/ChangePasswordForm.js
 msgid "Re-Enter Password to Verify"
-msgstr ""
+msgstr "Ketik ulang sandi untuk verifikasi"
 
 #: src/views/users/ChangePasswordForm.js
 msgid "Update"
-msgstr ""
+msgstr "Pembaruan"
 
 #: src/views/users/ForgotPasswordView.js
 msgid "Reset your password"
-msgstr ""
+msgstr "Reset sandi anda"
 
 #: src/views/users/ForgotPasswordView.js
 msgid "Email"
-msgstr ""
+msgstr "Email"
 
 #: src/views/users/ForgotPasswordView.js
 msgid "The input is not valid Email"
-msgstr ""
+msgstr "Ini bukan alamat email yang benar"
 
 #: src/views/users/ForgotPasswordView.js
 msgid "Please input your Email"
-msgstr ""
+msgstr "Masukkan alamat email anda"
 
 #: src/views/users/ForgotPasswordView.js
 msgid "Send reset link"
-msgstr ""
+msgstr "Kirimkan tautan reset"
 
 #: src/views/users/ForgotPasswordView.js
 msgid ""
 "We will send password reset link to this email address, please change your "
 "password within 24 hours."
 msgstr ""
+"Kami akan mengirimkan tautan reset sandi ke alamat email ini, silakan ubah "
+"sandi anda dalam waktu 24 jam "
+
+#~ msgid "Thai Facebook"
+#~ msgstr "Facebook bahasa Thailand"
+
+#~ msgid "Indonesian Whatsapp Total"
+#~ msgstr "Total jumlah WhatsApp bahasa Indonesia"
+
+#~ msgid "Indonesian Hotline Total"
+#~ msgstr "Total jumlah Hotline bahasa Indonesia"
+
+#~ msgid "Nepalese Whatsapp Total"
+#~ msgstr "Total jumlah WhatsApp bahasa Nepal"
+
+#~ msgid "Nepalese Hotline Total"
+#~ msgstr "Total jumlah Hotline bahasa Nepal"
+
+#~ msgid "Nepalese Facebook Total"
+#~ msgstr "Total jumlah Facebook bahasa Nepal"
+
+#~ msgid "Burmese Whatsapp Total"
+#~ msgstr "Total jumlah WhatsApp bahasa Burma"
+
+#~ msgid "Burmese Tiktok messages"
+#~ msgstr "Pesan Tiktok bahasa Burma"
+
+#~ msgid "Bangladeshi Facebook Messenger"
+#~ msgstr "Facebook Messenger bahasa Bangladesh"
+
+#~ msgid "Bangladeshi Hotline"
+#~ msgstr "Hotline bahasa Bangladesh"
+
+#~ msgid "Bangladeshi WhatsApp"
+#~ msgstr "WhatsApp bahasa Bangladesh"
+
+#~ msgid "Pemasok dilibatkan dan Suara Pekerja diluncurkan"
+#~ msgstr "Melibatkan pemasok dan Suara Pekerja diluncurkan"
