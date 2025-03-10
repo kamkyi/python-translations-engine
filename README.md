@@ -133,30 +133,24 @@ Assuming your project directory is structured as follows:
 
 ```
 TRANSLATIONS_ENGINE/
-├── po_to_excel.py
-├── excel_to_po.py
-├── po_to_excels_two.py
-├── excels_to_pos_two.py
+├── po_files_to_single_excel_file.py
+├── single_excel_file_to_po_files.py
 ├── config.json
 ├── po_files/
 │   ├── kh.po
 │   ├── bn.po
 │   ├── mm.po
 ├── excel/
-│   ├── multi.xlsx
-├── excel_two/
-│   ├── multi_two.xlsx
+│   ├── multiple_translations.xlsx
 ├── updated_po_files/
-├── updated_po_files_two/
 ```
 
-- `po_to_excel.py` and `excel_to_po.py` are the scripts for basic conversion.
-- `po_to_excels_two.py` and `excels_to_pos_two.py` are the scripts for enhanced conversion with additional fields and metadata.
+- `po_files_to_single_excel.py` and `excel_to_po_files.py` are the scripts for basic conversion.
+- `po_to_excels_two.py` and `single_excel_to_po_files.py` are the scripts for enhanced conversion with additional fields and metadata.
 - `config.json` is the configuration file containing the relative paths.
 - `po_files/` is the directory containing your PO files.
-- `excel/` is the directory containing your Excel files.
-- `excel_two/` is the directory containing your enhanced Excel files.
-- `updated_po_files/` and `updated_po_files_two/` are the directories where the output PO files will be saved.
+- `excel/` is the directory containing your Excel files and also it's the source directory to pick the excel and convert to multiple-po files
+- `updated_po_files/` is the directory where the output PO files will be saved.
 
 ## Notes
 
