@@ -1,41 +1,114 @@
-# Python Translations Engine
+# Translation Management
 
-## Setup Instructions
+This project provides tools for converting PO files to a single Excel file and vice versa. It also includes a graphical user interface (GUI) for ease of use.
 
-1. Create a virtual environment:
+## Setup
 
-   ```sh
-   python3 -m venv venv
-   ```
+### 1. Create a virtual environment
 
-2. Activate the virtual environment:
+```sh
+python3 -m venv venv
+```
 
-   ```sh
-   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-   ```
+### 2. Activate the virtual environment
 
-3. Install the dependencies:
+On Linux/macOS:
 
-   ```sh
-   pip install -r requirements.txt
-   ```
+```sh
+source venv/bin/activate
+```
+
+On Windows:
+
+```sh
+venv\Scripts\activate
+```
+
+### 3. Install the dependencies
+
+```sh
+pip install -r requirements.txt
+```
+
+### 4. Install `tkinter`
+
+On Ubuntu/Debian-based systems:
+
+```sh
+sudo apt-get update
+sudo apt-get install python3-tk
+```
+
+On Fedora:
+
+```sh
+sudo dnf install python3-tkinter
+```
+
+On Windows and macOS, `tkinter` is included with the standard Python installation.
+
+## Running the UI Application
+
+To run the graphical user interface (GUI) application, execute the following command:
+
+```sh
+python ui.py
+```
+
+This will open a window where you can select PO files, specify an Excel file path, and convert between PO and Excel files using a graphical interface.
 
 ## Usage
 
-### Convert PO Files to a Single Excel File
+### PO Files to Excel
 
-To convert PO files located in the `po_files` directory to a single Excel file in the `excel` directory, run:
+1. Click on the "Browse" button to select PO files.
+2. Click on the "Browse" button to specify the path for the Excel file.
+3. Click on the "Convert" button to convert the selected PO files to an Excel file.
 
-```sh
-python po_files_to_single_excel_file.py
+### Excel to PO Files
+
+1. Click on the "Browse" button to select an Excel file.
+2. Click on the "Browse" button to specify the output directory for the PO files.
+3. Click on the "Convert" button to convert the selected Excel file to PO files.
+
+## Example Usage in Scripts
+
+### PO Files to Excel
+
+```python
+# filepath: /home/kamkyi/python-translations-engine/po_files_to_single_excel_file.py
+if __name__ == "__main__":
+    config_path = os.path.join(os.path.dirname(__file__), "config.json")
+    with open(config_path, "r") as config_file:
+        config = json.load(config_file)
+
+    po_file_paths = [os.path.join(os.path.dirname(__file__), path) for path in config["po_file_paths"]]
+    excel_file_path = os.path.join(os.path.dirname(__file__), config["excel_file_path"])
+
+    # Ensure the directory exists
+    os.makedirs(os.path.dirname(excel_file_path), exist_ok=True)
+
+    po_to_excel(po_file_paths, excel_file_path)
 ```
 
-### Convert a Single Excel File to PO Files
+### Excel to PO Files
 
-To convert an Excel file located in the `excel` directory to PO files in the `updated_po_files` directory, run:
+```python
+# filepath: /home/kamkyi/python-translations-engine/single_excel_file_to_po_files.py
+if __name__ == "__main__":
+    config_path = os.path.join(os.path.dirname(__file__), "config.json")
+    with open(config_path, "r") as config_file:
+        config = json.load(config_file)
 
-```sh
-python single_excel_file_to_po_files.py
+    excel_file_path = os.path.join(os.path.dirname(__file__), config["excel_file_path"])
+    output_directory = os.path.join(os.path.dirname(__file__), "updated_po_files")
+
+    if not os.path.exists(excel_file_path):
+        print(f"Excel file not found: {excel_file_path}")
+    else:
+        if not os.path.exists(output_directory):
+            os.makedirs(output_directory)
+        excel_to_po(excel_file_path, output_directory)
 ```
 
 ## Configuration
