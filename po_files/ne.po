@@ -3,14 +3,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2024-06-27 15:38+0700\n"
+"PO-Revision-Date: 2025-03-10 14:08+0700\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ne\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.4.3\n"
+"X-Generator: Poedit 3.5\n"
 "X-Poedit-Basepath: .\n"
 
 #: src/views/calls/WizardSteps/EmploymentFields.js
@@ -33,6 +33,12 @@ msgstr ""
 msgid "5"
 msgstr ""
 
+#: src/components/Async/SuppliersPaginateDropdown.js
+#, fuzzy
+#| msgid "Select Gender"
+msgid "Selected"
+msgstr "लिङ्ग चयन गर्नुहोस्"
+
 #: src/components/Charts/SupplierKpisTimelineChart.js
 #, fuzzy
 #| msgid "Supplier KPI Deleted"
@@ -40,7 +46,6 @@ msgid "Supplier KPIs timeline chart"
 msgstr "रोजगारदाता KPI मेटाइयो"
 
 #: src/components/Charts/SupplierKpisTimelineChart.js
-#: src/components/ilmdb/KpiCategoriesDropdown.js
 msgid "Fetching KPI categories.."
 msgstr "मुख्य कामका सूचकका (KPI) प्रकारहरू खोज्दै ....."
 
@@ -52,13 +57,27 @@ msgid "KPI Categories"
 msgstr "मुख्य कामका सूचकका (KPI) प्रकारहरू"
 
 #: src/components/Charts/SupplierKpisTimelineChart.js
-#, fuzzy
-#| msgid "Please choose a fieldwork type"
-msgid "Please choose a supplier"
-msgstr "कृपया फिल्डवर्क प्रकार छान्नुहोस्"
+msgid "Please select supplier from above filters."
+msgstr ""
 
 #: src/components/Charts/SupplierKpisTimelineChart.js
 msgid "This supplier doesn't have any KPI History for the chosen period of time and category"
+msgstr ""
+
+#: src/components/Charts/SupplierKpisTimelineChart.js
+#, fuzzy
+#| msgid "Loading Data..."
+msgid "Loading chart.."
+msgstr "डाटा लोड गर्दै..."
+
+#: src/components/Charts/SupplierKpisTimelineChart.js
+#, fuzzy
+#| msgid "KPI(s)"
+msgid "KPI"
+msgstr "मुख्य कामका सूचक (हरु)"
+
+#: src/components/Charts/SupplierKpisTimelineChart.js
+msgid "Time"
 msgstr ""
 
 #: src/components/Footer/Footer.js
@@ -68,6 +87,541 @@ msgstr "इसरा इन्स्टिच्युट"
 #: src/components/Footer/Footer.js
 msgid "All rights reserved. V3.0.0"
 msgstr "सबै अधिकार सुरक्षित। V3.0.0"
+
+#: src/components/Grievance/GrievanceComponent.js
+msgid "KPI ID :"
+msgstr ""
+
+#: src/components/Grievance/GrievanceComponent.js
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "-"
+msgstr ""
+
+#: src/components/Grievance/GrievanceComponent.js
+msgid "KPI :"
+msgstr ""
+
+#: src/components/Grievance/GrievanceComponent.js
+#, fuzzy
+#| msgid "Opened since:"
+msgid "Opened since: "
+msgstr "देखि खोलिएको:"
+
+#: src/components/Grievance/GrievanceComponent.js
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "Affected workers:"
+msgstr "प्रभावित कामदारहरु:"
+
+#: src/components/Grievance/GrievanceComponent.js
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "1-10"
+msgstr ""
+
+#: src/components/Grievance/GrievanceComponent.js
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "11-50"
+msgstr ""
+
+#: src/components/Grievance/GrievanceComponent.js
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "51-100"
+msgstr ""
+
+#: src/components/Grievance/GrievanceComponent.js
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "101-500"
+msgstr ""
+
+#: src/components/Grievance/GrievanceComponent.js
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "501-1000"
+msgstr ""
+
+#: src/components/Grievance/GrievanceComponent.js
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "1000+"
+msgstr ""
+
+#: src/components/Grievance/GrievanceComponent.js
+#, fuzzy
+#| msgid "Affected workers:"
+msgid "Affected workers: "
+msgstr "प्रभावित कामदारहरु:"
+
+#: src/components/Grievance/GrievanceComponent.js
+#, fuzzy
+#| msgid "Level:"
+msgid "Level: "
+msgstr "तह"
+
+#: src/components/Grievance/GrievanceComponent.js
+#, fuzzy
+#| msgid "days active"
+msgid "Day active: "
+msgstr "दिन सक्रिय"
+
+#: src/components/Grievance/GrievanceComponent.js
+#, fuzzy
+#| msgid "Status:"
+msgid "Status: "
+msgstr "स्थिति:"
+
+#: src/components/Grievance/GrievanceComponent.js
+#, fuzzy
+#| msgid "Issues"
+msgid "Issues: "
+msgstr "मुद्दाहरू"
+
+#: src/components/Grievance/GrievanceComponent.js
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+#, fuzzy
+#| msgid "Issues"
+msgid "Issues:"
+msgstr "मुद्दाहरू"
+
+#: src/components/Grievance/GrievanceComponent.js
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+#, fuzzy
+#| msgid "Remediation Results:"
+msgid "Remediation Notes (Summary):"
+msgstr "सामाधानको परिणाम"
+
+#: src/components/Grievance/GrievanceComponent.js
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+#, fuzzy
+#| msgid "Location:"
+msgid "Action:"
+msgstr "स्थान:"
+
+#: src/components/Grievance/GrievanceComponent.js
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+#, fuzzy
+#| msgid "Worker Nationality"
+msgid "Worker Validation:"
+msgstr "श्रमिक राष्ट्रियता"
+
+#: src/components/Grievance/GrievanceComponent.js
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+#, fuzzy
+#| msgid "Search Results"
+msgid "Results:"
+msgstr "खोज परिणामहरू"
+
+#: src/components/Grievance/GrievanceForm.js
+msgid "1. Introduction: Interactive Ethical Grievance Management Tool"
+msgstr ""
+
+#: src/components/Grievance/GrievanceForm.js
+msgid "2. Information collection"
+msgstr ""
+
+#: src/components/Grievance/GrievanceForm.js
+#, fuzzy
+#| msgid "Affected workers:"
+msgid "3. Safeguarding affected workers"
+msgstr "प्रभावित कामदारहरु:"
+
+#: src/components/Grievance/GrievanceForm.js
+msgid "4. Ensuring an ethical investigation"
+msgstr ""
+
+#: src/components/Grievance/GrievanceForm.js
+msgid "5. Communicating with the workers reporting issues"
+msgstr ""
+
+#: src/components/Grievance/GrievanceForm.js
+msgid "6. Monitoring and communicating finds more broadly"
+msgstr ""
+
+#: src/components/Grievance/GrievanceForm.js
+msgid "7. Trainings"
+msgstr ""
+
+#: src/components/Grievance/GrievanceForm.js
+msgid ""
+"Would you like assistance from Issara Institute to follow up on ethical grievance processes?"
+msgstr ""
+
+#: src/components/Grievance/GrievanceForm.js
+msgid "Would you like to save the grievance form as a draft before leaving?"
+msgstr ""
+
+#: src/components/Grievance/PreviewGrievance.js
+#, fuzzy
+#| msgid "Suppliers Trained"
+msgid "Supplier Grievance Preview"
+msgstr "प्रशिक्षित रोजगारदाताहरु"
+
+#: src/components/Grievance/PreviewGrievance.js
+#, fuzzy
+#| msgid "Interaction Reason"
+msgid "Information Collection"
+msgstr "अन्तरक्रिया कारण"
+
+#: src/components/Grievance/PreviewGrievance.js
+#: src/components/Grievance/Tabs/InformationCollection.js
+msgid ""
+"Please review the information shared in ILM. Do you want to talk to Issara to get more "
+"context on the worker-reported issue?"
+msgstr ""
+
+#: src/components/Grievance/PreviewGrievance.js
+#: src/components/Grievance/Tabs/InformationCollection.js
+msgid ""
+"Have you checked with the HR team to see if similar worker-reported issues have been filed "
+"and/or solved recently?"
+msgstr ""
+
+#: src/components/Grievance/PreviewGrievance.js
+#: src/components/Grievance/Tabs/InformationCollection.js
+msgid ""
+"Is this worker-reported issue a repeat issue, meaning that there might be a root cause that "
+"needs to be identified and addressed?"
+msgstr ""
+
+#: src/components/Grievance/PreviewGrievance.js
+#: src/components/Grievance/Tabs/CommunicatingWithTheWorkers.js
+#: src/components/Grievance/Tabs/EnsuringAnEthicalInvestigation.js
+#: src/components/Grievance/Tabs/InformationCollection.js
+#: src/components/Grievance/Tabs/SafeguardingAffectedWorkers.js
+#, fuzzy
+#| msgid "General Notes"
+msgid "Additional Notes"
+msgstr "सामान्य नोटहरू"
+
+#: src/components/Grievance/PreviewGrievance.js
+#, fuzzy
+#| msgid "Affected workers:"
+msgid "Safeguarding Affected Workers"
+msgstr "प्रभावित कामदारहरु:"
+
+#: src/components/Grievance/PreviewGrievance.js
+#: src/components/Grievance/Tabs/SafeguardingAffectedWorkers.js
+msgid "Is zero tolerance of retaliation being followed by everyone involved in this case?"
+msgstr ""
+
+#: src/components/Grievance/PreviewGrievance.js
+#: src/components/Grievance/Tabs/SafeguardingAffectedWorkers.js
+msgid ""
+"Have you reviewed all the possible individuals identified in the worker-reported issue and "
+"conducted a risk assessment to ensure that workers remain safe during the duration of the "
+"grievance investigation and remediation?"
+msgstr ""
+
+#: src/components/Grievance/PreviewGrievance.js
+msgid ""
+"Have you reviewed all the possible individuals that would be involved in the grievance "
+"investigation and remediation process, including interpreters, and ensured that there are no "
+"conflicts of interest?"
+msgstr ""
+
+#: src/components/Grievance/PreviewGrievance.js
+#: src/components/Grievance/Tabs/SafeguardingAffectedWorkers.js
+msgid ""
+"All individuals have received the training ensuring they understand how to prioritize "
+"safety, confidentiality, privacy and company protocols for efficient response to worker-"
+"reported issues?"
+msgstr ""
+
+#: src/components/Grievance/PreviewGrievance.js
+#: src/components/Grievance/Tabs/SafeguardingAffectedWorkers.js
+msgid ""
+"Has a trained and impartial individual reached out to the worker(s) to introduce themselves "
+"as the case focal point, inform them that the company is about to launch an investigation "
+"into their grievance, specify the start date, and confirm that there are no conflicts of "
+"interest within the investigation team?"
+msgstr ""
+
+#: src/components/Grievance/PreviewGrievance.js
+msgid "Ensuring an Ethical Investigation"
+msgstr ""
+
+#: src/components/Grievance/PreviewGrievance.js
+#: src/components/Grievance/Tabs/EnsuringAnEthicalInvestigation.js
+msgid ""
+"Ethical. Have you reviewed all possible individuals to be involved in the investigation, "
+"including interpreters, and ensured that all are fully committed to 'do no harm' and "
+"maintaining worker safeguards at all times?"
+msgstr ""
+
+#: src/components/Grievance/PreviewGrievance.js
+#: src/components/Grievance/Tabs/EnsuringAnEthicalInvestigation.js
+msgid ""
+"Professional. Have you ensured that responsible persons in the grievance process are "
+"knowledgeable, qualified, and trained to serve impartially in the grievance process?"
+msgstr ""
+
+#: src/components/Grievance/PreviewGrievance.js
+#: src/components/Grievance/Tabs/EnsuringAnEthicalInvestigation.js
+msgid ""
+"Impartial. Have you ensured that responsible persons in the grievance process have no biases "
+"and can refrain from making snap judgments when hearing the perspectives of workers versus "
+"other worksite staff?"
+msgstr ""
+
+#: src/components/Grievance/PreviewGrievance.js
+#: src/components/Grievance/Tabs/EnsuringAnEthicalInvestigation.js
+msgid ""
+"Inclusive and Accessible. Have you identified all the language, gender, and literacy "
+"considerations for effective communication with the worker, and have you communicated with "
+"the worker the range of ways they can get in touch with you?"
+msgstr ""
+
+#: src/components/Grievance/PreviewGrievance.js
+#: src/components/Grievance/Tabs/EnsuringAnEthicalInvestigation.js
+msgid ""
+"Timely and Effective. Have you established responsible timelines and goals for investigation "
+"and remediation that take into account both the interests of the business and the worker?"
+msgstr ""
+
+#: src/components/Grievance/PreviewGrievance.js
+msgid "Communicating with the workers"
+msgstr ""
+
+#: src/components/Grievance/PreviewGrievance.js
+#: src/components/Grievance/Tabs/CommunicatingWithTheWorkers.js
+msgid ""
+"Throughout the investigation and upon its conclusion, have you stayed in touch with the "
+"worker to check on their well-being and whether the investigation has had any positive or "
+"negative impacts on them?"
+msgstr ""
+
+#: src/components/Grievance/PreviewGrievance.js
+#: src/components/Grievance/Tabs/CommunicatingWithTheWorkers.js
+msgid ""
+"Do you need help with any more complex consequences arising from the worker-reported issue, "
+"such as psychosocial support for the worker, the need to quickly repatriate a worker, etc.?"
+msgstr ""
+
+#: src/components/Grievance/PreviewGrievance.js
+#, fuzzy
+#| msgid "Workers Receiving Remedition"
+msgid "Monitoring and Communication"
+msgstr "न्याय प्राप्त गर्ने श्रमिक संख्या"
+
+#: src/components/Grievance/PreviewGrievance.js
+#: src/components/Grievance/Tabs/MonitoringAndCommunication.js
+msgid "Remediation"
+msgstr "उपचार"
+
+#: src/components/Grievance/PreviewGrievance.js
+#: src/components/Grievance/Tabs/MonitoringAndCommunication.js
+msgid "Systems Strengthening and Continuous Improvement"
+msgstr ""
+
+#: src/components/Grievance/PreviewGrievance.js
+#, fuzzy
+#| msgid "Ratings"
+msgid "Trainings"
+msgstr "मूल्याङ्कनहरू"
+
+#: src/components/Grievance/PreviewGrievance.js
+msgid "Submit"
+msgstr ""
+
+#: src/components/Grievance/SummaryComponent.js
+#: src/components/Grievance/Tabs/PrevTextDataComponent.js
+#, fuzzy
+#| msgid "Updated:"
+msgid "Updated At "
+msgstr "अद्यावधिक गरिएको:"
+
+#: src/components/Grievance/Tabs/CommunicatingWithTheWorkers.js
+#: src/components/Grievance/Tabs/EnsuringAnEthicalInvestigation.js
+#: src/components/Grievance/Tabs/InformationCollection.js
+#: src/components/Grievance/Tabs/SafeguardingAffectedWorkers.js
+#: src/views/calls/WizardSteps/CallActionFields.js
+#: src/views/calls/WizardSteps/CallIssuesForm.js src/views/calls/WizardSteps/RecruiterFields.js
+#: src/views/suppliers/SupplierKpiUpdateForm.js
+msgid "Yes"
+msgstr "छ"
+
+#: src/components/Grievance/Tabs/CommunicatingWithTheWorkers.js
+#: src/components/Grievance/Tabs/EnsuringAnEthicalInvestigation.js
+#: src/components/Grievance/Tabs/SafeguardingAffectedWorkers.js
+msgid "No, not yet, but I will do so"
+msgstr ""
+
+#: src/components/Grievance/Tabs/CommunicatingWithTheWorkers.js
+#: src/components/Grievance/Tabs/EnsuringAnEthicalInvestigation.js
+#: src/components/Grievance/Tabs/SafeguardingAffectedWorkers.js
+msgid "No, I do not think that is necessary"
+msgstr ""
+
+#: src/components/Grievance/Tabs/CommunicatingWithTheWorkers.js
+#: src/components/Grievance/Tabs/EnsuringAnEthicalInvestigation.js
+#: src/components/Grievance/Tabs/SafeguardingAffectedWorkers.js
+msgid "Please describe why?"
+msgstr ""
+
+#: src/components/Grievance/Tabs/CommunicatingWithTheWorkers.js
+#: src/components/Grievance/Tabs/InformationCollection.js
+#: src/components/Grievance/Tabs/SafeguardingAffectedWorkers.js
+#: src/views/calls/WizardSteps/CallActionFields.js
+#: src/views/calls/WizardSteps/CallIssuesForm.js src/views/calls/WizardSteps/RecruiterFields.js
+#: src/views/suppliers/SupplierKpiUpdateForm.js
+msgid "No"
+msgstr "छैन"
+
+#: src/components/Grievance/Tabs/CommunicatingWithTheWorkers.js
+msgid ""
+"The Issara team will be notified of this and will reach out to you soon! Issara Institute "
+"has trained trauma-informed counselors, teams working in the origin countries of the "
+"workers, and a network of trusted service providers, all which are happy to help with "
+"complex cases and service needs."
+msgstr ""
+
+#: src/components/Grievance/Tabs/CommunicatingWithTheWorkers.js
+#: src/components/Grievance/Tabs/EnsuringAnEthicalInvestigation.js
+#: src/components/Grievance/Tabs/InformationCollection.js
+#: src/components/Grievance/Tabs/MonitoringAndCommunication.js
+#: src/components/Grievance/Tabs/SafeguardingAffectedWorkers.js
+msgid "Save as Draft"
+msgstr ""
+
+#: src/components/Grievance/Tabs/InformationCollection.js
+#, fuzzy
+#| msgid "Vot Needs"
+msgid "No Need"
+msgstr "भोट आवश्यकता"
+
+#: src/components/Grievance/Tabs/InformationCollection.js
+msgid "Yes, I want more information from my Issara focal"
+msgstr ""
+
+#: src/components/Grievance/Tabs/InformationCollection.js
+msgid "Yes, I already reached out to my Issara focal"
+msgstr ""
+
+#: src/components/Grievance/Tabs/Introduction.js
+msgid "Ethical"
+msgstr ""
+
+#: src/components/Grievance/Tabs/Introduction.js
+#, fuzzy
+#| msgid "Profile"
+msgid "Professional"
+msgstr "प्रोफाइल"
+
+#: src/components/Grievance/Tabs/Introduction.js
+msgid "Inclusive"
+msgstr ""
+
+#: src/components/Grievance/Tabs/Introduction.js
+msgid "Accessible"
+msgstr ""
+
+#: src/components/Grievance/Tabs/Introduction.js
+msgid "Safe"
+msgstr ""
+
+#: src/components/Grievance/Tabs/Introduction.js
+msgid "Impartial"
+msgstr ""
+
+#: src/components/Grievance/Tabs/Introduction.js
+msgid "Timely action"
+msgstr ""
+
+#: src/components/Grievance/Tabs/Introduction.js
+#, fuzzy
+#| msgid "Affected"
+msgid "Effective"
+msgstr "प्रभावित"
+
+#: src/components/Grievance/Tabs/Introduction.js
+msgid ""
+"The ILM interactive grievance management tool allows you to receive and review ongoing "
+"worker feedback and worker-reported issues at your site, and respond in a timely and ethical "
+"manner. Functioning ethical grievance mechanisms must always have two things: (1) "
+"Safeguarded workers, and (2) Responsive, respectful employers and recruiters. To review more "
+"on the 8 components of Ethical Grievance Mechanisms, please download the one-page primer "
+"here "
+msgstr ""
+
+#: src/components/Grievance/Tabs/Introduction.js
+msgid "PDF"
+msgstr ""
+
+#: src/components/Grievance/Tabs/Introduction.js
+msgid "Reminder! The 8 components of Ethical Grievance Mechanisms: "
+msgstr ""
+
+#: src/components/Grievance/Tabs/Introduction.js
+#: src/views/Dashboard/SPWorkPlanning/SPMainGoalsForm.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIntroForm.js
+msgid "Next"
+msgstr ""
+
+#: src/components/Grievance/Tabs/MonitoringAndCommunication.js
+msgid ""
+"Case updates entered here are time-stamped and viewable by your team, the Issara team, and "
+"your customers that are Strategic Partners in the ILM system. If there is any additional "
+"information that you would like to add regarding Remediation or Systems Strengthening and "
+"Continuous Improvement, please enter it here:"
+msgstr ""
+
+#: src/components/Grievance/Tabs/MonitoringAndCommunication.js
+#, fuzzy
+#| msgid "Progress on remediation:"
+msgid "Please add notes on case remediation"
+msgstr "उपचारमा प्रगति:"
+
+#: src/components/Grievance/Tabs/MonitoringAndCommunication.js
+msgid ""
+"Please add notes on Systems Strengthening and Continuous Improvement related to this worker-"
+"reported issue"
+msgstr ""
+
+#: src/components/Grievance/Tabs/MonitoringAndCommunication.js
+#: src/components/Grievance/Tabs/Trainings.js
+msgid "Preview & Submit"
+msgstr ""
+
+#: src/components/Grievance/Tabs/PrevTextDataComponent.js
+#, fuzzy
+#| msgid "Notes"
+msgid "Note"
+msgstr "नोटहरू"
+
+#: src/components/Grievance/Tabs/SafeguardingAffectedWorkers.js
+msgid ""
+"The remediation case is at risk. The Issara team will be following up with your company's "
+"focal point to discuss how to safeguard all affected workers from retaliation, and build "
+"better systems for zero tolerance against retaliation, and build better systems for zero "
+"tolerance against retaliation."
+msgstr ""
+
+#: src/components/Grievance/Tabs/SafeguardingAffectedWorkers.js
+msgid ""
+"The remediation case is at risk. The Issara team will be following up with your company's "
+"focal point to discuss how to safeguard all affected workers from retaliation, and build "
+"better systems for zero tolerance against retaliation."
+msgstr ""
+
+#: src/components/Grievance/Tabs/SafeguardingAffectedWorkers.js
+msgid ""
+"Have you reviewed all the possible individuals that would be involved in the grievance "
+"investigation and remediation process, including interpreters, and ensured that:"
+msgstr ""
+
+#: src/components/Grievance/Tabs/SafeguardingAffectedWorkers.js
+msgid ""
+"Is there any conflict of interest? Please do not proceed until it is certain that there are "
+"no relationships or conflicts of interest between grievance response personnel and the "
+"individual(s) who are the subjects of the complaint."
+msgstr ""
+
+#: src/components/Grievance/Tabs/SafeguardingAffectedWorkers.js
+msgid "Your Issara focal has been notified; they will reach out to you soon."
+msgstr ""
+
+#: src/components/Grievance/Tabs/Trainings.js
+msgid ""
+"Please review the list of trainings below and indicate if you would like to request any of "
+"them from Issara. "
+msgstr ""
 
 #: src/components/ilmdb/CallerStatusDropdown.js src/views/calls/InteractionCallModal.js
 msgid "Client Status"
@@ -217,7 +771,8 @@ msgid "How did the client hear about Issara? (check all that apply)"
 msgstr "ग्राहकले इसराको बारेमा कसरी सुन्नुभयो? (लागू हुने सबै जाँच गर्नुहोस्)"
 
 #: src/components/ilmdb/HowHearIssara.js src/views/Dashboard/KpiReferencesList.js
-#: src/views/Dashboard/SupplyChainDashboardKpi.js src/views/references/KpiReferencesList.js
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+#: src/views/Dashboard/SupplyChainDashboardWorker.js src/views/references/KpiReferencesList.js
 msgid "Loading..."
 msgstr "लोड हुँदै….."
 
@@ -233,9 +788,18 @@ msgstr "संस्थाको कर्मचारी"
 msgid "Issara Staff"
 msgstr "इसराको कर्मचारी"
 
+#: src/components/ilmdb/IssueCategoriesDropdown.js src/views/calls/InteractionCallList.js
+#: src/views/calls/InteractionCallModal.js
+msgid "Issue Category"
+msgstr "मुद्दा प्रकार"
+
 #: src/components/ilmdb/KpiCategoriesDropdown.js
-msgid "KPI category"
-msgstr "मुख्य कामका सूचकका (KPI) प्रकारहरू"
+msgid "Fetching category of worker-reported issue..."
+msgstr ""
+
+#: src/components/ilmdb/KpiCategoriesDropdown.js
+msgid "Category of worker-reported issue"
+msgstr ""
 
 #: src/components/ilmdb/KpiSelector.js
 msgid "KPI(s)"
@@ -305,30 +869,110 @@ msgstr "रेफरल कार्वाहीहरू"
 msgid "Organization Name"
 msgstr "संस्थाकाे नाम"
 
+#: src/components/ilmdb/SupplierKpiUpdateStatusesDropdown.js
+msgid "Status of progress on this KPI"
+msgstr ""
+
+#: src/components/ilmdb/SupplierKpiUpdateStatusesDropdown.js
+msgid "Status of KPI Progress"
+msgstr ""
+
 #: src/components/ilmdb/SuppliersDropdown.js
 msgid "Fetching suppliers.."
 msgstr "रोजगारदाताहरू खोज्दै ….."
 
-#: src/components/Navbars/AdminNavbarLinks.js src/components/Navbars/AdminNavbarLinks.Old.js
+#: src/components/ilmdb/SupplyChainFilter.js src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/Dashboard/SupplierKpiDashboard.js
+#: src/views/suppliers/kpiupdates/SupplierKpiFilters.js
+#: src/views/suppliers/SupplierKpiDashboard.js src/views/suppliers/SupplierKPIsList.js
+msgid "End"
+msgstr "अन्त्य"
+
+#: src/components/ilmdb/SupplyChainFilter.js src/views/calls/InteractionCallList.js
+msgid "Search"
+msgstr "खोज्नुहोस्"
+
+#: src/components/ilmdb/SupplyChainFilter.js src/routes.js
+#: src/views/calls/InteractionCallList.js src/views/calls/WizardSteps/RequiredCallFields.js
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/strategicpartners/SupplierProgressDashboard.js
+#: src/views/suppliers/kpiupdates/SupplierKpiFilters.js src/views/suppliers/SupplierKPIsList.js
+#: src/views/TeamActivity/FieldworkActivityForm.js
+msgid "Suppliers"
+msgstr "रोजगारदाताहरु"
+
+#: src/components/ilmdb/SupplyChainFilter.js
+#, fuzzy
+#| msgid "Non-Supply Chain"
+msgid "No Supply Chain Selected"
+msgstr "गैर-आपूर्ति श्रृंखला"
+
+#: src/components/ilmdb/SupplyChainFilter.js
+#, fuzzy
+#| msgid "Select Gender"
+msgid "Select All"
+msgstr "लिङ्ग चयन गर्नुहोस्"
+
+#: src/components/ilmdb/SupplyChainFilter.js
+msgid "Un-select All"
+msgstr ""
+
+#: src/components/ilmdb/SupplyChainFilter.js
+msgid "Select Suppliers by Country"
+msgstr ""
+
+#: src/components/ilmdb/SupplyChainFilter.js
+msgid "Select Suppliers by Status"
+msgstr ""
+
+#: src/components/ilmdb/SupplyChainFilter.js
+msgid "No Suppliers Exist Under these Search Parameters"
+msgstr ""
+
+#: src/components/ilmdb/SupplyChainFilter.js
+msgid "Close Checkbox Panel"
+msgstr ""
+
+#: src/components/Indicator/IndicatorInfo.js
+msgid "Grey = Not yet initiated"
+msgstr ""
+
+#: src/components/Indicator/IndicatorInfo.js
+msgid "Yellow = Partial progress"
+msgstr ""
+
+#: src/components/Indicator/IndicatorInfo.js
+msgid "Green = Completed/ongoing"
+msgstr ""
+
+#: src/components/Maintenance/Maintenance.js
+msgid "This feature is currently under maintenance."
+msgstr ""
+
+#: src/components/Navbars/AdminNavbarLinks.js
 msgid "English"
 msgstr "अंग्रेजी"
 
-#: src/components/Navbars/AdminNavbarLinks.js src/components/Navbars/AdminNavbarLinks.Old.js
+#: src/components/Navbars/AdminNavbarLinks.js
 msgid "Nepali"
 msgstr "नेपाली"
 
-#: src/components/Navbars/AdminNavbarLinks.js src/components/Navbars/AdminNavbarLinks.Old.js
+#: src/components/Navbars/AdminNavbarLinks.js
+msgid "Bengali"
+msgstr ""
+
+#: src/components/Navbars/AdminNavbarLinks.js
 #: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
 msgid "Burmese"
 msgstr "बर्मेली"
 
-#: src/components/Navbars/AdminNavbarLinks.js src/components/Navbars/AdminNavbarLinks.Old.js
+#: src/components/Navbars/AdminNavbarLinks.js src/views/Dashboard/SupplierKpiDashboard.js
 #: src/views/suppliers/SupplierKpiDashboard.js
 #: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
 msgid "Thai"
 msgstr "थाई"
 
-#: src/components/Navbars/AdminNavbarLinks.js src/components/Navbars/AdminNavbarLinks.Old.js
+#: src/components/Navbars/AdminNavbarLinks.js
 msgid "Japanese"
 msgstr "जापानी"
 
@@ -338,15 +982,21 @@ msgstr "जापानी"
 msgid "Khmer"
 msgstr "खमेर लाइन"
 
-#: src/components/Navbars/AdminNavbarLinks.js src/components/Navbars/AdminNavbarLinks.Old.js
+#: src/components/Navbars/AdminNavbarLinks.js src/views/Dashboard/SupplierKpiDashboard.js
+#: src/views/suppliers/SupplierKpiDashboard.js
+#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
+msgid "Indonesian"
+msgstr "इन्डोनेसियाली"
+
+#: src/components/Navbars/AdminNavbarLinks.js
 msgid "Person"
 msgstr "व्यक्ति"
 
-#: src/components/Navbars/AdminNavbarLinks.js src/components/Navbars/AdminNavbarLinks.Old.js
+#: src/components/Navbars/AdminNavbarLinks.js
 msgid "Profile"
 msgstr "प्रोफाइल"
 
-#: src/components/Navbars/AdminNavbarLinks.js src/components/Navbars/AdminNavbarLinks.Old.js
+#: src/components/Navbars/AdminNavbarLinks.js
 msgid "Log out"
 msgstr "लगआउट"
 
@@ -363,6 +1013,8 @@ msgid "The application will be refreshed to effect the changed language."
 msgstr "परिवर्तन गरिएको भाषालाई लागु गर्न पार्न एपलाई रफ्रेस गरिनेछ।"
 
 #: src/components/Navbars/LanguageChangeDialog.js
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
 msgid "Cancel"
 msgstr "रद्द गर्नुहोस्"
 
@@ -377,20 +1029,45 @@ msgstr "ILM 3.0"
 #: src/routes.js
 #, fuzzy
 #| msgid "Suppliers Trained"
-msgid "Supplier Overview"
+msgid "Partner Overview"
 msgstr "प्रशिक्षित रोजगारदाताहरु"
 
 #: src/routes.js
-msgid "Progress Dashboard"
+#, fuzzy
+#| msgid "Worker Metrics"
+msgid "Worker Demographics"
+msgstr "श्रमिक मेट्रिक्स"
+
+#: src/routes.js
+msgid "Worker-Reported Issues"
 msgstr ""
 
 #: src/routes.js
-msgid "Worker Reported Issues"
+msgid "Workplanning"
 msgstr ""
 
 #: src/routes.js
-msgid "Kpi References"
-msgstr "KPI सन्दर्भ"
+msgid "SP Workplanning Form"
+msgstr ""
+
+#: src/routes.js
+#, fuzzy
+#| msgid "Worker Metrics"
+msgid "SP Progress Metrics"
+msgstr "श्रमिक मेट्रिक्स"
+
+#: src/routes.js
+msgid "Supplier Progress Dashboard"
+msgstr ""
+
+#: src/routes.js src/views/calls/InteractionCallModal.js src/views/calls/NewCallWizardView.js
+#: src/views/calls/WizardSteps/RecruiterFields.js
+msgid "Recruitment"
+msgstr "भर्ना"
+
+#: src/routes.js src/views/users/ChangePasswordForm.js
+msgid "Change Password"
+msgstr "पासवर्ड परिवर्तन गर्नुहोस्"
 
 #: src/routes.js
 msgid "Password Reset"
@@ -412,7 +1089,22 @@ msgstr "लक स्क्रिन पृष्ठ"
 msgid "Error Page"
 msgstr "त्रुटि पृष्ठ"
 
-#: src/routes.js src/views/suppliers/SupplierKpiDashboard.js src/views/suppliers/SupplierModal.js
+#: src/routes.js
+#, fuzzy
+#| msgid "Suppliers Trained"
+msgid "Supplier Overview"
+msgstr "प्रशिक्षित रोजगारदाताहरु"
+
+#: src/routes.js
+msgid "Progress Dashboard"
+msgstr ""
+
+#: src/routes.js
+msgid "Worker Reported Issues"
+msgstr ""
+
+#: src/routes.js src/views/Dashboard/SupplierKpiDashboard.js
+#: src/views/suppliers/SupplierKpiDashboard.js src/views/suppliers/SupplierModal.js
 msgid "Worker Voice"
 msgstr "श्रमिक आवाज"
 
@@ -464,13 +1156,6 @@ msgstr "मुख्य कामका सूचकका (KPI) अद्या
 msgid "View Supplier KPIs bulk update"
 msgstr "रोजगारदाता सम्बन्धी एकमुष्ठ KPIs अद्यावधिक हेर्नुहोस्"
 
-#: src/routes.js src/views/calls/InteractionCallList.js
-#: src/views/calls/WizardSteps/RequiredCallFields.js
-#: src/views/Dashboard/IssaraActivityDashboard.js src/views/suppliers/SupplierKPIsList.js
-#: src/views/TeamActivity/FieldworkActivityForm.js
-msgid "Suppliers"
-msgstr "रोजगारदाताहरु"
-
 #: src/routes.js
 msgid "View Suppliers"
 msgstr "रोजगारदाताहरु हेर्नुहोस्"
@@ -483,9 +1168,10 @@ msgstr "सन्दर्भहरू"
 msgid "Legal Violations"
 msgstr "कानुनी उल्लङ्घनहरू"
 
-#: src/routes.js src/views/users/ChangePasswordForm.js
-msgid "Change Password"
-msgstr "पासवर्ड परिवर्तन गर्नुहोस्"
+#: src/views/calls/InteractionCallList.js src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/Dashboard/SupplierMouThaiDashboard.js src/views/suppliers/SupplierKPIsList.js
+msgid "Download As XLS File"
+msgstr "XLS फाइलको रूपमा डाउनलोड गर्नुहोस्"
 
 #: src/views/calls/InteractionCallList.js
 msgid "Edit Item:"
@@ -502,6 +1188,12 @@ msgstr "यो कल आईडीको लागि कुनै KPIs लग�
 #: src/views/calls/InteractionCallList.js
 msgid "Worker Voice Calls"
 msgstr "श्रमिक आवाज कलहरू"
+
+#: src/views/calls/InteractionCallList.js
+#, fuzzy
+#| msgid "View Suppliers"
+msgid "Select Suppliers"
+msgstr "रोजगारदाताहरु हेर्नुहोस्"
 
 #: src/views/calls/InteractionCallList.js src/views/calls/InteractionCallModal.js
 #: src/views/calls/WizardSteps/RecruiterFields.js
@@ -525,13 +1217,11 @@ msgstr "मिति"
 msgid "Before Date:"
 msgstr "मिति अघि:"
 
-#: src/views/calls/InteractionCallList.js
-msgid "Search"
-msgstr "खोज्नुहोस्"
-
 #: src/views/calls/InteractionCallList.js src/views/Dashboard/IssaraActivityDashboard.js
 #: src/views/Dashboard/KpiReferencesList.js src/views/Dashboard/SupplyChainDashboardKpi.js
 #: src/views/references/KpiLegalViolationList.js src/views/references/KpiReferencesList.js
+#: src/views/suppliers/kpiupdates/SupplierKpiTable.js
+#: src/views/suppliers/kpiupdates/SupplierKpiUpdateHistoryTable.js
 #: src/views/suppliers/SupplierKPIsList.js src/views/suppliers/SupplierList.js
 #: src/views/teamtasks/EnhancedTeamTasksList.js
 msgid "Search Results"
@@ -539,16 +1229,12 @@ msgstr "खोज परिणामहरू"
 
 #: src/views/calls/InteractionCallList.js src/views/Dashboard/IssaraActivityDashboard.js
 #: src/views/Dashboard/SupplyChainDashboardKpi.js src/views/references/KpiLegalViolationList.js
-#: src/views/references/KpiReferencesList.js src/views/suppliers/SharedFileList.js
-#: src/views/suppliers/SupplierKPIsList.js src/views/teamtasks/EnhancedTeamTasksList.js
+#: src/views/references/KpiReferencesList.js src/views/suppliers/kpiupdates/SupplierKpiTable.js
+#: src/views/suppliers/kpiupdates/SupplierKpiUpdateHistoryTable.js
+#: src/views/suppliers/SharedFileList.js src/views/suppliers/SupplierKPIsList.js
+#: src/views/teamtasks/EnhancedTeamTasksList.js
 msgid "Found"
 msgstr "भेटियो"
-
-#: src/views/calls/InteractionCallList.js src/views/Dashboard/IssaraActivityDashboard.js
-#: src/views/Dashboard/SupplyChainDashboardKpi.js src/views/suppliers/SupplierKPIsList.js
-#: src/views/teamtasks/EnhancedTeamTasksList.js
-msgid "Search (Fuzzy Search Across all fields)"
-msgstr "खोज (सबै क्षेत्रहरूमा अस्पष्ट खोज)"
 
 #: src/views/calls/InteractionCallList.js
 msgid "Fetching..."
@@ -568,10 +1254,6 @@ msgstr "रोजगारदाताहरु"
 msgid "RecruiterSrc"
 msgstr "मेनपावर कम्पनीहरु Src"
 
-#: src/views/calls/InteractionCallList.js src/views/calls/InteractionCallModal.js
-msgid "Issue Category"
-msgstr "मुद्दा प्रकार"
-
 #: src/views/calls/InteractionCallList.js
 msgid "# Kpis"
 msgstr "# KPIs"
@@ -579,7 +1261,12 @@ msgstr "# KPIs"
 #: src/views/calls/InteractionCallList.js src/views/calls/InteractionCallModal.js
 #: src/views/Dashboard/KpiReferencesList.js src/views/Dashboard/SupplyChainDashboardKpi.js
 #: src/views/references/KpiLegalViolationList.js src/views/references/KpiReferencesList.js
-#: src/views/suppliers/SharedFileList.js src/views/suppliers/SupplierKPIsList.js
+#: src/views/strategicpartners/NewsUpdateList.js
+#: src/views/strategicpartners/PartnerMessageBoardList.js
+#: src/views/strategicpartners/PartnerReferenceDocList.js
+#: src/views/strategicpartners/SharedFileList.js
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js src/views/suppliers/SharedFileList.js
+#: src/views/suppliers/SupplierKPIsList.js src/views/suppliers/SupplierKpiUpdateForm.js
 msgid "Description"
 msgstr "विवरण"
 
@@ -712,11 +1399,6 @@ msgstr "पार गर्ने प्रदेश"
 #: src/views/calls/InteractionCallModal.js
 msgid "Crossing District"
 msgstr "पार गर्ने जिल्ला"
-
-#: src/views/calls/InteractionCallModal.js src/views/calls/NewCallWizardView.js
-#: src/views/calls/WizardSteps/RecruiterFields.js
-msgid "Recruitment"
-msgstr "भर्ना"
 
 #: src/views/calls/InteractionCallModal.js
 msgid "Upstream Broker"
@@ -888,8 +1570,11 @@ msgstr "अन्तरक्रियाहरू"
 msgid "Edit/Add Worker Call: "
 msgstr "सम्पादन गर्नुहोस् / श्रमिक कलथप्नुहोस्:"
 
-#: src/views/calls/NewCallWizardView.js src/views/landing/TeamActionForm.js
-#: src/views/TeamActivity/FieldworkActivityForm.js
+#: src/views/calls/NewCallWizardView.js src/views/Dashboard/SPWorkPlanning/SPMainGoalsForm.js
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIntroForm.js
+#: src/views/landing/TeamActionForm.js src/views/TeamActivity/FieldworkActivityForm.js
 #: src/views/TeamActivity/MonthlyWorkerVoiceForm.js src/views/TeamActivity/WV_and_ER_metrix.js
 msgid "Save"
 msgstr "सेभ गर्नुहोस्"
@@ -913,16 +1598,6 @@ msgstr "ग्राहकको सबैभन्दा अत्यावश�
 #: src/views/calls/WizardSteps/CallActionFields.js
 msgid "Consent to pass on details to employer, agency, referral partner?"
 msgstr "रोजगारदाता, मेनपावर कम्पनी, रेफरल पार्टनरलाई विस्तृत विवरणहरू प्रदान गर्न सहमति?"
-
-#: src/views/calls/WizardSteps/CallActionFields.js src/views/calls/WizardSteps/CallIssuesForm.js
-#: src/views/calls/WizardSteps/RecruiterFields.js
-msgid "Yes"
-msgstr "छ"
-
-#: src/views/calls/WizardSteps/CallActionFields.js src/views/calls/WizardSteps/CallIssuesForm.js
-#: src/views/calls/WizardSteps/RecruiterFields.js
-msgid "No"
-msgstr "छैन"
 
 #: src/views/calls/WizardSteps/CallActionFields.js
 msgid "Details on organization action (Referral Notes)"
@@ -1037,24 +1712,6 @@ msgstr "अन्तरक्रियाको मिति"
 msgid "Issues at this workplace"
 msgstr "यस कार्यस्थलमा समस्याहरू"
 
-#: src/views/calls/WizardSteps/CallIssues.js
-msgid "Instructions:"
-msgstr "निर्देशन:"
-
-#: src/views/calls/WizardSteps/CallIssues.js
-msgid ""
-"If the client is adding more information or updates on a previously reported issue, please "
-"click the green pen by the relevant KPI to update."
-msgstr ""
-"यदि क्लाइन्टले पहिले रिपोर्ट गरिएको मुद्दामा थप जानकारी वा अद्यावधिकहरू थप्दै हुनुहुन्छ भने, अपडेट गर्नको लागि "
-"सम्बन्धित KPI द्वारा हरियो कलममा क्लिक गर्नुहोस्।"
-
-#: src/views/calls/WizardSteps/CallIssues.js
-msgid ""
-"If the client is reporting a new issue at the workplace, please click the green New Issue "
-"button."
-msgstr "यदि ग्राहकले कार्यस्थलमा नयाँ मुद्दा रिपोर्ट गर्दै हुनुहुन्छ भने, कृपया हरियो नयाँ मुद्दा बटनमा क्लिक गर्नुहोस्।"
-
 #: src/views/calls/WizardSteps/CallIssuesForm.js
 msgid "Issue Description"
 msgstr "मुद्दा विवरण"
@@ -1099,7 +1756,8 @@ msgstr "मुद्दा लिङ्क"
 msgid "Enter Issue link here"
 msgstr "यहाँ मुद्दा लिङ्क प्रविष्ट गर्नुहोस्"
 
-#: src/views/calls/WizardSteps/CallIssuesForm.js src/views/TeamActivity/FieldworkActivityForm.js
+#: src/views/calls/WizardSteps/CallIssuesForm.js
+#: src/views/TeamActivity/FieldworkActivityForm.js
 msgid "Remove this link"
 msgstr "यो लिङ्क हटाउनुहोस्"
 
@@ -1112,8 +1770,8 @@ msgid ""
 "Business Ratings - How Does the client rate the following actors that were involved in their "
 "recruitment and employment ?"
 msgstr ""
-"व्यापार मूल्याङ्कन - ग्राहकले निम्न सरोकारवालाहरूलाई कसरी मूल्याङ्कन गर्छ जुन उनीहरूको भर्ना प्रकृया र रोजगारीमा "
-"संलग्न थिए?"
+"व्यापार मूल्याङ्कन - ग्राहकले निम्न सरोकारवालाहरूलाई कसरी मूल्याङ्कन गर्छ जुन उनीहरूको भर्ना प्रकृया र "
+"रोजगारीमा संलग्न थिए?"
 
 #: src/views/calls/WizardSteps/EmploymentFields.js
 msgid "(1 very low, 5 very high)"
@@ -1135,14 +1793,16 @@ msgstr "रोजगारदाताद्वारा ऋण बन्धन?
 msgid ""
 "If there is employer debt bondage, please provide details on amounts, to whom, how paid, etc"
 msgstr ""
-"यदि रोजगारदाताद्वारा ऋण बन्धन छ भने, कृपया रकम, कसलाई, कसरी भुक्तानी गरियो, आदि विवरणहरू प्रदान गर्नुहोस्"
+"यदि रोजगारदाताद्वारा ऋण बन्धन छ भने, कृपया रकम, कसलाई, कसरी भुक्तानी गरियो, आदि विवरणहरू प्रदान "
+"गर्नुहोस्"
 
 #: src/views/calls/WizardSteps/RecruiterFields.js
 msgid "Broker Debt Bondage?"
 msgstr "दलालद्वारा ऋण बन्धन?"
 
 #: src/views/calls/WizardSteps/RecruiterFields.js
-msgid "If there is broker debt bondage, please provide details on amounts, to whom, how paid, etc"
+msgid ""
+"If there is broker debt bondage, please provide details on amounts, to whom, how paid, etc"
 msgstr "यदि दलालद्वारा ऋण बन्धन छ भने, कृपया रकम, कसलाई, कसरी तिरेको, आदि विवरणहरू प्रदान गर्नुहोस्"
 
 #: src/views/calls/WizardSteps/RequiredCallFields.js
@@ -1178,6 +1838,18 @@ msgstr "कृपया जानकारी भर्नुहोस् र �
 #: src/views/calls/WizardSteps/RequiredCallFields.js
 msgid "Required Info"
 msgstr "आवश्यक जानकारी"
+
+#: src/views/calls/WizardSteps/RequiredCallFields.js
+#: src/views/strategicpartners/SupplierProgressDashboard.js
+#, fuzzy
+#| msgid "Please choose a fieldwork type"
+msgid "Select a supplier"
+msgstr "कृपया फिल्डवर्क प्रकार छान्नुहोस्"
+
+#: src/views/Dashboard/CallsAndMessagesFromWorkersChart.js
+#: src/views/suppliers/SupplierKpiDashboard.js
+msgid "Calls and Messages from Workers"
+msgstr ""
 
 #: src/views/Dashboard/FieldworkActivityModal.js
 msgid "Fieldwork Activity #{id}"
@@ -1227,11 +1899,6 @@ msgstr "नोट:"
 msgid "Links:"
 msgstr "लिङ्कहरू:"
 
-#: src/views/Dashboard/IssaraActivityDashboard.js src/views/suppliers/SupplierKPIsList.js
-#: src/views/teamtasks/EnhancedTeamTasksList.js
-msgid "Download As XLS File"
-msgstr "XLS फाइलको रूपमा डाउनलोड गर्नुहोस्"
-
 #: src/views/Dashboard/IssaraActivityDashboard.js
 #, fuzzy
 #| msgid "Nationality"
@@ -1242,28 +1909,27 @@ msgstr "राष्ट्रियता"
 msgid "Filter by Nationalities is not yet implemented"
 msgstr ""
 
-#: src/views/Dashboard/IssaraActivityDashboard.js src/views/suppliers/SupplierKpiDashboard.js
-#: src/views/suppliers/SupplierKPIsList.js
+#: src/views/Dashboard/IssaraActivityDashboard.js src/views/Dashboard/SupplierKpiDashboard.js
+#: src/views/suppliers/kpiupdates/SupplierKpiFilters.js
+#: src/views/suppliers/SupplierKpiDashboard.js src/views/suppliers/SupplierKPIsList.js
 msgid "Between"
 msgstr "बीचमा"
 
-#: src/views/Dashboard/IssaraActivityDashboard.js src/views/suppliers/SupplierKpiDashboard.js
-#: src/views/suppliers/SupplierKPIsList.js
+#: src/views/Dashboard/IssaraActivityDashboard.js src/views/Dashboard/SupplierKpiDashboard.js
+#: src/views/suppliers/kpiupdates/SupplierKpiFilters.js
+#: src/views/suppliers/SupplierKpiDashboard.js src/views/suppliers/SupplierKPIsList.js
 msgid "Start"
 msgstr "सुरु गर्नुहोस्"
 
-#: src/views/Dashboard/IssaraActivityDashboard.js src/views/suppliers/SupplierKpiDashboard.js
-#: src/views/suppliers/SupplierKPIsList.js
+#: src/views/Dashboard/IssaraActivityDashboard.js src/views/Dashboard/SupplierKpiDashboard.js
+#: src/views/suppliers/kpiupdates/SupplierKpiFilters.js
+#: src/views/suppliers/SupplierKpiDashboard.js src/views/suppliers/SupplierKPIsList.js
 msgid "And"
 msgstr "र"
 
-#: src/views/Dashboard/IssaraActivityDashboard.js src/views/suppliers/SupplierKpiDashboard.js
-#: src/views/suppliers/SupplierKPIsList.js
-msgid "End"
-msgstr "अन्त्य"
-
-#: src/views/Dashboard/IssaraActivityDashboard.js src/views/suppliers/SupplierKpiDashboard.js
-#: src/views/suppliers/SupplierKPIsList.js
+#: src/views/Dashboard/IssaraActivityDashboard.js src/views/Dashboard/SupplierKpiDashboard.js
+#: src/views/suppliers/kpiupdates/SupplierKpiFilters.js
+#: src/views/suppliers/SupplierKpiDashboard.js src/views/suppliers/SupplierKPIsList.js
 msgid "Reset all"
 msgstr "सबै रिसेट गर्नुहोस्"
 
@@ -1280,14 +1946,20 @@ msgid "Total Worker Cases"
 msgstr "श्रमिकका मुद्दाहरू जम्मा"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/Dashboard/TotalWorkerCasesSummaryPanels.js
+#: src/views/suppliers/SupplierKpiDashboard.js
 msgid "Men"
 msgstr "पुरुष"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/Dashboard/TotalWorkerCasesSummaryPanels.js
+#: src/views/suppliers/SupplierKpiDashboard.js
 msgid "Women"
 msgstr "महिलाहरु"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/Dashboard/TotalWorkerCasesSummaryPanels.js
+#: src/views/suppliers/SupplierKpiDashboard.js
 msgid "Unknown"
 msgstr "अज्ञात"
 
@@ -1304,7 +1976,9 @@ msgid "Suppliers Trained"
 msgstr "प्रशिक्षित रोजगारदाताहरु"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
-msgid "Workers Reached In Pre-Departure MM"
+#, fuzzy
+#| msgid "Workers Reached In Pre-Departure MM"
+msgid "Workers Reached In Pre-Departure Myanmar"
 msgstr "पूर्वप्रस्थान अभिमुखीकरणलिने श्रमिकको संख्या म्यानमार"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
@@ -1320,14 +1994,16 @@ msgid "Recruitment Agencies Trained"
 msgstr "प्रशिक्षित मेनपावर कम्पनीहरु"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
-msgid "Workers Reached In Pre-Departure NE"
+#, fuzzy
+#| msgid "Workers Reached In Pre-Departure NE"
+msgid "Workers Reached In Pre-Departure Nepal"
 msgstr "पूर्वप्रस्थान अभिमुखीकरणलिने श्रमिकको संख्या नेपाल"
 
-#: src/views/Dashboard/IssaraActivityDashboard.js src/views/TeamActivity/WV_and_ER_metrix.js
+#: src/views/Dashboard/IssaraActivityDashboard.js
 msgid "Remediation For Recruitment Fees and Cases"
 msgstr "भर्ना शुल्क र मुद्दाहरूको लागि उपचार"
 
-#: src/views/Dashboard/IssaraActivityDashboard.js src/views/TeamActivity/WV_and_ER_metrix.js
+#: src/views/Dashboard/IssaraActivityDashboard.js
 msgid "Recruitment-Related Fees Detected and Intercepted"
 msgstr "भर्ना-सम्बन्धि शुल्कहरु लिएको पता लगाइयो र हस्तक्षेप गरियो"
 
@@ -1343,16 +2019,32 @@ msgstr "जम्मा फिल्ड भ्रमणहरू"
 msgid "Total Workers Reached"
 msgstr "पहुँचमा रहेका श्रमिकको जम्मा संख्या"
 
-#: src/views/Dashboard/IssaraActivityDashboard.js src/views/Dashboard/SupplyChainDashboardKpi.js
-#: src/views/suppliers/SupplierList.js src/views/teamtasks/EnhancedTeamTasksList.js
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+#: src/views/suppliers/kpiupdates/SupplierKpiTable.js
+#: src/views/suppliers/kpiupdates/SupplierKpiUpdateHistoryTable.js
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Search (Fuzzy Search Across all fields)"
+msgstr "खोज (सबै क्षेत्रहरूमा अस्पष्ट खोज)"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/Dashboard/SupplyChainDashboardKpi.js src/views/suppliers/SupplierList.js
+#: src/views/teamtasks/EnhancedTeamTasksList.js
 msgid "ID"
 msgstr "आइ.डी."
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#, fuzzy
+#| msgid "Organization Name"
+msgid "Organization"
+msgstr "संस्थाकाे नाम"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
 msgid "Type"
 msgstr "प्रकार"
 
-#: src/views/Dashboard/IssaraActivityDashboard.js src/views/TeamActivity/FieldworkActivityForm.js
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/TeamActivity/FieldworkActivityForm.js
 msgid "Recruiters"
 msgstr "मेनपावर कम्पनीहरु"
 
@@ -1364,7 +2056,9 @@ msgstr "स्थान"
 msgid "Target"
 msgstr "लक्ष्य"
 
-#: src/views/Dashboard/IssaraActivityDashboard.js src/views/TeamActivity/FieldworkActivityForm.js
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+#: src/views/TeamActivity/FieldworkActivityForm.js
 msgid "Notes"
 msgstr "नोटहरू"
 
@@ -1375,6 +2069,12 @@ msgstr "लिङ्कहरू"
 #: src/views/Dashboard/IssaraActivityDashboard.js
 msgid "Total Worker"
 msgstr "जम्मा श्रमिक संख्या"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#, fuzzy
+#| msgid "Created"
+msgid "Created By"
+msgstr "सिर्जना गरियो"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
 msgid "worker_calls_count_by_month"
@@ -1388,7 +2088,8 @@ msgstr "मासिक फिल्ड भ्रमण संख्या:"
 msgid "field_total_workers_reached_by_month"
 msgstr "मासिक फिल्डमा सम्पर्क भएका श्रमिक संख्या:"
 
-#: src/views/Dashboard/IssaraActivityDashboard.js src/views/suppliers/SupplierKpiDashboard.js
+#: src/views/Dashboard/IssaraActivityDashboard.js src/views/Dashboard/SupplierKpiDashboard.js
+#: src/views/suppliers/SupplierKpiDashboard.js
 msgid "Print Report"
 msgstr "रिपोर्ट छाप्नुहोस्"
 
@@ -1398,17 +2099,23 @@ msgid "General:"
 msgstr "सामान्य:"
 
 #: src/views/Dashboard/KpiReferenceModal.js src/views/references/KpiReferenceModal.js
-#: src/views/suppliers/SupplierKPIModal.js
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js src/views/suppliers/SupplierKpiUpdateForm.js
 msgid "Category:"
 msgstr "प्रकार"
 
 #: src/views/Dashboard/KpiReferenceModal.js src/views/references/KpiLegalViolationModal.js
-#: src/views/references/KpiReferenceModal.js src/views/suppliers/SupplierKPIModal.js
+#: src/views/references/KpiReferenceModal.js src/views/suppliers/kpiupdates/KpiUpdateForm.js
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js src/views/suppliers/SupplierKpiUpdateForm.js
 msgid "Description:"
 msgstr "विवरण:"
 
 #: src/views/Dashboard/KpiReferenceModal.js src/views/references/KpiReferenceModal.js
-#: src/views/suppliers/SupplierKPIModal.js
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js src/views/suppliers/SupplierKpiUpdateForm.js
 msgid "Level:"
 msgstr "तह"
 
@@ -1424,6 +2131,10 @@ msgstr "ETI:"
 msgid "Code:"
 msgstr "कोड:"
 
+#: src/views/Dashboard/KpiReferencesList.js
+msgid "Issara Inclusive Labor Monitoring - Worker-Reported Issues"
+msgstr ""
+
 #: src/views/Dashboard/KpiReferencesList.js src/views/suppliers/SupplierList.js
 msgid "Found:"
 msgstr "भेटियो:"
@@ -1431,6 +2142,1119 @@ msgstr "भेटियो:"
 #: src/views/Dashboard/KpiReferencesList.js src/views/references/KpiReferencesList.js
 msgid "ETI Code"
 msgstr "ETI कोड"
+
+#: src/views/Dashboard/SPWorkPlanning/ActivitiesReview.js
+msgid "Priority Workplan Activities"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/ActivitiesReview.js
+msgid ""
+"The priority activities for your company that you indicate here will appear on your SP "
+"Progress Dashboard."
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/ActivitiesReview.js
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+#: src/views/suppliers/SupplierProgressActivitySummary.js
+msgid "ACTIVITIES FOR AREA 1 - WORKER VOICE"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/ActivitiesReview.js
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+#: src/views/suppliers/SupplierProgressActivitySummary.js
+msgid "Policies, Operational Systems, & Procedures"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/ActivitiesReview.js
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+msgid "1.1. Worker voice / worker validation policy"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/ActivitiesReview.js
+msgid "N/A"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/ActivitiesReview.js
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+msgid "1.2. Operational plans & rollout"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/ActivitiesReview.js
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+#: src/views/suppliers/SupplierProgressActivitySummary.js
+msgid "Effective Communications"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/ActivitiesReview.js
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+msgid "1.3. Communications to workers (for Partner manufacturer/processor)"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/ActivitiesReview.js
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+msgid "1.4. Communications between Global Buyers & Suppliers"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/ActivitiesReview.js
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+#: src/views/suppliers/SupplierProgressActivitySummary.js
+msgid "System Strengthening"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/ActivitiesReview.js
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+#: src/views/suppliers/SupplierProgressActivitySummary.js
+msgid "1.5. Capacity building: Ethical Grievance Mechanisms"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/ActivitiesReview.js
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+#: src/views/suppliers/SupplierProgressActivitySummary.js
+msgid "ACTIVITIES FOR AREA 2 - LABOR RECRUITMENT"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/ActivitiesReview.js
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+msgid "2.1. Ethical recruitment policy / roadmap plan"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/ActivitiesReview.js
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+#: src/views/suppliers/SupplierProgressActivitySummary.js
+msgid "2.2. System and Procedures for Ethical Recruitment"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/ActivitiesReview.js
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+msgid "2.3. Transparency in labor recruitment channels"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/ActivitiesReview.js
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+msgid "2.4 Communication to suppliers"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/ActivitiesReview.js
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+#: src/views/suppliers/SupplierProgressActivitySummary.js
+msgid "2.5. Communication of Recruitment Policies to Job Candidates & Workers"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/ActivitiesReview.js
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+#, fuzzy
+#| msgid "Recruitment"
+msgid "2.6 Recruitment surveys"
+msgstr "भर्ना"
+
+#: src/views/Dashboard/SPWorkPlanning/ActivitiesReview.js
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+#, fuzzy
+#| msgid "Recruitment Agencies Trained"
+msgid "2.7 Recruitment fee repayment"
+msgstr "प्रशिक्षित मेनपावर कम्पनीहरु"
+
+#: src/views/Dashboard/SPWorkPlanning/ActivitiesReview.js
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+msgid "2.8 Capacity building: ethical recruitment trainings"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/ActivitiesReview.js
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+msgid "2.10 Golden Dreams"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/ActivitiesReview.js
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+#: src/views/suppliers/SupplierProgressActivitySummary.js
+msgid "ACTIVITIES FOR AREA 3 - WORKING CONDITIONS"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/ActivitiesReview.js
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+msgid "3.1. Establish sourcing policy / roadmap plan"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/ActivitiesReview.js
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+msgid "3.5. Independent worker satisfaction surveys"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/ActivitiesReview.js
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+msgid "3.3 Communication to suppliers"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/ActivitiesReview.js
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+msgid "3.4 Communication to workers"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/ActivitiesReview.js
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+#, fuzzy
+#| msgid "No. of Workers Receiving Remedition"
+msgid "3.2. Ongoing worker-driven remediation"
+msgstr "उपचार प्राप्त गर्ने कामदारहरूको संख्या"
+
+#: src/views/Dashboard/SPWorkPlanning/ActivitiesReview.js
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+msgid "3.6. Capacity building: HRDD"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/ActivitiesReview.js
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+msgid "3.7. Capacity building: interpreters & line supervisors"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/ActivitiesReview.js
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+msgid "3.8. Capacity building: management & leadership"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/CustomToggleButtonGroup.js
+msgid "Not yet initiated"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/CustomToggleButtonGroup.js
+msgid "Partial Progress"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/CustomToggleButtonGroup.js
+msgid "Completed / Ongoing"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+msgid "Workplan Reviews"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+msgid "Work Plan"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+#, fuzzy
+#| msgid "Instructions:"
+msgid "Introduction"
+msgstr "निर्देशन:"
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+msgid "Name of the focal point:"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+#, fuzzy
+#| msgid "Created:"
+msgid "Created at:"
+msgstr "सिर्जना गरिएको:"
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+msgid "Suggested date for mid-year check-in:"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+#, fuzzy
+#| msgid "Documents:"
+msgid "Documents"
+msgstr "कागजातहरू:"
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+msgid ""
+"Please check that all foundational documents and materials that have been shared with "
+"Issara. If not, you can upload them here:"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+#, fuzzy
+#| msgid "Document Type"
+msgid "Document Type:"
+msgstr "कागजात प्रकार"
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+msgid "File url:"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+msgid "Main Goals and Priority Partnership Areas"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+#: src/views/Dashboard/SPWorkPlanning/SPMainGoalsForm.js
+msgid ""
+"What are the company's main goals in responsible sourcing and ethical recruitment over the "
+"next 3 years?"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+#: src/views/Dashboard/SPWorkPlanning/SPMainGoalsForm.js
+msgid "What are the company's main priority areas of partnership with Issara Institute?"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+#: src/views/Dashboard/SPWorkPlanning/SPMainGoalsForm.js
+msgid ""
+"How worker voice via Inclusive Labor Monitoring (ILM) will be actioned and escalated at "
+"Partner:"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+#: src/views/Dashboard/SPWorkPlanning/SPMainGoalsForm.js
+msgid "Priority suppliers, countries, and/or regions for continued focus or expansion:"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+#, fuzzy
+#| msgid "Progress on remediation:"
+msgid "Progress Indicators"
+msgstr "उपचारमा प्रगति:"
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid "INDICATORS FOR AREA 1. WORKER VOICE: ANNUAL TARGETS"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+#, fuzzy
+#| msgid "Worker Voice Calls"
+msgid "Worker Voice Indicator 1"
+msgstr "श्रमिक आवाज कलहरू"
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid "Worker voice roll-out and ongoing engagement"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+#, fuzzy
+#| msgid "Worker Voice Calls"
+msgid "Worker Voice Indicator 2"
+msgstr "श्रमिक आवाज कलहरू"
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid "Policy & procedures review: Ethical grievance mechanisms policy is in force that:"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+#, fuzzy
+#| msgid "Status"
+msgid "Statuses"
+msgstr "स्थिति"
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid "INDICATORS FOR AREA 2. LABOR RECRUITMENT: ANNUAL TARGETS"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid "ER Indicator 1"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+msgid ""
+"Policy & procedures review: Ethical recruitment / migrant recruitment laws and policies are "
+"in force that are:"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid "In line with international standards and definitions"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid "Clearly communicated to suppliers"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid "Integrated into commercial processes such as supplier scorecards and contracts"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid "ER Indicator 3"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid "Review of MSAs between employer/suppliers and recruitment agencies"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid "ER Indicator 4"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid "Communications: disclosure of recruitment agencies used"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid "ER Indicator 6"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+msgid "Recruitment system assessment"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid "ER Indicator 7"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid "Institutional capacity building: ethical recruitment trainings"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid "INDICATORS FOR AREA 3. WORKING CONDITIONS: ANNUAL TARGETS"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid "WORK Indicator 1"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+#, fuzzy
+#| msgid "Worker Nationality"
+msgid "Worker satisfaction surveys"
+msgstr "श्रमिक राष्ट्रियता"
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid "WORK Indicator 2"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid "Institutional capacity building: training of working level/technical staff"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid "WORK Indicator 3"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid "Institutional capacity building: training of management/leadership"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid ""
+"IMPACT INDICATOR 1. Average performance scores or supply chain businesses (Scale of 1-5, "
+"where 1 is poor and 5 is excellent):"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+#, fuzzy
+#| msgid "Progress on remediation:"
+msgid "Quality of remediation"
+msgstr "उपचारमा प्रगति:"
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+#, fuzzy
+#| msgid "Progress on remediation:"
+msgid "Timeliness of remediation"
+msgstr "उपचारमा प्रगति:"
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+msgid "Openness to reform"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid ""
+"IMPACT INDICATOR 2. % of worker-reported issues in the supply chain resolved in under 60 days"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid ""
+"IMPACT INDICATOR 3. % of remediation efforts of specific issues resolved at a level of "
+"'fair' or better (Fair, Good, or Excellent)"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid ""
+"IMPACT INDICATOR 4. % of eligible workers reimbursed for recruitment fees they have paid"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid ""
+"IMPACT INDICATOR 5. % Amount of money owed versus amount of money reimbursed to workers for "
+"recruitment fees that they have paid"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+msgid "Notes and remark"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
+msgid "Notes and remarks"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/OtherIndustrySelector.js
+#, fuzzy
+#| msgid "Sub Industry"
+msgid "Select Industry"
+msgstr "उद्योग वा व्यावसयाको उप-प्रकार"
+
+#: src/views/Dashboard/SPWorkPlanning/SPMainGoalsForm.js
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid "Changes have not been saved."
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPMainGoalsForm.js
+msgid "Do not show this again."
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPMainGoalsForm.js
+msgid "2 of 5. Main Goals and Priority Partnership Areas"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPMainGoalsForm.js
+msgid ""
+"Summary of the Partner’s main goals in responsible sourcing and ethical recruitment over the "
+"next year and the next three years:"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPMainGoalsForm.js
+msgid "Partner’s main priority areas of partnership with Issara Institute:"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPMainGoalsForm.js
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningFormReview.js
+msgid "Back"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+msgid "Priority Workplan Activities Data saved successfully."
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid "Proceed Anyway"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+msgid "4 of 5. Priority Workplan Activities"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+msgid ""
+"The priority activities for your company that you indicate here will appear on your SP "
+"Progress Dashboard. Please check the status boxes according to your company's status."
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+msgid "NOTES & REMARKS ON THE PRIORITY WORKPLAN ACTIVITIES FOR THE ANNUAL WORKPLAN"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid ""
+"Please feel free to add any note in this space, either for yourself or to note for the "
+"Issara team."
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
+msgid "Review Workplan"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkPlanActivity.js
+#: src/views/suppliers/SupplierProgressActivitySummary.js
+msgid "List of Traingings Joined"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+msgid "Supplier List for Worker Voice Categories"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+msgid "No data to display"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+#, fuzzy
+#| msgid "Closed:"
+msgid "Close"
+msgstr "बन्द:"
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+msgid "Clearly communicated to suppliers, including effective date"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+msgid "Integrated into commercial processes"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid "Company Targets / Notes"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+msgid "Actual status"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+msgid "IMPACT INDICATORS"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+msgid "IMPACT INDICATOR 1:"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+msgid ""
+"Supplier average performance responding to worker-reported grievances and collaboration with "
+"Issara Institute"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+#, fuzzy
+#| msgid "Supply Chain"
+msgid "Your Supply Chain"
+msgstr "आपूर्ति श्रृंखला"
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+#, fuzzy
+#| msgid "Active Supply Chains"
+msgid "Other Supply Chains"
+msgstr "सक्रिय आपूर्ति श्रृंखला"
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+msgid "Select Industry & Sub-Industry"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+msgid "IMPACT INDICATOR 2:"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+msgid "% of worker-reported issues in the supply chain resolved in under 60 days"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+msgid "IMPACT INDICATOR 3:"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+msgid ""
+"% of remediation efforts of specific issues resolved at a level of poor, fair, good, "
+"excellent"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+msgid "IMPACT INDICATOR 4:"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+msgid "Number of eligible workers reimbursed for recruitment fees they have paid"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+msgid "IMPACT INDICATOR 5:"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+msgid ""
+"Amount of money owed versus amount of money reimbursed to workers for recruitment fees that "
+"they have paid"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+msgid "PROGRESS DASHBOARD"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+msgid "INDICATORS FOR AREA 1 – WORKER VOICE"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+msgid "List of Active suppliers with/without worker voice"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid ""
+"Percentage of tier-1 suppliers (export level) in your supply chain with Issara worker voice "
+"channels available to workers"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid ""
+"Percentage of upstream (tier-2 and beyond) suppliers in your supply chain with Issara worker "
+"voice channels available to workers, based on supply chain information provided"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid "Covers requirements and mechanisms for managing grievances"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid "Includes a clear non-retaliation policy"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid "Undergoes periodic review to identify means for continuous improvement"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+msgid "INDICATORS FOR AREA 2 – LABOR RECRUITMENT"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid ""
+"Policy & procedures review: Ethical recruitment / migrant recruitment laws and policies is "
+"in force that is:"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+msgid "In line with international standards and definitions "
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+msgid "Policy & procedures review: Management Service Agreements:"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+msgid "Review of MSAs between employers/suppliers and recruitment agencies"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+msgid "Communications: Disclosure of recruitment agencies used"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+#, fuzzy
+#| msgid "Recruitment Agencies Trained"
+msgid "Recruitment fees surveys"
+msgstr "प्रशिक्षित मेनपावर कम्पनीहरु"
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+msgid "Institutional capacity building: Ethical recruitment trainings"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+msgid "INDICATORS FOR AREA 3 – WORKING CONDITIONS"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+msgid "Institutional capacity building: Training of working level / technical staff"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+msgid "Institutional capacity building: Training of management / leadership"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+msgid "PROGRESS ON PRIORITY WORKPLAN ACTIVITIES"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+#, fuzzy
+#| msgid "Worker Voice"
+msgid "No Worker Voice"
+msgstr "श्रमिक आवाज"
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+#, fuzzy
+#| msgid "Supplier Name"
+msgid "Without Supplier Engagement"
+msgstr "रोजगारदाताको नाम"
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
+#, fuzzy
+#| msgid "Supplier Name"
+msgid "With Supplier Engagement"
+msgstr "रोजगारदाताको नाम"
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid "SP Progress Indicators Data saved successfully"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid "An error occurred while saving SP Progress Indicators data"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid "SP Note and Remark Data saved successfully."
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid "An error occurred while saving SP Notes and Remarks data"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid "Please create a work plan in Step 1."
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid "3 of 5. Progress Indicators"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid ""
+"The target progress indicators for your company that you indicate here will display on your "
+"SP Progress Metrics Dashboard. At any time, you can visit the SP Progress Dashboard to see "
+"your targets as well as the progress made to date against each one."
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid "add note"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid "Add note..."
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+#, fuzzy
+#| msgid "Risk Assessment"
+msgid "Recruitment System Assessment"
+msgstr "जोखिम मूल्याङ्कन"
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid "• Quality of remediation"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+#, fuzzy
+#| msgid "Progress on remediation:"
+msgid "• Timeliness of remediation"
+msgstr "उपचारमा प्रगति:"
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid "• Openness to reform"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
+msgid "NOTES & REMARKS ON THE PROGRESS INDICATORS FOR THE ANNUAL WORKPLAN"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIntroForm.js
+msgid "1 of 5. Intro"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIntroForm.js
+msgid ""
+"This annual workplanning form aims to help your company identify and maintain focus on key "
+"business priorities with regard to ethical sourcing and ethical recruitment across your "
+"supply chain. The target progress indicators that you indicate here will display on your SP "
+"Progress Metrics Dashboard. At any time, you can visit the SP Progress Metrics to see your "
+"progress to date against each target as well as update this Workplanning Form if priorities "
+"change."
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIntroForm.js
+msgid ""
+"The SP Workplanning has 4 sections: 1. Intro, 2. Main Goals and Priority Partnership Areas, "
+"3. Progress Indicators, and 4. Priority Workplan Activities."
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIntroForm.js
+#, fuzzy
+#| msgid "Please choose the date"
+msgid "Please enter FP name"
+msgstr "कृपया मिति छान्नुहोस्"
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIntroForm.js
+msgid "Suggested date for mid-year check-in"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIntroForm.js
+msgid ""
+"Please check that all foundational documents and materials that have been shared with "
+"Issara. If not, you can upload them here ."
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIntroForm.js
+msgid "Change"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIntroForm.js
+msgid "Upload"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIntroForm.js
+#, fuzzy
+#| msgid "Overview:"
+msgid "Review"
+msgstr "अवलोकन:"
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIntroForm.js
+#, fuzzy
+#| msgid "supply chain data"
+msgid "Updated supply chain information"
+msgstr "आपूर्ति श्रृंखला डाटा"
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIntroForm.js
+msgid "Helpful information to include:"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIntroForm.js
+#, fuzzy
+#| msgid "Supplier Name"
+msgid "Supplier name"
+msgstr "रोजगारदाताको नाम"
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIntroForm.js
+#, fuzzy
+#| msgid "Supplier Name"
+msgid "Supplier address"
+msgstr "रोजगारदाताको नाम"
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIntroForm.js
+msgid "Product sourced"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIntroForm.js
+msgid "Supplier key focal point name, title, and contact information"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIntroForm.js
+msgid "Length of sourcing relationship"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIntroForm.js
+msgid "Number and breakdown of workers by nationality and gender"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIntroForm.js
+msgid "Company policy: human rights"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIntroForm.js
+msgid "Company policy: migrant worker"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIntroForm.js
+msgid "Company policy: ethical recruitment"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIntroForm.js
+msgid "Escalation protocol for worker-reported issues and worker voice"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIntroForm.js
+#, fuzzy
+#| msgid "Filter by Suppliers"
+msgid "Audit reports for suppliers"
+msgstr "रोजगारदाता अनुसार फिल्टर गर्नुहोस्"
+
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIntroForm.js
+msgid "Other key policy or background documents"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningFormReview.js
+msgid "5 of 5. Review and Finalize Annual Workplan"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningFormReview.js
+msgid "CONGRATULATIONS!"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningFormReview.js
+msgid ""
+"Great work, you have finalized your Issara Annual Workplan! We will look forward to "
+"reviewing your company's progress at the mid-year review."
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningFormReview.js
+msgid "Download Workplan PDF"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningFormReview.js
+msgid "Go to SP Progress Metrics"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningFormReview.js
+msgid "Revise"
+msgstr ""
+
+#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningFormReview.js
+msgid "FINALIZE & SAVE WORKPLAN"
+msgstr ""
+
+#: src/views/Dashboard/SupplierKpiDashboard.js src/views/suppliers/SupplierKpiDashboard.js
+msgid "Not selected suppliers to chart"
+msgstr ""
+
+#: src/views/Dashboard/SupplierKpiDashboard.js src/views/suppliers/SupplierKpiDashboard.js
+msgid ""
+"These workforce demographics are based on figures provided by your supplier to Issara "
+"Institute. Please note the figures correspond to the suppliers selected at top."
+msgstr ""
+
+#: src/views/Dashboard/SupplierKpiDashboard.js src/views/suppliers/SupplierKpiDashboard.js
+#, fuzzy
+#| msgid "Worker Metrics"
+msgid "Workforce Demographics"
+msgstr "श्रमिक मेट्रिक्स"
+
+#: src/views/Dashboard/SupplierKpiDashboard.js src/views/suppliers/SupplierKpiDashboard.js
+#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
+msgid "Total"
+msgstr "कुल"
+
+#: src/views/Dashboard/SupplierKpiDashboard.js src/views/suppliers/SupplierKpiDashboard.js
+#: src/views/suppliers/SupplierList.js
+msgid "Cambodia"
+msgstr "कम्बोडिया"
+
+#: src/views/Dashboard/SupplierKpiDashboard.js src/views/suppliers/SupplierKpiDashboard.js
+#: src/views/suppliers/SupplierList.js
+msgid "Myanmar"
+msgstr "म्यानमार"
+
+#: src/views/Dashboard/SupplierKpiDashboard.js src/views/suppliers/SupplierKpiDashboard.js
+#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
+msgid "Lao"
+msgstr "लाओ"
+
+#: src/views/Dashboard/SupplierKpiDashboard.js src/views/suppliers/SupplierKpiDashboard.js
+#, fuzzy
+#| msgid "Vietnam"
+msgid "Vietnamese"
+msgstr "भियतनाम"
+
+#: src/views/Dashboard/SupplierKpiDashboard.js src/views/suppliers/SupplierKpiDashboard.js
+#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
+msgid "Nepalese"
+msgstr "नेपाली"
+
+#: src/views/Dashboard/SupplierKpiDashboard.js src/views/suppliers/SupplierKpiDashboard.js
+#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
+msgid "Bangladeshi"
+msgstr "बंगलादेशी"
+
+#: src/views/Dashboard/SupplierKpiDashboard.js src/views/suppliers/SupplierKpiDashboard.js
+#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
+msgid "Malaysian"
+msgstr "मलेसियाली"
+
+#: src/views/Dashboard/SupplierKpiDashboard.js src/views/suppliers/SupplierKpiDashboard.js
+msgid "* Please Select Supplier"
+msgstr ""
+
+#: src/views/Dashboard/SupplierKpiDashboard.js src/views/suppliers/SupplierKpiDashboard.js
+#: src/views/suppliers/SupplierModal.js
+msgid "There is worker voice in this workplace"
+msgstr "यो कार्यस्थलमा श्रमिक आवाज छ"
+
+#: src/views/Dashboard/SupplierKpiDashboard.js src/views/suppliers/SupplierKpiDashboard.js
+#: src/views/suppliers/SupplierModal.js
+msgid "There is no worker voice in this workplace"
+msgstr "यो कार्यस्थलमा श्रमिक आवाज छैन"
+
+#: src/views/Dashboard/SupplierKpiDashboard.js
+msgid "Report File ({index})"
+msgstr ""
+
+#: src/views/Dashboard/SupplierKpiDashboard.js
+msgid "File Name: {name}"
+msgstr ""
+
+#: src/views/Dashboard/SupplierKpiDashboard.js
+msgid "Click to see the file"
+msgstr ""
+
+#: src/views/Dashboard/SupplierKpiDashboard.js
+#, fuzzy
+#| msgid "View:"
+msgid "View"
+msgstr "हेर्नुहोस्:"
+
+#: src/views/Dashboard/SupplierMouThaiDashboard.js
+msgid "Please select supply chain for Myanmar-Thai MOU Sending data"
+msgstr ""
+
+#: src/views/Dashboard/SupplierMouThaiDashboard.js
+msgid "Number of workers recruited by Recruitment Agency"
+msgstr ""
+
+#: src/views/Dashboard/SupplierMouThaiDashboard.js
+#, fuzzy
+#| msgid "No Data found"
+msgid "No data found"
+msgstr "कुनै डाटा फेला परेन"
+
+#: src/views/Dashboard/SupplierMouThaiDashboard.js
+msgid "Rerendering..."
+msgstr ""
+
+#: src/views/Dashboard/SupplierMouThaiDashboard.js
+#, fuzzy
+#| msgid "Estimated number of workers reached"
+msgid "Number of workers recruited by Gender"
+msgstr "श्रमिकहरूको अनुमानित संख्या पुग्यो"
+
+#: src/views/Dashboard/SupplierMouThaiDashboard.js
+#, fuzzy
+#| msgid "Total"
+msgid "Total:"
+msgstr "कुल"
+
+#: src/views/Dashboard/SupplierMouThaiDashboard.js
+#, fuzzy
+#| msgid "Female"
+msgid "Female:"
+msgstr "महिला"
+
+#: src/views/Dashboard/SupplierMouThaiDashboard.js
+#, fuzzy
+#| msgid "Male"
+msgid "Male:"
+msgstr "पुरुष"
+
+#: src/views/Dashboard/SupplierMouThaiDashboard.js
+msgid ""
+"YOU MAY SELECT AND FILTER SUPPLIERS TO SHOW YOUR ENTIRE SUPPLY CHAIN (DEFAULT), SUPPLIERS BY "
+"INDUSTRY AND BY SUB-INDUSTRY, OR SPECIFIC SUPPLIER(S). THE SELECTIONS MADE WILL DETERMINE "
+"THE SUPPLY CHAIN ANALYTICS DISPLAYED BELOW. PLEASE PRESS THE SEARCH BUTTON AFTER SELECTIONS "
+"ARE MADE. PLEASE ALSO NOTE THAT THE DATE RANGE SHOWS 1/1/2018 TO 12/31/2019. THIS IS THE "
+"FULL AVAILABLE RECRUITMENT DATA - CROSS-BORDER RECRUITMENT HAS NOT TAKEN PLACE SINCE 2020 "
+"DUE TO COVID-19 BORDER CLOSURES."
+msgstr ""
 
 #: src/views/Dashboard/SupplyChainDashboardKpi.js
 #, fuzzy
@@ -1442,9 +3266,9 @@ msgstr "स्तर"
 msgid ""
 "Calls are assigned levels from 1-4 to denote the severity of the situation. All information "
 "queries and communications around coordination are categorized as Level 1, the least severe "
-"level. Level 2 cases are reported labour violations that do not violate national law but "
-"violate most ethical sourcing standards. Level 3 cases are serious labour violations that are "
-"violations of labour and/or criminal law. Level 4 cases are threat-to-life cases. Each level "
+"level. Level 2 cases are reported labor violations that do not violate national law but "
+"violate most ethical sourcing standards. Level 3 cases are serious labor violations that are "
+"violations of labor and/or criminal law. Level 4 cases are threat-to-life cases. Each level "
 "has its own response protocol."
 msgstr ""
 
@@ -1457,8 +3281,8 @@ msgstr "दिन सक्रिय"
 #: src/views/Dashboard/SupplyChainDashboardKpi.js
 msgid ""
 "For Open KPIs: Red if No Progress has been made for over 60 days. Orange if No Progress has "
-"been made for 30 to 60 days. Yellow if Some Progress has been made in 15 or more days. Black if "
-"the case is less than 15 days active."
+"been made for 30 to 60 days. Yellow if Some Progress has been made in 15 or more days. Black "
+"if the case is less than 15 days active."
 msgstr ""
 
 #: src/views/Dashboard/SupplyChainDashboardKpi.js src/views/suppliers/SupplierKPIsList.js
@@ -1503,15 +3327,11 @@ msgstr ""
 msgid "Unresolved"
 msgstr ""
 
-#: src/views/Dashboard/SupplyChainDashboardKpi.js src/views/suppliers/SupplierKPIsList.js
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
 msgid "Opened since:"
 msgstr "देखि खोलिएको:"
 
 #: src/views/Dashboard/SupplyChainDashboardKpi.js
-msgid "-"
-msgstr ""
-
-#: src/views/Dashboard/SupplyChainDashboardKpi.js src/views/suppliers/SupplierKPIsList.js
 msgid "Closed since:"
 msgstr "देखि बन्द:"
 
@@ -1520,64 +3340,6 @@ msgstr "देखि बन्द:"
 #| msgid "Remediation Results:"
 msgid "Remediation Quality:"
 msgstr "सामाधानको परिणाम"
-
-#: src/views/Dashboard/SupplyChainDashboardKpi.js src/views/suppliers/SupplierKPIsList.js
-msgid "Affected workers:"
-msgstr "प्रभावित कामदारहरु:"
-
-#: src/views/Dashboard/SupplyChainDashboardKpi.js
-msgid "1-10"
-msgstr ""
-
-#: src/views/Dashboard/SupplyChainDashboardKpi.js
-msgid "11-50"
-msgstr ""
-
-#: src/views/Dashboard/SupplyChainDashboardKpi.js
-msgid "51-100"
-msgstr ""
-
-#: src/views/Dashboard/SupplyChainDashboardKpi.js
-msgid "101-500"
-msgstr ""
-
-#: src/views/Dashboard/SupplyChainDashboardKpi.js
-msgid "501-1000"
-msgstr ""
-
-#: src/views/Dashboard/SupplyChainDashboardKpi.js
-msgid "1000+"
-msgstr ""
-
-#: src/views/Dashboard/SupplyChainDashboardKpi.js
-#, fuzzy
-#| msgid "Issues"
-msgid "Issues:"
-msgstr "मुद्दाहरू"
-
-#: src/views/Dashboard/SupplyChainDashboardKpi.js
-#, fuzzy
-#| msgid "Remediation Results:"
-msgid "Remediation Notes (Summary):"
-msgstr "सामाधानको परिणाम"
-
-#: src/views/Dashboard/SupplyChainDashboardKpi.js
-#, fuzzy
-#| msgid "Location:"
-msgid "Action:"
-msgstr "स्थान:"
-
-#: src/views/Dashboard/SupplyChainDashboardKpi.js
-#, fuzzy
-#| msgid "Worker Nationality"
-msgid "Worker Validation:"
-msgstr "श्रमिक राष्ट्रियता"
-
-#: src/views/Dashboard/SupplyChainDashboardKpi.js
-#, fuzzy
-#| msgid "Search Results"
-msgid "Results:"
-msgstr "खोज परिणामहरू"
 
 #: src/views/Dashboard/SupplyChainDashboardKpi.js
 #, fuzzy
@@ -1592,7 +3354,7 @@ msgstr ""
 #: src/views/Dashboard/SupplyChainDashboardKpi.js
 #, fuzzy
 #| msgid "Recruitment"
-msgid "Labour recruitment"
+msgid "Labor recruitment"
 msgstr "भर्ना"
 
 #: src/views/Dashboard/SupplyChainDashboardKpi.js
@@ -1627,7 +3389,7 @@ msgstr ""
 #: src/views/Dashboard/SupplyChainDashboardKpi.js
 #, fuzzy
 #| msgid "Recruitment"
-msgid "Labour Recruitment"
+msgid "Labor Recruitment"
 msgstr "भर्ना"
 
 #: src/views/Dashboard/SupplyChainDashboardKpi.js
@@ -1678,10 +3440,11 @@ msgstr "बन्द:"
 
 #: src/views/Dashboard/SupplyChainDashboardKpi.js
 msgid ""
-"The estimated number of workers affected by the KPI issue.  If 0 is listed, the estimate is an "
-"unknown number of workers that will be updated as progress against the issue is made.  Often, "
-"issues reported by a smaller number of workers affect entire lines or additional workers, which "
-"is updated as further information from these workers or the business is received."
+"The estimated number of workers affected by the KPI issue.  If 0 is listed, the estimate is "
+"an unknown number of workers that will be updated as progress against the issue is made.  "
+"Often, issues reported by a smaller number of workers affect entire lines or additional "
+"workers, which is updated as further information from these workers or the business is "
+"received."
 msgstr ""
 
 #: src/views/Dashboard/SupplyChainDashboardKpi.js src/views/suppliers/SupplierKPIsList.js
@@ -1747,6 +3510,7 @@ msgid "Working Conditions"
 msgstr "न्याय प्राप्त गर्ने श्रमिक संख्या"
 
 #: src/views/Dashboard/SupplyChainDashboardKpi.js
+#: src/views/Dashboard/SupplyChainDashboardWorker.js
 msgid ""
 "You may select and filter suppliers to show your entire supply chain (default), suppliers by "
 "industry and by sub-industry, or specific supplier(s). The date range further enables "
@@ -1754,6 +3518,32 @@ msgid ""
 "selections made will determine the supply chain analytics displayed below. Please press the "
 "Search button after selections are made."
 msgstr ""
+
+#: src/views/Dashboard/SupplyChainDashboardWorker.js
+#, fuzzy
+#| msgid "View Calls"
+msgid "Hotline Calls"
+msgstr "कलहरू हेर्नुहोस्"
+
+#: src/views/Dashboard/SupplyChainDashboardWorker.js
+msgid ""
+"The Hotline calls are a subset of all Issara worker voice channel traffic from workers at "
+"the supplier site(s) selected above. The hotline calls are from Issara’s 24-hour multi-"
+"lingual toll-free hotline, staffed in-house by Issara team members who speak the same "
+"language as the callers. The calls, nationalities, and gender figures at bottom represent "
+"the information displayed in the graph."
+msgstr ""
+
+#: src/views/Dashboard/SupplyChainDashboardWorker.js
+msgid "go to filter"
+msgstr ""
+
+#: src/views/Dashboard/TotalWorkerCasesSummaryPanels.js
+#: src/views/suppliers/SupplierKpiDashboard.js
+#, fuzzy
+#| msgid "Total Worker Cases"
+msgid "Total Hotline Calls"
+msgstr "श्रमिकका मुद्दाहरू जम्मा"
 
 #: src/views/landing/TeamActionForm.js
 msgid "Add/Edit Team Task"
@@ -1771,7 +3561,9 @@ msgstr "सम्पन्न गर्नुपर्ने कार्यक�
 msgid "General Notes"
 msgstr "सामान्य नोटहरू"
 
-#: src/views/references/KpiLegalViolationList.js src/views/suppliers/SharedFileList.js
+#: src/views/references/KpiLegalViolationList.js
+#: src/views/strategicpartners/PartnerReferenceDocList.js
+#: src/views/strategicpartners/SharedFileList.js src/views/suppliers/SharedFileList.js
 #: src/views/suppliers/SupplierList.js
 msgid "Name"
 msgstr "नाम"
@@ -1820,26 +3612,792 @@ msgstr "कानुनी उल्लङ्घन:"
 msgid "Recommended Remediation:"
 msgstr "सिफारिस गरिएको उपचार:"
 
-#: src/views/references/KpiReferenceModal.js src/views/suppliers/SupplierKPIModal.js
+#: src/views/references/KpiReferenceModal.js src/views/suppliers/kpiupdates/KpiUpdateForm.js
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js src/views/suppliers/SupplierKpiUpdateForm.js
 msgid "Systems Change:"
 msgstr "प्रणाली परिवर्तन:"
 
-#: src/views/references/KpiReferencesList.js src/views/suppliers/SupplierKPIsList.js
-#: src/views/suppliers/SupplierList.js
+#: src/views/references/KpiReferencesList.js src/views/suppliers/kpiupdates/SupplierKpiTable.js
+#: src/views/suppliers/kpiupdates/SupplierKpiUpdateHistoryTable.js
+#: src/views/suppliers/SupplierKPIsList.js src/views/suppliers/SupplierList.js
 msgid "View:"
 msgstr "हेर्नुहोस्:"
 
 #: src/views/references/KpiReferencesList.js
-msgid "Legal"
-msgstr "कानूनी"
+msgid "Issara Inclusive Labor Monitoring - Coding Issues"
+msgstr ""
 
-#: src/views/references/KpiReferencesList.js
-msgid "Remediation"
-msgstr "उपचार"
+#: src/views/strategicpartners/NewsUpdateList.js
+#: src/views/strategicpartners/PartnerMessageBoardList.js
+msgid "Title"
+msgstr ""
 
-#: src/views/references/KpiReferencesList.js
-msgid "Systems"
-msgstr "प्रणालीहरू"
+#: src/views/strategicpartners/NewsUpdateList.js
+#: src/views/strategicpartners/PartnerMessageBoardList.js
+#: src/views/strategicpartners/SharedFileList.js src/views/suppliers/SharedFileList.js
+#: src/views/suppliers/SupplierList.js
+msgid "Created"
+msgstr "सिर्जना गरियो"
+
+#: src/views/strategicpartners/NewsUpdateList.js
+msgid "News And Updates:"
+msgstr ""
+
+#: src/views/strategicpartners/NewsUpdateList.js
+msgid "No Future News And Updates at this time."
+msgstr ""
+
+#: src/views/strategicpartners/NewsUpdateList.js
+msgid "News Updates (Found: {count})"
+msgstr ""
+
+#: src/views/strategicpartners/PartnerLandingPage.js src/views/suppliers/SupplierModal.js
+msgid "total workers"
+msgstr "कुल कामदारहरू"
+
+#: src/views/strategicpartners/PartnerLandingPage.js src/views/suppliers/SupplierModal.js
+msgid "Thai workers"
+msgstr "थाई कामदारहरू"
+
+#: src/views/strategicpartners/PartnerLandingPage.js src/views/suppliers/SupplierModal.js
+msgid "Cambodian workers"
+msgstr "कम्बोडियन कामदारहरू"
+
+#: src/views/strategicpartners/PartnerLandingPage.js src/views/suppliers/SupplierModal.js
+msgid "Myanmar workers"
+msgstr "म्यानमारका श्रमिकहरू"
+
+#: src/views/strategicpartners/PartnerLandingPage.js src/views/suppliers/SupplierModal.js
+msgid "Lao workers"
+msgstr "लाओ श्रमिकहरू"
+
+#: src/views/strategicpartners/PartnerLandingPage.js src/views/suppliers/SupplierModal.js
+msgid "Vietanmese workers"
+msgstr "भियतनामी श्रमिकहरू"
+
+#: src/views/strategicpartners/PartnerLandingPage.js src/views/suppliers/SupplierLandingPage.js
+msgid "WELCOME!"
+msgstr ""
+
+#: src/views/strategicpartners/PartnerLandingPage.js
+msgid ""
+"The Issara Institute launched the Strategic Partners Dashboard in 2021, building upon the "
+"feedback and aspirations of the Issara Institute team, Strategic Partners, and donors."
+msgstr ""
+
+#: src/views/strategicpartners/PartnerLandingPage.js
+msgid ""
+"Objective: The objective of this Dashboard is to provide brands, retailers, and importers/"
+"agents with a robust tool to help monitor, benchmark, remediate, and improve labor issues, "
+"systems, and business performance in global supply chains."
+msgstr ""
+
+#: src/views/strategicpartners/PartnerLandingPage.js
+msgid ""
+"Confidentiality: The information in the Dashboard is confidential to each Strategic Partner "
+"and is tailored to your own unique supply chain. All information provided via the Dashboard "
+"is governed by your company’s Strategic Partner agreement with Issara Institute. The "
+"information may not be shared externally, including with your suppliers."
+msgstr ""
+
+#: src/views/strategicpartners/PartnerLandingPage.js
+msgid ""
+"Features: Issara will continue to advance features within the Dashboard, and we welcome your "
+"feedback and input to make the Dashboard as useful and impactful as possible. For example, "
+"benchmarking and trend analysis are slated for upcoming iterations. How this information may "
+"be integrated with your internal practices and protocols (current and planned), will also be "
+"part of discussions with each Strategic Partner as part of the revised Strategic Partners "
+"Program, launched in January 2021."
+msgstr ""
+
+#: src/views/strategicpartners/PartnerLandingPage.js
+msgid ""
+"We are excited about the breadth of information, data analysis, and transparency that the "
+"Strategic Partners Dashboard can provide. We look forward to our ongoing collaboration with "
+"you to support ethical supply chains and improved working conditions. If you have any "
+"questions, please contact your Issara Institute Strategic Partner dashboard focal point."
+msgstr ""
+
+#: src/views/strategicpartners/PartnerLandingPage.js
+msgid "Mark Taylor"
+msgstr ""
+
+#: src/views/strategicpartners/PartnerLandingPage.js src/views/suppliers/SupplierLandingPage.js
+#, fuzzy
+#| msgid "Legal Violations"
+msgid "Legal Disclaimer"
+msgstr "कानुनी उल्लङ्घनहरू"
+
+#: src/views/strategicpartners/PartnerLandingPage.js src/views/suppliers/SupplierLandingPage.js
+msgid ""
+"While we have made our best efforts to ensure the accuracy and reliability of the "
+"information collected and contained in this dashboard, Issara Institute is not responsible "
+"for any errors or omissions, or for the results obtained from the use of this information."
+msgstr ""
+
+#: src/views/strategicpartners/PartnerLandingPage.js
+msgid ""
+"All information in this dashboard is provided 'as is', with no guarantee of completeness, "
+"accuracy, timeliness or of the results obtained from the use of this information, and "
+"without warranty of any kind, express or implied, including, but not limited to warranties "
+"of performance, merchantability and fitness for a particular purpose. Nothing herein shall "
+"to any extent substitute for the independent investigation and the sound technical and "
+"business judgment of the reader."
+msgstr ""
+
+#: src/views/strategicpartners/PartnerLandingPage.js src/views/suppliers/SupplierLandingPage.js
+msgid ""
+"Any views, opinions and guidance set out in this dashboard are provided for information "
+"purposes only, and do not purport to be legal and/or professional advice or a definitive "
+"interpretation of any law. In no event will Issara Institute or its employees be liable to "
+"you or anyone else for any decision made or action taken in reliance on the information in "
+"this report or for any consequential, special or similar damages, even if advised of the "
+"possibility of such damages. The information contained in this dashboard is intended solely "
+"to provide general guidance on matters of interest for the use of the reader, who accepts "
+"full responsibility for its use."
+msgstr ""
+
+#: src/views/strategicpartners/PartnerMessageBoardList.js
+msgid "Partner Message Board:"
+msgstr ""
+
+#: src/views/strategicpartners/PartnerMessageBoardList.js
+msgid "No Future Partner Message Board at this time."
+msgstr ""
+
+#: src/views/strategicpartners/PartnerMessageBoardList.js
+msgid "Partner Message Board Items (Found: {count})"
+msgstr ""
+
+#: src/views/strategicpartners/PartnerReferenceDocList.js
+#, fuzzy
+#| msgid "Updated:"
+msgid "Updated"
+msgstr "अद्यावधिक गरिएको:"
+
+#: src/views/strategicpartners/PartnerReferenceDocList.js
+#: src/views/strategicpartners/SharedFileList.js src/views/suppliers/SharedFileList.js
+#: src/views/suppliers/SupplierList.js
+msgid "Download"
+msgstr "डाउनलोड गर्नुहोस्"
+
+#: src/views/strategicpartners/PartnerReferenceDocList.js
+#, fuzzy
+#| msgid "References"
+msgid "Partner Reference Documents:"
+msgstr "सन्दर्भहरू"
+
+#: src/views/strategicpartners/PartnerReferenceDocList.js
+#, fuzzy
+#| msgid "References"
+msgid "No Partner Reference Documents at this time."
+msgstr "सन्दर्भहरू"
+
+#: src/views/strategicpartners/PartnerReferenceDocList.js
+#, fuzzy
+#| msgid "References"
+msgid "Partner Reference Documents (Found: {count})"
+msgstr "सन्दर्भहरू"
+
+#: src/views/strategicpartners/SharedFileList.js
+#, fuzzy
+#| msgid "References"
+msgid "Issara Reference Documents:"
+msgstr "सन्दर्भहरू"
+
+#: src/views/strategicpartners/SharedFileList.js src/views/suppliers/SharedFileList.js
+msgid "No Reference Documents at this time."
+msgstr ""
+
+#: src/views/strategicpartners/SharedFileList.js
+#, fuzzy
+#| msgid "References"
+msgid "Issara Reference Documents (Found: {count})"
+msgstr "सन्दर्भहरू"
+
+#: src/views/strategicpartners/SupplierProgressDashboard.js
+#: src/views/suppliers/SupplierProgressDashboard.js
+msgid ""
+"WORK INDICATOR 1. Supplier performance in relation to responding to worker-reported "
+"grievances and collaborating with Issara Institute staff"
+msgstr ""
+
+#: src/views/strategicpartners/SupplierProgressDashboard.js
+msgid ""
+"WORK INDICATOR 2. Percentage of worker-reported issues in the supply chain resolved in under "
+"60 days"
+msgstr ""
+
+#: src/views/strategicpartners/SupplierProgressDashboard.js
+msgid ""
+"WORK INDICATOR 3. Percentage of remediation efforts of specific issues resolved at Poor, "
+"Fair, Good and Excellent level"
+msgstr ""
+
+#: src/views/strategicpartners/SupplierProgressDashboard.js
+#, fuzzy
+#| msgid "Supplier"
+msgid "Select Supplier"
+msgstr "रोजगारदाताहरु"
+
+#: src/views/strategicpartners/SupplierProgressDashboard.js
+#: src/views/suppliers/SupplierProgressDashboard.js
+msgid "BUSINESS PROGRESS INDICATOR"
+msgstr ""
+
+#: src/views/strategicpartners/SupplierProgressDashboard.js
+#: src/views/suppliers/SupplierProgressDashboard.js
+msgid "WORKER VOICE"
+msgstr ""
+
+#: src/views/strategicpartners/SupplierProgressDashboard.js
+#: src/views/suppliers/SupplierProgressDashboard.js
+msgid "LABOUR RECRUITMENT"
+msgstr ""
+
+#: src/views/strategicpartners/SupplierProgressDashboard.js
+#: src/views/suppliers/SupplierProgressDashboard.js
+msgid "WORKING CONDITIONS"
+msgstr ""
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js src/views/suppliers/SupplierKpiUpdateForm.js
+#, fuzzy
+#| msgid "Opened At"
+msgid "Opened At:"
+msgstr "मा खोलियो"
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js src/views/suppliers/SupplierKpiUpdateForm.js
+#: src/views/TeamActivity/FieldworkActivityForm.js
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Click here to open calendar"
+msgstr "क्यालेन्डर खोल्न यहाँ क्लिक गर्नुहोस्"
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js src/views/suppliers/SupplierKpiUpdateForm.js
+#, fuzzy
+#| msgid "Closed At"
+msgid "Closed At:"
+msgstr "मा बन्द"
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js src/views/suppliers/SupplierKpiUpdateForm.js
+#, fuzzy
+#| msgid "Progress on remediation:"
+msgid "Please assess quality of remediation"
+msgstr "उपचारमा प्रगति:"
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js src/views/suppliers/SupplierKpiUpdateForm.js
+msgid "Please explain the rationale for this remediation outcome assessment."
+msgstr ""
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js src/views/suppliers/SupplierKpiUpdateForm.js
+msgid "Number of affected workers related to this KPI"
+msgstr ""
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js src/views/suppliers/SupplierKpiUpdateForm.js
+msgid "Have there been any retaliation or threats to workers?"
+msgstr ""
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js
+msgid "Do not include in Supplier Dashboard as per risk assessment."
+msgstr ""
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js src/views/suppliers/SupplierKpiUpdateForm.js
+msgid ""
+"Please summarize the organization's recommendations for remediation to address this KPI, "
+"including timeframe"
+msgstr ""
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js src/views/suppliers/SupplierKpiUpdateForm.js
+msgid ""
+"Please summarize Issara's recommendations for remediation to address this KPI, including "
+"timeframe"
+msgstr ""
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js src/views/suppliers/SupplierKpiUpdateForm.js
+msgid ""
+"What date has been communicated as the recommended deadline for the needed remediation or "
+"the next action?"
+msgstr ""
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js src/views/suppliers/SupplierKpiUpdateForm.js
+msgid ""
+"What date has been communicated as the recommended deadline for completion of payments and/"
+"or next major payment milestone?"
+msgstr ""
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js src/views/suppliers/SupplierKpiUpdateForm.js
+msgid "How much progress has been made on remediation, as recommended by the organization?"
+msgstr ""
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js src/views/suppliers/SupplierKpiUpdateForm.js
+msgid "How much progress has been made on remediation, as recommended by Issara?"
+msgstr ""
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js src/views/suppliers/SupplierKpiUpdateForm.js
+msgid ""
+"How aligned are the responses with the recommendations of the organization based on "
+"international ethical standards?"
+msgstr ""
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js src/views/suppliers/SupplierKpiUpdateForm.js
+msgid ""
+"How aligned are the business's responses with Issara's recommendations and international "
+"ethical standards?"
+msgstr ""
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js src/views/suppliers/SupplierKpiUpdateForm.js
+msgid "Describe steps taken so far."
+msgstr ""
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js src/views/suppliers/SupplierKpiUpdateForm.js
+msgid "Describe steps taken by offender/s or responsible party to solve the issue so far."
+msgstr ""
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js src/views/suppliers/SupplierKpiUpdateForm.js
+msgid "Describe remaining steps."
+msgstr ""
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js src/views/suppliers/SupplierKpiUpdateForm.js
+msgid "Describe steps remaining by the offender/s."
+msgstr ""
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js src/views/suppliers/SupplierKpiUpdateForm.js
+msgid "How much money is owed in total to all workers? (If none is owed, please enter '0')"
+msgstr ""
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js src/views/suppliers/SupplierKpiUpdateForm.js
+#, fuzzy
+#| msgid "Thai"
+msgid "Thai Baht"
+msgstr "थाई"
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js src/views/suppliers/SupplierKpiUpdateForm.js
+#, fuzzy
+#| msgid "Myanmar"
+msgid "Myanmar Kyat"
+msgstr "म्यानमार"
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js src/views/suppliers/SupplierKpiUpdateForm.js
+#, fuzzy
+#| msgid "Malaysian"
+msgid "Malaysian Ringitt"
+msgstr "मलेसियाली"
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js src/views/suppliers/SupplierKpiUpdateForm.js
+msgid "US Dollars"
+msgstr ""
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js src/views/suppliers/SupplierKpiUpdateForm.js
+msgid "How much money has been paid back so far? (If none has been paid, please enter '0')"
+msgstr ""
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js src/views/suppliers/SupplierKpiUpdateForm.js
+#, fuzzy
+#| msgid "How many workers are affected by this issue?"
+msgid "How many workers have received payments to date?"
+msgstr "यो समस्याबाट कति श्रमिक प्रभावित छन् ?"
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js src/views/suppliers/SupplierKpiUpdateForm.js
+#, fuzzy
+#| msgid "How many workers are affected by this issue?"
+msgid "How many workers are owed documents, visas, or WPs?"
+msgstr "यो समस्याबाट कति श्रमिक प्रभावित छन् ?"
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js src/views/suppliers/SupplierKpiUpdateForm.js
+#, fuzzy
+#| msgid "How many workers are affected by this issue?"
+msgid "How many workers have received back their documents, visas, or WPs?"
+msgstr "यो समस्याबाट कति श्रमिक प्रभावित छन् ?"
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js src/views/suppliers/SupplierKpiUpdateForm.js
+msgid ""
+"What date has been communicated as the recommended deadline for return of documents and/or "
+"next major document processing milestone?"
+msgstr ""
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js src/views/suppliers/SupplierKpiUpdateForm.js
+msgid "(* Special field for Director/s only). Issues"
+msgstr ""
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js src/views/suppliers/SupplierKpiUpdateForm.js
+msgid "(* Special field for Director/s only). Action"
+msgstr ""
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js src/views/suppliers/SupplierKpiUpdateForm.js
+msgid "(* Special field for Director/s only). Worker Validation"
+msgstr ""
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js src/views/suppliers/SupplierKpiUpdateForm.js
+msgid "(* Special field for Director/s only). Results"
+msgstr ""
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js src/views/suppliers/SupplierKpiUpdateForm.js
+msgid ""
+"Please summarize Issara's recommendations for systems change to address this KPI, including "
+"timeframe."
+msgstr ""
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js src/views/suppliers/SupplierKpiUpdateForm.js
+msgid "How much progress has been made on systems change, as recommended by the organization?"
+msgstr ""
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js src/views/suppliers/SupplierKpiUpdateForm.js
+msgid "How much progress has been made on systems change, as recommended by Issara?"
+msgstr ""
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js src/views/suppliers/SupplierKpiUpdateForm.js
+msgid "See supplier's grievance mechanism process in detail"
+msgstr ""
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js src/views/suppliers/SupplierKpiUpdateForm.js
+#, fuzzy
+#| msgid "Deadline Date"
+msgid "Deadline date"
+msgstr "अम्तिम मिति"
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js src/views/suppliers/SupplierKpiUpdateForm.js
+#, fuzzy
+#| msgid "Saving Data..."
+msgid "fatching staff.."
+msgstr "डाटा सेभ गर्दै..."
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js src/views/suppliers/SupplierKpiUpdateForm.js
+#: src/views/users/ChangePasswordForm.js
+msgid "Update"
+msgstr "अपडेट गर्नुहोस्"
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js src/views/suppliers/SupplierKpiUpdateForm.js
+msgid "Must set closed At Date when closing"
+msgstr ""
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js src/views/suppliers/SupplierKpiUpdateForm.js
+msgid "Must set openedAt, this field can't be blank"
+msgstr ""
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js src/views/suppliers/SupplierKpiUpdateForm.js
+msgid "Update Source:"
+msgstr "अपडेट स्रोत:"
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js src/views/suppliers/SupplierKpiUpdateForm.js
+msgid "Supplier:"
+msgstr "रोजगारदाता"
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js src/views/suppliers/SupplierKpiUpdateForm.js
+msgid "Open Since:"
+msgstr "देखि खुल्ला"
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js src/views/suppliers/SupplierKpiUpdateForm.js
+msgid "Remediation:"
+msgstr "उपचार:"
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js src/views/suppliers/SupplierKpiUpdateForm.js
+#, fuzzy
+#| msgid "Remediation Results:"
+msgid "Remediation Deadline:"
+msgstr "सामाधानको परिणाम"
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js src/views/suppliers/SupplierKpiUpdateForm.js
+msgid "Not implemented"
+msgstr ""
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js src/views/suppliers/SupplierKpiUpdateForm.js
+#, fuzzy
+#| msgid "System Change Deadline:"
+msgid "Systems Change Deadline:"
+msgstr "प्रणाली परिवर्तन समय सीमा:"
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js src/views/suppliers/SupplierKpiUpdateForm.js
+#, fuzzy
+#| msgid "# Workers Impacted:"
+msgid "# Impacted:"
+msgstr "#श्रमिक प्रभावित:"
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js src/views/suppliers/SupplierKpiUpdateForm.js
+msgid "Laws Violated:"
+msgstr "कानून उल्लङ्घन:"
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js src/views/suppliers/SupplierKpiUpdateForm.js
+#, fuzzy
+#| msgid "Suppliers Trained"
+msgid "KPI Status Overview"
+msgstr "प्रशिक्षित रोजगारदाताहरु"
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js src/views/suppliers/SupplierKpiUpdateForm.js
+msgid "Assessment: systems change"
+msgstr ""
+
+#: src/views/suppliers/kpiupdates/KpiUpdateForm.js src/views/suppliers/SupplierKpiUpdateForm.js
+#, fuzzy
+#| msgid "Next Steps"
+msgid "Next steps"
+msgstr "अर्को कदम"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiFilters.js src/views/suppliers/SupplierKPIsList.js
+msgid "less than 15 days"
+msgstr "15 दिन भन्दा कम"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiFilters.js src/views/suppliers/SupplierKPIsList.js
+msgid "16-30"
+msgstr "16-30"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiFilters.js src/views/suppliers/SupplierKPIsList.js
+msgid "31-45"
+msgstr "31-45"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiFilters.js src/views/suppliers/SupplierKPIsList.js
+msgid "46-60"
+msgstr "46-60"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiFilters.js src/views/suppliers/SupplierKPIsList.js
+msgid "61-90"
+msgstr "61-90"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiFilters.js src/views/suppliers/SupplierKPIsList.js
+msgid "90+"
+msgstr "90+"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiFilters.js src/views/suppliers/SupplierKPIsList.js
+msgid "Filter by Days Active"
+msgstr "सक्रिय दिनको आधारमा छान्नुहोस्"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiFilters.js src/views/suppliers/SupplierKPIsList.js
+msgid "Active Days"
+msgstr "सक्रिय दिनहरू"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiFilters.js src/views/suppliers/SupplierKPIsList.js
+msgid "Show Closed"
+msgstr "बन्द देखाउनुहोस्"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiTable.js src/views/suppliers/SupplierKPIsList.js
+msgid "Supplier KPIs"
+msgstr "रोजगारदाता KPIs"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiTable.js
+#: src/views/suppliers/kpiupdates/SupplierKpiUpdateHistoryTable.js
+#: src/views/suppliers/SupplierKPIsList.js
+msgid ""
+"You can enter a text or number thats used in the object.  Call IDs Also work. (You'll get "
+"the supplier KPIs that have that Call ID in the drop down panel or info view"
+msgstr ""
+"तपाईले वस्तुमा प्रयोग भएको पाठ वा नम्बर प्रविष्ट गर्न सक्नुहुन्छ। कल आईडीहरू पनि काम गर्छन्। (तपाईंले ड्रप "
+"डाउन प्यानल वा जानकारी दृश्यमा त्यो कल ID भएको रोजगारदाता KPI हरू प्राप्त गर्नुहुनेछ।"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiTable.js src/views/suppliers/SupplierKPIsList.js
+msgid "Update selected KPIs"
+msgstr "चयन गरिएका KPI हरू अद्यावधिक गर्नुहोस्"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiUpdateHistoryTable.js
+#, fuzzy
+#| msgid "Supplier KPI Updated History"
+msgid "Supplier KPI Update History"
+msgstr "रोजगारदाता KPI अद्यावधिक इतिहास"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Supplier KPI Deleted"
+msgstr "रोजगारदाता KPI मेटाइयो"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+#, fuzzy
+#| msgid "You have successfully deleted the supplier kpi a"
+msgid "You have successfully deleted the supplier kpi and it's child updates"
+msgstr "तपाईंले सफलतापूर्वक आपूर्तिकर्ता KPI मेटाउनु भयो"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Error Supplier KPI was not deleted"
+msgstr "त्रुटि, आपूर्तिकर्ता KPI मेटाइएको छैन"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Error occurred trying to delete those supplier kpi updates"
+msgstr "ती रोजगारदाता KPI अद्यावधिकहरू मेटाउने प्रयास गर्दा त्रुटि भयो"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js src/views/suppliers/SupplierList.js
+msgid "Confirm"
+msgstr "पुष्टि गर्नुहोस्"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Confirm Delete ?"
+msgstr "मेटाउनको लागि निश्चित गर्नुहोस्?"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "About to delete supplier kpi id: "
+msgstr "रोजगारदाता KPI आईडी मेटाउन को लागी:"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "*This Supplier KPI has 0 cases and is ok to remove."
+msgstr "*यस आपूर्तिकर्ता KPI मा केसहरू छैनन् र हटाउन ठीक छ।"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Delete"
+msgstr "मेटाउन"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Supplier KPI #{id}"
+msgstr "रोजगारदाता KPI #{id}"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Overview:"
+msgstr "अवलोकन:"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "# Workers Impacted:"
+msgstr "#श्रमिक प्रभावित:"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js src/views/suppliers/SupplierModal.js
+msgid "Status:"
+msgstr "स्थिति:"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Days Active:"
+msgstr "सक्रिय दिनहरू:"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Updated:"
+msgstr "अद्यावधिक गरिएको:"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Closed:"
+msgstr "बन्द:"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Closed Quality:"
+msgstr "बन्द गरिएको गुणस्तर:"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Rationale:"
+msgstr "तर्क:"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Issara Recommendations:"
+msgstr "इसराले गरेको सिफारिसहरू:"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Progress on remediation:"
+msgstr "उपचारमा प्रगति:"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "How aligned are the business's responses:"
+msgstr "व्यवसायका प्रतिक्रियाहरू कत्तिको मिल्दो छन्:"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Business Steps Taken:"
+msgstr "व्यवसायीका कदमहरू:"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Business Steps Remaining:"
+msgstr "व्यवसायीका बाँकी चरणहरू:"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Notes (Talking Points):"
+msgstr "नोटहरू (बोल्ने कुराहरु):"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Action (Talking Points):"
+msgstr "कारबाहीका लागि (बोल्ने कुराहरु):"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Validation (Talking Points):"
+msgstr "प्रमाणीकरणका लागि (बोल्ने कुराहरु):"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Results (Talking Points):"
+msgstr "परिणामहरुमा (बोल्ने कुराहरु):"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Payments:"
+msgstr "भुक्तानीहरू:"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Owed:"
+msgstr "बक्यौता:"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Paid:"
+msgstr "भुक्तान गरिएको:"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Payment Deadline:"
+msgstr "भुक्तानी समय सीमा:"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Documents:"
+msgstr "कागजातहरू:"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Provided:"
+msgstr "प्रदान गरिएको:"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Documents Deadline:"
+msgstr "कागजात समय सीमा:"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "System Change Deadline:"
+msgstr "प्रणाली परिवर्तन समय सीमा:"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Next Step :"
+msgstr "अर्को पाइला :"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Assign To :-"
+msgstr "को लागि तोक्नुहोस्: -"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Deadline :-"
+msgstr "अन्तिम म्याद:-"
+
+#: src/views/suppliers/kpiupdates/SupplierKpiViewInstance.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Description :-"
+msgstr "विवरण:-"
 
 #: src/views/suppliers/SharedFileList.js
 #, fuzzy
@@ -1848,276 +4406,14 @@ msgid "Supplier Documents:"
 msgstr "कागजातहरू:"
 
 #: src/views/suppliers/SharedFileList.js
-msgid "No Reference Documents at this time."
-msgstr ""
-
-#: src/views/suppliers/SharedFileList.js
 #, fuzzy
 #| msgid "References"
 msgid "Reference Documents"
 msgstr "सन्दर्भहरू"
 
-#: src/views/suppliers/SharedFileList.js src/views/suppliers/SupplierList.js
-msgid "Created"
-msgstr "सिर्जना गरियो"
-
-#: src/views/suppliers/SharedFileList.js src/views/suppliers/SupplierList.js
-msgid "Download"
-msgstr "डाउनलोड गर्नुहोस्"
-
-#: src/views/suppliers/SupplierKpiDashboard.js
-msgid "Calls and Messages from Workers"
-msgstr ""
-
-#: src/views/suppliers/SupplierKpiDashboard.js
-msgid "Not selected suppliers to chart"
-msgstr ""
-
-#: src/views/suppliers/SupplierKpiDashboard.js
-msgid ""
-"These workforce demographics are based on figures provided by your supplier to Issara "
-"Institute. Please note the figures correspond to the suppliers selected at top."
-msgstr ""
-
-#: src/views/suppliers/SupplierKpiDashboard.js
-#, fuzzy
-#| msgid "Worker Metrics"
-msgid "Workforce Demographics"
-msgstr "श्रमिक मेट्रिक्स"
-
-#: src/views/suppliers/SupplierKpiDashboard.js
-#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
-msgid "Total"
-msgstr "कुल"
-
-#: src/views/suppliers/SupplierKpiDashboard.js src/views/suppliers/SupplierList.js
-msgid "Cambodia"
-msgstr "कम्बोडिया"
-
-#: src/views/suppliers/SupplierKpiDashboard.js src/views/suppliers/SupplierList.js
-msgid "Myanmar"
-msgstr "म्यानमार"
-
-#: src/views/suppliers/SupplierKpiDashboard.js
-#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
-msgid "Lao"
-msgstr "लाओ"
-
-#: src/views/suppliers/SupplierKpiDashboard.js
-#, fuzzy
-#| msgid "Vietnam"
-msgid "Vietnamese"
-msgstr "भियतनाम"
-
-#: src/views/suppliers/SupplierKpiDashboard.js
-#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
-msgid "Nepalese"
-msgstr "नेपाली"
-
-#: src/views/suppliers/SupplierKpiDashboard.js
-#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
-msgid "Bangladeshi"
-msgstr "बंगलादेशी"
-
-#: src/views/suppliers/SupplierKpiDashboard.js
-#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
-msgid "Indonesian"
-msgstr "इन्डोनेसियाली"
-
-#: src/views/suppliers/SupplierKpiDashboard.js
-#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
-msgid "Malaysian"
-msgstr "मलेसियाली"
-
-#: src/views/suppliers/SupplierKpiDashboard.js
-msgid "* Please Select Supplier"
-msgstr ""
-
-#: src/views/suppliers/SupplierKpiDashboard.js src/views/suppliers/SupplierModal.js
-msgid "There is worker voice in this workplace"
-msgstr "यो कार्यस्थलमा श्रमिक आवाज छ"
-
-#: src/views/suppliers/SupplierKpiDashboard.js src/views/suppliers/SupplierModal.js
-msgid "There is no worker voice in this workplace"
-msgstr "यो कार्यस्थलमा श्रमिक आवाज छैन"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "Supplier KPI Deleted"
-msgstr "रोजगारदाता KPI मेटाइयो"
-
-#: src/views/suppliers/SupplierKPIModal.js
-#, fuzzy
-#| msgid "You have successfully deleted the supplier kpi a"
-msgid "You have successfully deleted the supplier kpi and it's child updates"
-msgstr "तपाईंले सफलतापूर्वक आपूर्तिकर्ता KPI मेटाउनु भयो"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "Error Supplier KPI was not deleted"
-msgstr "त्रुटि, आपूर्तिकर्ता KPI मेटाइएको छैन"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "Error occurred trying to delete those supplier kpi updates"
-msgstr "ती रोजगारदाता KPI अद्यावधिकहरू मेटाउने प्रयास गर्दा त्रुटि भयो"
-
-#: src/views/suppliers/SupplierKPIModal.js src/views/suppliers/SupplierList.js
-msgid "Confirm"
-msgstr "पुष्टि गर्नुहोस्"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "Confirm Delete ?"
-msgstr "मेटाउनको लागि निश्चित गर्नुहोस्?"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "About to delete supplier kpi id: "
-msgstr "रोजगारदाता KPI आईडी मेटाउन को लागी:"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "*This Supplier KPI has 0 cases and is ok to remove."
-msgstr "*यस आपूर्तिकर्ता KPI मा केसहरू छैनन् र हटाउन ठीक छ।"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "Delete"
-msgstr "मेटाउन"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "Supplier KPI #{id}"
-msgstr "रोजगारदाता KPI #{id}"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "Overview:"
-msgstr "अवलोकन:"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "Update Source:"
-msgstr "अपडेट स्रोत:"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "Supplier:"
-msgstr "रोजगारदाता"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "Laws Violated:"
-msgstr "कानून उल्लङ्घन:"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "# Workers Impacted:"
-msgstr "#श्रमिक प्रभावित:"
-
-#: src/views/suppliers/SupplierKPIModal.js src/views/suppliers/SupplierModal.js
-msgid "Status:"
-msgstr "स्थिति:"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "Days Active:"
-msgstr "सक्रिय दिनहरू:"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "Open Since:"
-msgstr "देखि खुल्ला"
-
-#: src/views/suppliers/SupplierKPIModal.js src/views/suppliers/SupplierKPIsList.js
-msgid "Updated:"
-msgstr "अद्यावधिक गरिएको:"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "Closed:"
-msgstr "बन्द:"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "Closed Quality:"
-msgstr "बन्द गरिएको गुणस्तर:"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "Rationale:"
-msgstr "तर्क:"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "Remediation:"
-msgstr "उपचार:"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "Issara Recommendations:"
-msgstr "इसराले गरेको सिफारिसहरू:"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "Progress on remediation:"
-msgstr "उपचारमा प्रगति:"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "How aligned are the business's responses:"
-msgstr "व्यवसायका प्रतिक्रियाहरू कत्तिको मिल्दो छन्:"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "Business Steps Taken:"
-msgstr "व्यवसायीका कदमहरू:"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "Business Steps Remaining:"
-msgstr "व्यवसायीका बाँकी चरणहरू:"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "Notes (Talking Points):"
-msgstr "नोटहरू (बोल्ने कुराहरु):"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "Action (Talking Points):"
-msgstr "कारबाहीका लागि (बोल्ने कुराहरु):"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "Validation (Talking Points):"
-msgstr "प्रमाणीकरणका लागि (बोल्ने कुराहरु):"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "Results (Talking Points):"
-msgstr "परिणामहरुमा (बोल्ने कुराहरु):"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "Payments:"
-msgstr "भुक्तानीहरू:"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "Owed:"
-msgstr "बक्यौता:"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "Paid:"
-msgstr "भुक्तान गरिएको:"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "Payment Deadline:"
-msgstr "भुक्तानी समय सीमा:"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "Documents:"
-msgstr "कागजातहरू:"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "Provided:"
-msgstr "प्रदान गरिएको:"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "Documents Deadline:"
-msgstr "कागजात समय सीमा:"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "System Change Deadline:"
-msgstr "प्रणाली परिवर्तन समय सीमा:"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "Next Step :"
-msgstr "अर्को पाइला :"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "Assign To :-"
-msgstr "को लागि तोक्नुहोस्: -"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "Deadline :-"
-msgstr "अन्तिम म्याद:-"
-
-#: src/views/suppliers/SupplierKPIModal.js
-msgid "Description :-"
-msgstr "विवरण:-"
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Call Id: {item}"
+msgstr "कल आईडी: {item}"
 
 #: src/views/suppliers/SupplierKPIsList.js
 msgid "Closed At"
@@ -2158,8 +4454,10 @@ msgid "# Affected"
 msgstr "# प्रभावित"
 
 #: src/views/suppliers/SupplierKPIsList.js
-msgid "Updates"
-msgstr "अपडेटहरू"
+#, fuzzy
+#| msgid "Assigned to"
+msgid "Assigned To"
+msgstr "लाई दिइएको वा तोकिएको"
 
 #: src/views/suppliers/SupplierKPIsList.js
 msgid "Call #"
@@ -2174,58 +4472,6 @@ msgid "Calls"
 msgstr "कलहरू"
 
 #: src/views/suppliers/SupplierKPIsList.js
-msgid "Call Id: {item}"
-msgstr "कल आईडी: {item}"
-
-#: src/views/suppliers/SupplierKPIsList.js
-msgid "Remediation Issues:"
-msgstr "समाधानका समस्याहरू:"
-
-#: src/views/suppliers/SupplierKPIsList.js
-msgid "Remediation Action:"
-msgstr "सामाधानका लागि कारबाही"
-
-#: src/views/suppliers/SupplierKPIsList.js
-msgid "Remediation Validation:"
-msgstr "सामाधान प्रमाणीकरण:"
-
-#: src/views/suppliers/SupplierKPIsList.js
-msgid "Remediation Results:"
-msgstr "सामाधानको परिणाम"
-
-#: src/views/suppliers/SupplierKPIsList.js
-msgid "less than 15 days"
-msgstr "15 दिन भन्दा कम"
-
-#: src/views/suppliers/SupplierKPIsList.js
-msgid "16-30"
-msgstr "16-30"
-
-#: src/views/suppliers/SupplierKPIsList.js
-msgid "31-45"
-msgstr "31-45"
-
-#: src/views/suppliers/SupplierKPIsList.js
-msgid "46-60"
-msgstr "46-60"
-
-#: src/views/suppliers/SupplierKPIsList.js
-msgid "61-90"
-msgstr "61-90"
-
-#: src/views/suppliers/SupplierKPIsList.js
-msgid "90+"
-msgstr "90+"
-
-#: src/views/suppliers/SupplierKPIsList.js
-msgid "Filter by Days Active"
-msgstr "सक्रिय दिनको आधारमा छान्नुहोस्"
-
-#: src/views/suppliers/SupplierKPIsList.js
-msgid "Active Days"
-msgstr "सक्रिय दिनहरू"
-
-#: src/views/suppliers/SupplierKPIsList.js
 msgid "Supply Chain"
 msgstr "आपूर्ति श्रृंखला"
 
@@ -2234,31 +4480,11 @@ msgid "Non-Supply Chain"
 msgstr "गैर-आपूर्ति श्रृंखला"
 
 #: src/views/suppliers/SupplierKPIsList.js
-msgid "Show Closed"
-msgstr "बन्द देखाउनुहोस्"
-
-#: src/views/suppliers/SupplierKPIsList.js
-msgid "Supplier KPIs"
-msgstr "रोजगारदाता KPIs"
-
-#: src/views/suppliers/SupplierKPIsList.js
-msgid ""
-"You can enter a text or number thats used in the object.  Call IDs Also work. (You'll get the "
-"supplier KPIs that have that Call ID in the drop down panel or info view"
-msgstr ""
-"तपाईले वस्तुमा प्रयोग भएको पाठ वा नम्बर प्रविष्ट गर्न सक्नुहुन्छ। कल आईडीहरू पनि काम गर्छन्। (तपाईंले ड्रप डाउन "
-"प्यानल वा जानकारी दृश्यमा त्यो कल ID भएको रोजगारदाता KPI हरू प्राप्त गर्नुहुनेछ।"
-
-#: src/views/suppliers/SupplierKPIsList.js
-msgid "Update selected KPIs"
-msgstr "चयन गरिएका KPI हरू अद्यावधिक गर्नुहोस्"
-
-#: src/views/suppliers/SupplierKPIsList.js
 msgid "Supplier KPI Updated History"
 msgstr "रोजगारदाता KPI अद्यावधिक इतिहास"
 
-#: src/views/suppliers/SupplierLandingPage.js
-msgid "WELCOME!"
+#: src/views/suppliers/SupplierKpiUpdateForm.js
+msgid "Do not include in Supplier Dashboard as per risk  assessment."
 msgstr ""
 
 #: src/views/suppliers/SupplierLandingPage.js
@@ -2269,9 +4495,9 @@ msgstr ""
 
 #: src/views/suppliers/SupplierLandingPage.js
 msgid ""
-"Objective: The objective of this ILM Suppliers Dashboard is to provide suppliers with a robust "
-"tool to help monitor, benchmark, remediate, and improve labor issues, systems, and business "
-"performance in global supply chains."
+"Objective: The objective of this ILM Suppliers Dashboard is to provide suppliers with a "
+"robust tool to help monitor, benchmark, remediate, and improve labor issues, systems, and "
+"business performance in global supply chains."
 msgstr ""
 
 #: src/views/suppliers/SupplierLandingPage.js
@@ -2284,55 +4510,30 @@ msgstr ""
 
 #: src/views/suppliers/SupplierLandingPage.js
 msgid ""
-"Features: Issara will continue to advance features within the ILM Suppliers Dashboard, and we "
-"welcome your feedback and input to make the ILM Suppliers Dashboard as useful and impactful as "
-"possible. For example, the ability to input the corrective actions taken by the supplier are "
-"slated for upcoming iterations. How this information may be integrated with your internal "
-"practices and protocols (current and planned), will also be part of discussions with each "
-"supplier."
+"Features: Issara will continue to advance features within the ILM Suppliers Dashboard, and "
+"we welcome your feedback and input to make the ILM Suppliers Dashboard as useful and "
+"impactful as possible. For example, the ability to input the corrective actions taken by the "
+"supplier are slated for upcoming iterations. How this information may be integrated with "
+"your internal practices and protocols (current and planned), will also be part of "
+"discussions with each supplier."
 msgstr ""
 
 #: src/views/suppliers/SupplierLandingPage.js
 msgid ""
-"We are excited about the breadth of information, data analysis, and transparency that the ILM "
-"Suppliers Dashboard can provide. We look forward to our ongoing collaboration with you to "
-"support ethical labour recruitment and improved working conditions. If you have any questions, "
-"please contact your Issara Institute Supplier dashboard focal point."
-msgstr ""
-
-#: src/views/suppliers/SupplierLandingPage.js
-#, fuzzy
-#| msgid "Legal Violations"
-msgid "Legal Disclaimer"
-msgstr "कानुनी उल्लङ्घनहरू"
-
-#: src/views/suppliers/SupplierLandingPage.js
-msgid ""
-"While we have made our best efforts to ensure the accuracy and reliability of the information "
-"collected and contained in this dashboard, Issara Institute is not responsible for any errors "
-"or omissions, or for the results obtained from the use of this information."
+"We are excited about the breadth of information, data analysis, and transparency that the "
+"ILM Suppliers Dashboard can provide. We look forward to our ongoing collaboration with you "
+"to support ethical labour recruitment and improved working conditions. If you have any "
+"questions, please contact your Issara Institute Supplier dashboard focal point."
 msgstr ""
 
 #: src/views/suppliers/SupplierLandingPage.js
 msgid ""
 "All information in this dashboard is provided \"as is\", with no guarantee of completeness, "
-"accuracy, timeliness or of the results obtained from the use of this information, and without "
-"warranty of any kind, express or implied, including, but not limited to warranties of "
-"performance, merchantability and fitness for a particular purpose. Nothing herein shall to any "
-"extent substitute for the independent investigation and the sound technical and business "
-"judgment of the reader."
-msgstr ""
-
-#: src/views/suppliers/SupplierLandingPage.js
-msgid ""
-"Any views, opinions and guidance set out in this dashboard are provided for information "
-"purposes only, and do not purport to be legal and/or professional advice or a definitive "
-"interpretation of any law. In no event will Issara Institute or its employees be liable to you "
-"or anyone else for any decision made or action taken in reliance on the information in this "
-"report or for any consequential, special or similar damages, even if advised of the possibility "
-"of such damages. The information contained in this dashboard is intended solely to provide "
-"general guidance on matters of interest for the use of the reader, who accepts full "
-"responsibility for its use."
+"accuracy, timeliness or of the results obtained from the use of this information, and "
+"without warranty of any kind, express or implied, including, but not limited to warranties "
+"of performance, merchantability and fitness for a particular purpose. Nothing herein shall "
+"to any extent substitute for the independent investigation and the sound technical and "
+"business judgment of the reader."
 msgstr ""
 
 #: src/views/suppliers/SupplierList.js
@@ -2612,12 +4813,12 @@ msgid "Sub Industry:"
 msgstr "उप-उद्योग:"
 
 #: src/views/suppliers/SupplierModal.js
-msgid "Lng:"
-msgstr "देशान्तर"
-
-#: src/views/suppliers/SupplierModal.js
 msgid "Lat:"
 msgstr "अक्षांश"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Lng:"
+msgstr "देशान्तर"
 
 #: src/views/suppliers/SupplierModal.js
 msgid "Contact:"
@@ -2760,36 +4961,12 @@ msgid "Google Maps:"
 msgstr "गुगल म्याप:"
 
 #: src/views/suppliers/SupplierModal.js
-msgid "total workers"
-msgstr "कुल कामदारहरू"
-
-#: src/views/suppliers/SupplierModal.js
 msgid "total men workers"
 msgstr "कुल पुरुष कामदार"
 
 #: src/views/suppliers/SupplierModal.js
 msgid "total women workers"
 msgstr "कुल महिला कामदार"
-
-#: src/views/suppliers/SupplierModal.js
-msgid "Thai workers"
-msgstr "थाई कामदारहरू"
-
-#: src/views/suppliers/SupplierModal.js
-msgid "Cambodian workers"
-msgstr "कम्बोडियन कामदारहरू"
-
-#: src/views/suppliers/SupplierModal.js
-msgid "Myanmar workers"
-msgstr "म्यानमारका श्रमिकहरू"
-
-#: src/views/suppliers/SupplierModal.js
-msgid "Lao workers"
-msgstr "लाओ श्रमिकहरू"
-
-#: src/views/suppliers/SupplierModal.js
-msgid "Vietanmese workers"
-msgstr "भियतनामी श्रमिकहरू"
 
 #: src/views/suppliers/SupplierModal.js
 msgid "Nepalese workers"
@@ -2819,10 +4996,143 @@ msgstr "पाकिस्तानी श्रमिकहरू"
 msgid "Sri Lankan workers"
 msgstr "श्रीलंकाका श्रमिकहरू"
 
-#: src/views/suppliers/SupplierProgressDashboard.js
+#: src/views/suppliers/SupplierProgressActivitySummary.js
+msgid "Supplier Activities Summary"
+msgstr ""
+
+#: src/views/suppliers/SupplierProgressActivitySummary.js
+msgid "1.1. Establish an Ethical Grievance Mechanisms/Worker Voice Policy"
+msgstr ""
+
+#: src/views/suppliers/SupplierProgressActivitySummary.js
+msgid "1.2. Systems & Procedures for Worker Voice & Ethical Grievance Mechanisms"
+msgstr ""
+
+#: src/views/suppliers/SupplierProgressActivitySummary.js
 msgid ""
-"WORK INDICATOR 1. Supplier performance in relation to responding to worker-reported grievances "
-"and collaborating with Issara Institute staff"
+"1.3. Communications regarding Worker Voice Channels,Grievance Mechanisms & Worker Surveys"
+msgstr ""
+
+#: src/views/suppliers/SupplierProgressActivitySummary.js
+msgid "1.6. Education & Empowerment"
+msgstr ""
+
+#: src/views/suppliers/SupplierProgressActivitySummary.js
+msgid "2.1. Ethical/Responsible Recruitment policy"
+msgstr ""
+
+#: src/views/suppliers/SupplierProgressActivitySummary.js
+msgid "2.3. Disclosure of Recruitment Agencies & Policies to Customers"
+msgstr ""
+
+#: src/views/suppliers/SupplierProgressActivitySummary.js
+msgid "2.4. Communication of Recruitment Policies & Requirements"
+msgstr ""
+
+#: src/views/suppliers/SupplierProgressActivitySummary.js
+#, fuzzy
+#| msgid "Recruitment"
+msgid "2.6. Recruitment Surveys"
+msgstr "भर्ना"
+
+#: src/views/suppliers/SupplierProgressActivitySummary.js
+#, fuzzy
+#| msgid "Recruitment Agencies Trained"
+msgid "2.7. Recruitment Fees Repayment"
+msgstr "प्रशिक्षित मेनपावर कम्पनीहरु"
+
+#: src/views/suppliers/SupplierProgressActivitySummary.js
+msgid "Reimbursed"
+msgstr ""
+
+#: src/views/suppliers/SupplierProgressActivitySummary.js
+msgid "Agreed and in process for reimbursement"
+msgstr ""
+
+#: src/views/suppliers/SupplierProgressActivitySummary.js
+msgid "Not agreed for reimbursement"
+msgstr ""
+
+#: src/views/suppliers/SupplierProgressActivitySummary.js
+msgid "Number of eligible workers that have not been reimbursed"
+msgstr ""
+
+#: src/views/suppliers/SupplierProgressActivitySummary.js
+msgid "Number of eligible workers that have been reimbursed"
+msgstr ""
+
+#: src/views/suppliers/SupplierProgressActivitySummary.js
+msgid "2.8. Capacity Building: Ethical Recruitment Trainings"
+msgstr ""
+
+#: src/views/suppliers/SupplierProgressActivitySummary.js
+msgid "2.9. Ethical Recruitment Network (ERN) Collaboration"
+msgstr ""
+
+#: src/views/suppliers/SupplierProgressActivitySummary.js
+msgid "2.10. Golden Dreams"
+msgstr ""
+
+#: src/views/suppliers/SupplierProgressActivitySummary.js
+msgid "3.1. Ethical Sourcing Policy / Roadmap Plan"
+msgstr ""
+
+#: src/views/suppliers/SupplierProgressActivitySummary.js
+msgid "3.5. Worker Satisfaction Survey"
+msgstr ""
+
+#: src/views/suppliers/SupplierProgressActivitySummary.js
+msgid "3.4. Strengthening Communications & Relations Responding to Workers Voice"
+msgstr ""
+
+#: src/views/suppliers/SupplierProgressActivitySummary.js
+#, fuzzy
+#| msgid "No. of Workers Receiving Remedition"
+msgid "3.2. Ongoing Worker Voice-Driven Remediation"
+msgstr "उपचार प्राप्त गर्ने कामदारहरूको संख्या"
+
+#: src/views/suppliers/SupplierProgressActivitySummary.js
+msgid "3.6. Capacity Building on Business & Human Rights/HRDD"
+msgstr ""
+
+#: src/views/suppliers/SupplierProgressActivitySummary.js
+msgid "3.7. Capacity Building: Interpreters & Line Supervisors"
+msgstr ""
+
+#: src/views/suppliers/SupplierProgressActivitySummary.js
+msgid "3.8. Capacity Building: Management & Leadership"
+msgstr ""
+
+#: src/views/suppliers/SupplierProgressActivitySummary.js
+msgid "3.9. Targeted, Responsive Systems Strengthening"
+msgstr ""
+
+#: src/views/suppliers/SupplierProgressDashboard.js
+#, fuzzy
+#| msgid "Quality of the closure"
+msgid "Quality of Response actual"
+msgstr "बन्द हुँदाको गुणस्तर"
+
+#: src/views/suppliers/SupplierProgressDashboard.js
+#, fuzzy
+#| msgid "Quality of the closure"
+msgid "Quality of Response"
+msgstr "बन्द हुँदाको गुणस्तर"
+
+#: src/views/suppliers/SupplierProgressDashboard.js
+msgid "Timeliness of Response actual"
+msgstr ""
+
+#: src/views/suppliers/SupplierProgressDashboard.js
+msgid "Timeliness of Response"
+msgstr ""
+
+#: src/views/suppliers/SupplierProgressDashboard.js
+msgid "Openness to Reform actual"
+msgstr ""
+
+#: src/views/suppliers/SupplierProgressDashboard.js
+msgid "Openness to Reform"
 msgstr ""
 
 #: src/views/suppliers/SupplierProgressDashboard.js
@@ -2832,8 +5142,8 @@ msgstr ""
 
 #: src/views/suppliers/SupplierProgressDashboard.js
 msgid ""
-"WORK INDICATOR 3. % of remediation efforts of specific issues resolved at Poor, Fair, Good and "
-"Excellent level"
+"WORK INDICATOR 3. % of remediation efforts of specific issues resolved at Poor, Fair, Good "
+"and Excellent level"
 msgstr ""
 
 #: src/views/suppliers/SupplierProgressDashboard.js
@@ -2842,60 +5152,6 @@ msgstr ""
 
 #: src/views/suppliers/SupplierProgressDashboard.js
 msgid "Worker Calls and Messages By Month"
-msgstr ""
-
-#: src/views/suppliers/SupplierProgressDashboard.js
-msgid "WORKER VOICE"
-msgstr ""
-
-#: src/views/suppliers/SupplierProgressDashboard.js
-msgid "Grey = Not yet initiated; Yellow = Partial progress; Green = Completed/ongoing"
-msgstr ""
-
-#: src/views/suppliers/SupplierProgressDashboard.js
-msgid "LABOUR RECRUITMENT"
-msgstr ""
-
-#: src/views/suppliers/SupplierProgressDashboard.js
-msgid "WORKING CONDITIONS"
-msgstr ""
-
-#: src/views/suppliers/SupplierProgressDashboard.js
-msgid "ACTIVITIES & ACHIEVEMENTS SUMMARY"
-msgstr ""
-
-#: src/views/suppliers/SupplierProgressDashboard.js
-#, fuzzy
-#| msgid "No. of New Workers Connected To Workers Voice Channels"
-msgid "Number of workers with access to Issara worker voice channels"
-msgstr "श्रमिक आवाज च्यानलहरूमा जोडिनु भएका श्रमिकरूको संख्या"
-
-#: src/views/suppliers/SupplierProgressDashboard.js
-msgid "Not available"
-msgstr ""
-
-#: src/views/suppliers/SupplierProgressDashboard.js
-msgid "Date of most recent worker satisfaction survey"
-msgstr ""
-
-#: src/views/suppliers/SupplierProgressDashboard.js
-msgid "Date of most recent recruitment survey"
-msgstr ""
-
-#: src/views/suppliers/SupplierProgressDashboard.js
-msgid "Number of workers reimbursed recruitment fees"
-msgstr ""
-
-#: src/views/suppliers/SupplierProgressDashboard.js
-msgid "Remaining number of workers owed recruitment fee reimbursement"
-msgstr ""
-
-#: src/views/suppliers/SupplierProgressDashboard.js
-msgid "Total amount of recruitment fees reimbursed to workers (US dollars)"
-msgstr ""
-
-#: src/views/suppliers/SupplierProgressDashboard.js
-msgid "Remaining amount owed, recruitment fee reimbursement to workers (US dollars)"
 msgstr ""
 
 #: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
@@ -2953,13 +5209,12 @@ msgid "Date of fieldwork"
 msgstr "फिल्डवर्कको मिति"
 
 #: src/views/TeamActivity/FieldworkActivityForm.js
-#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
-msgid "Click here to open calendar"
-msgstr "क्यालेन्डर खोल्न यहाँ क्लिक गर्नुहोस्"
-
-#: src/views/TeamActivity/FieldworkActivityForm.js
 msgid "Please choose the date"
 msgstr "कृपया मिति छान्नुहोस्"
+
+#: src/views/TeamActivity/FieldworkActivityForm.js
+msgid "Type training name"
+msgstr ""
 
 #: src/views/TeamActivity/FieldworkActivityForm.js
 msgid "Please choose a fieldwork type"
@@ -2971,11 +5226,11 @@ msgstr "कृपया माथिका त्रुटिहरू सच्
 
 #: src/views/TeamActivity/FieldworkActivityForm.js
 msgid ""
-"*Please Note: To Edit you must have 'Issara Management' Group added to your account and to add "
-"new Items you must have 'Activity User' Group added to your account ."
+"*Please Note: To Edit you must have 'Issara Management' Group added to your account and to "
+"add new Items you must have 'Activity User' Group added to your account ."
 msgstr ""
-"*कृपया ध्यान दिनुहोस्: सम्पादन गर्नको लागि तपाईको खातामा 'इसरा व्यवस्थापन' समूह थपिएको हुनुपर्छ र नयाँ कुरा "
-"वा आइटमहरू थप्नको लागि तपाइँको खातामा 'गतिविधि प्रयोगकर्ता' समूह थपिएको हुनुपर्छ।"
+"*कृपया ध्यान दिनुहोस्: सम्पादन गर्नको लागि तपाईको खातामा 'इसरा व्यवस्थापन' समूह थपिएको हुनुपर्छ र नयाँ "
+"कुरा वा आइटमहरू थप्नको लागि तपाइँको खातामा 'गतिविधि प्रयोगकर्ता' समूह थपिएको हुनुपर्छ।"
 
 #: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
 msgid "New monthly worker voice record has been successfully created"
@@ -2992,6 +5247,16 @@ msgstr "बर्मेली टिकटक सन्देशहरू"
 #: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
 msgid "Nepalese Tiktok messages"
 msgstr "नेपाली टिकटक सन्देशहरू"
+
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Khmer TikTok"
+msgstr ""
+
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+#, fuzzy
+#| msgid "Burmese hotline in Thailand"
+msgid "Hotline in Taiwan"
+msgstr "थाइल्याण्ड मा बर्मेली हटलाइन"
 
 #: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
 msgid "Bangladeshi Facebook messenger"
@@ -3106,11 +5371,21 @@ msgid "No. of Workers Receiving Remedition"
 msgstr "उपचार प्राप्त गर्ने कामदारहरूको संख्या"
 
 #: src/views/TeamActivity/WV_and_ER_metrix.js
-msgid "No. of Workers Reached In Pre-Departure NE"
+#, fuzzy
+#| msgid "No. of Workers Reached In Pre-Departure NE"
+msgid "No. of Workers Reached in Pre-Departure-Nepal"
 msgstr "पूर्व प्रस्थान अभिमूखीकरण तालिम लिएका श्रमिकहरुको संख्या नेपाल"
 
 #: src/views/TeamActivity/WV_and_ER_metrix.js
-msgid "No. of Workers Reached In Pre-Departure MM"
+#, fuzzy
+#| msgid "No. of Workers Reached In Pre-Departure NE"
+msgid "No. of Workers Reached in Pre-Departure-Cambodia"
+msgstr "पूर्व प्रस्थान अभिमूखीकरण तालिम लिएका श्रमिकहरुको संख्या नेपाल"
+
+#: src/views/TeamActivity/WV_and_ER_metrix.js
+#, fuzzy
+#| msgid "No. of Workers Reached In Pre-Departure MM"
+msgid "No. of Workers Reached in Pre-Departure-Myanmar"
 msgstr "पूर्व प्रस्थान अभिमूखीकरण तालिम लिएका श्रमिकहरुको संख्या म्यनमार"
 
 #: src/views/TeamActivity/WV_and_ER_metrix.js
@@ -3122,8 +5397,26 @@ msgid "No. of Suppliers Trained"
 msgstr "प्रशिक्षित रोजगारदाता कम्पनीहरुको संख्या"
 
 #: src/views/TeamActivity/WV_and_ER_metrix.js
+msgid "Enter the total amount in USD."
+msgstr ""
+
+#: src/views/TeamActivity/WV_and_ER_metrix.js
+#, fuzzy
+#| msgid "Remediation For Recruitment Fees and Cases"
+msgid "Remediation for Recruitment Fees and Cases in USD."
+msgstr "भर्ना शुल्क र मुद्दाहरूको लागि उपचार"
+
+#: src/views/TeamActivity/WV_and_ER_metrix.js
 msgid "No. of Trained Worker Leaders/Mobilizers"
 msgstr "प्रशिक्षित समाजिक अगुवा / परिचालकहरुको संख्या"
+
+#: src/views/TeamActivity/WV_and_ER_metrix.js
+#, fuzzy
+#| msgid "Recruitment-Related Fees Detected and Intercepted"
+msgid ""
+"Recruitment related Fees Detected and intercepted/prevented from job seekers and workers in "
+"USD."
+msgstr "भर्ना-सम्बन्धि शुल्कहरु लिएको पता लगाइयो र हस्तक्षेप गरियो"
 
 #: src/views/teamtasks/EnhancedTeamTasksList.js
 msgid "Show finished"
@@ -3165,10 +5458,6 @@ msgstr "नया पासवर्ड"
 msgid "Re-Enter Password to Verify"
 msgstr "प्रमाणीकरण गर्न पासवर्ड पुन: प्रविष्ट गर्नुहोस्"
 
-#: src/views/users/ChangePasswordForm.js
-msgid "Update"
-msgstr "अपडेट गर्नुहोस्"
-
 #: src/views/users/ForgotPasswordView.js
 msgid "Reset your password"
 msgstr "आफ्नो पासवर्ड रिसेट गर्नुहोस्"
@@ -3191,10 +5480,55 @@ msgstr "रिसेट लिङ्क पठाउनुहोस्"
 
 #: src/views/users/ForgotPasswordView.js
 msgid ""
-"We will send password reset link to this email address, please change your password within 24 "
-"hours."
+"We will send password reset link to this email address, please change your password within "
+"24 hours."
 msgstr ""
 "हामी यो इमेल ठेगानामा पासवर्ड रिसेट लिङ्क पठाउनेछौं, कृपया 24 घण्टा भित्र आफ्नो पासवर्ड परिवर्तन गर्नुहोस्।"
+
+#~ msgid "KPI category"
+#~ msgstr "मुख्य कामका सूचकका (KPI) प्रकारहरू"
+
+#~ msgid "Kpi References"
+#~ msgstr "KPI सन्दर्भ"
+
+#~ msgid ""
+#~ "If the client is adding more information or updates on a previously reported issue, "
+#~ "please click the green pen by the relevant KPI to update."
+#~ msgstr ""
+#~ "यदि क्लाइन्टले पहिले रिपोर्ट गरिएको मुद्दामा थप जानकारी वा अद्यावधिकहरू थप्दै हुनुहुन्छ भने, अपडेट गर्नको "
+#~ "लागि सम्बन्धित KPI द्वारा हरियो कलममा क्लिक गर्नुहोस्।"
+
+#~ msgid ""
+#~ "If the client is reporting a new issue at the workplace, please click the green New Issue "
+#~ "button."
+#~ msgstr ""
+#~ "यदि ग्राहकले कार्यस्थलमा नयाँ मुद्दा रिपोर्ट गर्दै हुनुहुन्छ भने, कृपया हरियो नयाँ मुद्दा बटनमा क्लिक गर्नुहोस्।"
+
+#~ msgid "Legal"
+#~ msgstr "कानूनी"
+
+#~ msgid "Systems"
+#~ msgstr "प्रणालीहरू"
+
+#~ msgid "Updates"
+#~ msgstr "अपडेटहरू"
+
+#~ msgid "Remediation Issues:"
+#~ msgstr "समाधानका समस्याहरू:"
+
+#~ msgid "Remediation Action:"
+#~ msgstr "सामाधानका लागि कारबाही"
+
+#~ msgid "Remediation Validation:"
+#~ msgstr "सामाधान प्रमाणीकरण:"
+
+#~ msgid "Remediation Results:"
+#~ msgstr "सामाधानको परिणाम"
+
+#, fuzzy
+#~| msgid "No. of New Workers Connected To Workers Voice Channels"
+#~ msgid "Number of workers with access to Issara worker voice channels"
+#~ msgstr "श्रमिक आवाज च्यानलहरूमा जोडिनु भएका श्रमिकरूको संख्या"
 
 #~ msgid "Thai Facebook"
 #~ msgstr "थाई फेसबुक"

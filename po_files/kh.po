@@ -15,31 +15,26 @@ msgstr ""
 
 #: src/views/calls/WizardSteps/EmploymentFields.js
 #: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 msgid "1"
 msgstr "1"
 
 #: src/views/calls/WizardSteps/EmploymentFields.js
 #: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 msgid "2"
 msgstr "2"
 
 #: src/views/calls/WizardSteps/EmploymentFields.js
 #: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 msgid "3"
 msgstr "3"
 
 #: src/views/calls/WizardSteps/EmploymentFields.js
 #: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 msgid "4"
 msgstr "4"
 
 #: src/views/calls/WizardSteps/EmploymentFields.js
 #: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 msgid "5"
 msgstr "5"
 
@@ -454,7 +449,6 @@ msgstr "កម្មវិធីនឹងត្រូវលោតសារឡើ
 #: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.backup.js
 #: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
 #: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 msgid "Cancel"
 msgstr "បោះបង់"
 
@@ -1008,8 +1002,7 @@ msgstr "កែតម្រូវ/បន្ថែមការហៅទូរស�
 #: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.backup.js
 #: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
 #: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
-#: src/views/Dashboard/SPWorkPlanning/SPProgressIntroForm.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js src/views/landing/TeamActionForm.js
+#: src/views/Dashboard/SPWorkPlanning/SPProgressIntroForm.js src/views/landing/TeamActionForm.js
 #: src/views/TeamActivity/FieldworkActivityForm.js src/views/TeamActivity/MonthlyWorkerVoiceForm.js
 #: src/views/TeamActivity/WV_and_ER_metrix.js
 msgid "Save"
@@ -1615,7 +1608,6 @@ msgstr ""
 
 #: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
 #: src/views/Dashboard/SPWorkPlanning/SPMainGoalsForm.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 msgid ""
 "What are the company's main goals in responsible sourcing and ethical recruitment over the next 3 "
 "years?"
@@ -1623,20 +1615,17 @@ msgstr ""
 
 #: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
 #: src/views/Dashboard/SPWorkPlanning/SPMainGoalsForm.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 msgid "What are the company's main priority areas of partnership with Issara Institute?"
 msgstr ""
 
 #: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
 #: src/views/Dashboard/SPWorkPlanning/SPMainGoalsForm.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 msgid ""
 "How worker voice via Inclusive Labor Monitoring (ILM) will be actioned and escalated at Partner:"
 msgstr ""
 
 #: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
 #: src/views/Dashboard/SPWorkPlanning/SPMainGoalsForm.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 msgid "Priority suppliers, countries, and/or regions for continued focus or expansion:"
 msgstr ""
 
@@ -1647,12 +1636,10 @@ msgid "Progress Indicators"
 msgstr "វឌ្ឍនភាពនៃដំណោះស្រាយ៖"
 
 #: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 msgid "AREA 1. WORKER VOICE: ANNUAL TARGETS"
 msgstr ""
 
 #: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 msgid "AREA 2. LABOUR RECRUITMENT: ANNUAL TARGETS"
 msgstr ""
 
@@ -1664,7 +1651,6 @@ msgstr ""
 
 #: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
 #: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 msgid "ER INDICATOR 2."
 msgstr ""
 
@@ -1683,7 +1669,6 @@ msgid "Number of suppliers utilizing GD Marketplace"
 msgstr ""
 
 #: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 msgid "AREA 3. WORKING CONDITIONS: ANNUAL TARGETS"
 msgstr ""
 
@@ -1716,7 +1701,6 @@ msgid "Priority Workplan Activities"
 msgstr ""
 
 #: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 msgid ""
 "The priority activities for your company that you indicate here will appear on your SP Progress "
 "Dashboard."
@@ -1724,13 +1708,11 @@ msgstr ""
 
 #: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
 #: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 msgid "AREA 2. LABOUR RECRUITMENT"
 msgstr ""
 
 #: src/views/Dashboard/SPWorkPlanning/FinalWorkplan.js
 #: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 msgid "AREA 3. WORKING CONDITIONS"
 msgstr ""
 
@@ -1742,31 +1724,26 @@ msgstr ""
 #: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.backup.js
 #: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
 #: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 msgid "Changes have not been saved."
 msgstr ""
 
 #: src/views/Dashboard/SPWorkPlanning/SPMainGoalsForm.js
 #: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.backup.js
 #: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 msgid "Do not show this again."
 msgstr ""
 
 #: src/views/Dashboard/SPWorkPlanning/SPMainGoalsForm.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 msgid "2 of 5. Main Goals and Priority Partnership Areas"
 msgstr ""
 
 #: src/views/Dashboard/SPWorkPlanning/SPMainGoalsForm.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 msgid ""
 "Summary of the Partner’s main goals in responsible sourcing and ethical recruitment over the next "
 "year and the next three years:"
 msgstr ""
 
 #: src/views/Dashboard/SPWorkPlanning/SPMainGoalsForm.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 msgid "Partner’s main priority areas of partnership with Issara Institute:"
 msgstr ""
 
@@ -1774,7 +1751,6 @@ msgstr ""
 #: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.backup.js
 #: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
 #: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 #: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningFormReview.js
 msgid "Back"
 msgstr ""
@@ -1782,7 +1758,6 @@ msgstr ""
 #: src/views/Dashboard/SPWorkPlanning/SPMainGoalsForm.js
 #: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
 #: src/views/Dashboard/SPWorkPlanning/SPProgressIntroForm.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 msgid "Next"
 msgstr ""
 
@@ -1794,13 +1769,11 @@ msgstr ""
 #: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.backup.js
 #: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
 #: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 msgid "Proceed Anyway"
 msgstr ""
 
 #: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.backup.js
 #: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 msgid "4 of 5. Priority Workplan Activities"
 msgstr ""
 
@@ -2144,32 +2117,27 @@ msgstr ""
 
 #: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.backup.js
 #: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 msgid "NOTES & REMARKS ON THE PRIORITY WORKPLAN ACTIVITIES FOR THE ANNUAL WORKPLAN"
 msgstr ""
 
 #: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.backup.js
 #: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
 #: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 msgid ""
 "Please feel free to add any note in this space, either for yourself or to note for the Issara team."
 msgstr ""
 
 #: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.backup.js
 #: src/views/Dashboard/SPWorkPlanning/SPPriorityWorkplanActivitiesForm.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 msgid "Review Workplan"
 msgstr ""
 
 #: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
 #: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 msgid "In line with international standards and definitions"
 msgstr ""
 
 #: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 msgid "Clearly communicated to suppliers, including effective date"
 msgstr ""
 
@@ -2179,7 +2147,6 @@ msgstr ""
 
 #: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
 #: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 msgid "Clearly communicated to suppliers"
 msgstr ""
 
@@ -2209,19 +2176,16 @@ msgid "Wait..."
 msgstr ""
 
 #: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 msgid "Indicator 2A: Number of recruitment agencies mapped across supplier base."
 msgstr ""
 
 #: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 msgid ""
 "Indicator 2B: Number of suppliers collaborating with Issara and their recruitment agencies on pre-"
 "departure orientations and strengthened recruitment practices"
 msgstr ""
 
 #: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 msgid ""
 "Indicator 2C: Number of suppliers utilizing Golden Dreams Marketplace to reduce risk of worker "
 "indebtedness and workers paying fees to brokers and middlemen"
@@ -2269,7 +2233,6 @@ msgid "Openness to Reform"
 msgstr ""
 
 #: src/views/Dashboard/SPWorkPlanning/SPProgressDashboard.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 msgid ""
 "WORK INDICATOR 3. Percentage of worker-reported issues in the supply chain resolved in under 60 days"
 msgstr ""
@@ -2341,12 +2304,10 @@ msgid "Please create a work plan in Step 1."
 msgstr ""
 
 #: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 msgid "3 of 5. Progress Indicators"
 msgstr ""
 
 #: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 msgid ""
 "The target progress indicators for your company that you indicate here will display on your SP "
 "Progress Metrics Dashboard. At any time, you can visit the SP Progress Dashboard to see your targets "
@@ -2502,19 +2463,16 @@ msgid ""
 msgstr ""
 
 #: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 msgid "• Quality of remediation"
 msgstr ""
 
 #: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 #, fuzzy
 #| msgid "Progress on remediation:"
 msgid "• Timeliness of remediation"
 msgstr "វឌ្ឍនភាពនៃដំណោះស្រាយ៖"
 
 #: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 msgid "• Openness to reform"
 msgstr ""
 
@@ -2539,79 +2497,64 @@ msgid ""
 msgstr ""
 
 #: src/views/Dashboard/SPWorkPlanning/SPProgressIndicatorsForm.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 msgid "NOTES & REMARKS ON THE PROGRESS INDICATORS FOR THE ANNUAL WORKPLAN"
 msgstr ""
 
 #: src/views/Dashboard/SPWorkPlanning/SPProgressIntroForm.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 #, fuzzy
 #| msgid "Please choose the date"
 msgid "Please enter FP name"
 msgstr "សូមជ្រើសរើសកាលបរិច្ឆេទ"
 
 #: src/views/Dashboard/SPWorkPlanning/SPProgressIntroForm.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 msgid "Change"
 msgstr ""
 
 #: src/views/Dashboard/SPWorkPlanning/SPProgressIntroForm.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 msgid "Upload"
 msgstr ""
 
 #: src/views/Dashboard/SPWorkPlanning/SPProgressIntroForm.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 #, fuzzy
 #| msgid "Overview:"
 msgid "Review"
 msgstr "ទិដ្ឋភាពទូទៅ៖"
 
 #: src/views/Dashboard/SPWorkPlanning/SPProgressIntroForm.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 #, fuzzy
 #| msgid "supply chain data"
 msgid "Updated supply chain information"
 msgstr "ទិន្នន័យខ្សែសង្វាក់ផ្គត់ផ្គង់"
 
 #: src/views/Dashboard/SPWorkPlanning/SPProgressIntroForm.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 msgid "Escalation protocol for worker-reported issues and worker voice"
 msgstr ""
 
 #: src/views/Dashboard/SPWorkPlanning/SPProgressIntroForm.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 #, fuzzy
 #| msgid "Filter by Suppliers"
 msgid "Audit reports for suppliers"
 msgstr "សម្រង់រើសដោយអ្នកផ្គត់ផ្គង់"
 
 #: src/views/Dashboard/SPWorkPlanning/SPProgressIntroForm.js
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 msgid "Other key policy or background documents"
 msgstr ""
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 msgid "Are you sure?"
 msgstr ""
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 msgid "Once deleted, you will not be able to recover this file!"
 msgstr ""
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 msgid "Document removed successfully!"
 msgstr ""
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 msgid "Changes have not been saved."
 msgstr ""
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 msgid "1 of 5. Intro"
 msgstr ""
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 msgid ""
 "This annual workplanning form aims to help your company identify and maintain focus on key business "
 "priorities with regard to ethical sourcing and ethical recruitment across your supply chain. The "
@@ -2620,168 +2563,135 @@ msgid ""
 "each target as well as update this Workplanning Form if priorities change."
 msgstr ""
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 msgid ""
 "The SP Workplanning has 4 sections: 1. Intro, 2. Main Goals and Priority Partnership Areas, 3. "
 "Progress Indicators, and 4. Priority Workplan Activities."
 msgstr ""
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 msgid "Suggested date for mid-year check-in"
 msgstr ""
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 msgid ""
 "Please check that all foundational documents and materials that have been shared with Issara. If "
 "not, you can upload them here ."
 msgstr ""
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 msgid "Helpful information to include:"
 msgstr ""
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 #, fuzzy
 #| msgid "Supplier Name"
 msgid "Supplier name"
 msgstr "ឈ្មោះ​ក្រុមហ៊ុន​ផ្គត់ផ្គង់"
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 #, fuzzy
 #| msgid "Supplier Name"
 msgid "Supplier address"
 msgstr "ឈ្មោះ​ក្រុមហ៊ុន​ផ្គត់ផ្គង់"
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 msgid "Product sourced"
 msgstr ""
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 msgid "Supplier key focal point name, title, and contact information"
 msgstr ""
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 msgid "Length of sourcing relationship"
 msgstr ""
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 msgid "Number and breakdown of workers by nationality and gender"
 msgstr ""
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 msgid "Company policy: human rights"
 msgstr ""
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 msgid "Company policy: migrant worker"
 msgstr ""
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 msgid "Company policy: ethical recruitment"
 msgstr ""
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 msgid "Data save sucsessfully"
 msgstr ""
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 msgid "If additional details need to be provided, please use the note box at bottom."
 msgstr ""
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 msgid ""
 "WV INDICATOR 1. Percentage of tier-1 suppliers (export level) in your supply chain with Issara "
 "worker voice channels available to workers"
 msgstr ""
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 msgid ""
 "WV INDICATOR 2. Percentage of upstream (tier-2 and beyond) suppliers in your supply chain with "
 "Issara worker voice channels available to workers, based on supply chain information provided"
 msgstr ""
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 msgid ""
 "ER INDICATOR 1. Ethical recruitment policy in force is (tick all that are within your goal for this "
 "year):"
 msgstr ""
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 msgid "Integrated into commercial processes (supplier scorecards, contracts, etc.)"
 msgstr ""
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 msgid ""
 "ER INDICATOR 3. Number of suppliers that have undertaken recruitment surveys by Issara to assess "
 "recruitment process-related risks, and recruitment-related fees paid by workers"
 msgstr ""
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 msgid ""
 "ER INDICATOR 4. Percentage of workers in supply chain reimbursed for recruitment-related fees owed"
 msgstr ""
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 msgid ""
 "WORK INDICATOR 1. Ethical sourcing and migrant worker policies put into force (tick all that are "
 "within your goal for this year)."
 msgstr ""
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 msgid ""
 "WORK INDICATOR 2. Average supplier performance scores (scale of 1-5, where 1 is poor and 5 is "
 "excellent):"
 msgstr ""
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 #, fuzzy
 #| msgid "Nationality"
 msgid "Foundational activities"
 msgstr "សញ្ជាតិ"
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 #, fuzzy
 #| msgid "supply chain data"
 msgid "Supply chain activities"
 msgstr "ទិន្នន័យខ្សែសង្វាក់ផ្គត់ផ្គង់"
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 msgid "4 of 5. Priority Workplan Activities"
 msgstr ""
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 #: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningFormReview.js
 msgid "5 of 5. Review and Finalize Annual Workplan"
 msgstr ""
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 #: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningFormReview.js
 msgid "CONGRATULATIONS!"
 msgstr ""
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 #: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningFormReview.js
 msgid ""
 "Great work, you have finalized your Issara Annual Workplan! We will look forward to reviewing your "
 "company's progress at the mid-year review."
 msgstr ""
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 #: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningFormReview.js
 msgid "Download Workplan PDF"
 msgstr ""
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 #: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningFormReview.js
 msgid "Go to SP Progress Metrics"
 msgstr ""
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 #: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningFormReview.js
 msgid "Revise"
 msgstr ""
 
-#: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningForm.backup.js
 #: src/views/Dashboard/SPWorkPlanning/SPWorkPlanningFormReview.js
 msgid "FINALIZE & SAVE WORKPLAN"
 msgstr ""
