@@ -1,0 +1,3610 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2024-06-06 15:40+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.3\n"
+"X-Poedit-Basepath: .\n"
+
+#: src/views/calls/WizardSteps/EmploymentFields.js
+msgid "1"
+msgstr "1"
+
+#: src/views/calls/WizardSteps/EmploymentFields.js
+msgid "2"
+msgstr "2"
+
+#: src/views/calls/WizardSteps/EmploymentFields.js
+msgid "3"
+msgstr "3"
+
+#: src/views/calls/WizardSteps/EmploymentFields.js
+msgid "4"
+msgstr "4"
+
+#: src/views/calls/WizardSteps/EmploymentFields.js
+msgid "5"
+msgstr "5"
+
+#: src/components/Charts/SupplierKpisTimelineChart.js
+msgid "Supplier KPIs timeline chart"
+msgstr "ไทม์ไลน์ KPI ของบริษัท"
+
+#: src/components/Charts/SupplierKpisTimelineChart.js
+#: src/components/ilmdb/KpiCategoriesDropdown.js
+msgid "Fetching KPI categories.."
+msgstr "กำลังค้นหาประเภท KPI"
+
+#: src/components/Charts/SupplierKpisTimelineChart.js
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+#, fuzzy
+msgid "KPI Categories"
+msgstr "ประเภท KPI"
+
+#: src/components/Charts/SupplierKpisTimelineChart.js
+msgid "Please choose a supplier"
+msgstr "เลือกบริษัท"
+
+#: src/components/Charts/SupplierKpisTimelineChart.js
+#, fuzzy
+msgid ""
+"This supplier doesn't have any KPI History for the chosen period of time and"
+" category"
+msgstr "ในช่วงเวลาและหมวดหมู่ที่เลือกไม่มีประวัติ KPI"
+
+#: src/components/Footer/Footer.js
+msgid "Issara Institute"
+msgstr "สถาบันอิสรา"
+
+#: src/components/Footer/Footer.js
+msgid "All rights reserved. V3.0.0"
+msgstr "All rights reserved. V3.0.0"
+
+#: src/components/ilmdb/CallerStatusDropdown.js
+#: src/views/calls/InteractionCallModal.js
+msgid "Client Status"
+msgstr "สถานะของผู้มาติดต่อ"
+
+#: src/components/ilmdb/CallerStatusDropdown.js
+msgid "Status of Client"
+msgstr "สถานะของผู้มาติดต่อ"
+
+#: src/components/ilmdb/CaseCategoriesDropdown.js
+#: src/views/calls/InteractionCallModal.js
+msgid "Case/Call Type"
+msgstr "จุดประสงค์ในการติดต่อ"
+
+#: src/components/ilmdb/CaseCategoriesDropdown.js
+msgid "Type of Call/Case"
+msgstr "จุดประสงค์ในการติดต่อ"
+
+#: src/components/ilmdb/CaseStatusesDropdown.js
+msgid "open"
+msgstr "เปิด"
+
+#: src/components/ilmdb/CaseStatusesDropdown.js
+msgid "close"
+msgstr "ปิด"
+
+#: src/components/ilmdb/CaseStatusesDropdown.js
+msgid "Case Status"
+msgstr "สถานะของเคส"
+
+#: src/components/ilmdb/ChannelsDropdown.js
+msgid "Worker Voice Channel"
+msgstr "ช่องทางเสียงของแรงงาน"
+
+#: src/components/ilmdb/ClientTypesDropdown.js
+#: src/views/calls/InteractionCallModal.js
+msgid "Client Type"
+msgstr "ประเภทผู้มาติดต่อ"
+
+#: src/components/ilmdb/ClientTypesDropdown.js
+msgid "Type of Client"
+msgstr "ประเภทผู้มาติดต่อ"
+
+#: src/components/ilmdb/ContractTypesDropdown.js
+msgid "Daily worker"
+msgstr "แรงงานรายวัน"
+
+#: src/components/ilmdb/ContractTypesDropdown.js
+msgid "Piece work"
+msgstr "แรงงานรับเหมา"
+
+#: src/components/ilmdb/ContractTypesDropdown.js
+msgid "Seasonal worker"
+msgstr "แรงงานตามฤดูกาล"
+
+#: src/components/ilmdb/ContractTypesDropdown.js
+msgid "Full-time position"
+msgstr "แรงงานประจำ"
+
+#: src/components/ilmdb/ContractTypesDropdown.js
+#: src/components/ilmdb/GendersDropdown.js
+#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
+msgid "Other"
+msgstr "อื่นๆ"
+
+#: src/components/ilmdb/ContractTypesDropdown.js
+#: src/views/calls/InteractionCallModal.js
+msgid "Contract Type"
+msgstr "ประเภทสัญญา"
+
+#: src/components/ilmdb/CountriesDropdown.js
+#: src/views/calls/InteractionCallModal.js
+#: src/views/references/KpiLegalViolationList.js
+#: src/views/suppliers/SupplierKPIsList.js src/views/suppliers/SupplierList.js
+msgid "Country"
+msgstr "ประเทศ"
+
+#: src/components/ilmdb/DistrictsDropdown.js
+#: src/views/calls/InteractionCallModal.js src/views/suppliers/SupplierList.js
+msgid "District"
+msgstr "เขต/อำเภอ"
+
+#: src/components/ilmdb/DocumentTypesDropdown.js
+msgid "Undocumented"
+msgstr "ไม่มีเอกสารตามกฏหมาย"
+
+#: src/components/ilmdb/DocumentTypesDropdown.js
+msgid "Pink card"
+msgstr "บัตรชมพู"
+
+#: src/components/ilmdb/DocumentTypesDropdown.js
+msgid "CI/TD"
+msgstr "หนังสือรับรองสถานะบุคคลประเภทซีไอ (CI) /หรือแบบชั่วคราว"
+
+#: src/components/ilmdb/DocumentTypesDropdown.js
+msgid "Passport"
+msgstr "พาสปอร์ต"
+
+#: src/components/ilmdb/DocumentTypesDropdown.js
+msgid "Border pass"
+msgstr "หนังสือผ่านแดน"
+
+#: src/components/ilmdb/DocumentTypesDropdown.js
+#: src/views/calls/InteractionCallModal.js
+msgid "Document Type"
+msgstr "ประเภทเอกสาร"
+
+#: src/components/ilmdb/EthnicitiesDropdown.js
+#: src/views/calls/InteractionCallModal.js
+msgid "Ethnicity"
+msgstr "ชาติพันธ์ุ"
+
+#: src/components/ilmdb/FieldworkTypeDropdown.js
+msgid "Fetching fieldwork types.."
+msgstr "กำลังค้นหาประเภทกิจกรรม"
+
+#: src/components/ilmdb/FieldworkTypeDropdown.js
+msgid "Activity Type"
+msgstr "ประเภทกิจกรรม"
+
+#: src/components/ilmdb/GendersDropdown.js
+msgid "Select Gender"
+msgstr "เลือกเพศ"
+
+#: src/components/ilmdb/GendersDropdown.js
+#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
+msgid "Male"
+msgstr "ชาย"
+
+#: src/components/ilmdb/GendersDropdown.js
+#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
+msgid "Female"
+msgstr "หญิง"
+
+#: src/components/ilmdb/GendersDropdown.js
+msgid "Non-Binary"
+msgstr "นอนไบนารี่"
+
+#: src/components/ilmdb/GendersDropdown.js
+#: src/views/calls/InteractionCallList.js
+#: src/views/calls/InteractionCallModal.js
+msgid "Gender"
+msgstr "เพศ"
+
+#: src/components/ilmdb/HowHearIssara.js
+msgid "How did the client hear about the organization? (check all that apply)"
+msgstr "ผู้มาติดต่อทราบข่าวเกี่ยวกับองค์กรของท่านได้อย่างไร (เลือกได้หลายข้อ)"
+
+#: src/components/ilmdb/HowHearIssara.js
+msgid "How did the client hear about Issara? (check all that apply)"
+msgstr "ผู้มาติดต่อทราบข่าวเกี่ยวกับสถาบันอิสราได้อย่างไร (เลือกได้หลายข้อ)"
+
+#: src/components/ilmdb/HowHearIssara.js
+#: src/views/Dashboard/KpiReferencesList.js
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+#: src/views/references/KpiReferencesList.js
+msgid "Loading..."
+msgstr "กำลังโหลด..."
+
+#: src/components/ilmdb/IssaraStaffDropdown.js
+msgid "Fetching suppliers..."
+msgstr "กำลังค้นหาซัพพลายเออร์"
+
+#: src/components/ilmdb/IssaraStaffDropdown.js
+msgid "Organization staff"
+msgstr "เจ้าหน้าที่องค์กร"
+
+#: src/components/ilmdb/IssaraStaffDropdown.js
+#: src/views/calls/InteractionCallModal.js
+msgid "Issara Staff"
+msgstr "เจ้าหน้าที่สถาบันอิสรา"
+
+#: src/components/ilmdb/KpiCategoriesDropdown.js
+msgid "KPI category"
+msgstr "ประเภท KPI"
+
+#: src/components/ilmdb/KpiSelector.js
+msgid "KPI(s)"
+msgstr "KPI(s)"
+
+#: src/components/ilmdb/KpiSelector.js
+msgid "Edit"
+msgstr "แก้ไข"
+
+#: src/components/ilmdb/KpiSelector.js
+#: src/views/Dashboard/KpiReferencesList.js
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+#: src/views/references/KpiReferencesList.js
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Category"
+msgstr "ประเภท"
+
+#: src/components/ilmdb/KpiSelector.js src/views/calls/InteractionCallList.js
+msgid "Kpi"
+msgstr "Kpi"
+
+#: src/components/ilmdb/KpiSelector.js src/views/calls/InteractionCallList.js
+#: src/views/Dashboard/KpiReferencesList.js
+#: src/views/references/KpiReferencesList.js
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Level"
+msgstr "ระดับ"
+
+#: src/components/ilmdb/KpiSelector.js
+#: src/views/Dashboard/KpiReferencesList.js
+#: src/views/references/KpiReferencesList.js
+msgid "Goal"
+msgstr "เป้าหมาย"
+
+#: src/components/ilmdb/KpiSelector.js
+msgid "Done"
+msgstr "เสร็จเรียบร้อย"
+
+#: src/components/ilmdb/KpiSelector.js
+msgid "Loading.."
+msgstr "กำลังโหลด..."
+
+#: src/components/ilmdb/NationalitiesDropdown.js
+#: src/views/calls/InteractionCallList.js
+#: src/views/calls/InteractionCallModal.js
+msgid "Nationality"
+msgstr "สัญชาติ"
+
+#: src/components/ilmdb/ProvincesDropdown.js
+#: src/views/calls/InteractionCallModal.js src/views/suppliers/SupplierList.js
+msgid "Province"
+msgstr "จังหวัด"
+
+#: src/components/ilmdb/ReasonsDropdown.js
+msgid "Purpose of Call/Message"
+msgstr "จุดประสงค์ในการติดต่อ"
+
+#: src/components/ilmdb/ReasonsDropdown.js
+msgid "Purpose"
+msgstr "วัตถุประสงค์"
+
+#: src/components/ilmdb/RecruitersDropdown.js
+msgid "Fetching recruiters.."
+msgstr "กำลังค้นหาเอเจนซี่จัดหาแรงงาน"
+
+#: src/components/ilmdb/ReferralActionsDropdown.js
+msgid "Referral Actions"
+msgstr "การส่งต่อเคสเพื่อดำเนินการ"
+
+#: src/components/ilmdb/ReferralOptionDropdown.js
+msgid "Organization Name"
+msgstr "ชื่อองค์กร"
+
+#: src/components/ilmdb/SuppliersDropdown.js
+msgid "Fetching suppliers.."
+msgstr "กำลังค้นหาซัพพลายเออร์"
+
+#: src/components/Navbars/AdminNavbarLinks.js
+#: src/components/Navbars/AdminNavbarLinks.Old.js
+msgid "English"
+msgstr "ภาษาอังกฤษ"
+
+#: src/components/Navbars/AdminNavbarLinks.js
+#: src/components/Navbars/AdminNavbarLinks.Old.js
+msgid "Nepali"
+msgstr "ภาษาเนปาล"
+
+#: src/components/Navbars/AdminNavbarLinks.js
+#: src/components/Navbars/AdminNavbarLinks.Old.js
+#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
+msgid "Burmese"
+msgstr "ภาษาพม่า"
+
+#: src/components/Navbars/AdminNavbarLinks.js
+#: src/components/Navbars/AdminNavbarLinks.Old.js
+#: src/views/suppliers/SupplierKpiDashboard.js
+#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
+msgid "Thai"
+msgstr "ภาษาไทย"
+
+#: src/components/Navbars/AdminNavbarLinks.js
+#: src/components/Navbars/AdminNavbarLinks.Old.js
+msgid "Japanese"
+msgstr "ภาษาญี่ปุ่น"
+
+#: src/components/Navbars/AdminNavbarLinks.js
+#: src/components/Navbars/AdminNavbarLinks.Old.js
+msgid "Person"
+msgstr "บุคคล"
+
+#: src/components/Navbars/AdminNavbarLinks.js
+#: src/components/Navbars/AdminNavbarLinks.Old.js
+msgid "Profile"
+msgstr "โปรไฟล์"
+
+#: src/components/Navbars/AdminNavbarLinks.js
+#: src/components/Navbars/AdminNavbarLinks.Old.js
+msgid "Log out"
+msgstr "ออกจากระบบ"
+
+#: src/components/Navbars/LanguageChangeDialog.js
+msgid "Are you sure want to change the language ?"
+msgstr "คุณแน่ใจหรือไม่ว่าต้องการเปลี่ยนภาษา?"
+
+#: src/components/Navbars/LanguageChangeDialog.js
+msgid "Are you sure want to change the language to"
+msgstr "คุณแน่ใจหรือไม่ว่าต้องการเปลี่ยนภาษาเป็น"
+
+#: src/components/Navbars/LanguageChangeDialog.js
+msgid "The application will be refreshed to effect the changed language."
+msgstr "แอปพลิเคชันจะทำการโหลดใหม่เพื่อเปลี่ยนภาษา"
+
+#: src/components/Navbars/LanguageChangeDialog.js
+msgid "Cancel"
+msgstr "ยกเลิก"
+
+#: src/components/Navbars/LanguageChangeDialog.js
+msgid "Yes, Sure Please"
+msgstr "ใช่ "
+
+#: src/layouts/Admin.js
+msgid "ILM 3.0"
+msgstr "ILM 3.0"
+
+#: src/routes.js
+msgid "Supplier Overview"
+msgstr "ภาพรวมบริษัท"
+
+#: src/routes.js
+msgid "Progress Dashboard"
+msgstr "แดชบอร์ดการดำเนินการ"
+
+#: src/routes.js
+msgid "Worker Reported Issues"
+msgstr "ประเด็นที่แรงงานรายงาน"
+
+#: src/routes.js
+msgid "Kpi References"
+msgstr "รหัสอ้างอิง KPI"
+
+#: src/routes.js
+msgid "Password Reset"
+msgstr "ตั้งพาสเวิร์ดใหม่"
+
+#: src/routes.js
+msgid "Login Page"
+msgstr "หน้าล็อกอิน"
+
+#: src/routes.js
+msgid "Enter 2 Factor Code"
+msgstr "ยืนยันตัวตนด้วยรหัส 2 Factor"
+
+#: src/routes.js
+msgid "Lock Screen Page"
+msgstr "หน้าล็อกสกรีน"
+
+#: src/routes.js
+msgid "Error Page"
+msgstr "พบข้อผิดพลาดในหน้านี้"
+
+#: src/routes.js src/views/suppliers/SupplierKpiDashboard.js
+#: src/views/suppliers/SupplierModal.js
+msgid "Worker Voice"
+msgstr "เสียงของแรงงาน"
+
+#: src/routes.js
+msgid "Add Call"
+msgstr "เพิ่มคอล"
+
+#: src/routes.js
+msgid "View Calls"
+msgstr "ดูคอล"
+
+#: src/routes.js
+msgid "Team Activities"
+msgstr "ประเภทกิจกรรมของทีม"
+
+#: src/routes.js
+msgid "Add activity"
+msgstr "เพิ่มกิจกรรม"
+
+#: src/routes.js
+msgid "Add monthly WV metrics"
+msgstr "เพิ่มมาตรวัดเสียงของแรงงานประจำเดือน"
+
+#: src/routes.js
+msgid "WV and ER metrics"
+msgstr "มาตรวัดเสียงของแรงงานและการสรรหาจ้างแรงงานอย่างมีจริยธรรม"
+
+#: src/routes.js
+msgid "Team Tasks"
+msgstr "งานประจำวันของทีม"
+
+#: src/routes.js
+msgid "Internal Dashboards"
+msgstr "แดชบอร์ดภายใน"
+
+#: src/routes.js
+msgid "Team Activity Dashboard"
+msgstr "แดชบอร์ดกิจกรรมของทีม"
+
+#: src/routes.js
+msgid "Case management"
+msgstr "การจัดการรายกรณี"
+
+#: src/routes.js
+msgid "Kpi Updates"
+msgstr "อัปเดท Kpi"
+
+#: src/routes.js
+msgid "View Supplier KPIs bulk update"
+msgstr "View Supplier KPIs bulk update"
+
+#: src/routes.js src/views/calls/InteractionCallList.js
+#: src/views/calls/WizardSteps/RequiredCallFields.js
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/TeamActivity/FieldworkActivityForm.js
+msgid "Suppliers"
+msgstr "ซัพพลายเออร์"
+
+#: src/routes.js
+msgid "View Suppliers"
+msgstr "ดูซัพพลายเออร์"
+
+#: src/routes.js
+msgid "References"
+msgstr "ข้อมูลอ้างอิง"
+
+#: src/routes.js
+msgid "Legal Violations"
+msgstr "ด้านการละเมิดทางกฏหมาย"
+
+#: src/routes.js src/views/users/ChangePasswordForm.js
+msgid "Change Password"
+msgstr "เปลี่ยนพาสเวิร์ด"
+
+#: src/views/calls/InteractionCallList.js
+msgid "Edit Item:"
+msgstr "แก้ไขรายการ:"
+
+#: src/views/calls/InteractionCallList.js
+#: src/views/teamtasks/EnhancedTeamTasksList.js
+msgid "View Item:"
+msgstr "ดูรายการ:"
+
+#: src/views/calls/InteractionCallList.js
+msgid "No KPIs logged for this call id:"
+msgstr "ไม่มี KPI สำหรับคอลไอดีนี้"
+
+#: src/views/calls/InteractionCallList.js
+msgid "Worker Voice Calls"
+msgstr "สายด่วนเสียงของแรงงาน"
+
+#: src/views/calls/InteractionCallList.js
+#: src/views/calls/InteractionCallModal.js
+#: src/views/calls/WizardSteps/RecruiterFields.js
+msgid "Source Recruiter"
+msgstr "เอเจนซี่ในประเทศต้นทาง"
+
+#: src/views/calls/InteractionCallList.js
+#: src/views/calls/InteractionCallModal.js
+#: src/views/calls/WizardSteps/RecruiterFields.js
+msgid "Destination Recruiter"
+msgstr "เอเจนซี่ในประเทศปลายทาง"
+
+#: src/views/calls/InteractionCallList.js
+msgid "After Date:"
+msgstr "หลังวันที่"
+
+#: src/views/calls/InteractionCallList.js
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Date"
+msgstr "วันที่"
+
+#: src/views/calls/InteractionCallList.js
+msgid "Before Date:"
+msgstr "ก่อนวันที่"
+
+#: src/views/calls/InteractionCallList.js
+msgid "Search"
+msgstr "ค้นหา"
+
+#: src/views/calls/InteractionCallList.js
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/Dashboard/KpiReferencesList.js
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+#: src/views/references/KpiLegalViolationList.js
+#: src/views/references/KpiReferencesList.js
+#: src/views/suppliers/SupplierKPIsList.js src/views/suppliers/SupplierList.js
+#: src/views/teamtasks/EnhancedTeamTasksList.js
+msgid "Search Results"
+msgstr "ผลของการค้นหา"
+
+#: src/views/calls/InteractionCallList.js
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+#: src/views/references/KpiLegalViolationList.js
+#: src/views/references/KpiReferencesList.js
+#: src/views/suppliers/SharedFileList.js
+#: src/views/suppliers/SupplierKPIsList.js
+#: src/views/teamtasks/EnhancedTeamTasksList.js
+msgid "Found"
+msgstr "พบข้อมูล"
+
+#: src/views/calls/InteractionCallList.js
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+#: src/views/suppliers/SupplierKPIsList.js
+#: src/views/teamtasks/EnhancedTeamTasksList.js
+msgid "Search (Fuzzy Search Across all fields)"
+msgstr "ค้นหา (ค้นหาแบบครอบคลุมทุกตัวกรอง)"
+
+#: src/views/calls/InteractionCallList.js
+msgid "Fetching..."
+msgstr "กำลังค้นหา..."
+
+#: src/views/calls/InteractionCallList.js
+#: src/views/calls/InteractionCallModal.js
+#: src/views/references/KpiLegalViolationList.js
+msgid "Id"
+msgstr "ไอดี"
+
+#: src/views/calls/InteractionCallList.js
+#: src/views/calls/InteractionCallModal.js
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Supplier"
+msgstr "ซัพพลายเออร์"
+
+#: src/views/calls/InteractionCallList.js
+msgid "RecruiterSrc"
+msgstr "บริษัทจัดหางานฝั่งต้นทาง"
+
+#: src/views/calls/InteractionCallList.js
+#: src/views/calls/InteractionCallModal.js
+msgid "Issue Category"
+msgstr "ประเภทประเด็นปัญหาที่พบ"
+
+#: src/views/calls/InteractionCallList.js
+msgid "# Kpis"
+msgstr "# Kpis"
+
+#: src/views/calls/InteractionCallList.js
+#: src/views/calls/InteractionCallModal.js
+#: src/views/Dashboard/KpiReferencesList.js
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+#: src/views/references/KpiLegalViolationList.js
+#: src/views/references/KpiReferencesList.js
+#: src/views/suppliers/SharedFileList.js
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Description"
+msgstr "รายละเอียด"
+
+#: src/views/calls/InteractionCallList.js
+msgid "Staff"
+msgstr "เจ้าหน้าที่"
+
+#: src/views/calls/InteractionCallList.js
+msgid "IssaraStaff"
+msgstr "เจ้าหน้าที่จากสถาบันอิสรา"
+
+#: src/views/calls/InteractionCallList.js
+msgid "Client"
+msgstr "ผู้มาติดต่อ"
+
+#: src/views/calls/InteractionCallList.js
+msgid "Origin Country Province"
+msgstr "จังหวัดในประเทศต้นทาง"
+
+#: src/views/calls/InteractionCallList.js
+msgid "Incoming Outgoing"
+msgstr "สายเข้า สายออก"
+
+#: src/views/calls/InteractionCallList.js
+msgid "Phone"
+msgstr "โทรศัพท์"
+
+#: src/views/calls/InteractionCallList.js
+msgid "Interaction"
+msgstr "การติดต่อสื่อสาร"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Case ID"
+msgstr "เคส ID"
+
+#: src/views/calls/InteractionCallModal.js
+#: src/views/calls/NewCallWizardView.js
+msgid "Required"
+msgstr "ข้อมูลจำเป็น"
+
+#: src/views/calls/InteractionCallModal.js
+#: src/views/calls/NewCallWizardView.js
+msgid "Call Info"
+msgstr "ข้อมูลของคอล"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Interaction Channel"
+msgstr "ช่องทางการติดต่อ"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Interaction Reason"
+msgstr "จุดประสงค์การติดต่อ"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Interaction Summary"
+msgstr "สรุปรายละเอียดการสนทนา"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Inquiry Type"
+msgstr "ประเภทการติดต่อ"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Interacted Date"
+msgstr "วันที่ทำการสนทนา"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Call Created Date"
+msgstr "วันที่ทำการโทรออก/รับสาย"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Call Last Modified Date"
+msgstr "วันที่ทำการโทรออก/รับสายครั้งสุดท้าย"
+
+#: src/views/calls/InteractionCallModal.js
+#: src/views/calls/NewCallWizardView.js
+#: src/views/calls/WizardSteps/CallClientInfoFields.js
+msgid "Client Info"
+msgstr "ข้อมูลผู้มาติดต่อ"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Nickname"
+msgstr "ชื่อเล่น"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Line Account"
+msgstr "บัญชีไลน์"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Facebook Account"
+msgstr "บัญชีเฟสบุ๊ค"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "WhatsApp Number"
+msgstr "เบอร์ Whatsapp"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Phone Number"
+msgstr "เบอร์โทรศัพท์"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Viber Account"
+msgstr "เบอร์ Viber"
+
+#: src/views/calls/InteractionCallModal.js
+#: src/views/calls/WizardSteps/CallClientInfoFields.js
+msgid "Staff Notes/Description"
+msgstr "หมายเหตุ/คำอธิบายของเจ้าหน้าที่"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Origin Country"
+msgstr "ประเทศบ้านเกิด"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Origin Province"
+msgstr "จังหวัดบ้านเกิด"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Origin District"
+msgstr "เขตบ้านเกิด"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Crossing Country"
+msgstr "ประเทศต้นทางก่อนข้ามพรมแดน"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Crossing Province"
+msgstr "จังหวัดต้นทางก่อนข้ามพรมแดน"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Crossing District"
+msgstr "เขตต้นทางก่อนข้ามพรมแดน"
+
+#: src/views/calls/InteractionCallModal.js
+#: src/views/calls/NewCallWizardView.js
+#: src/views/calls/WizardSteps/RecruiterFields.js
+msgid "Recruitment"
+msgstr "การสรรหาจ้างแรงงาน"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Upstream Broker"
+msgstr "นายหน้าฝั่งประเทศต้นทาง"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Employer Debt Bondage"
+msgstr "แรงงานขัดหนี้กับนายจ้าง"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Employer Debt Bondage Detail"
+msgstr "รายละเอียดของแรงงานขัดหนี้กับนายจ้าง"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Broker Debt Bondage"
+msgstr "แรงงานขัดหนี้กับนายหน้า"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Broker Debt Bondage Detail"
+msgstr "รายละเอียดของแรงงานขัดหนี้กับนายหน้า"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Months at job"
+msgstr "จำนวนเดือนที่ทำงาน"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Ratings"
+msgstr "คะแนน"
+
+#: src/views/calls/InteractionCallModal.js
+#: src/views/calls/WizardSteps/EmploymentFields.js
+msgid "Source Broker Rating"
+msgstr "ให้คะแนนนายหน้าฝั่งต้นทาง"
+
+#: src/views/calls/InteractionCallModal.js
+#: src/views/calls/WizardSteps/EmploymentFields.js
+msgid "Source Recruiter Rating"
+msgstr "ให้คะแนนเอเจนซี่ฝั่งต้นทาง"
+
+#: src/views/calls/InteractionCallModal.js
+#: src/views/calls/WizardSteps/EmploymentFields.js
+msgid "Destination Broker Rating"
+msgstr "ให้คะแนนนายหน้าฝั่งปลายทาง"
+
+#: src/views/calls/InteractionCallModal.js
+#: src/views/calls/WizardSteps/EmploymentFields.js
+msgid "Destination Employer Rating"
+msgstr "ให้คะแนนนายจ้างในประเทศปลายทาง"
+
+#: src/views/calls/InteractionCallModal.js
+#: src/views/calls/NewCallWizardView.js
+msgid "Client Support"
+msgstr "การช่วยเหลือผู้มาติดต่อ"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Vot Needs"
+msgstr "ความต้องการเร่งด่วน"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Share Info Consent"
+msgstr "ความยินยอมให้ส่งต่อข้อมูล"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Referral Notes"
+msgstr "รายละเอียดสำหรับการส่งต่อเคสเพื่อดำเนินการ"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Next Steps"
+msgstr "แผนการดำเนินการขั้นถัดไป"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Next Steps Issara Staff"
+msgstr "แผนการดำเนินการขั้นถัดไปโดยสถาบันอิสรา"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Referral Action"
+msgstr "การส่งต่อเคสเพื่อดำเนินการ"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Dead Line Date"
+msgstr "ขอบเขตเวลาในการดำเนินการ"
+
+#: src/views/calls/InteractionCallModal.js
+#: src/views/calls/WizardSteps/CallActionFields.js
+msgid "Final Remarks"
+msgstr "รายละเอียดอื่นๆ"
+
+#: src/views/calls/InteractionCallModal.js
+#: src/views/calls/WizardSteps/CallActionFields.js
+msgid "Risk Assessment"
+msgstr "การประเมินความเสี่ยง"
+
+#: src/views/calls/InteractionCallModal.js
+#: src/views/calls/NewCallWizardView.js
+msgid "Issues"
+msgstr "ประเด็นปัญหาที่พบ"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Offender Description"
+msgstr "ข้อมูลของผู้กระทำ"
+
+#: src/views/calls/InteractionCallModal.js
+#, fuzzy
+msgid "Workers Affected"
+msgstr "จำนวนพนักงานที่ได้รับผลกระทบ"
+
+#: src/views/calls/InteractionCallModal.js
+#, fuzzy
+msgid "Workers Affected Description"
+msgstr "คำอธิบายของพนักงานที่ได้รับผลกระทบ"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Getting Better"
+msgstr "มีการพัฒนา"
+
+#: src/views/calls/InteractionCallModal.js
+#, fuzzy
+msgid "Getting Better Description"
+msgstr "รายละเอียดของการพัฒนาสถานการณ์ที่เกิดขึ้น"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Issue Links"
+msgstr "ลิงค์ประเด็น"
+
+#: src/views/calls/InteractionCallModal.js
+msgid "Loading ..."
+msgstr "กำลังโหลด..."
+
+#: src/views/calls/InteractionCallView.js
+msgid "Success saving the call with id:"
+msgstr "บันทึกข้อมูลสำเร็จ คอล ID: "
+
+#: src/views/calls/InteractionCallView.js
+msgid "Success created a new call with id:"
+msgstr "บันทึกคอลใหม่สำเร็จ คอล ID:"
+
+#: src/views/calls/InteractionCallView.js
+msgid "Well Done!"
+msgstr "ยอดเยี่ยม! "
+
+#: src/views/calls/InteractionCallView.js
+msgid "Errors"
+msgstr "พบข้อผิดพลาด"
+
+#: src/views/calls/InteractionCallView.js
+msgid "Error!"
+msgstr "พบข้อผิดพลาด!"
+
+#: src/views/calls/InteractionCallView.js src/views/suppliers/SupplierList.js
+#: src/views/TeamActivity/FieldworkActivityForm.js
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+#: src/views/users/ChangePasswordForm.js
+msgid "Error"
+msgstr "พบข้อผิดพลาด"
+
+#: src/views/calls/InteractionCallView.js
+msgid "Unknown/Generic"
+msgstr "ไม่ทราบ/ข้อมูลทั่วไป"
+
+#: src/views/calls/InteractionCallView.js
+msgid "See details"
+msgstr "ดูรายละเอียดเพิ่มเติม"
+
+#: src/views/calls/InteractionCallView.js
+msgid "Saving Data..."
+msgstr "กำลังบันทึกข้อมูล..."
+
+#: src/views/calls/InteractionCallView.js
+msgid "Loading Data..."
+msgstr "กำลังโหลดข้อมูล..."
+
+#: src/views/calls/NewCallWizardView.js
+msgid "Rating Businesses"
+msgstr "ให้คะแนนธุรกิจ"
+
+#: src/views/calls/NewCallWizardView.js
+msgid "Interactions"
+msgstr "การติิดต่อสื่อสาร"
+
+#: src/views/calls/NewCallWizardView.js
+msgid "Edit/Add Worker Call: "
+msgstr "แก้ไข/เพิ่มสายด่วนจากแรงงาน:"
+
+#: src/views/calls/NewCallWizardView.js src/views/landing/TeamActionForm.js
+#: src/views/TeamActivity/FieldworkActivityForm.js
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+#: src/views/TeamActivity/WV_and_ER_metrix.js
+msgid "Save"
+msgstr "บันทึก"
+
+#: src/views/calls/WizardSteps/CallActionFields.js
+msgid "Organization must be selected"
+msgstr "โปรดเลือกองค์กร"
+
+#: src/views/calls/WizardSteps/CallActionFields.js
+msgid "Client Support (Organization action)"
+msgstr "การช่วยเหลือผู้มาติดต่อ (จากองค์กร)"
+
+#: src/views/calls/WizardSteps/CallActionFields.js
+msgid "Client Support (Issara Actions)"
+msgstr "การช่วยเหลือผู้มาติดต่อ (จากสถาบันอิสรา)"
+
+#: src/views/calls/WizardSteps/CallActionFields.js
+msgid "What are the most urgent needs of the client?"
+msgstr "ความต้องการที่เร่งด่วนที่สุดของผู้เข้ามาติดต่อคืออะไร"
+
+#: src/views/calls/WizardSteps/CallActionFields.js
+msgid "Consent to pass on details to employer, agency, referral partner?"
+msgstr ""
+"ผู้เข้ามาติดต่อยินยอมให้ส่งต่อข้อมูลไปยังนายจ้าง บริษัทจัดหางาน "
+"หรือพาร์ทเนอร์หรือไม่"
+
+#: src/views/calls/WizardSteps/CallActionFields.js
+#: src/views/calls/WizardSteps/CallIssuesForm.js
+#: src/views/calls/WizardSteps/RecruiterFields.js
+msgid "Yes"
+msgstr "ใช่"
+
+#: src/views/calls/WizardSteps/CallActionFields.js
+#: src/views/calls/WizardSteps/CallIssuesForm.js
+#: src/views/calls/WizardSteps/RecruiterFields.js
+msgid "No"
+msgstr "ไม่ใช่"
+
+#: src/views/calls/WizardSteps/CallActionFields.js
+msgid "Details on organization action (Referral Notes)"
+msgstr "รายละเอียดการดำเนินการขององค์กรเพื่อทำการส่งต่อเคส"
+
+#: src/views/calls/WizardSteps/CallActionFields.js
+msgid "Details on Issara action (Referral Notes)"
+msgstr "รายละเอียดการดำเนินการของสถาบันอิสราเพื่อทำการส่งต่อเคส"
+
+#: src/views/calls/WizardSteps/CallActionFields.js
+msgid "Next steps organization follow-up and action"
+msgstr "แผนการดำเนินการในขั้นถัดไปขององค์กร"
+
+#: src/views/calls/WizardSteps/CallActionFields.js
+msgid "Next steps for Issara follow-up and action"
+msgstr "แผนการดำเนินการในขั้นถัดไปของสถาบันอิสรา"
+
+#: src/views/calls/WizardSteps/CallActionFields.js
+#: src/views/landing/TeamActionForm.js
+msgid "Responsible Issara focal point"
+msgstr "เจ้าหน้าที่ผู้รับผิดชอบจากสถาบันอิสรา"
+
+#: src/views/calls/WizardSteps/CallActionFields.js
+#: src/views/landing/TeamActionForm.js
+#: src/views/teamtasks/EnhancedTeamTasksList.js
+msgid "Deadline"
+msgstr "เดดไลน์"
+
+#: src/views/calls/WizardSteps/CallActionFields.js
+#: src/views/landing/TeamActionForm.js
+msgid "Deadline Date"
+msgstr "ขอบเขตเวลาในการแก้ไขสถานการณ์"
+
+#: src/views/calls/WizardSteps/CallClientInfoFields.js
+msgid "Gender must be selected"
+msgstr "โปรดเลือกเพศ"
+
+#: src/views/calls/WizardSteps/CallClientInfoFields.js
+msgid "Client name / nickname"
+msgstr "ชื่อ หรือ ชื่อเล่นของผู้เข้ามาติดต่อ"
+
+#: src/views/calls/WizardSteps/CallClientInfoFields.js
+msgid "LINE ID"
+msgstr "LINE ID"
+
+#: src/views/calls/WizardSteps/CallClientInfoFields.js
+msgid "Facebook name"
+msgstr "เฟซบุ๊ค"
+
+#: src/views/calls/WizardSteps/CallClientInfoFields.js
+msgid "Phone number"
+msgstr "เบอร์โทรศัพท์"
+
+#: src/views/calls/WizardSteps/CallClientInfoFields.js
+msgid "Viber account"
+msgstr "เบอร์Viber"
+
+#: src/views/calls/WizardSteps/CallClientInfoFields.js
+msgid "WhatsApp number"
+msgstr "เบอร์Whatsapp"
+
+#: src/views/calls/WizardSteps/CallClientInfoFields.js
+msgid "Telegram number"
+msgstr "เบอร์Telegram"
+
+#: src/views/calls/WizardSteps/CallClientInfoFields.js
+msgid "Client Origin"
+msgstr "ประเทศต้นทางของผู้มาติดต่อ"
+
+#: src/views/calls/WizardSteps/CallClientInfoFields.js
+msgid "Client crossing border"
+msgstr "ประเทศต้นทางก่อนข้ามพรมแดนของผู้มาติดต่อ"
+
+#: src/views/calls/WizardSteps/CallInfoFields.js
+msgid "Issara Staff must be selected"
+msgstr "โปรดเลือกเจ้าหน้าที่จากสถาบันอิสรา"
+
+#: src/views/calls/WizardSteps/CallInfoFields.js
+msgid "Interaction Channel must be selected"
+msgstr "โปรดระบุช่องทางการติดต่อ"
+
+#: src/views/calls/WizardSteps/CallInfoFields.js
+msgid "Interaction Reason must be selected"
+msgstr "โปรดระบุจุดประสงค์การติดต่อ"
+
+#: src/views/calls/WizardSteps/CallInfoFields.js
+msgid "interacted Date must be selected"
+msgstr "โปรดระบุวันที่ทำการติดต่อ"
+
+#: src/views/calls/WizardSteps/CallInfoFields.js
+msgid "Call/Message Info"
+msgstr "รายละเอียดคอล/ข้อความ"
+
+#: src/views/calls/WizardSteps/CallInfoFields.js
+msgid "Interaction Type must be selected"
+msgstr "โปรดระบุประเภทการติดต่อ"
+
+#: src/views/calls/WizardSteps/CallInfoFields.js
+msgid "Incoming"
+msgstr "สายเข้า"
+
+#: src/views/calls/WizardSteps/CallInfoFields.js
+msgid "Outgoing"
+msgstr "สายออก"
+
+#: src/views/calls/WizardSteps/CallInfoFields.js
+msgid "Summary of the interaction"
+msgstr "สรุปรายละเอียดการติดต่อ"
+
+#: src/views/calls/WizardSteps/CallInfoFields.js
+msgid "Date of interaction"
+msgstr "วันที่มีการติดต่อ"
+
+#: src/views/calls/WizardSteps/CallIssues.js
+msgid "Issues at this workplace"
+msgstr "ประเด็นปัญหาที่พบที่ทำงาน"
+
+#: src/views/calls/WizardSteps/CallIssues.js
+msgid "Instructions:"
+msgstr "คำแนะนำ:"
+
+#: src/views/calls/WizardSteps/CallIssues.js
+msgid ""
+"If the client is adding more information or updates on a previously reported"
+" issue, please click the green pen by the relevant KPI to update."
+msgstr ""
+"หากผู้มาติดต่อโทรมาเพื่อเพิ่มข้อมูลหรืออัพเดตประเด็นปัญหาที่รายงานไว้ก่อนหน้านี้"
+" โปรดคลิกปุ่มปากกาสีเขียวของ KPI ที่เกี่ยวข้องเพื่อทำการอัพเดต"
+
+#: src/views/calls/WizardSteps/CallIssues.js
+msgid ""
+"If the client is reporting a new issue at the workplace, please click the "
+"green New Issue button."
+msgstr ""
+"หากผู้มาติดต่อโทรมาเพื่อรายงานประเด็นปัญหาใหม่ โปรดคลิกปุ่ม 'ประเด็นใหม่' "
+"สีเขียว"
+
+#: src/views/calls/WizardSteps/CallIssuesForm.js
+msgid "Issue Description"
+msgstr "รายละเอียดประเด็นปัญหาที่พบ"
+
+#: src/views/calls/WizardSteps/CallIssuesForm.js
+msgid "Issue Offender Description"
+msgstr "รายละเอียดของผู้กระทำ"
+
+#: src/views/calls/WizardSteps/CallIssuesForm.js
+msgid "How many clients are affected by this issue?"
+msgstr "มีผู้มาติดต่อกี่คนได้รับผลกระทบจากกระเด็นปัญหาที่เกิดขึ้น"
+
+#: src/views/calls/WizardSteps/CallIssuesForm.js
+msgid "How many workers are affected by this issue?"
+msgstr "มีแรงงานกี่คนได้รับผลกระทบจากกระเด็นปัญหาที่เกิดขึ้น"
+
+#: src/views/calls/WizardSteps/CallIssuesForm.js
+msgid "Client Affected Description (More about the client Affected)."
+msgstr "รายละเอียดเพิ่มเติมเกี่ยวกับผู้มาติดต่อที่ได้รับผลกระทบ "
+
+#: src/views/calls/WizardSteps/CallIssuesForm.js
+msgid "Workers Affected Description (More about the workers Affected)"
+msgstr "รายละเอียดเพิ่มเติมเกี่ยวกับแรงงานที่ได้รับผลกระทบ "
+
+#: src/views/calls/WizardSteps/CallIssuesForm.js
+msgid "Is the issue situation improving?"
+msgstr "สถานการณ์ของประเด็นปัญหามีการพัฒนาที่ดีขึ้นหรือไม่"
+
+#: src/views/calls/WizardSteps/CallIssuesForm.js
+msgid "About the Same"
+msgstr "สถานการณ์เป็นเช่นเดิม"
+
+#: src/views/calls/WizardSteps/CallIssuesForm.js
+msgid "Describe more about how the issue is getting better or worse"
+msgstr ""
+"โปรดอธิบายว่าสถานการณ์ของประเด็นปัญหาที่พบมีความดีขึ้นหรือแย่ลงอย่างไร"
+
+#: src/views/calls/WizardSteps/CallIssuesForm.js
+msgid "Issue Link"
+msgstr "ลิงค์ประเด็น"
+
+#: src/views/calls/WizardSteps/CallIssuesForm.js
+msgid "Enter Issue link here"
+msgstr "โปรดใส่ลิงค์ที่เกี่ยวข้องกับประเด็นปัญหาที่พบในช่องนี้"
+
+#: src/views/calls/WizardSteps/CallIssuesForm.js
+#: src/views/TeamActivity/FieldworkActivityForm.js
+msgid "Remove this link"
+msgstr "ลบลิงค์นี้ออก"
+
+#: src/views/calls/WizardSteps/CallIssuesForm.js
+msgid "Add More Issue Link"
+msgstr "เพิ่มลิงค์ที่เกี่ยวข้อง"
+
+#: src/views/calls/WizardSteps/EmploymentFields.js
+msgid ""
+"Business Ratings - How Does the client rate the following actors that were "
+"involved in their recruitment and employment ?"
+msgstr ""
+"ให้คะแนนธุรกิจ - "
+"ผู้มาติดต่อจะให้คะแนนผู้ปฏิบัติงานที่เกี่ยวข้องในการสรรหาและการจ้างงานในครั้งนี้อย่างไร"
+
+#: src/views/calls/WizardSteps/EmploymentFields.js
+msgid "(1 very low, 5 very high)"
+msgstr "(1 แย่มาก, 5 ดีมาก)"
+
+#: src/views/calls/WizardSteps/RecruiterFields.js
+msgid "Source Upstream Broker"
+msgstr "นายหน้าฝั่งประเทศต้นทาง"
+
+#: src/views/calls/WizardSteps/RecruiterFields.js
+msgid "How many months working at this workplace?"
+msgstr "ทำงานที่บริษัทนี้มากี่ปีแล้ว"
+
+#: src/views/calls/WizardSteps/RecruiterFields.js
+msgid "Employer Debt Bondage?"
+msgstr "เป็นแรงงานขัดหนี้กับนายจ้างหรือไม่"
+
+#: src/views/calls/WizardSteps/RecruiterFields.js
+msgid ""
+"If there is employer debt bondage, please provide details on amounts, to "
+"whom, how paid, etc"
+msgstr ""
+"หากแรงงานเป็นแรงงานขัดหนี้กับนายจ้าง โปรดระบุรายละเอียด เช่น "
+"จำนวนเงินที่ติดหนี้ เจ้าหนี้ วิธีการจ่ายหนี้คืน หรือรายละเอียดอื่นๆ เป็นต้น"
+
+#: src/views/calls/WizardSteps/RecruiterFields.js
+msgid "Broker Debt Bondage?"
+msgstr "เป็นแรงงานขัดหนี้กับนายหน้าหรือไม่"
+
+#: src/views/calls/WizardSteps/RecruiterFields.js
+msgid ""
+"If there is broker debt bondage, please provide details on amounts, to whom,"
+" how paid, etc"
+msgstr ""
+"หากแรงงานเป็นแรงงานขัดหนี้กับนายหน้า โปรดระบุรายละเอียด เช่น "
+"จำนวนเงินที่ติดหนี้ เจ้าหนี้ วิธีการจ่ายหนี้คืน หรือรายละเอียดอื่นๆ เป็นต้น"
+
+#: src/views/calls/WizardSteps/RequiredCallFields.js
+msgid "Supplier must be selected"
+msgstr "โปรดเลือกซัพพลายเออร์"
+
+#: src/views/calls/WizardSteps/RequiredCallFields.js
+msgid "Country must be selected"
+msgstr "โปรดเลือกประเทศ"
+
+#: src/views/calls/WizardSteps/RequiredCallFields.js
+msgid "Nationality must be selected"
+msgstr "โปรดเลือกสัญชาติ"
+
+#: src/views/calls/WizardSteps/RequiredCallFields.js
+msgid "CallerStatus must be selected"
+msgstr "โปรดเลือกสถานะผู้มาติดต่อ"
+
+#: src/views/calls/WizardSteps/RequiredCallFields.js
+msgid "ClientType must be selected"
+msgstr "โปรดเลือกประเภทผู้มาติดต่อ"
+
+#: src/views/calls/WizardSteps/RequiredCallFields.js
+msgid "CaseCategory must be selected"
+msgstr "โปรดเลือกประเภทของเคส"
+
+#: src/views/calls/WizardSteps/RequiredCallFields.js
+msgid ""
+"Please fill out the information and refer this case to Issara Institute. "
+"Thank you, have a great day!"
+msgstr "กรุณากรอกข้อมูลให้ครบและส่งต่อเคสนี้ไปยังสถาบันอิสรา"
+
+#: src/views/calls/WizardSteps/RequiredCallFields.js
+msgid "Required Info"
+msgstr "ข้อมูลจำเป็น"
+
+#: src/views/Dashboard/FieldworkActivityModal.js
+msgid "Fieldwork Activity #{id}"
+msgstr "กิจกรรมภาคสนาม #{id}"
+
+#: src/views/Dashboard/FieldworkActivityModal.js
+msgid "General Information:"
+msgstr "ข้อมูลทั่วไป:"
+
+#: src/views/Dashboard/FieldworkActivityModal.js
+msgid "Type:"
+msgstr "ประเภท:"
+
+#: src/views/Dashboard/FieldworkActivityModal.js
+msgid "Date:"
+msgstr "วันที่:"
+
+#: src/views/Dashboard/FieldworkActivityModal.js
+#: src/views/suppliers/SupplierModal.js
+msgid "Location:"
+msgstr "สถานที่:"
+
+#: src/views/Dashboard/FieldworkActivityModal.js
+msgid "Workers Reached:"
+msgstr "จำนวนแรงงานที่เข้าถึง:"
+
+#: src/views/Dashboard/FieldworkActivityModal.js
+msgid "Suppliers:"
+msgstr "ซัพพลายเออร์:"
+
+#: src/views/Dashboard/FieldworkActivityModal.js
+msgid "Recruiters:"
+msgstr "บริษัทจัดหางาน:"
+
+#: src/views/Dashboard/FieldworkActivityModal.js
+msgid "Partners:"
+msgstr "พาร์ทเนอร์:"
+
+#: src/views/Dashboard/FieldworkActivityModal.js
+msgid "Nationality:"
+msgstr "สัญชาติ:"
+
+#: src/views/Dashboard/FieldworkActivityModal.js
+msgid "Notes:"
+msgstr "หมายเหตุ:"
+
+#: src/views/Dashboard/FieldworkActivityModal.js
+msgid "Links:"
+msgstr "ลิงก์:"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/suppliers/SupplierKPIsList.js
+#: src/views/teamtasks/EnhancedTeamTasksList.js
+msgid "Download As XLS File"
+msgstr "ดาวน์โหลกไฟล์ XLS"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "worker_calls_count_by_month"
+msgstr "จำนวน_สายด่วน_แรงงาน_ต่อ_เดือน"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "field_visit_count_by_month"
+msgstr "จำนวน_กิจกรรม_ภาคสนาม_ต่อ_เดือน"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "field_total_workers_reached_by_month"
+msgstr "ภาคสนาม_แรงงาน_ทั้งหมด_เข้าถึง_ต่อ_เดือน"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/suppliers/SupplierKpiDashboard.js
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Between"
+msgstr "ระหว่าง"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/suppliers/SupplierKpiDashboard.js
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Start"
+msgstr "เริ่ม"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/suppliers/SupplierKpiDashboard.js
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "And"
+msgstr "และ"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/suppliers/SupplierKpiDashboard.js
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "End"
+msgstr "จบ"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/suppliers/SupplierKpiDashboard.js
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Reset all"
+msgstr "ล้างข้อมูล"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "No Data found"
+msgstr "ไม่พบข้อมูล"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Burmese Facebook messenger"
+msgstr "เฟซบุ๊คภาษาพม่า"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Burmese Viber in Thailand"
+msgstr "Viberภาษาพม่า"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Burmese hotline in Thailand"
+msgstr "สายด่วนภาษาพม่าในประเทศไทย"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Burmese LINE messages"
+msgstr "ไลน์ภาษาพม่า"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Burmese hotline in Myanmar"
+msgstr "สายด่วนภาษาพม่าในประเทศเมียนมา"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Khmer hotline"
+msgstr "สายด่วนภาษาเขมร"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Khmer Facebook messenger"
+msgstr "เฟซบุ๊คภาษาเขมร"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Khmer LINE"
+msgstr "ไลน์ภาษาเขมร"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Thai Hotline"
+msgstr "สายด่วนภาษาไทย"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Thai Facebook"
+msgstr "เฟซบุ๊คภาษาไทย"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Thai LINE"
+msgstr "ไลน์ภาษาไทย"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Indonesian Whatsapp Total"
+msgstr "จำนวนข้อความWhatsappจากแรงงานอินโดนีเซียทั้งหมด"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Indonesian Hotline Total"
+msgstr "จำนวนสายด่วนจากแรงงานอินโดนีเซียทั้งหมด"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Nepalese Whatsapp Total"
+msgstr "จำนวนข้อความWhatsappจากแรงงานเนปาลทั้งหมด"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Nepalese Hotline Total"
+msgstr "จำนวนสายด่วนจากแรงงานเนปาลทั้งหมด"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Nepalese Facebook Total"
+msgstr "จำนวนข้อความทางเฟซบุ๊คจากแรงงานเนปาลทั้งหมด"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Burmese Whatsapp Total"
+msgstr "จำนวนข้อความWhatsappจากแรงงานเมียนมาทั้งหมด"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Burmese Viber in Malaysia"
+msgstr "จำนวนข้อความViberจากแรงงานมาเลเซียทั้งหมด"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Burmese Tiktok messages"
+msgstr "จำนวนข้อความTiktokจากแรงงานเมียนมาทั้งหมด"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Nepalese Tiktok messages"
+msgstr "จำนวนข้อความTiktokจากแรงงานเนปาลทั้งหมด"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Bangladeshi Facebook Messenger"
+msgstr "ข้อความทางเฟซบุ๊คจากแรงงานบังกลาเทศ"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Bangladeshi Hotline"
+msgstr "สายด่วนแรงงานบังกลาเทศ"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Bangladeshi WhatsApp"
+msgstr "ข้อความWhatsappจากแรงงานบังกลาเทศ"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Bangladeshi Tiktok messages"
+msgstr "ข้อความTiktokจากแรงงานบังกลาเทศ"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Worker Metrics"
+msgstr "มาตรวัดแรงงาน"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Total Worker Cases"
+msgstr "จำนวนเคสทั้งหมด"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Men"
+msgstr "ชาย"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Women"
+msgstr "หญิง"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Unknown"
+msgstr "ไม่ทราบ"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Worker Voice and Ethical Recruitment metrics"
+msgstr "มาตรวัดเสียงของแรงงานและการสรรหาจ้างแรงงานอย่างมีจริยธรรม"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Workers Connected To Worker Voice Channels"
+msgstr "แรงงานที่ี่เข้าถึงช่องทางเสียงของแรงงาน"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Suppliers Trained"
+msgstr "ซัพพลายเออร์ที่ได้รับการอบรม  "
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Workers Reached In Pre-Departure MM"
+msgstr "แรงงานที่ได้รับการอบรมก่อนเดินทางมายังประเทศปลายทาง (เมียนมา)"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Workers Receiving Remedition"
+msgstr "แรงงานที่ได้รับการเยียวยา"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Trained Workers Leaders/Ambassadors"
+msgstr "หัวหน้าหรือตัวแทนแรงงานที่ได้รับการอบรม"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Recruitment Agencies Trained"
+msgstr "บริษัทจัดหางานที่ได้รับการอบรม"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Workers Reached In Pre-Departure NE"
+msgstr "แรงงานที่ได้รับการอบรมก่อนเดินทางมายังประเทศปลายทาง (เนปาล)"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/TeamActivity/WV_and_ER_metrix.js
+msgid "Remediation For Recruitment Fees and Cases"
+msgstr "การเยียวยาสำหรับค่าธรรมเนียมการจัดหางานและการร้องทุกข์"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/TeamActivity/WV_and_ER_metrix.js
+msgid "Recruitment-Related Fees Detected and Intercepted"
+msgstr "จำนวนค่าธรรมเนียมที่เกี่ยวข้องกับการจัดหางานที่ถูกตรวจพบและระงับ"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "No Data Found"
+msgstr "ไม่พบข้อมูล"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Total field visits"
+msgstr "จำนวนกิจกรรมภาคสนามทั้งหมด"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Total Workers Reached"
+msgstr "จำนวนแรงงานที่เข้าถึง"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+#: src/views/suppliers/SupplierList.js
+#: src/views/teamtasks/EnhancedTeamTasksList.js
+msgid "ID"
+msgstr "ID"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Type"
+msgstr "ประเภท"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/TeamActivity/FieldworkActivityForm.js
+msgid "Recruiters"
+msgstr "บริษัทจัดหางาน"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Location"
+msgstr "สถานที่"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Target"
+msgstr "เป้าหมาย"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/TeamActivity/FieldworkActivityForm.js
+msgid "Notes"
+msgstr "หมายเหตุ"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Links"
+msgstr "ลิงก์"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+msgid "Total Worker"
+msgstr "จำนวนแรงงานทั้งหมด"
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/suppliers/SupplierKpiDashboard.js
+msgid "Print Report"
+msgstr "พิมพ์รายงาน"
+
+#: src/views/Dashboard/KpiReferenceModal.js
+#: src/views/references/KpiLegalViolationModal.js
+#: src/views/references/KpiReferenceModal.js
+#: src/views/suppliers/SupplierModal.js
+msgid "General:"
+msgstr "ข้อมูลทั่วไป:"
+
+#: src/views/Dashboard/KpiReferenceModal.js
+#: src/views/references/KpiReferenceModal.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Category:"
+msgstr "ประเภท:"
+
+#: src/views/Dashboard/KpiReferenceModal.js
+#: src/views/references/KpiLegalViolationModal.js
+#: src/views/references/KpiReferenceModal.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Description:"
+msgstr "รายละเอียด:"
+
+#: src/views/Dashboard/KpiReferenceModal.js
+#: src/views/references/KpiReferenceModal.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Level:"
+msgstr "ระดับ:"
+
+#: src/views/Dashboard/KpiReferenceModal.js
+#: src/views/references/KpiReferenceModal.js
+msgid "Goal:"
+msgstr "เป้าหมาย:"
+
+#: src/views/Dashboard/KpiReferenceModal.js
+#: src/views/references/KpiReferenceModal.js
+msgid "ETI:"
+msgstr "ETI:"
+
+#: src/views/Dashboard/KpiReferenceModal.js
+#: src/views/references/KpiReferenceModal.js
+msgid "Code:"
+msgstr "Code:"
+
+#: src/views/Dashboard/KpiReferencesList.js
+#: src/views/suppliers/SupplierList.js
+msgid "Found:"
+msgstr "Found:"
+
+#: src/views/Dashboard/KpiReferencesList.js
+#: src/views/references/KpiReferencesList.js
+msgid "ETI Code"
+msgstr "ETI Code"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "level"
+msgstr "ระดับ"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid ""
+"Calls are assigned levels from 1-4 to denote the severity of the situation. "
+"All information queries and communications around coordination are "
+"categorized as Level 1, the least severe level. Level 2 cases are reported "
+"labour violations that do not violate national law but violate most ethical "
+"sourcing standards. Level 3 cases are serious labour violations that are "
+"violations of labour and/or criminal law. Level 4 cases are threat-to-life "
+"cases. Each level has its own response protocol."
+msgstr ""
+"สายด่วนที่เข้ามาจะได้รับการกำหนดระดับตั้งแต่ 1-4 "
+"เพื่อแสดงถึงความรุนแรงของสถานการณ์ "
+"การสอบถามข้อมูลและการสื่อสารเกี่ยวกับการประสานงานทั้งหมดจัดอยู่ในระดับ 1 "
+"ซึ่งเป็นระดับที่รุนแรงน้อยที่สุด กรณีระดับ 2 "
+"มีการรายงานการละเมิดแรงงานที่ไม่ละเมิดกฎหมายของประเทศ "
+"แต่ละเมิดมาตรฐานการจัดหาทางจริยธรรมส่วนใหญ่ กรณีระดับ 3 คือ "
+"การละเมิดแรงงานอย่างร้ายแรง ซึ่งเป็นการละเมิดกฎหมายแรงงาน และ/หรือ อาญา "
+"กรณีระดับ 4 เป็นคดีอันตรายถึงชีวิต "
+"ซึ่งในแต่ละระดับมีกระบวนการในการจัดการต่างกัน"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "Days active"
+msgstr "จำนวนวันที่เคสเปิดอยู่"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid ""
+"For Open KPIs: Red if No Progress has been made for over 60 days. Orange if "
+"No Progress has been made for 30 to 60 days. Yellow if Some Progress has "
+"been made in 15 or more days. Black if the case is less than 15 days active."
+msgstr ""
+"สำหรับ KPI ที่ยังมีสถานะเปิดอยู่: "
+"สีแดงหมายถึงไม่มีความคืบหน้าทางสถานการณ์มามากกว่า 60 วัน "
+"สีส้มหมายถึงไม่มีความคืบหน้าทางสถานการณ์มา30 ถึง 60 วัน "
+"สีเหลืองหมายถึงไม่มีความคืบหน้าทางสถานการณ์มามากกว่า 15 วัน "
+"สีดำหมายถึงเคสได้รับการเปิดมาน้อยกว่า 15 วัน"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Status"
+msgstr "สถานะ"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "No Progress for over 60 days"
+msgstr "ไม่มีความคืบหน้ามานานมากกว่า 60 วัน"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "No Progress"
+msgstr "ไม่มีความคืบหน้า"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "Some Progress"
+msgstr "มีความคืบหน้าเล็กน้อย"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "Active Under 15 days"
+msgstr "เคสเปิดมาน้อยกว่า 15 วัน"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "Poor"
+msgstr "แย่"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "Fair"
+msgstr "ปานกลาง"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "Good"
+msgstr "ดี"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "Excellent"
+msgstr "ดีมาก"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+#, fuzzy
+msgid "Unresolved"
+msgstr "ยังไม่ได้รับการแก้ไข"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Opened since:"
+msgstr "เปิดเคส:"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "-"
+msgstr "-"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Closed since:"
+msgstr "ปิดเคส:"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "Remediation Quality:"
+msgstr "คุณภาพของการเยียวยา:"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Affected workers:"
+msgstr "จำนวนพนักงานได้รับผลกระทบ:"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "1-10"
+msgstr "1-10"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "11-50"
+msgstr "11-50"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "51-100"
+msgstr "51-100"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "101-500"
+msgstr "101-500"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "501-1000"
+msgstr "501-1000"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "1000+"
+msgstr "1000+"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "Issues:"
+msgstr "ประเด็นปัญหา:"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "Remediation Notes (Summary):"
+msgstr "สรุปการเยียวปัญหา"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "Action:"
+msgstr "แผนการดำเนินการ:"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "Worker Validation:"
+msgstr "การยืนยันจากแรงงาน:"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "Results:"
+msgstr "ผลลัพธ์: "
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "Working conditions"
+msgstr "สภาพการทำงาน"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "Employer-employee communications and relations"
+msgstr "การสื่อสารและสายสัมพันธ์ระหว่างนายจ้าง-ลูกจ้าง"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "Labour recruitment"
+msgstr "การสรรหาจ้างแรงงาน"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "Payment systems and transparency"
+msgstr "การจ่ายค่าจ้างและความโปร่งใส"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "Living and eating conditions"
+msgstr "สภาพความเป็นอยู่และการดำรงชีพ"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "Summary of Open/Closed Issues"
+msgstr "สรุปประเด็นเปิด/ปิด"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+#, fuzzy
+msgid ""
+"The graph of open/closed issues represents the supplier. Details of the 5 "
+"open/closed labor category KPIs are presented below."
+msgstr ""
+"กราฟของเคสที่เปิด/ปิดของบริษัท รายละเอียดของ KPI ตามประเด็นด้านแรงงานทั้ง 5 "
+"ประเภทมีดังต่อไปนี้"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "Open Worker-Reported Violations"
+msgstr "ประเด็นที่แรงงานรายงานและกำลังดำเนินการแก้ไข"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid ""
+"Worker reported labor violations below are organized into the 5 main KPI "
+"categories. These map to and expand upon internationally recognized types of"
+" labor violations and potential workplace realted and recruitment issues."
+msgstr ""
+"การละเมิดแรงงานที่แรงงานรายงานเข้ามาด้านล่างนี้จัดอยู่ในหมวดหมู่ KPI ทั้งหมด"
+" 5 หมวดหมู่ โดยหมวดหมู่ประเด็นKPIเหล่านี้เป็นการละเมิดแรงงานประเภทต่างๆ "
+"ที่ได้รับการยอมรับในระดับสากล"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "Labour Recruitment"
+msgstr "การสรรหาจ้างแรงงาน"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "Payment Systems And Transparency"
+msgstr "การจ่ายค่าจ้างและความโปร่งใส"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+#, fuzzy
+msgid "Working Condition Issues"
+msgstr "สภาพการทำงาน"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "Employer-Employee Communications And Relations"
+msgstr "การสื่อสารและความสัมพันธ์ระหว่างนายจ้างและลูกจ้าง"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "Living And Eating Conditions"
+msgstr "สภาพความเป็นอยู่"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "Closed Worker-Reported Violations"
+msgstr "ประเด็นที่ได้รับการแก้ไขแล้ว"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "Closed Issues"
+msgstr "สรุปประเด็นเปิด/ปิด"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "Level (1-4)"
+msgstr "ระดับ (1-4)"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "Opened"
+msgstr "เปิด"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "Closed"
+msgstr "ปิด"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid ""
+"The estimated number of workers affected by the KPI issue.  If 0 is listed, "
+"the estimate is an unknown number of workers that will be updated as "
+"progress against the issue is made.  Often, issues reported by a smaller "
+"number of workers affect entire lines or additional workers, which is "
+"updated as further information from these workers or the business is "
+"received."
+msgstr ""
+"จำนวนโดยประมาณของแรงงานที่ได้รับผลกระทบจากประเด็นKPI หากระบุเป็น 0 "
+"หมายถึงไม่ทราบจำนวนแรงงานที่ได้รับผลกระทบ "
+"โดยจะมีการอัพเดตเมื่อมีความคืบหน้าในการดำเนินการแก้ไขประเด็นปัญหา เนื่องจาก "
+"มีบ่อยครั้งที่ประเด็นปัญหาที่รายงานโดยแรงงานเพียงไม่กี่คนส่งผลกระทบเป็นวางกว้างต่อแรงงานทั้งหมดในสายการผลิต"
+" "
+"จึงทำให้จะมีการอัพเดตเคสเรื่อยๆเมื่อได้รับข้อมูลเพิ่มเติมจากแรงงานหรือธุรกิจ"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Affected"
+msgstr "จำนวนพนักงานที่ได้รับผลกระทบ"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "The final Remediation Score."
+msgstr "คะแนนการเยียวยาทั้งหมด"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "Color for closed:"
+msgstr "Color for closed:"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "Poor = 'Red',"
+msgstr "ควรปรับปรุง = 'สีแดง'"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "Fair = 'Orange',"
+msgstr "ปานกลาง = 'สีส้ม'"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "Good = 'Yellow',"
+msgstr "ดี = 'สีเหลือง'"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "Excellent='Green',"
+msgstr "ดีเยี่ยม = 'สีเขียว'"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+#, fuzzy
+msgid "Unresolved='Grey'"
+msgstr "ยังไม่ได้รับการแก้ไข = 'สีเทา'"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+#, fuzzy
+msgid "Remediation Outcome"
+msgstr "ผลการของการเยียวยา"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "Open"
+msgstr "เปิด"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid ""
+"The graph of open/closed issues represents the supplier(s) and date range "
+"selected above. Details of the 5 open/closed labor category KPIs are "
+"presented below."
+msgstr ""
+"กราฟของเคสที่เปิด/ปิดของบริษัทตามช่วงวันเวลาที่ได้เลือกไว้ด้านบน "
+"รายละเอียดของ KPI ประเด็นด้านแรงงานทั้ง 5 ประเภทมีดังต่อไปนี้"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "Open/Closed"
+msgstr "เปิด/ปิด"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid "Working Conditions"
+msgstr "สภาพการทำงาน"
+
+#: src/views/Dashboard/SupplyChainDashboardKpi.js
+msgid ""
+"You may select and filter suppliers to show your entire supply chain "
+"(default), suppliers by industry and by sub-industry, or specific "
+"supplier(s). The date range further enables visibility of the selection over"
+" a specific timeframe (default is 1/1/2019 to present). The selections made "
+"will determine the supply chain analytics displayed below. Please press the "
+"Search button after selections are made."
+msgstr ""
+"คุณสามารถใช้ตัวกรองเพื่อแสดงซัพพลายเออร์ทั้งหมดในห่วงโซ่อุปทานของคุณ "
+"(ค่าเริ่มต้น) หรือซัพพลายเออร์ตามอุตสาหกรรมและตามอุตสาหกรรมย่อย "
+"หรือซัพพลายเออร์เฉพาะ "
+"คุณยังสามารถใช้ตัวกรองเพื่อเลือกช่วงเวลาและแสดงผลการค้นหาภายในกรอบเวลาที่ต้องการ"
+" (ค่าเริ่มต้นคือ 1/1/2019 จนถึงปัจจุบัน) "
+"โดยผลการค้นหาผ่านตัวกรองเหล่านี้จะแสดงการวิเคราะห์ห่วงโซ่อุปทานด้านล่าง "
+"โปรดกดปุ่มค้นหาหลังจากทำการเลือกตัวกรอง"
+
+#: src/views/landing/TeamActionForm.js
+msgid "Add/Edit Team Task"
+msgstr "เพิ่ม/แก้ไข งานประจำวันของทีม"
+
+#: src/views/landing/TeamActionForm.js
+msgid "Tasked By"
+msgstr "มอบหมายงานโดย"
+
+#: src/views/landing/TeamActionForm.js
+msgid "A sumamry of the task to be completed"
+msgstr "สรุปงานที่ต้องทำให้แล้วเสร็จ"
+
+#: src/views/landing/TeamActionForm.js
+msgid "General Notes"
+msgstr "หมายเหตุทั่วไป"
+
+#: src/views/references/KpiLegalViolationList.js
+#: src/views/suppliers/SharedFileList.js src/views/suppliers/SupplierList.js
+msgid "Name"
+msgstr "ชื่อ"
+
+#: src/views/references/KpiLegalViolationList.js
+msgid "Law"
+msgstr "กฏหมาย"
+
+#: src/views/references/KpiLegalViolationList.js
+msgid "Article"
+msgstr "มาตรา"
+
+#: src/views/references/KpiLegalViolationModal.js
+msgid "Legal Violation #{id}"
+msgstr "การละเมิดกฎหมาย #{id}"
+
+#: src/views/references/KpiLegalViolationModal.js
+msgid "Id:"
+msgstr "Id:"
+
+#: src/views/references/KpiLegalViolationModal.js
+msgid "Name:"
+msgstr "ชื่อ:"
+
+#: src/views/references/KpiLegalViolationModal.js
+msgid "Law:"
+msgstr "กฏหมาย:"
+
+#: src/views/references/KpiLegalViolationModal.js
+msgid "Article:"
+msgstr "มาตรา:"
+
+#: src/views/references/KpiLegalViolationModal.js
+#: src/views/suppliers/SupplierModal.js
+msgid "Country:"
+msgstr "ประเทศ:"
+
+#: src/views/references/KpiReferenceModal.js
+msgid "Other:"
+msgstr "อื่นๆ:"
+
+#: src/views/references/KpiReferenceModal.js
+msgid "Legal Violation:"
+msgstr "การละเมิดทางกฎหมาย"
+
+#: src/views/references/KpiReferenceModal.js
+msgid "Recommended Remediation:"
+msgstr "คำแนะนำด้านการเยียวยา:"
+
+#: src/views/references/KpiReferenceModal.js
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Systems Change:"
+msgstr "การปรับปรุงระบบ:"
+
+#: src/views/references/KpiReferencesList.js
+#: src/views/suppliers/SupplierKPIsList.js src/views/suppliers/SupplierList.js
+msgid "View:"
+msgstr "ดู:"
+
+#: src/views/references/KpiReferencesList.js
+msgid "Legal"
+msgstr "ด้านกฏหมาย"
+
+#: src/views/references/KpiReferencesList.js
+msgid "Remediation"
+msgstr "การเยี่ยวยา"
+
+#: src/views/references/KpiReferencesList.js
+msgid "Systems"
+msgstr "ระบบ"
+
+#: src/views/suppliers/SharedFileList.js
+#, fuzzy
+msgid "Supplier Documents:"
+msgstr "รายงานเอกสารอ้างอิง:"
+
+#: src/views/suppliers/SharedFileList.js
+msgid "No Reference Documents at this time."
+msgstr "ยังไม่มีรายงานเอกสารอ้างอิง ณ เวลานี้"
+
+#: src/views/suppliers/SharedFileList.js
+#, fuzzy
+msgid "Reference Documents"
+msgstr "ยังไม่มีรายงานเอกสารอ้างอิง ณ เวลานี้"
+
+#: src/views/suppliers/SharedFileList.js src/views/suppliers/SupplierList.js
+msgid "Created"
+msgstr "สร้างเมื่อ"
+
+#: src/views/suppliers/SharedFileList.js src/views/suppliers/SupplierList.js
+msgid "Download"
+msgstr "ดาวน์โหลด"
+
+#: src/views/suppliers/SupplierKpiDashboard.js
+msgid "Calls and Messages from Workers"
+msgstr "สายด่วนและข้อความจากแรงงาน"
+
+#: src/views/suppliers/SupplierKpiDashboard.js
+msgid "Not selected suppliers to chart"
+msgstr "Not selected suppliers to chart"
+
+#: src/views/suppliers/SupplierKpiDashboard.js
+msgid ""
+"These workforce demographics are based on figures provided by your supplier "
+"to Issara Institute. Please note the figures correspond to the suppliers "
+"selected at top."
+msgstr ""
+"ข้อมูลด้านสัญชาติแรงงานเหล่านี้อ้างอิงจากตัวเลขที่ซัพพลายเออร์ส่งให้สถาบันอิสรา"
+" โปรดทราบว่าตัวเลขดังกล่าวเป็นข้อมูลแรงงานของซัพพลายเออร์ที่เลือกไว้ด้านบน"
+
+#: src/views/suppliers/SupplierKpiDashboard.js
+msgid "Workforce Demographics"
+msgstr "ประชากรแรงงาน"
+
+#: src/views/suppliers/SupplierKpiDashboard.js
+#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
+msgid "Total"
+msgstr "รวม"
+
+#: src/views/suppliers/SupplierKpiDashboard.js
+#: src/views/suppliers/SupplierList.js
+msgid "Cambodia"
+msgstr "กัมพูชา"
+
+#: src/views/suppliers/SupplierKpiDashboard.js
+#: src/views/suppliers/SupplierList.js
+msgid "Myanmar"
+msgstr "พม่า"
+
+#: src/views/suppliers/SupplierKpiDashboard.js
+#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
+msgid "Lao"
+msgstr "ลาว"
+
+#: src/views/suppliers/SupplierKpiDashboard.js
+msgid "Vietnamese"
+msgstr "เวียดนาม"
+
+#: src/views/suppliers/SupplierKpiDashboard.js
+#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
+msgid "Nepalese"
+msgstr "ชาวเนปาล"
+
+#: src/views/suppliers/SupplierKpiDashboard.js
+#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
+msgid "Bangladeshi"
+msgstr "ชาวบังคลาเทศ"
+
+#: src/views/suppliers/SupplierKpiDashboard.js
+#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
+msgid "Indonesian"
+msgstr "ชาวอินโดนีเซีย"
+
+#: src/views/suppliers/SupplierKpiDashboard.js
+#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
+msgid "Malaysian"
+msgstr "ชาวมาเลเซีย"
+
+#: src/views/suppliers/SupplierKpiDashboard.js
+msgid "* Please Select Supplier"
+msgstr "* โปรดเลือกซัพพลายเออร์"
+
+#: src/views/suppliers/SupplierKpiDashboard.js
+#: src/views/suppliers/SupplierModal.js
+msgid "There is worker voice in this workplace"
+msgstr "มีเสียงของแรงงานในบริษัทนี้"
+
+#: src/views/suppliers/SupplierKpiDashboard.js
+#: src/views/suppliers/SupplierModal.js
+msgid "There is no worker voice in this workplace"
+msgstr "ไม่มีเสียงของแรงงานในบริษัทนี้"
+
+#: src/views/suppliers/SupplierKPIModal.js
+#, fuzzy
+msgid "Supplier KPI Deleted"
+msgstr "แผนภูมิระยะเวลา KPI ของบริษัท"
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "You have successfully deleted the supplier kpi"
+msgstr "ลบ Supplier kpi สำเร็จ"
+
+#: src/views/suppliers/SupplierKPIModal.js
+#, fuzzy
+msgid "Error Supplier KPI was not deleted"
+msgstr "พบข้อผิดพลาด ไม่สามารถลบ Supplier kpi updatesได้"
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Error occurred trying to delete those supplier kpi updates"
+msgstr "พบข้อผิดพลาดระหว่างการลบ Supplier kpi updates"
+
+#: src/views/suppliers/SupplierKPIModal.js src/views/suppliers/SupplierList.js
+msgid "Confirm"
+msgstr "ยืนยัน"
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Confirm Delete ?"
+msgstr "คุณยืนยันที่จะทำการลบ?"
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "About to delete supplier kpi id: "
+msgstr "กำลังดำเนินการลบ kpi id: "
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "*This Supplier KPI has 0 cases and is ok to remove."
+msgstr "*ซัพพลายเออร์นี้ไม่มีเคส KPI และสามารถลบออกได้"
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Delete"
+msgstr "ลบ"
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Supplier KPI #{id}"
+msgstr "KPI ของซัพพลายเออร์ #{id}"
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Overview:"
+msgstr "ภาพรวมบริษัท"
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Update Source:"
+msgstr "Update Source:"
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Supplier:"
+msgstr "ซัพพลายเออร์: "
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Laws Violated:"
+msgstr "กฏหมายที่ละเมิด:"
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "# Workers Impacted:"
+msgstr "จำนวนแรงงานที่ได้รับผลกระทบ:"
+
+#: src/views/suppliers/SupplierKPIModal.js
+#: src/views/suppliers/SupplierModal.js
+msgid "Status:"
+msgstr "สถานะ: "
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Days Active:"
+msgstr "จำนวนวันเคสที่เปิดอยู่:"
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Open Since:"
+msgstr "เปิดเมื่อ:"
+
+#: src/views/suppliers/SupplierKPIModal.js
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Updated:"
+msgstr "อัพเดตล่าสุด:"
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Closed:"
+msgstr "ปิด:"
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Closed Quality:"
+msgstr "คุณภาพของการเยียวยาเมื่อปิดเคส:"
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Rationale:"
+msgstr "เหตุผล:"
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Remediation:"
+msgstr "การเยียวยา:"
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Issara Recommendations:"
+msgstr "ข้อแนะนำจากสถาบันอิสรา:"
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Progress on remediation:"
+msgstr "ความคืบหน้าของการเยียวยา:"
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "How aligned are the business's responses:"
+msgstr "การตอบสนองของธุรกิจตรงกับความต้องการขนาดไหน:"
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Business Steps Taken:"
+msgstr "ขั้นตอนการแก้ไขปัญหาที่บริษัทดำเนินการแล้ว:"
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Business Steps Remaining:"
+msgstr "ขั้นตอนการแก้ไขปัญหาที่บริษัทยังไม่ได้ดำเนินการ:"
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Notes (Talking Points):"
+msgstr "หมายเหตุ (ประเด็นในการปรึกษาหารือ):"
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Action (Talking Points):"
+msgstr "การดำเนินการ (ประเด็นในการปรึกษาหารือ):"
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Validation (Talking Points):"
+msgstr "การตรวจสอบผลการเยียวยากับแรงงาน (ประเด็นในการปรึกษาหารือ):"
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Results (Talking Points):"
+msgstr "ผลลัพธ์ (ประเด็นในการปรึกษาหารือ): "
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Payments:"
+msgstr "การชำระเงิน:"
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Owed:"
+msgstr "คงค้าง:"
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Paid:"
+msgstr "จ่ายแล้ว:"
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Payment Deadline:"
+msgstr "ขอบเขตเวลาในการชำระเงิน:"
+
+#: src/views/suppliers/SupplierKPIModal.js
+#, fuzzy
+msgid "Documents:"
+msgstr "รายงานเอกสารอ้างอิง:"
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Provided:"
+msgstr "ให้เอกสารเมื่อ:"
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Documents Deadline:"
+msgstr "ขอบเขตเวลาในการส่งเอกสาร:"
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "System Change Deadline:"
+msgstr "ขอบเขตเวลาในการปรับปรุง:"
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Next Step :"
+msgstr "การดำเนินการขั้นถัดไป:"
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Assign To :-"
+msgstr "ผู้ที่ได้รับมอบหมาย:"
+
+#: src/views/suppliers/SupplierKPIModal.js
+msgid "Deadline :-"
+msgstr "ขอบเขตเวลาสำหรับการดำเนินการ:"
+
+#: src/views/suppliers/SupplierKPIModal.js
+#, fuzzy
+msgid "Description :-"
+msgstr "รายละเอียดข้อมูล:"
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Closed At"
+msgstr "ปิดเมื่อ"
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Closure Date"
+msgstr "วันที่ปิด"
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Open days"
+msgstr "วันที่เปิด"
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Quality of the closure"
+msgstr "คุณภาพของการเยียวยาเพื่อปิดเคส"
+
+#: src/views/suppliers/SupplierKPIsList.js
+#: src/views/suppliers/SupplierModal.js
+msgid "id"
+msgstr "id"
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Supplier Kpi ID"
+msgstr "Supplier Kpi ID"
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid ""
+"This is the parent Supplier KPI ID.  This is ID in the Supplkier KPI List "
+"table above"
+msgstr ""
+"นี่คือรหัส KPI ของซัพพลายเออร์หลัก นี่คือ ID ในตารางรายการ Supplkier KPI "
+"ด้านบน"
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Opened At"
+msgstr "เปิดเมื่อ"
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "# Affected"
+msgstr "# จำนวนพนักงานได้รับผลกระทบ"
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Updates"
+msgstr "ความคืบหน้า"
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Call #"
+msgstr "คอล #"
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "days active"
+msgstr "จำนวนวันที่ี่เคสเปิดอยู่"
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Calls"
+msgstr "คอล #"
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Call Id: {item}"
+msgstr "คอล Id: {item}"
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Remediation Issues:"
+msgstr "ประเด็นปัญหาที่ต้องเยียวยา:"
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Remediation Action:"
+msgstr "การดำเนินการเยียวยา:"
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Remediation Validation:"
+msgstr "การตรวจสอบผลการเยียวยา:"
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Remediation Results:"
+msgstr "ผลของการเยียวยา:"
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "less than 15 days"
+msgstr "น้อยกว่า 15 วัน"
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "16-30"
+msgstr "16-30"
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "31-45"
+msgstr "31-45"
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "46-60"
+msgstr "46-60"
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "61-90"
+msgstr "61-90"
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "90+"
+msgstr "90+"
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Filter by Days Active"
+msgstr "กรองโดยจำนวนวันที่เคสเปิดอยู่"
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Active Days"
+msgstr "จำนวนวันที่เคสเปิดอยู่"
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Supply Chain"
+msgstr "ห่วงโซ่อุปทาน"
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Non-Supply Chain"
+msgstr "นอกห่วงโซ่อุปทาน"
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Show Closed"
+msgstr "แสดงเคสที่ปิด"
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Supplier KPIs"
+msgstr "ซัพพลายเออร์ KPIs"
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid ""
+"You can enter a text or number thats used in the object.  Call IDs Also "
+"work. (You'll get the supplier KPIs that have that Call ID in the drop down "
+"panel or info view"
+msgstr ""
+"ท่านสามารถป้อนข้อความ หมายเลข หรือ คอล ID ในช่องนี้ได้ (โดยคุณจะได้รับ KPI "
+"ของซัพพลายเออร์ที่มีคอล idนั้นในแผงดรอปดาวน์)"
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Update selected KPIs"
+msgstr "อัพเดต KPI ที่เลือก"
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Supplier KPI Updated History"
+msgstr "ประวัติการอัพเดท KPI ของซัพพลายเออร์"
+
+#: src/views/suppliers/SupplierLandingPage.js
+msgid "WELCOME!"
+msgstr "ยินดีต้อนร้บ!"
+
+#: src/views/suppliers/SupplierLandingPage.js
+#, fuzzy
+msgid ""
+"Issara Institute launched the Inclusive Labour Monitoring (ILM) Suppliers "
+"Dashboard in 2023, building upon the feedback and aspirations of the Issara "
+"Institute team and donors."
+msgstr ""
+"สถาบันอิสราเปิดตัวแดชบอร์ดซัพพลายเออร์ในปี 2565 "
+"โดยอาศัยความคิดเห็นและแรงบันดาลใจของทีมสถาบันอิสรา "
+"ซัพพลายเออร์ผู้ผลิตนายจ้าง และผู้บริจาค"
+
+#: src/views/suppliers/SupplierLandingPage.js
+msgid ""
+"Objective: The objective of this ILM Suppliers Dashboard is to provide "
+"suppliers with a robust tool to help monitor, benchmark, remediate, and "
+"improve labor issues, systems, and business performance in global supply "
+"chains."
+msgstr ""
+"วัตถุประสงค์: "
+"วัตถุประสงค์ของแดชบอร์ดนี้คือการจัดหาเครื่องมือที่มีประสิทธิภาพแก่บริษัทนายจ้างเพื่อช่วยตรวจสอบ"
+" ได้มาตรฐาน แก้ไขให้ถูกต้อง และปรับปรุงปัญหาด้านแรงงาน ระบบ "
+"และประสิทธิภาพทางธุรกิจในห่วงโซ่อุปทานทั่วโลก"
+
+#: src/views/suppliers/SupplierLandingPage.js
+msgid ""
+"Confidentiality: The information in the ILM Suppliers Dashboard is "
+"confidential to each supplier and is tailored to your own unique company. "
+"All information provided via the ILM Suppliers Dashboard is governed by your"
+" company’s Suppliers Partner agreement with Issara Institute. The "
+"information may not be shared externally."
+msgstr ""
+"การรักษาความลับ: "
+"ข้อมูลในแดชบอร์ดจะเป็นความลับสำหรับบริษัทนายจ้างแต่ละรายและได้รับการปรับแต่งให้เหมาะกับบริษัทของคุณเอง"
+" "
+"ข้อมูลทั้งหมดที่ให้ผ่านแดชบอร์ดอยู่ภายใต้ข้อตกลงพันธมิตรบริษัทของคุณกับสถาบันอิสรา"
+" ข้อมูลจะไม่ถูกแชร์กับองค์กรภายนอก"
+
+#: src/views/suppliers/SupplierLandingPage.js
+msgid ""
+"Features: Issara will continue to advance features within the ILM Suppliers "
+"Dashboard, and we welcome your feedback and input to make the ILM Suppliers "
+"Dashboard as useful and impactful as possible. For example, the ability to "
+"input the corrective actions taken by the supplier are slated for upcoming "
+"iterations. How this information may be integrated with your internal "
+"practices and protocols (current and planned), will also be part of "
+"discussions with each supplier."
+msgstr ""
+"คุณสมบัติ: สถาบันอิสราจะยังคงพัฒนาคุณสมบัติต่างๆ ภายในแดชบอร์ดต่อไป "
+"และเรายินดีรับฟังความคิดเห็นและข้อมูลของคุณเพื่อทำให้แดชบอร์ดมีประโยชน์และมีผลกระทบมากที่สุดเท่าที่จะเป็นไปได้"
+" ตัวอย่างเช่น "
+"การวิเคราะห์แนวโน้มและการมีมาตรฐานที่กำหนดไว้สำหรับการทบทวนหรือทำซ้ำที่กำลังจะเกิดขึ้น"
+" วิธีที่ข้อมูลนี้อาจรวมเข้ากับแนวทางปฏิบัติภายในและโปรโตคอลของคุณ "
+"(ปัจจุบันและที่วางแผนไว้) จะเป็นส่วนหนึ่งของการหารือกับบริษัทนายจ้างแต่ละราย"
+
+#: src/views/suppliers/SupplierLandingPage.js
+msgid ""
+"We are excited about the breadth of information, data analysis, and "
+"transparency that the ILM Suppliers Dashboard can provide. We look forward "
+"to our ongoing collaboration with you to support ethical labour recruitment "
+"and improved working conditions. If you have any questions, please contact "
+"your Issara Institute Supplier dashboard focal point."
+msgstr ""
+"เรารู้สึกตื่นเต้นกับความกว้างของข้อมูล การวิเคราะห์ข้อมูล และความโปร่งใสที่ "
+"ILM Supplier Dashboard สามารถให้ได้ "
+"เราหวังเป็นอย่างยิ่งว่าจะได้ร่วมมือกับคุณอย่างต่อเนื่องเพื่อสนับสนุนการสรรหาจ้างแรงงานอย่างมีจริยธรรมและปรับปรุงสภาพการทำงาน"
+" หากคุณมีคำถามใดๆ โปรดติดต่อศูนย์กลางแดชบอร์ดซัพพลายเออร์ของสถาบันอิสรา"
+
+#: src/views/suppliers/SupplierLandingPage.js
+msgid "Legal Disclaimer"
+msgstr "ข้อจำกัดความรับผิดชอบทางกฎหมาย"
+
+#: src/views/suppliers/SupplierLandingPage.js
+msgid ""
+"While we have made our best efforts to ensure the accuracy and reliability "
+"of the information collected and contained in this dashboard, Issara "
+"Institute is not responsible for any errors or omissions, or for the results"
+" obtained from the use of this information."
+msgstr ""
+"แม้ว่าเราจะพยายามอย่างดีที่สุดเพื่อรับรองความถูกต้องและความน่าเชื่อถือของข้อมูลที่รวบรวมและเก็บไว้ในแดชบอร์ดนี้"
+" สถาบันอิสราจะไม่รับผิดชอบต่อข้อผิดพลาดหรือการละเว้นใด ๆ "
+"หรือผลลัพธ์ที่ได้รับจากการใช้ข้อมูลนี้"
+
+#: src/views/suppliers/SupplierLandingPage.js
+msgid ""
+"All information in this dashboard is provided \"as is\", with no guarantee "
+"of completeness, accuracy, timeliness or of the results obtained from the "
+"use of this information, and without warranty of any kind, express or "
+"implied, including, but not limited to warranties of performance, "
+"merchantability and fitness for a particular purpose. Nothing herein shall "
+"to any extent substitute for the independent investigation and the sound "
+"technical and business judgment of the reader."
+msgstr ""
+"ข้อมูลทั้งหมดในแดชบอร์ดนี้มีให้ “ตามสภาพ” โดยไม่มีการรับประกันความสมบูรณ์ "
+"ความถูกต้อง ความทันเวลา หรือผลลัพธ์ที่ได้รับจากการใช้ข้อมูลนี้ "
+"และไม่มีการรับประกันใดๆ ทั้งโดยชัดแจ้งหรือโดยนัย รวมถึงแต่ไม่จำกัดเพียง "
+"การรับประกันประสิทธิภาพ ความสามารถเชิงพาณิชย์ "
+"และความเหมาะสมสำหรับวัตถุประสงค์เฉพาะ "
+"ไม่มีสิ่งใดในที่นี้ที่จะทดแทนการสอบสวนที่เป็นอิสระและการตัดสินทางเทคนิคและการตัดสินทางธุรกิจของผู้อ่าน"
+
+#: src/views/suppliers/SupplierLandingPage.js
+msgid ""
+"Any views, opinions and guidance set out in this dashboard are provided for "
+"information purposes only, and do not purport to be legal and/or "
+"professional advice or a definitive interpretation of any law. In no event "
+"will Issara Institute or its employees be liable to you or anyone else for "
+"any decision made or action taken in reliance on the information in this "
+"report or for any consequential, special or similar damages, even if advised"
+" of the possibility of such damages. The information contained in this "
+"dashboard is intended solely to provide general guidance on matters of "
+"interest for the use of the reader, who accepts full responsibility for its "
+"use."
+msgstr ""
+"มุมมอง ความคิดเห็น และคำแนะนำใด ๆ "
+"ที่กำหนดไว้ในแดชบอร์ดนี้มีไว้เพื่อวัตถุประสงค์ในการให้ข้อมูลเท่านั้น "
+"และไม่ได้อ้างว่าเป็นคำแนะนำทางกฎหมายและ/หรือทางวิชาชีพ หรือการตีความกฎหมายใด"
+" ๆ ขั้นสุดท้าย ไม่ว่าในกรณีใด "
+"สถาบันอิสราและพนักงานจะไม่รับผิดชอบต่อคุณหรือบุคคลอื่นใดสำหรับการตัดสินใจหรือการดำเนินการใด"
+" ๆ โดยอาศัยข้อมูลในรายงานนี้ หรือต่อความเสียหายที่เป็นผลสืบเนื่อง พิเศษ "
+"หรือคล้ายคลึงกัน แม้ว่าจะทราบถึงความเป็นไปได้ของความเสียหายดังกล่าวแล้วก็ตาม"
+" . "
+"ข้อมูลที่มีอยู่ในแดชบอร์ดนี้มีวัตถุประสงค์เพื่อให้คำแนะนำทั่วไปในเรื่องที่น่าสนใจสำหรับการใช้งานของผู้อ่านซึ่งยอมรับความรับผิดชอบอย่างเต็มที่ต่อการใช้งาน"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Supplier Updates"
+msgstr "อัพเดตจากซัพพลายเออร์"
+
+#: src/views/suppliers/SupplierList.js
+msgid "You have successfully updated suppliers anonymous flags"
+msgstr "คุณได้อัปเดตแฟล็กที่ไม่ระบุตัวตนของซัพพลายเออร์เรียบร้อยแล้ว"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Error Occured:"
+msgstr "พบข้อผิดพลาด"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Edit:"
+msgstr "แก้ไข:"
+
+#: src/views/suppliers/SupplierList.js
+#, fuzzy
+msgid "Supplier Name"
+msgstr "รายงานเอกสารอ้างอิง:"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Anonymous"
+msgstr "ไม่ระบุตัวตน"
+
+#: src/views/suppliers/SupplierList.js
+msgid "website"
+msgstr "เว็บไซต์"
+
+#: src/views/suppliers/SupplierList.js
+#, fuzzy
+msgid "Company Description"
+msgstr "คำอธิิบายของบริษัท"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Address"
+msgstr "ที่อยู่"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Zipcode"
+msgstr "รหัสไปรษณีย์"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Industry"
+msgstr "อุตสาหกรรม"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Sub Industry"
+msgstr "อุตสาหกรรมย่อย"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Contact Name"
+msgstr "ชื่อของผู้ติดต่อ"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Contact Phone"
+msgstr "เบอร์โทรศัพท์"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Contact Email"
+msgstr "อีเมลล์"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Vessel Number"
+msgstr "หมายเลขตัวเรือ"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Tier ID"
+msgstr "Tier ID"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Cambodian Workers"
+msgstr "แรงงานกัมพูชา"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Lao Workers"
+msgstr "แรงงานลาว"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Myanmar Workers"
+msgstr "แรงงานเมียนมา"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Thai Workers"
+msgstr "แรงงานไทย"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Vietnamese Workers"
+msgstr "แรงงานเวียดนาม"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Total Workers"
+msgstr "จำนวนแรงงานทั้งหมด"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Supply Chains Name"
+msgstr "ชื่อห่วงโซ่อุปทาน"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Lat"
+msgstr "แลตติจูด"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Lng"
+msgstr "ลองติจูด"
+
+#: src/views/suppliers/SupplierList.js
+msgid "supply chain data"
+msgstr "ข้อมูลห่วงโซ่อุปทาน"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Search by Strategic Partners"
+msgstr "ค้นหาตาม Strategic Partners"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Search by worker Nationality"
+msgstr "ค้นหาตามสัญชาติของแรงงาน"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Filter by Strategic Partners"
+msgstr "กรองผลการค้นหาตาม Strategic Partners"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Filter by Suppliers"
+msgstr "กรองผลการค้นหาตามซัพพลายเออร์"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Worker Nationality"
+msgstr "สัญชาติของแรงงาน"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Disable"
+msgstr "ปิดการใช้งาน"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Enable"
+msgstr "เปิดใช้งาน"
+
+#: src/views/suppliers/SupplierList.js
+msgid "cleaning mode"
+msgstr "cleaning mode"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Active Supply Chains"
+msgstr "ห่วงโซ่อุปทานที่ใช้งานอยู่"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Thailand"
+msgstr "ประเทศไทย"
+
+#: src/views/suppliers/SupplierList.js
+msgid "total_num_thai_workers"
+msgstr "จำนวน_แรงงาน_ไทย_ทั้งหมด"
+
+#: src/views/suppliers/SupplierList.js
+msgid "total_num_cambodian_workers"
+msgstr "จำนวน_แรงงาน_กัมพูชา_ทั้งหมด"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Laos"
+msgstr "ลาว"
+
+#: src/views/suppliers/SupplierList.js
+msgid "total_num_lao_workers"
+msgstr "จำนวน_แรงงาน_ลาว_ทั้งหมด"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Vietnam"
+msgstr "เวียดนาม"
+
+#: src/views/suppliers/SupplierList.js
+msgid "total_num_vietnamese_workers"
+msgstr "จำนวน_แรงงาน_เวียดนาม_ทั้งหมด"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Nepal"
+msgstr "เนปาล"
+
+#: src/views/suppliers/SupplierList.js
+msgid "total_num_nepalese_workers"
+msgstr "จำนวน_แรงงาน_เนปาล_ทั้งหมด"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Bangladesh"
+msgstr "ชาวบังคลาเทศ"
+
+#: src/views/suppliers/SupplierList.js
+msgid "total_num_bangladeshi_workers"
+msgstr "จำนวน_แรงงาน_บังกลาเทศ_ทั้งหมด"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Indonesia"
+msgstr "อินโดนีเซีย"
+
+#: src/views/suppliers/SupplierList.js
+msgid "total_num_indonesian_workers"
+msgstr "จำนวน_แรงงาน_อินโดนีเซีย_ทั้งหมด"
+
+#: src/views/suppliers/SupplierList.js
+msgid "India"
+msgstr "อินเดีย"
+
+#: src/views/suppliers/SupplierList.js
+msgid "total_num_indian_workers"
+msgstr "จำนวน_แรงงาน_อินเดีย_ทั้งหมด"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Pakistan"
+msgstr "ปากีสถาน"
+
+#: src/views/suppliers/SupplierList.js
+msgid "total_num_pakistani_workers"
+msgstr "จำนวน_แรงงาน_ปากีสถาน_ทั้งหมด"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Sri Lanka"
+msgstr "ศรีลังกา"
+
+#: src/views/suppliers/SupplierList.js
+msgid "total_num_sri_lankan_workers"
+msgstr "จำนวน_แรงงาน_ศรีลังกา_ทั้งหมด"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Merge duplicates"
+msgstr "รวมรายการที่ซ้ำกัน"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Flip Anonymous Flag"
+msgstr "Flip Anonymous Flag"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Following suppliers will be merged:"
+msgstr "ซัพพลายเออร์ต่อไปนี้จะถูกรวมเข้าด้วยกัน:"
+
+#: src/views/suppliers/SupplierList.js
+msgid "New Master"
+msgstr "New Master"
+
+#: src/views/suppliers/SupplierList.js
+msgid "Merge/Removal"
+msgstr "รวม/ลบ"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "website:"
+msgstr "เว็บไซต์:"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Company Description:"
+msgstr "คำอธิบายบริษัท:"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Created:"
+msgstr "สร้างเมื่อ:"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Address:"
+msgstr "ที่อยู่:"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Zipcode:"
+msgstr "รหัสไปรษณีย์:"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Province:"
+msgstr "จังหวัด:"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "District:"
+msgstr "เขต/อำเภอ:"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Industry:"
+msgstr "อุตสาหกรรม:"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Sub Industry:"
+msgstr "อุตสาหกรรมย่อย:"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Lng:"
+msgstr "แลตติจูด:"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Lat:"
+msgstr "ลองติจูด:"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Contact:"
+msgstr "ช่องทางการติดต่อ:"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "contact_name:"
+msgstr "ช่องทางการติดต่อ_ชื่อ:"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "contact_phone:"
+msgstr "ช่องทางการติดต่อ_โทร:"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "contact_email:"
+msgstr "ช่องทางการติดต่อ_อีเมลล์:"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "vessel_number:"
+msgstr "หมายเลข_ตัวเรือ:"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Work Environment:"
+msgstr "สภาพการทำงาน:"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "name_harvesting_business:"
+msgstr "ชื่อ_ฟาร์ม_เก็บเกี่ยว:"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "num_vessels_sourced_from:"
+msgstr "จำนวน_เรือ_ทั้งหมด_ที่ใช้:"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "total_num_workers:"
+msgstr "จำนวน_แรงงาน_ทั้งหมด:"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "total_num_men_workers:"
+msgstr "จำนวน_แรงงาน_ชาย_ทั้งหมด:"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "total_num_women_workers:"
+msgstr "จำนวน_แรงงาน_หญิง_ทั้งหมด:"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "total_num_thai_workers:"
+msgstr "จำนวน_แรงงาน_ไทย_ทั้งหมด:"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "total_num_cambodian_workers:"
+msgstr "จำนวน_แรงงาน_กัมพูชา_ทั้งหมด:"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "total_num_myanmar_workers:"
+msgstr "จำนวน_แรงงาน_เมียนมา_ทั้งหมด:"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "total_num_lao_workers:"
+msgstr "จำนวน_แรงงาน_ลาว_ทั้งหมด:"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "total_num_vietnamese_workers:"
+msgstr "จำนวน_แรงงาน_เวียดนาม_ทั้งหมด:"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "total_num_nepalese_workers:"
+msgstr "จำนวน_แรงงาน_เนปาล_ทั้งหมด:"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "total_num_bangladeshi_workers:"
+msgstr "จำนวน_แรงงาน_บังกลาเทศ_ทั้งหมด:"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "total_num_indonesian_workers:"
+msgstr "จำนวน_แรงงาน_อินโดนีเซีย_ทั้งหมด:"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "total_num_malaysian_workers:"
+msgstr "จำนวน_แรงงาน_มาเลเซีย_ทั้งหมด:"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "total_num_indian_workers:"
+msgstr "จำนวน_แรงงาน_อินเดีย_ทั้งหมด:"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "total_num_pakistani_workers:"
+msgstr "จำนวน_แรงงาน_ปากีสถาน_ทั้งหมด:"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "total_num_sri_lankan_workers:"
+msgstr "จำนวน_แรงงาน_ศรีลังกา_ทั้งหมด:"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Informative:"
+msgstr "ข้อมูล:"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "hiring_practice:"
+msgstr "กระบวนการ_จ้างงาน:"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Recruiter:"
+msgstr "บริษัทจัดหางาน:"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "recruiter:"
+msgstr "บริษัทจัดหางาน:"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "other:"
+msgstr "อื่นๆ:"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Supply Chains"
+msgstr "ห่วงโซ่อุปทาน:"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "name"
+msgstr "ชื่อ"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Reports"
+msgstr "พิมพ์รายงาน"
+
+#: src/views/suppliers/SupplierModal.js
+#, fuzzy
+msgid "Worker Voice Rolled Out"
+msgstr "เสียงของแรงงาน"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Engaged with supplier and worker voice rolled out"
+msgstr "ซัพพลายเออร์นี้เข้าร่วมโครงการกับอิสราแล้ว และมีเสียงของแรงงานที่นี่"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Is NOT Engaged with supplier and worker voice NOT rolled out"
+msgstr ""
+"ซัพพลายเออร์นี้ไม่เคยเข้าร่วมโครงการกับอิสรา และไม่มีเสียงของแรงงานที่นี่"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Google Maps:"
+msgstr "Google Maps:"
+
+#: src/views/suppliers/SupplierModal.js
+#, fuzzy
+msgid "total workers"
+msgstr "จำนวนพนักงานได้รับผลกระทบ:"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "total men workers"
+msgstr "จำนวนแรงงานชายทั้งหมด"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "total women workers"
+msgstr "จำนวนแรงงานหญิงทั้งหมด"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Thai workers"
+msgstr "แรงงานไทย"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Cambodian workers"
+msgstr "แรงงานกัมพูชา"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Myanmar workers"
+msgstr "แรงงานเมียนมา"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Lao workers"
+msgstr "แรงงานลาว"
+
+#: src/views/suppliers/SupplierModal.js
+#, fuzzy
+msgid "Vietanmese workers"
+msgstr "แรงงานเวียดนาม"
+
+#: src/views/suppliers/SupplierModal.js
+#, fuzzy
+msgid "Nepalese workers"
+msgstr "แรงงานเนปาล"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Bangladeshi workers"
+msgstr "แรงงานบังกลาเทศ"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Indonesian workers"
+msgstr "แรงงานอินโดนีเซีย"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Malaysian workers"
+msgstr "แรงงานมาเลเซีย"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Indian workers"
+msgstr "แรงงานอินเดีย"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Pakistani workers"
+msgstr "แรงงานปากีสถาน"
+
+#: src/views/suppliers/SupplierModal.js
+msgid "Sri Lankan workers"
+msgstr "แรงงานศรีลังกา"
+
+#: src/views/suppliers/SupplierProgressDashboard.js
+msgid ""
+"WORK INDICATOR 1. Supplier performance in relation to responding to worker-"
+"reported grievances and collaborating with Issara Institute staff"
+msgstr ""
+"ตัวชี้วัดการทำงาน 1. "
+"การปฏิบัติงานของบริษัทที่เกี่ยวข้องกับการตอบสนองต่อข้อร้องทุกข์ที่พนักงานรายงาน"
+" และการร่วมมือกับเจ้าหน้าที่สถาบันอิสรา"
+
+#: src/views/suppliers/SupplierProgressDashboard.js
+msgid "Quality of Response actual"
+msgstr "คุณภาพของการตอบสนองที่เกิดขึ้น"
+
+#: src/views/suppliers/SupplierProgressDashboard.js
+msgid "Quality of Response"
+msgstr "คุณภาพของการตอบสนอง"
+
+#: src/views/suppliers/SupplierProgressDashboard.js
+msgid "Timeliness of Response actual"
+msgstr "เวลาที่ใช้ในการตอบสนองที่เกิดขึ้น"
+
+#: src/views/suppliers/SupplierProgressDashboard.js
+msgid "Timeliness of Response"
+msgstr "เวลาที่ใช้ในการตอบสนอง"
+
+#: src/views/suppliers/SupplierProgressDashboard.js
+msgid "Openness to Reform actual"
+msgstr "ความเปิดกว้างต่อการเปลี่ยนแปลงที่เกิดขึ้น"
+
+#: src/views/suppliers/SupplierProgressDashboard.js
+msgid "Openness to Reform"
+msgstr "ความเปิดกว้างต่อการเปลี่ยนแปลง"
+
+#: src/views/suppliers/SupplierProgressDashboard.js
+msgid ""
+"WORK INDICATOR 2. % of worker-reported issues in the supply chain resolved "
+"in under 60 days"
+msgstr ""
+"ตัวชี้วัดการทำงาน 2. % "
+"ของปัญหาที่พนักงานรายงานในห่วงโซ่อุปทานได้รับการแก้ไขภายในไม่เกิน 60 วัน"
+
+#: src/views/suppliers/SupplierProgressDashboard.js
+msgid ""
+"WORK INDICATOR 3. % of remediation efforts of specific issues resolved at "
+"Poor, Fair, Good and Excellent level"
+msgstr ""
+"ตัวชี้วัดงาน 3. % "
+"ของความพยายามในการแก้ไขปัญหาในแต่ละด้านได้รับการแก้ไขในระดับแย่ ปานกลาง ดี "
+"และดีเยี่ยม"
+
+#: src/views/suppliers/SupplierProgressDashboard.js
+msgid "x"
+msgstr "x"
+
+#: src/views/suppliers/SupplierProgressDashboard.js
+#, fuzzy
+msgid "Worker Calls and Messages By Month"
+msgstr "สายด่วนและข้อความจากพนักงานต่อเดือน"
+
+#: src/views/suppliers/SupplierProgressDashboard.js
+msgid "WORKER VOICE"
+msgstr "เสียงของแรงงาน"
+
+#: src/views/suppliers/SupplierProgressDashboard.js
+msgid ""
+"Grey = Not yet initiated; Yellow = Partial progress; Green = "
+"Completed/ongoing"
+msgstr ""
+"เทา = ยังไม่ได้ดำเนินการ; เหลือง = เริ่มต้นดำเนินการ; เขียว = "
+"ดำเนินการแล้วเสร็จ"
+
+#: src/views/suppliers/SupplierProgressDashboard.js
+msgid "LABOUR RECRUITMENT"
+msgstr "การสรรหาจ้างแรงงาน"
+
+#: src/views/suppliers/SupplierProgressDashboard.js
+msgid "WORKING CONDITIONS"
+msgstr "สภาพการทำงาน"
+
+#: src/views/suppliers/SupplierProgressDashboard.js
+msgid "ACTIVITIES & ACHIEVEMENTS SUMMARY"
+msgstr "สรุปกิจกรรมและความสำเร็จ"
+
+#: src/views/suppliers/SupplierProgressDashboard.js
+msgid "Number of workers with access to Issara worker voice channels"
+msgstr "จำนวนแรงงานที่มีส่วนร่วมในช่องทางเสียงของแรงงานของสถาบันอิสรา"
+
+#: src/views/suppliers/SupplierProgressDashboard.js
+msgid "Not available"
+msgstr "ไม่พบข้อมูล"
+
+#: src/views/suppliers/SupplierProgressDashboard.js
+msgid "Date of most recent worker satisfaction survey"
+msgstr "วันที่ทำแบบสำรวจความพึงพอใจของแรงงานครั้งล่าสุด"
+
+#: src/views/suppliers/SupplierProgressDashboard.js
+msgid "Date of most recent recruitment survey"
+msgstr "วันที่ทำแบบสำรวจค่าธรรมเนียมค่าใช้จ่ายการสรรหาจ้างแรงงานครั้งล่าสุด"
+
+#: src/views/suppliers/SupplierProgressDashboard.js
+msgid "Number of workers reimbursed recruitment fees"
+msgstr "จำนวนพนักงานที่ได้คืนค่าธรรมเนียมค่าใช้จ่ายในการจัดหางาน"
+
+#: src/views/suppliers/SupplierProgressDashboard.js
+msgid "Remaining number of workers owed recruitment fee reimbursement"
+msgstr "จำนวนพนักงานที่ยังไม่ได้รับคืนค่าธรรมเนียมค่าใช้จ่ายการจัดหางาน"
+
+#: src/views/suppliers/SupplierProgressDashboard.js
+msgid "Total amount of recruitment fees reimbursed to workers (US dollars)"
+msgstr ""
+"จำนวนเงินค่าธรรมเนียมค่าใช้จ่ายการจัดหางานที่คืนให้กับพนักงานทั้งหมด "
+"(ดอลลาร์สหรัฐ)"
+
+#: src/views/suppliers/SupplierProgressDashboard.js
+msgid ""
+"Remaining amount owed, recruitment fee reimbursement to workers (US dollars)"
+msgstr ""
+"จำนวนเงินที่ยังไม่ได้คืนเงินค่าธรรมเนียมค่าใช้จ่ายการจัดหางานให้กับพนักงาน "
+"(ดอลลาร์สหรัฐ)"
+
+#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
+msgid "Estimated number of workers reached"
+msgstr "จำนวนของแรงงานที่เข้าถึงโดยประมาณ"
+
+#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
+msgid "This value can not be greater than the total"
+msgstr "ตัวเลขที่ใส่ไม่สามารถเกินตัวเลขทั้งหมดได้"
+
+#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
+msgid "Cambodian"
+msgstr "กัมพูชา"
+
+#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
+msgid "Indian"
+msgstr "อินเดีย"
+
+#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
+msgid "Total ({total_workers_reached})"
+msgstr "ทั้งหมด ({แรงงาน_ทั้งหมด_ที่เข้าถึง})"
+
+#: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
+msgid "Sum of nationalities ({sum_of_nationalities})"
+msgstr "จำนวนรวมของสัญชาติ ({จำนวนรวม_ของ_สัญชาติ})"
+
+#: src/views/TeamActivity/FieldworkActivityForm.js
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+#: src/views/TeamActivity/WV_and_ER_metrix.js
+#: src/views/users/ChangePasswordForm.js
+msgid "Well done!"
+msgstr "ยอดเยี่ยม!"
+
+#: src/views/TeamActivity/FieldworkActivityForm.js
+msgid "New fieldwork activity has been successfully created"
+msgstr "เพิ่มกิจกรรมภาคสนามใหม่สำเร็จแล้ว"
+
+#: src/views/TeamActivity/FieldworkActivityForm.js
+msgid "Please contact a developer"
+msgstr "โปรดติดต่อเดเวลลอปเปอร์"
+
+#: src/views/TeamActivity/FieldworkActivityForm.js
+msgid "Link"
+msgstr "ลิงก์"
+
+#: src/views/TeamActivity/FieldworkActivityForm.js
+msgid "Enter link here"
+msgstr "ใส่ลิงก์ที่นี่"
+
+#: src/views/TeamActivity/FieldworkActivityForm.js
+msgid "Add More Link"
+msgstr "ใส่ลิงก์เพิ่ม"
+
+#: src/views/TeamActivity/FieldworkActivityForm.js
+msgid "Date of fieldwork"
+msgstr "วันที่ทำกิจกรรมภาคสนาม"
+
+#: src/views/TeamActivity/FieldworkActivityForm.js
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Click here to open calendar"
+msgstr "คลิ๊กเพื่อเปิดปฏิทิน"
+
+#: src/views/TeamActivity/FieldworkActivityForm.js
+msgid "Please choose the date"
+msgstr "โปรดเลือกวันที่"
+
+#: src/views/TeamActivity/FieldworkActivityForm.js
+msgid "Please choose a fieldwork type"
+msgstr "ประเภทกิจกรรมภาคสนาม"
+
+#: src/views/TeamActivity/FieldworkActivityForm.js
+msgid "Please fix the errors above"
+msgstr "โปรดแก้ไขข้อผิดพลาดด้านบน"
+
+#: src/views/TeamActivity/FieldworkActivityForm.js
+msgid ""
+"*Please Note: To Edit you must have 'Issara Management' Group added to your "
+"account and to add new Items you must have 'Activity User' Group added to "
+"your account ."
+msgstr ""
+"*หมายเหตุ: หากต้องการแก้ไข คุณต้องเพิ่มกลุ่ม 'Issara Management' "
+"ลงในบัญชีของคุณ และหากต้องการเพิ่มรายการใหม่ คุณต้องเพิ่มกลุ่ม 'Activity "
+"User' ลงในบัญชีของคุณ"
+
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "New monthly worker voice record has been successfully created"
+msgstr "บันทึกเสียงของแรงงานรายเดือนใหม่สำเร็จแล้ว"
+
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+#: src/views/TeamActivity/WV_and_ER_metrix.js
+msgid "Month Year"
+msgstr "เดือน ปี"
+
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Burmese Tiktok messages"
+msgstr "ข้อความTiktokแรงงานพม่า"
+
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Bangladeshi Facebook messenger"
+msgstr "ข้อความเฟซบุ๊คแรงงานบังกลาเทศ"
+
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Bangladeshi hotline"
+msgstr "สายด่วนแรงงานบังกลาเทศ"
+
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Bangladeshi Whatsapp"
+msgstr "Whatsapp แรงงานบังกลาเทศ"
+
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Khmer Telegram"
+msgstr "Telegram แรงงานกัมพูชา"
+
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Thai Facebook Messenger"
+msgstr "ข้อความเฟซบุ๊คแรงงานไทย"
+
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Indonesian WhatsApp in Malaysia"
+msgstr "Whatsapp แรงงานอินโดนีเซียในมาเลเซีย"
+
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Indonesian hotline in Malaysia"
+msgstr "สายด่วนแรงงานอินโดนีเซียในมาเลเซีย"
+
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Nepalese WhatsApp"
+msgstr "Whatsapp แรงงานเนปาล"
+
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Nepalese hotline"
+msgstr "สายด่วน แรงงานเนปาล"
+
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Nepalese Facebook Messenger"
+msgstr "ข้อความเฟซบุ๊คแรงงานเนปาล"
+
+#: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
+msgid "Burmese WhatsApp in Malaysia"
+msgstr "Whatsapp แรงงานเมียนมาไนมาเลเซีย"
+
+#: src/views/TeamActivity/WV_and_ER_metrix.js
+msgid "record has been successfully created"
+msgstr "ทำการสร้างเรคคอร์ดสำเร็จ"
+
+#: src/views/TeamActivity/WV_and_ER_metrix.js
+msgid "Click here to open calendar *"
+msgstr "คลิ๊กเพื่อเปิดปฏิทิน *"
+
+#: src/views/TeamActivity/WV_and_ER_metrix.js
+msgid "Date field is required"
+msgstr "โปรดเลือกวันที่"
+
+#: src/views/TeamActivity/WV_and_ER_metrix.js
+msgid "No. of New Workers Connected To Workers Voice Channels"
+msgstr "จำนวนแรงงานที่เข้าถึงช่องทางเสียงของแรงงาน"
+
+#: src/views/TeamActivity/WV_and_ER_metrix.js
+msgid "No. of Workers Receiving Remedition"
+msgstr "จำนวนแรงงานที่ได้รับการเยียวยา"
+
+#: src/views/TeamActivity/WV_and_ER_metrix.js
+msgid "No. of Workers Reached In Pre-Departure NE"
+msgstr "จำนวนแรงงานที่ได้รับการอบรมก่อนเดินทางมายังประเทศปลายทาง (เนปาล)"
+
+#: src/views/TeamActivity/WV_and_ER_metrix.js
+msgid "No. of Workers Reached In Pre-Departure MM"
+msgstr "จำนวนแรงงานที่ได้รับการอบรมก่อนเดินทางมายังประเทศปลายทาง (เมียนมา)"
+
+#: src/views/TeamActivity/WV_and_ER_metrix.js
+msgid "No. of Recruitment Agencies Trained"
+msgstr "จำนวนบริษัทจัดหางานที่ได้รับการอบรม"
+
+#: src/views/TeamActivity/WV_and_ER_metrix.js
+msgid "No. of Suppliers Trained"
+msgstr "จำนวนซัพพลายเออร์ที่ได้รับการอบรม  "
+
+#: src/views/TeamActivity/WV_and_ER_metrix.js
+msgid "No. of Trained Worker Leaders/Mobilizers"
+msgstr "จำนวนหัวหน้าหรือตัวแทนแรงงานที่ได้รับการอบรม"
+
+#: src/views/teamtasks/EnhancedTeamTasksList.js
+msgid "Show finished"
+msgstr "Show finished"
+
+#: src/views/teamtasks/EnhancedTeamTasksList.js
+msgid "Source ID"
+msgstr "Source ID"
+
+#: src/views/teamtasks/EnhancedTeamTasksList.js
+msgid "Source Type"
+msgstr "Source Type"
+
+#: src/views/teamtasks/EnhancedTeamTasksList.js
+msgid "Assigned by"
+msgstr "มอบหมายงานโดย"
+
+#: src/views/teamtasks/EnhancedTeamTasksList.js
+msgid "Assigned to"
+msgstr "มอบหมายงานให้"
+
+#: src/views/users/ChangePasswordForm.js
+msgid "Password has been successfully changed."
+msgstr "เปลี่ยนพาสเวิร์ดเรียบร้อยแล้ว"
+
+#: src/views/users/ChangePasswordForm.js
+msgid "Old Password"
+msgstr "พาสเวิร์ดเก่า"
+
+#: src/views/users/ChangePasswordForm.js
+msgid "lock_outline"
+msgstr "lock_outline"
+
+#: src/views/users/ChangePasswordForm.js
+msgid "New Password"
+msgstr "พาสเวิร์ดใหม่"
+
+#: src/views/users/ChangePasswordForm.js
+msgid "Re-Enter Password to Verify"
+msgstr "ใส่พาสเวิร์ดอีกครั้งเพื่อยืนยัน"
+
+#: src/views/users/ChangePasswordForm.js
+msgid "Update"
+msgstr "อัพเดต"
+
+#: src/views/users/ForgotPasswordView.js
+msgid "Reset your password"
+msgstr "เปลี่ยนพาสเวิร์ด"
+
+#: src/views/users/ForgotPasswordView.js
+msgid "Email"
+msgstr "อีเมลล์"
+
+#: src/views/users/ForgotPasswordView.js
+msgid "The input is not valid Email"
+msgstr "ข้อมูลที่ใส่มาไม่ถูกต้อง"
+
+#: src/views/users/ForgotPasswordView.js
+msgid "Please input your Email"
+msgstr "โปรดใส่อีเมลล์"
+
+#: src/views/users/ForgotPasswordView.js
+msgid "Send reset link"
+msgstr "ส่งลิงก์เปลี่ยนพาสเวิร์ด"
+
+#: src/views/users/ForgotPasswordView.js
+msgid ""
+"We will send password reset link to this email address, please change your "
+"password within 24 hours."
+msgstr ""
+"ลิงก์เปลี่ยนพาสเวิร์ดจะส่งไปยังอีเมลล์นี้ โปรดเปลี่ยนพาสเวิร์ดภายใน 24 ชม."
+
+#, fuzzy
+msgid "worker-reported issues"
+msgstr "ประเด็นที่พนักงานรายงาน"
+
+msgid "Search Results (Found: "
+msgstr "ผลของการค้นหา (พบ:"
+
+msgid "Issue Category:"
+msgstr "ประเภทประเด็น:"
+
+msgid "Search Results(Found: "
+msgstr "ผลของการค้นหา(พบ:"
+
+msgid "Search Results (Found:"
+msgstr "ผลของการค้นหา(พบ:"
+
+msgid "Quality of response"
+msgstr "คุณภาพของการตอบสนอง"
+
+msgid "Timeliness of response"
+msgstr "เวลาที่ใช้ในการตอบสนอง"
+
+msgid "Openness to reform"
+msgstr "ความเปิดกว้างต่อการเปลี่ยนแปลง"
+
+msgid ""
+"WORK INDICATOR 3. Percentage of worker-reported issues in the supply chain "
+"resolved in under 60 days"
+msgstr ""
+"ตัวชี้วัดการทำงาน 2. % "
+"ของปัญหาที่พนักงานรายงานในห่วงโซ่อุปทานได้รับการแก้ไขภายในไม่เกิน 60 วัน"
+
+msgid "Escalation protocol for worker-reported issues and worker voice"
+msgstr ""
+"ขั้นตอนการยกระดับการจัดการเคสสำหรับประเด็นที่พนักงานรายงานและเสียงของพนักงาน"
+
+msgid "• Openness to reform "
+msgstr "ความเปิดกว้างต่อการเปลี่ยนแปลง"
+
+msgid "Search Results(Found:"
+msgstr "ผลของการค้นหา(พบ:"
+
+msgid "Total:"
+msgstr "รวม:"
+
+msgid "Quality Of Response"
+msgstr "คุณภาพของการตอบสนอง"
+
+msgid "Timeliness Of Response"
+msgstr "เวลาของการตอบสนอง"
+
+msgid "Openness To Reform"
+msgstr "ความเปิดกว้างต่อการเปลี่ยนแปลง"
+
+msgid ""
+"We are excited about the breadth of information, data analysis, and "
+"transparency that the Strategic Partners Dashboard can provide. We look "
+"forward to our ongoing collaboration with you to support ethical supply "
+"chains and improved working conditions. If you have any questions, please "
+"contact your Issara Institute Strategic Partner dashboard focal point,"
+msgstr ""
+"เราตื่นเต้นกับความหลากหลายของข้อมูล การวิเคราะห์ข้อมูล และความโปร่งใสที่ "
+"Supplier Dashboard สามารถให้ได้ "
+"เราหวังเป็นอย่างยิ่งว่าจะได้ร่วมมือกับคุณอย่างต่อเนื่องเพื่อสนับสนุนการสรรหาแรงงานอย่างมีจริยธรรมและปรับปรุงสภาพการทำงาน"
+" หากคุณมีคำถามใดๆ โปรดติดต่อคุณ Mark Taylor ผู้ดูแล Issara Institute "
+"Supplier dashboard"
+
+msgid ""
+"WORK INDICATOR 2. Percentage of worker-reported issues in the supply chain "
+"resolved in under 60 days"
+msgstr ""
+"ตัวชี้วัดการทำงาน 2. % "
+"ของปัญหาที่พนักงานรายงานในห่วงโซ่อุปทานได้รับการแก้ไขภายในไม่เกิน 60 วัน"
+
+msgid "1. Number of workers with access to Issara worker voice channels"
+msgstr "1. จำนวนพนักงานที่สามารถเข้าถึงช่องทางเสียงของแรงงานของสถาบันอิสรา"
+
+msgid "2. Date of most recent worker satisfaction survey"
+msgstr "2. วันที่ทำแบบสำรวจความพึงพอใจของพนักงานครั้งล่าสุด"
+
+msgid "3. Date of most recent recruitment survey"
+msgstr ""
+"3. วันที่ทำแบบสำรวจค่าธรรมเนียมค่าใช้จ่ายการสรรหาจ้างแรงงานครั้งล่าสุด"
+
+msgid "4. Number of workers reimbursed recruitment fees"
+msgstr "4. จำนวนพนักงานที่ได้คืนค่าธรรมเนียมค่าใช้จ่ายในการจัดหางาน"
+
+msgid "5. Remaining number of workers owed recruitment fee reimbursement"
+msgstr "5. จำนวนพนักงานที่ยังไม่ได้รับคืนค่าธรรมเนียมค่าใช้จ่ายการจัดหางาน"
+
+msgid "6. Total amount of recruitment fees reimbursed to workers (US dollars)"
+msgstr ""
+"6. จำนวนค่าธรรมเนียมค่าใช้จ่ายการจัดหางานที่คืนให้กับพนักงานทั้งหมด "
+"(ดอลลาร์สหรัฐ)"
+
+msgid ""
+"7. Remaining amount owed, recruitment fee reimbursement to workers (US "
+"dollars)"
+msgstr ""
+"7. จำนวนค่าธรรมเนียมค่าใช้จ่ายการจัดหางานที่ยังไม่ได้คืนให้กับพนักงาน "
+"(ดอลลาร์สหรัฐ)"
+
+msgid "affected_workers:"
+msgstr "จำนวนแรงงานได้รับผลกระทบ:"
+
+msgid "category"
+msgstr "ประเภท"
+
+msgid "description"
+msgstr "ลักษณะ"
+
+msgid "Quality_of_the_closure"
+msgstr "คุณภาพของการตอบสนอง"
+
+msgid "source_recruiter_count"
+msgstr "การสรรหาจ้างแรงงาน"
+
+msgid "Number of affected workers related to this KPI"
+msgstr "จำนวนแรงงานได้รับผลกระทบตาม KPI"
+
+msgid ""
+"Any views, opinions and guidance set out in this dashboard are provided for "
+"information purposes only, and do not purport to be legal and/or "
+"professional advice or a definitive interpretation of any law. In no event "
+"will Issara Institute or its employees be liable to you or anyone else for "
+"any decision made or action taken in reliance on the information in this "
+"report or for any consequential,special or similar damages, even if advised "
+"of the possibility of such damages. The information contained in this "
+"dashboard is intended solely to provide general guidance on matters of "
+"interest for the use of the reader, who accepts full responsibility for its "
+"use."
+msgstr ""
+"มุมมอง ความคิดเห็น และแนวทางต่างๆ "
+"ที่ระบุไว้ในแดชบอร์ดนี้จัดทำขึ้นเพื่อวัตถุประสงค์ในการให้ข้อมูลเท่านั้น "
+"และไม่ได้มีจุดประสงค์เพื่อเป็นคำแนะนำทางกฎหมายและ/หรือคำแนะนำจากผู้เชี่ยวชาญหรือเป็นการตีความกฎหมาย"
+" "
+"สถาบันอิสราและเจ้าหน้าที่ของสถาบันฯจะไม่รับผิดชอบต่อท่านหรือบุคคลใดๆสำหรับการตัดสินใจหรือการดำเนินการใดๆที่อาศัยข้อมูลในรายงานนี้"
+" หรือต่อความเสียหายที่เป็นผลสืบเนื่อง ความเสียหายพิเศษ "
+"หรือความเสียหายอื่นๆที่คล้ายคลึงกัน "
+"แม้ในกรณีที่ทราบแล้วถึงความเป็นไปได้ที่จะเกิดความเสียหายดังกล่าว "
+"ข้อมูลที่มีอยู่ในแดชบอร์ดนี้มีวัตถุประสงค์เพื่อให้คำแนะนำทั่วไปในประเด็นที่น่าสนใจและเพื่อการใช้งานของผู้อ่าน"
+"  "
+"ซึ่งผู้อ่านยอมรับความรับผิดชอบทั้งหมดสำหรับการใช้งานข้อมูลดังกล่าวในทุกกรณี"
+
+msgid ""
+" All information in this dashboard is provided \"as is\", with no guarantee "
+"of completeness, accuracy, timeliness or of the results obtained from the "
+"use of this information, and without warranty of any kind, express or "
+"implied, including, but not limited to warranties of performance, "
+"merchantability and fitness for a particular purpose. Nothing herein shall "
+"to any extent substitute for the independent investigation and the sound "
+"technical and business judgment of the reader."
+msgstr ""
+"ข้อมูลทั้งหมดในแดชบอร์ดนี้คือข้อมูล “ตามที่ได้รับรายงาน” "
+"จึงไม่สามารถรับประกันความสมบูรณ์ ความถูกต้องชัดเจน ความทันเวลา "
+"หรือผลลัพธ์ที่ได้รับจากการใช้ข้อมูลนี้ "
+"รวมถึงไม่สามารถรับรองใดๆทั้งโดยชัดแจ้งหรือโดยนัย "
+"ในด้านการรับประกันประสิทธิภาพ ความสามารถเชิงพาณิชย์ "
+"และความเหมาะสมสำหรับวัตถุประสงค์เฉพาะ หรือด้านอื่นๆ "
+"ข้อมูลที่ปรากฏในที่นี้สามารถทดแทนการสอบสวนที่เป็นอิสระและการตัดสินทางเทคนิคและวิจารณญาณทางธุรกิจของผู้อ่าน"

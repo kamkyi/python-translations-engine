@@ -1,8 +1,23 @@
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2024-06-06 15:50+0700\n"
+"PO-Revision-Date: 2024-06-06 15:40+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.3\n"
+"X-Poedit-Basepath: .\n"
+
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2024-06-06 15:40+0700\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: bn\n"
@@ -14,27 +29,27 @@ msgstr ""
 
 #: src/views/calls/WizardSteps/EmploymentFields.js
 msgid "1"
-msgstr ""
+msgstr "১"
 
 #: src/views/calls/WizardSteps/EmploymentFields.js
 msgid "2"
-msgstr ""
+msgstr "২"
 
 #: src/views/calls/WizardSteps/EmploymentFields.js
 msgid "3"
-msgstr ""
+msgstr "৩"
 
 #: src/views/calls/WizardSteps/EmploymentFields.js
 msgid "4"
-msgstr ""
+msgstr "৪"
 
 #: src/views/calls/WizardSteps/EmploymentFields.js
 msgid "5"
-msgstr ""
+msgstr "৫"
 
 #: src/components/Footer/Footer.js
 msgid "Issara Institute"
-msgstr ""
+msgstr "ইসারা ইনস্টিটিউট "
 
 #: src/components/Footer/Footer.js
 msgid "All rights reserved. V3.0.0"
@@ -58,6 +73,18 @@ msgstr ""
 msgid "Type of Call/Case"
 msgstr ""
 
+#: src/components/ilmdb/CaseStatusesDropdown.js
+msgid "open"
+msgstr "খোলা"
+
+#: src/components/ilmdb/CaseStatusesDropdown.js
+msgid "close"
+msgstr "বন্ধ"
+
+#: src/components/ilmdb/CaseStatusesDropdown.js
+msgid "Case Status"
+msgstr ""
+
 #: src/components/ilmdb/ChannelsDropdown.js
 msgid "Worker Voice Channel"
 msgstr ""
@@ -73,7 +100,7 @@ msgstr ""
 
 #: src/components/ilmdb/ContractTypesDropdown.js
 msgid "Daily worker"
-msgstr ""
+msgstr "দৈনিক কর্মী"
 
 #: src/components/ilmdb/ContractTypesDropdown.js
 msgid "Piece work"
@@ -85,38 +112,38 @@ msgstr ""
 
 #: src/components/ilmdb/ContractTypesDropdown.js
 msgid "Full-time position"
-msgstr ""
+msgstr "পূর্ণকালীন কর্মচারী"
 
 #: src/components/ilmdb/ContractTypesDropdown.js
 #: src/components/ilmdb/GendersDropdown.js
 #: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
 msgid "Other"
-msgstr ""
+msgstr "অন্যান্য"
 
 #: src/components/ilmdb/ContractTypesDropdown.js
 #: src/views/calls/InteractionCallModal.js
 msgid "Contract Type"
-msgstr ""
+msgstr "চুক্তির ধরন"
 
 #: src/components/ilmdb/CountriesDropdown.js
 #: src/views/calls/InteractionCallModal.js
 #: src/views/references/KpiLegalViolationList.js
 #: src/views/suppliers/SupplierKPIsList.js src/views/suppliers/SupplierList.js
 msgid "Country"
-msgstr ""
+msgstr "দেশ"
 
 #: src/components/ilmdb/DistrictsDropdown.js
 #: src/views/calls/InteractionCallModal.js src/views/suppliers/SupplierList.js
 msgid "District"
-msgstr ""
+msgstr "জেলা"
 
 #: src/components/ilmdb/DocumentTypesDropdown.js
 msgid "Undocumented"
-msgstr ""
+msgstr "অনথিভুক্ত"
 
 #: src/components/ilmdb/DocumentTypesDropdown.js
 msgid "Pink card"
-msgstr ""
+msgstr "পিঙ্ক কার্ড"
 
 #: src/components/ilmdb/DocumentTypesDropdown.js
 msgid "CI/TD"
@@ -124,15 +151,11 @@ msgstr ""
 
 #: src/components/ilmdb/DocumentTypesDropdown.js
 msgid "Passport"
-msgstr ""
+msgstr "পাসপোর্ট"
 
 #: src/components/ilmdb/DocumentTypesDropdown.js
 msgid "Border pass"
-msgstr ""
-
-#: src/components/ilmdb/DocumentTypesDropdown.js
-msgid "NA"
-msgstr ""
+msgstr "সীমান্ত পাস"
 
 #: src/components/ilmdb/DocumentTypesDropdown.js
 #: src/views/calls/InteractionCallModal.js
@@ -142,7 +165,7 @@ msgstr ""
 #: src/components/ilmdb/EthnicitiesDropdown.js
 #: src/views/calls/InteractionCallModal.js
 msgid "Ethnicity"
-msgstr ""
+msgstr "জাতিসত্তা:"
 
 #: src/components/ilmdb/FieldworkTypeDropdown.js
 msgid "Fetching fieldwork types.."
@@ -150,21 +173,21 @@ msgstr ""
 
 #: src/components/ilmdb/FieldworkTypeDropdown.js
 msgid "Activity Type"
-msgstr ""
+msgstr "কার্যকলাপ ধরণ "
 
 #: src/components/ilmdb/GendersDropdown.js
 msgid "Select Gender"
-msgstr ""
+msgstr "লিংগ নির্বাচন"
 
 #: src/components/ilmdb/GendersDropdown.js
 #: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
 msgid "Male"
-msgstr ""
+msgstr "পুরুষ"
 
 #: src/components/ilmdb/GendersDropdown.js
 #: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
 msgid "Female"
-msgstr ""
+msgstr "মহিলা"
 
 #: src/components/ilmdb/GendersDropdown.js
 msgid "Non-Binary"
@@ -174,7 +197,7 @@ msgstr ""
 #: src/views/calls/InteractionCallList.js
 #: src/views/calls/InteractionCallModal.js
 msgid "Gender"
-msgstr ""
+msgstr "লিঙ্গ"
 
 #: src/components/ilmdb/HowHearIssara.js
 msgid "How did the client hear about the organization? (check all that apply)"
@@ -188,7 +211,7 @@ msgstr ""
 #: src/views/Dashboard/KpiReferencesList.js
 #: src/views/references/KpiReferencesList.js
 msgid "Loading..."
-msgstr ""
+msgstr "লোড হচ্ছে..."
 
 #: src/components/ilmdb/IssaraStaffDropdown.js
 msgid "Fetching suppliers..."
@@ -196,12 +219,12 @@ msgstr ""
 
 #: src/components/ilmdb/IssaraStaffDropdown.js
 msgid "Organization staff"
-msgstr ""
+msgstr "সংস্থার কর্মীরা"
 
 #: src/components/ilmdb/IssaraStaffDropdown.js
 #: src/views/calls/InteractionCallModal.js
 msgid "Issara Staff"
-msgstr ""
+msgstr "ইসারা স্টাফ"
 
 #: src/components/ilmdb/KpiCategoriesDropdown.js
 msgid "Fetching KPI categories.."
@@ -219,11 +242,12 @@ msgstr ""
 msgid "Edit"
 msgstr ""
 
-#: src/components/ilmdb/KpiSelector.js src/views/Dashboard/KpiReferencesList.js
+#: src/components/ilmdb/KpiSelector.js
+#: src/views/Dashboard/KpiReferencesList.js
 #: src/views/references/KpiReferencesList.js
 #: src/views/suppliers/SupplierKPIsList.js
 msgid "Category"
-msgstr ""
+msgstr "বিভাগ"
 
 #: src/components/ilmdb/KpiSelector.js src/views/calls/InteractionCallList.js
 msgid "Kpi"
@@ -236,103 +260,112 @@ msgstr ""
 msgid "Level"
 msgstr ""
 
-#: src/components/ilmdb/KpiSelector.js src/views/Dashboard/KpiReferencesList.js
+#: src/components/ilmdb/KpiSelector.js
+#: src/views/Dashboard/KpiReferencesList.js
 #: src/views/references/KpiReferencesList.js
 msgid "Goal"
-msgstr ""
+msgstr "লক্ষ্য"
 
 #: src/components/ilmdb/KpiSelector.js
 msgid "Done"
-msgstr ""
+msgstr "সম্পন্ন"
 
 #: src/components/ilmdb/KpiSelector.js
 msgid "Loading.."
-msgstr ""
+msgstr "লোড হচ্ছে.."
 
 #: src/components/ilmdb/NationalitiesDropdown.js
 #: src/views/calls/InteractionCallList.js
 #: src/views/calls/InteractionCallModal.js
 msgid "Nationality"
-msgstr ""
+msgstr "জাতীয়তা"
 
 #: src/components/ilmdb/ProvincesDropdown.js
 #: src/views/calls/InteractionCallModal.js src/views/suppliers/SupplierList.js
 msgid "Province"
-msgstr ""
+msgstr "বিভাগ"
 
 #: src/components/ilmdb/ReasonsDropdown.js
 msgid "Purpose of Call/Message"
-msgstr ""
+msgstr "কল/মেসেজের উদ্দেশ্য"
 
 #: src/components/ilmdb/ReasonsDropdown.js
 msgid "Purpose"
-msgstr ""
+msgstr "উদ্দেশ্য"
 
 #: src/components/ilmdb/RecruitersDropdown.js
 msgid "Fetching recruiters.."
-msgstr ""
+msgstr "নিয়োগকারীদের আনা হচ্ছে.."
+
+#: src/components/ilmdb/ReferralActionsDropdown.js
+msgid "Referral Actions"
+msgstr "রেফারেল অ্যাকশন"
+
+#: src/components/ilmdb/ReferralOptionDropdown.js
+msgid "Organization Name"
+msgstr "প্রতিষ্ঠানের নাম"
 
 #: src/components/ilmdb/SuppliersDropdown.js
 msgid "Fetching suppliers.."
-msgstr ""
+msgstr "সরবরাহকারীদের আনা হচ্ছে.."
 
 #: src/components/Navbars/AdminNavbarLinks.js
 #: src/components/Navbars/AdminNavbarLinks.Old.js
 msgid "English"
-msgstr ""
+msgstr "ইংরেজি"
 
 #: src/components/Navbars/AdminNavbarLinks.js
 #: src/components/Navbars/AdminNavbarLinks.Old.js
 msgid "Nepali"
-msgstr ""
+msgstr "নেপালি"
 
 #: src/components/Navbars/AdminNavbarLinks.js
 #: src/components/Navbars/AdminNavbarLinks.Old.js
 #: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
 msgid "Burmese"
-msgstr ""
+msgstr "বার্মিজ"
 
 #: src/components/Navbars/AdminNavbarLinks.js
 #: src/components/Navbars/AdminNavbarLinks.Old.js
 #: src/views/TeamActivity/ActivityExtraFields/OutreachFields.js
 msgid "Thai"
-msgstr ""
+msgstr "থাই"
 
 #: src/components/Navbars/AdminNavbarLinks.js
 #: src/components/Navbars/AdminNavbarLinks.Old.js
 msgid "Japanese"
-msgstr ""
+msgstr "জাপানিজ"
 
 #: src/components/Navbars/AdminNavbarLinks.js
 #: src/components/Navbars/AdminNavbarLinks.Old.js
 msgid "Person"
-msgstr ""
+msgstr "ব্যক্তি"
 
 #: src/components/Navbars/AdminNavbarLinks.js
 #: src/components/Navbars/AdminNavbarLinks.Old.js
 msgid "Profile"
-msgstr ""
+msgstr "প্রোফাইল"
 
 #: src/components/Navbars/AdminNavbarLinks.js
 #: src/components/Navbars/AdminNavbarLinks.Old.js
 msgid "Log out"
-msgstr ""
+msgstr "লগ আউট"
 
 #: src/components/Navbars/LanguageChangeDialog.js
 msgid "Are you sure want to change the language ?"
-msgstr ""
+msgstr "আপনি কি নিশ্চিত ভাষা পরিবর্তন করতে চান?"
 
 #: src/components/Navbars/LanguageChangeDialog.js
 msgid "Are you sure want to change the language to"
-msgstr ""
+msgstr "আপনি কি নিশ্চিতভাবে ভাষা পরিবর্তন করতে চান"
 
 #: src/components/Navbars/LanguageChangeDialog.js
 msgid "The application will be refreshed to effect the changed language."
-msgstr ""
+msgstr "পরিবর্তিত ভাষাকে প্রভাবিত করতে অ্যাপ্লিকেশনটি রিফ্রেশ করা হবে।"
 
 #: src/components/Navbars/LanguageChangeDialog.js
 msgid "Cancel"
-msgstr ""
+msgstr "বাতিল"
 
 #: src/components/Navbars/LanguageChangeDialog.js
 msgid "Yes, Sure Please"
@@ -344,15 +377,15 @@ msgstr ""
 
 #: src/routes.js src/views/suppliers/SupplierModal.js
 msgid "Worker Voice"
-msgstr ""
+msgstr "শ্রমিক কণ্ঠ"
 
 #: src/routes.js
 msgid "Add Call"
-msgstr ""
+msgstr "কল যোগ করুন"
 
 #: src/routes.js
 msgid "View Calls"
-msgstr ""
+msgstr "কল দেখুন"
 
 #: src/routes.js
 msgid "Team Activities"
@@ -419,11 +452,11 @@ msgstr ""
 
 #: src/routes.js src/views/users/ChangePasswordForm.js
 msgid "Change Password"
-msgstr ""
+msgstr "পাসওয়ার্ড পরিবর্তন"
 
 #: src/routes.js
 msgid "Password Reset"
-msgstr ""
+msgstr "পাসওয়ার্ড রিসেট"
 
 #: src/routes.js
 msgid "Login Page"
@@ -439,13 +472,6 @@ msgstr ""
 
 #: src/routes.js
 msgid "Error Page"
-msgstr ""
-
-#: src/views/calls/InteractionCallList.js
-#: src/views/Dashboard/IssaraActivityDashboard.js
-#: src/views/suppliers/SupplierKPIsList.js
-#: src/views/teamtasks/EnhancedTeamTasksList.js
-msgid "Download As XLS File"
 msgstr ""
 
 #: src/views/calls/InteractionCallList.js
@@ -468,6 +494,7 @@ msgstr ""
 #: src/views/calls/InteractionCallList.js
 #: src/views/calls/InteractionCallModal.js
 #: src/views/calls/WizardSteps/RecruiterFields.js
+#: src/views/calls/WizardSteps/RequiredCallFields.js
 msgid "Source Recruiter"
 msgstr ""
 
@@ -484,15 +511,15 @@ msgstr ""
 #: src/views/calls/InteractionCallList.js
 #: src/views/Dashboard/IssaraActivityDashboard.js
 msgid "Date"
-msgstr ""
+msgstr "তারিখ"
 
 #: src/views/calls/InteractionCallList.js
 msgid "Before Date:"
-msgstr ""
+msgstr "তারিখের আগে:"
 
 #: src/views/calls/InteractionCallList.js
 msgid "Search"
-msgstr ""
+msgstr "অনুসন্ধান"
 
 #: src/views/calls/InteractionCallList.js
 #: src/views/Dashboard/IssaraActivityDashboard.js
@@ -502,7 +529,7 @@ msgstr ""
 #: src/views/suppliers/SupplierKPIsList.js src/views/suppliers/SupplierList.js
 #: src/views/teamtasks/EnhancedTeamTasksList.js
 msgid "Search Results"
-msgstr ""
+msgstr "ফলাফল অনুসন্ধান "
 
 #: src/views/calls/InteractionCallList.js
 #: src/views/Dashboard/IssaraActivityDashboard.js
@@ -511,14 +538,14 @@ msgstr ""
 #: src/views/suppliers/SupplierKPIsList.js
 #: src/views/teamtasks/EnhancedTeamTasksList.js
 msgid "Found"
-msgstr ""
+msgstr "পাওয়া গেছে"
 
 #: src/views/calls/InteractionCallList.js
 #: src/views/Dashboard/IssaraActivityDashboard.js
 #: src/views/suppliers/SupplierKPIsList.js
 #: src/views/teamtasks/EnhancedTeamTasksList.js
 msgid "Search (Fuzzy Search Across all fields)"
-msgstr ""
+msgstr "অনুসন্ধান (সমস্ত ক্ষেত্র জুড়ে অস্পষ্ট অনুসন্ধান)"
 
 #: src/views/calls/InteractionCallList.js
 msgid "Fetching..."
@@ -534,7 +561,7 @@ msgstr ""
 #: src/views/calls/InteractionCallModal.js
 #: src/views/suppliers/SupplierKPIsList.js
 msgid "Supplier"
-msgstr ""
+msgstr "সরবরাহকারী"
 
 #: src/views/calls/InteractionCallList.js
 msgid "RecruiterSrc"
@@ -556,19 +583,19 @@ msgstr ""
 #: src/views/references/KpiReferencesList.js
 #: src/views/suppliers/SupplierKPIsList.js
 msgid "Description"
-msgstr ""
+msgstr "বর্ণনা"
 
 #: src/views/calls/InteractionCallList.js
 msgid "Staff"
-msgstr ""
+msgstr "কর্মী"
 
 #: src/views/calls/InteractionCallList.js
 msgid "IssaraStaff"
-msgstr ""
+msgstr "ইসরা স্টাফ"
 
 #: src/views/calls/InteractionCallList.js
 msgid "Client"
-msgstr ""
+msgstr "ক্লায়েন্ট"
 
 #: src/views/calls/InteractionCallList.js
 msgid "Origin Country Province"
@@ -580,7 +607,7 @@ msgstr ""
 
 #: src/views/calls/InteractionCallList.js
 msgid "Phone"
-msgstr ""
+msgstr "ফোন"
 
 #: src/views/calls/InteractionCallList.js
 msgid "Interaction"
@@ -590,13 +617,15 @@ msgstr ""
 msgid "Case ID"
 msgstr ""
 
-#: src/views/calls/InteractionCallModal.js src/views/calls/NewCallWizardView.js
+#: src/views/calls/InteractionCallModal.js
+#: src/views/calls/NewCallWizardView.js
 msgid "Required"
-msgstr ""
+msgstr "প্রয়োজন"
 
-#: src/views/calls/InteractionCallModal.js src/views/calls/NewCallWizardView.js
+#: src/views/calls/InteractionCallModal.js
+#: src/views/calls/NewCallWizardView.js
 msgid "Call Info"
-msgstr ""
+msgstr "কালের তথ্য"
 
 #: src/views/calls/InteractionCallModal.js
 msgid "Interaction Channel"
@@ -612,7 +641,7 @@ msgstr ""
 
 #: src/views/calls/InteractionCallModal.js
 msgid "Inquiry Type"
-msgstr ""
+msgstr "অনুসন্ধানের ধরন"
 
 #: src/views/calls/InteractionCallModal.js
 msgid "Interacted Date"
@@ -626,34 +655,35 @@ msgstr ""
 msgid "Call Last Modified Date"
 msgstr ""
 
-#: src/views/calls/InteractionCallModal.js src/views/calls/NewCallWizardView.js
+#: src/views/calls/InteractionCallModal.js
+#: src/views/calls/NewCallWizardView.js
 #: src/views/calls/WizardSteps/CallClientInfoFields.js
 msgid "Client Info"
-msgstr ""
+msgstr "ক্লায়েন্ট তথ্য"
 
 #: src/views/calls/InteractionCallModal.js
 msgid "Nickname"
-msgstr ""
+msgstr "ডাকনাম"
 
 #: src/views/calls/InteractionCallModal.js
 msgid "Line Account"
-msgstr ""
+msgstr "লাইন অ্যাকাউন্ট"
 
 #: src/views/calls/InteractionCallModal.js
 msgid "Facebook Account"
-msgstr ""
+msgstr "ফেসবুক অ্যাকাউন্ট"
 
 #: src/views/calls/InteractionCallModal.js
 msgid "WhatsApp Number"
-msgstr ""
+msgstr "হোয়াটসঅ্যাপ নম্বর"
 
 #: src/views/calls/InteractionCallModal.js
 msgid "Phone Number"
-msgstr ""
+msgstr "ফোন নম্বর"
 
 #: src/views/calls/InteractionCallModal.js
 msgid "Viber Account"
-msgstr ""
+msgstr "ভাইবার অ্যাকাউন্ট"
 
 #: src/views/calls/InteractionCallModal.js
 #: src/views/calls/WizardSteps/CallClientInfoFields.js
@@ -684,10 +714,11 @@ msgstr ""
 msgid "Crossing District"
 msgstr ""
 
-#: src/views/calls/InteractionCallModal.js src/views/calls/NewCallWizardView.js
+#: src/views/calls/InteractionCallModal.js
+#: src/views/calls/NewCallWizardView.js
 #: src/views/calls/WizardSteps/RecruiterFields.js
 msgid "Recruitment"
-msgstr ""
+msgstr "নিয়োগ"
 
 #: src/views/calls/InteractionCallModal.js
 msgid "Upstream Broker"
@@ -711,11 +742,11 @@ msgstr ""
 
 #: src/views/calls/InteractionCallModal.js
 msgid "Months at job"
-msgstr ""
+msgstr "চাকরিতে মাস"
 
 #: src/views/calls/InteractionCallModal.js
 msgid "Ratings"
-msgstr ""
+msgstr "রেটিং"
 
 #: src/views/calls/InteractionCallModal.js
 #: src/views/calls/WizardSteps/EmploymentFields.js
@@ -737,7 +768,8 @@ msgstr ""
 msgid "Destination Employer Rating"
 msgstr ""
 
-#: src/views/calls/InteractionCallModal.js src/views/calls/NewCallWizardView.js
+#: src/views/calls/InteractionCallModal.js
+#: src/views/calls/NewCallWizardView.js
 msgid "Client Support"
 msgstr ""
 
@@ -779,9 +811,10 @@ msgstr ""
 msgid "Risk Assessment"
 msgstr ""
 
-#: src/views/calls/InteractionCallModal.js src/views/calls/NewCallWizardView.js
+#: src/views/calls/InteractionCallModal.js
+#: src/views/calls/NewCallWizardView.js
 msgid "Issues"
-msgstr ""
+msgstr "সমস্যা"
 
 #: src/views/calls/InteractionCallModal.js
 msgid "Offender Description"
@@ -809,7 +842,7 @@ msgstr ""
 
 #: src/views/calls/InteractionCallModal.js
 msgid "Loading ..."
-msgstr ""
+msgstr "লোড হচ্ছে..."
 
 #: src/views/calls/InteractionCallView.js
 msgid "Success saving the call with id:"
@@ -821,7 +854,7 @@ msgstr ""
 
 #: src/views/calls/InteractionCallView.js
 msgid "Well Done!"
-msgstr ""
+msgstr "সাবাশ!"
 
 #: src/views/calls/InteractionCallView.js
 msgid "Errors"
@@ -840,11 +873,11 @@ msgstr ""
 
 #: src/views/calls/InteractionCallView.js
 msgid "Unknown/Generic"
-msgstr ""
+msgstr "অজানা/সাধারণ"
 
 #: src/views/calls/InteractionCallView.js
 msgid "See details"
-msgstr ""
+msgstr "বিস্তারিত দেখুন"
 
 #: src/views/calls/InteractionCallView.js
 msgid "Saving Data..."
@@ -875,7 +908,7 @@ msgstr ""
 
 #: src/views/calls/WizardSteps/CallActionFields.js
 msgid "Organization must be selected"
-msgstr ""
+msgstr "সংগঠন নির্বাচন করতে হবে"
 
 #: src/views/calls/WizardSteps/CallActionFields.js
 msgid "Client Support (Organization action)"
@@ -887,7 +920,7 @@ msgstr ""
 
 #: src/views/calls/WizardSteps/CallActionFields.js
 msgid "What are the most urgent needs of the client?"
-msgstr ""
+msgstr "গ্রাহকের সবচেয়ে জরুরী প্রয়োজন কি?"
 
 #: src/views/calls/WizardSteps/CallActionFields.js
 msgid "Consent to pass on details to employer, agency, referral partner?"
@@ -897,13 +930,13 @@ msgstr ""
 #: src/views/calls/WizardSteps/CallIssuesForm.js
 #: src/views/calls/WizardSteps/RecruiterFields.js
 msgid "Yes"
-msgstr ""
+msgstr "হ্যাঁ"
 
 #: src/views/calls/WizardSteps/CallActionFields.js
 #: src/views/calls/WizardSteps/CallIssuesForm.js
 #: src/views/calls/WizardSteps/RecruiterFields.js
 msgid "No"
-msgstr ""
+msgstr "না"
 
 #: src/views/calls/WizardSteps/CallActionFields.js
 msgid "Details on organization action (Referral Notes)"
@@ -930,7 +963,7 @@ msgstr ""
 #: src/views/landing/TeamActionForm.js
 #: src/views/teamtasks/EnhancedTeamTasksList.js
 msgid "Deadline"
-msgstr ""
+msgstr "শেষ তারিখ"
 
 #: src/views/calls/WizardSteps/CallActionFields.js
 #: src/views/landing/TeamActionForm.js
@@ -939,35 +972,35 @@ msgstr ""
 
 #: src/views/calls/WizardSteps/CallClientInfoFields.js
 msgid "Gender must be selected"
-msgstr ""
+msgstr "লিঙ্গ নির্বাচন করতে হবে"
 
 #: src/views/calls/WizardSteps/CallClientInfoFields.js
 msgid "Client name / nickname"
-msgstr ""
+msgstr "গ্রাহকের নাম/ ডাকনাম"
 
 #: src/views/calls/WizardSteps/CallClientInfoFields.js
 msgid "LINE ID"
-msgstr ""
+msgstr "লাইন আইডি"
 
 #: src/views/calls/WizardSteps/CallClientInfoFields.js
 msgid "Facebook name"
-msgstr ""
+msgstr "ফেসবুক নাম"
 
 #: src/views/calls/WizardSteps/CallClientInfoFields.js
 msgid "Phone number"
-msgstr ""
+msgstr "ফোন নম্বর"
 
 #: src/views/calls/WizardSteps/CallClientInfoFields.js
 msgid "Viber account"
-msgstr ""
+msgstr "ভাইবার অ্যাকাউন্ট"
 
 #: src/views/calls/WizardSteps/CallClientInfoFields.js
 msgid "WhatsApp number"
-msgstr ""
+msgstr "হোয়াটসঅ্যাপ নম্বর"
 
 #: src/views/calls/WizardSteps/CallClientInfoFields.js
 msgid "Telegram number"
-msgstr ""
+msgstr "টেলিগ্রাম নম্বর"
 
 #: src/views/calls/WizardSteps/CallClientInfoFields.js
 msgid "Client Origin"
@@ -995,7 +1028,7 @@ msgstr ""
 
 #: src/views/calls/WizardSteps/CallInfoFields.js
 msgid "Call/Message Info"
-msgstr ""
+msgstr "কল/মেসেজ তথ্য"
 
 #: src/views/calls/WizardSteps/CallInfoFields.js
 msgid "Interaction Type must be selected"
@@ -1027,8 +1060,8 @@ msgstr ""
 
 #: src/views/calls/WizardSteps/CallIssues.js
 msgid ""
-"If the client is adding more information or updates on a previously reported "
-"issue, please click the green pen by the relevant KPI to update."
+"If the client is adding more information or updates on a previously reported"
+" issue, please click the green pen by the relevant KPI to update."
 msgstr ""
 
 #: src/views/calls/WizardSteps/CallIssues.js
@@ -1039,7 +1072,7 @@ msgstr ""
 
 #: src/views/calls/WizardSteps/CallIssuesForm.js
 msgid "Issue Description"
-msgstr ""
+msgstr "সমস্যার বর্ণনা "
 
 #: src/views/calls/WizardSteps/CallIssuesForm.js
 msgid "Issue Offender Description"
@@ -1047,11 +1080,11 @@ msgstr ""
 
 #: src/views/calls/WizardSteps/CallIssuesForm.js
 msgid "How many clients are affected by this issue?"
-msgstr ""
+msgstr "কতজন গ্রাহক এই সমস্যা দ্বারা প্রভাবিত হয়েছে?"
 
 #: src/views/calls/WizardSteps/CallIssuesForm.js
 msgid "How many workers are affected by this issue?"
-msgstr ""
+msgstr "কতজন শ্রমিক এই সমস্যায় আক্রান্ত?"
 
 #: src/views/calls/WizardSteps/CallIssuesForm.js
 msgid "Client Affected Description (More about the client Affected)."
@@ -1106,7 +1139,7 @@ msgstr ""
 
 #: src/views/calls/WizardSteps/RecruiterFields.js
 msgid "How many months working at this workplace?"
-msgstr ""
+msgstr "এই কর্মক্ষেত্রে কত মাস কাজ করছেন?"
 
 #: src/views/calls/WizardSteps/RecruiterFields.js
 msgid "Employer Debt Bondage?"
@@ -1124,21 +1157,21 @@ msgstr ""
 
 #: src/views/calls/WizardSteps/RecruiterFields.js
 msgid ""
-"If there is broker debt bondage, please provide details on amounts, to whom, "
-"how paid, etc"
+"If there is broker debt bondage, please provide details on amounts, to whom,"
+" how paid, etc"
 msgstr ""
 
 #: src/views/calls/WizardSteps/RequiredCallFields.js
 msgid "Supplier must be selected"
-msgstr ""
+msgstr "সরবরাহকারী নির্বাচন করা আবশ্যক"
 
 #: src/views/calls/WizardSteps/RequiredCallFields.js
 msgid "Country must be selected"
-msgstr ""
+msgstr "দেশ নির্বাচন করা আবশ্যক"
 
 #: src/views/calls/WizardSteps/RequiredCallFields.js
 msgid "Nationality must be selected"
-msgstr ""
+msgstr "জাতীয়তা নির্বাচন করা আবশ্যক"
 
 #: src/views/calls/WizardSteps/RequiredCallFields.js
 msgid "CallerStatus must be selected"
@@ -1160,7 +1193,7 @@ msgstr ""
 
 #: src/views/calls/WizardSteps/RequiredCallFields.js
 msgid "Required Info"
-msgstr ""
+msgstr "প্রয়োজনীয় তথ্য"
 
 #: src/views/Dashboard/FieldworkActivityModal.js
 msgid "Fieldwork Activity #{id}"
@@ -1172,16 +1205,16 @@ msgstr ""
 
 #: src/views/Dashboard/FieldworkActivityModal.js
 msgid "Type:"
-msgstr ""
+msgstr "প্রকার:"
 
 #: src/views/Dashboard/FieldworkActivityModal.js
 msgid "Date:"
-msgstr ""
+msgstr "তারিখ:"
 
 #: src/views/Dashboard/FieldworkActivityModal.js
 #: src/views/suppliers/SupplierModal.js
 msgid "Location:"
-msgstr ""
+msgstr "অবস্থান:"
 
 #: src/views/Dashboard/FieldworkActivityModal.js
 msgid "Workers Reached:"
@@ -1201,7 +1234,7 @@ msgstr ""
 
 #: src/views/Dashboard/FieldworkActivityModal.js
 msgid "Nationality:"
-msgstr ""
+msgstr "জাতীয়তা:"
 
 #: src/views/Dashboard/FieldworkActivityModal.js
 msgid "Notes:"
@@ -1209,6 +1242,12 @@ msgstr ""
 
 #: src/views/Dashboard/FieldworkActivityModal.js
 msgid "Links:"
+msgstr ""
+
+#: src/views/Dashboard/IssaraActivityDashboard.js
+#: src/views/suppliers/SupplierKPIsList.js
+#: src/views/teamtasks/EnhancedTeamTasksList.js
+msgid "Download As XLS File"
 msgstr ""
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
@@ -1236,17 +1275,17 @@ msgstr ""
 #: src/views/Dashboard/IssaraActivityDashboard.js
 #: src/views/suppliers/SupplierKPIsList.js
 msgid "And"
-msgstr ""
+msgstr "এবং"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
 #: src/views/suppliers/SupplierKPIsList.js
 msgid "End"
-msgstr ""
+msgstr "শেষ"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
 #: src/views/suppliers/SupplierKPIsList.js
 msgid "Reset all"
-msgstr ""
+msgstr "সব পুনরায় সেট করুন"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
 msgid "No Data found"
@@ -1255,17 +1294,17 @@ msgstr ""
 #: src/views/Dashboard/IssaraActivityDashboard.js
 #: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
 msgid "Burmese Facebook messenger"
-msgstr ""
+msgstr "বার্মিজ ফেসবুক মেসেঞ্জার"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
 #: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
 msgid "Burmese Viber in Thailand"
-msgstr ""
+msgstr "থাইল্যান্ডে বার্মিজ ভাইবার"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
 #: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
 msgid "Burmese hotline in Thailand"
-msgstr ""
+msgstr "থাইল্যান্ডে বার্মিজ হটলাইন"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
 #: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
@@ -1275,36 +1314,36 @@ msgstr ""
 #: src/views/Dashboard/IssaraActivityDashboard.js
 #: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
 msgid "Burmese hotline in Myanmar"
-msgstr ""
+msgstr "মিয়ানমারে বার্মিজ হটলাইন"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
 #: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
 msgid "Khmer hotline"
-msgstr ""
+msgstr "খমের হটলাইন"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
 #: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
 msgid "Khmer Facebook messenger"
-msgstr ""
+msgstr "খমের ফেসবুক মেসেঞ্জার"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
 #: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
 msgid "Khmer LINE"
-msgstr ""
+msgstr "খমের লাইন"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
 #: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
 msgid "Thai Hotline"
-msgstr ""
+msgstr "থাই হটলাইন"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
 msgid "Thai Facebook"
-msgstr ""
+msgstr "থাই ফেসবুক"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
 #: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
 msgid "Thai LINE"
-msgstr ""
+msgstr "থাই লাইন"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
 msgid "Indonesian Whatsapp Total"
@@ -1346,15 +1385,15 @@ msgstr ""
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
 msgid "Bangladeshi Facebook Messenger"
-msgstr ""
+msgstr "বাংলাদেশী ফেসবুক মেসেঞ্জার"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
 msgid "Bangladeshi Hotline"
-msgstr ""
+msgstr "বাংলাদেশী হটলাইন"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
 msgid "Bangladeshi WhatsApp"
-msgstr ""
+msgstr "বাংলাদেশী হোয়াটসঅ্যাপ"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
 #: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
@@ -1371,7 +1410,7 @@ msgstr ""
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
 msgid "Men"
-msgstr ""
+msgstr "পুরুষ"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
 msgid "Women"
@@ -1443,25 +1482,25 @@ msgstr ""
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
 msgid "Type"
-msgstr ""
+msgstr "প্রকার"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
 #: src/views/TeamActivity/FieldworkActivityForm.js
 msgid "Recruiters"
-msgstr ""
+msgstr "নিয়োগকারী"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
 msgid "Location"
-msgstr ""
+msgstr "অবস্থান"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
 msgid "Target"
-msgstr ""
+msgstr "লক্ষ্য"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
 #: src/views/TeamActivity/FieldworkActivityForm.js
 msgid "Notes"
-msgstr ""
+msgstr "মন্তব্য"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
 msgid "Links"
@@ -1469,31 +1508,31 @@ msgstr ""
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
 msgid "Total Worker"
-msgstr ""
+msgstr "মোট কর্মী"
 
 #: src/views/Dashboard/IssaraActivityDashboard.js
 msgid "Print Report"
-msgstr ""
+msgstr "প্রিন্ট রিপোর্ট"
 
 #: src/views/Dashboard/KpiReferenceModal.js
 #: src/views/references/KpiLegalViolationModal.js
 #: src/views/references/KpiReferenceModal.js
 #: src/views/suppliers/SupplierModal.js
 msgid "General:"
-msgstr ""
+msgstr "সাধারণ:"
 
 #: src/views/Dashboard/KpiReferenceModal.js
 #: src/views/references/KpiReferenceModal.js
 #: src/views/suppliers/SupplierKPIModal.js
 msgid "Category:"
-msgstr ""
+msgstr "বিভাগ:"
 
 #: src/views/Dashboard/KpiReferenceModal.js
 #: src/views/references/KpiLegalViolationModal.js
 #: src/views/references/KpiReferenceModal.js
 #: src/views/suppliers/SupplierKPIModal.js
 msgid "Description:"
-msgstr ""
+msgstr "বর্ণনা:"
 
 #: src/views/Dashboard/KpiReferenceModal.js
 #: src/views/references/KpiReferenceModal.js
@@ -1514,9 +1553,10 @@ msgstr ""
 #: src/views/Dashboard/KpiReferenceModal.js
 #: src/views/references/KpiReferenceModal.js
 msgid "Code:"
-msgstr ""
+msgstr "কোড:"
 
-#: src/views/Dashboard/KpiReferencesList.js src/views/suppliers/SupplierList.js
+#: src/views/Dashboard/KpiReferencesList.js
+#: src/views/suppliers/SupplierList.js
 msgid "Found:"
 msgstr ""
 
@@ -1544,11 +1584,11 @@ msgstr ""
 #: src/views/references/KpiLegalViolationList.js
 #: src/views/suppliers/SupplierList.js
 msgid "Name"
-msgstr ""
+msgstr "নাম"
 
 #: src/views/references/KpiLegalViolationList.js
 msgid "Law"
-msgstr ""
+msgstr "আইন"
 
 #: src/views/references/KpiLegalViolationList.js
 msgid "Article"
@@ -1564,11 +1604,11 @@ msgstr ""
 
 #: src/views/references/KpiLegalViolationModal.js
 msgid "Name:"
-msgstr ""
+msgstr "নাম"
 
 #: src/views/references/KpiLegalViolationModal.js
 msgid "Law:"
-msgstr ""
+msgstr "আইন"
 
 #: src/views/references/KpiLegalViolationModal.js
 msgid "Article:"
@@ -1577,19 +1617,19 @@ msgstr ""
 #: src/views/references/KpiLegalViolationModal.js
 #: src/views/suppliers/SupplierModal.js
 msgid "Country:"
-msgstr ""
+msgstr "দেশ:"
 
 #: src/views/references/KpiReferenceModal.js
 msgid "Other:"
-msgstr ""
+msgstr "অন্যান্য:"
 
 #: src/views/references/KpiReferenceModal.js
 msgid "Legal Violation:"
-msgstr ""
+msgstr "আইনি লঙ্ঘন:"
 
 #: src/views/references/KpiReferenceModal.js
 msgid "Recommended Remediation:"
-msgstr ""
+msgstr "প্রস্তাবিত প্রতিকার:"
 
 #: src/views/references/KpiReferenceModal.js
 #: src/views/suppliers/SupplierKPIModal.js
@@ -1603,22 +1643,22 @@ msgstr ""
 
 #: src/views/references/KpiReferencesList.js
 msgid "Legal"
-msgstr ""
+msgstr "আইনি"
 
 #: src/views/references/KpiReferencesList.js
 msgid "Remediation"
-msgstr ""
+msgstr "প্রতিকার"
 
 #: src/views/references/KpiReferencesList.js
 msgid "Systems"
-msgstr ""
+msgstr "সিস্টেম"
 
 #: src/views/suppliers/SupplierKPIModal.js
 msgid "Supplier KPI Deleted"
 msgstr ""
 
 #: src/views/suppliers/SupplierKPIModal.js
-msgid "You have successfully deleted the supplier kpi and it's child updates"
+msgid "You have successfully deleted the supplier kpi"
 msgstr ""
 
 #: src/views/suppliers/SupplierKPIModal.js
@@ -1631,7 +1671,7 @@ msgstr ""
 
 #: src/views/suppliers/SupplierKPIModal.js src/views/suppliers/SupplierList.js
 msgid "Confirm"
-msgstr ""
+msgstr "নিশ্চিত করুন"
 
 #: src/views/suppliers/SupplierKPIModal.js
 msgid "Confirm Delete ?"
@@ -1673,7 +1713,8 @@ msgstr ""
 msgid "# Workers Impacted:"
 msgstr ""
 
-#: src/views/suppliers/SupplierKPIModal.js src/views/suppliers/SupplierModal.js
+#: src/views/suppliers/SupplierKPIModal.js
+#: src/views/suppliers/SupplierModal.js
 msgid "Status:"
 msgstr ""
 
@@ -1692,7 +1733,7 @@ msgstr ""
 
 #: src/views/suppliers/SupplierKPIModal.js
 msgid "Closed:"
-msgstr ""
+msgstr "বন্ধ:"
 
 #: src/views/suppliers/SupplierKPIModal.js
 msgid "Closed Quality:"
@@ -1806,7 +1847,8 @@ msgstr ""
 msgid "Quality of the closure"
 msgstr ""
 
-#: src/views/suppliers/SupplierKPIsList.js src/views/suppliers/SupplierModal.js
+#: src/views/suppliers/SupplierKPIsList.js
+#: src/views/suppliers/SupplierModal.js
 msgid "id"
 msgstr ""
 
@@ -1886,27 +1928,27 @@ msgstr ""
 
 #: src/views/suppliers/SupplierKPIsList.js
 msgid "less than 15 days"
-msgstr ""
+msgstr "১৫ দিনের কম"
 
 #: src/views/suppliers/SupplierKPIsList.js
 msgid "16-30"
-msgstr ""
+msgstr "১৬-৩০ "
 
 #: src/views/suppliers/SupplierKPIsList.js
 msgid "31-45"
-msgstr ""
+msgstr "৩১-৪৫ "
 
 #: src/views/suppliers/SupplierKPIsList.js
 msgid "46-60"
-msgstr ""
+msgstr "৪৬-৬০ "
 
 #: src/views/suppliers/SupplierKPIsList.js
 msgid "61-90"
-msgstr ""
+msgstr "৬১-৯০ "
 
 #: src/views/suppliers/SupplierKPIsList.js
 msgid "90+"
-msgstr ""
+msgstr "৯০+ "
 
 #: src/views/suppliers/SupplierKPIsList.js
 msgid "Filter by Days Active"
@@ -1922,6 +1964,10 @@ msgstr ""
 
 #: src/views/suppliers/SupplierKPIsList.js
 msgid "Non-Supply Chain"
+msgstr ""
+
+#: src/views/suppliers/SupplierKPIsList.js
+msgid "Show Closed"
 msgstr ""
 
 #: src/views/suppliers/SupplierKPIsList.js
@@ -1969,23 +2015,23 @@ msgstr ""
 
 #: src/views/suppliers/SupplierList.js
 msgid "website"
-msgstr ""
+msgstr "ওয়েবসাইট"
 
 #: src/views/suppliers/SupplierList.js
 msgid "Company Description"
-msgstr ""
+msgstr "প্রতিষ্ঠান বর্ণনা"
 
 #: src/views/suppliers/SupplierList.js
 msgid "Created"
-msgstr ""
+msgstr "তৈরি হয়েছে"
 
 #: src/views/suppliers/SupplierList.js
 msgid "Address"
-msgstr ""
+msgstr "ঠিকানা"
 
 #: src/views/suppliers/SupplierList.js
 msgid "Zipcode"
-msgstr ""
+msgstr "জিপ কোড"
 
 #: src/views/suppliers/SupplierList.js
 msgid "Industry"
@@ -2017,19 +2063,19 @@ msgstr ""
 
 #: src/views/suppliers/SupplierList.js
 msgid "Cambodian Workers"
-msgstr ""
+msgstr "কম্বোডিয়ান শ্রমিক"
 
 #: src/views/suppliers/SupplierList.js
 msgid "Lao Workers"
-msgstr ""
+msgstr "লাও শ্রমিক"
 
 #: src/views/suppliers/SupplierList.js
 msgid "Myanmar Workers"
-msgstr ""
+msgstr "মিয়ানমারের শ্রমিক"
 
 #: src/views/suppliers/SupplierList.js
 msgid "Thai Workers"
-msgstr ""
+msgstr "থাই শ্রমিক"
 
 #: src/views/suppliers/SupplierList.js
 msgid "Vietnamese Workers"
@@ -2077,7 +2123,7 @@ msgstr ""
 
 #: src/views/suppliers/SupplierList.js
 msgid "Download"
-msgstr ""
+msgstr "ডাউনলোড"
 
 #: src/views/suppliers/SupplierList.js
 msgid "Disable"
@@ -2097,7 +2143,7 @@ msgstr ""
 
 #: src/views/suppliers/SupplierList.js
 msgid "Thailand"
-msgstr ""
+msgstr "থাইল্যান্ড"
 
 #: src/views/suppliers/SupplierList.js
 msgid "total_num_thai_workers"
@@ -2105,7 +2151,7 @@ msgstr ""
 
 #: src/views/suppliers/SupplierList.js
 msgid "Cambodia"
-msgstr ""
+msgstr "কম্বোডিয়া"
 
 #: src/views/suppliers/SupplierList.js
 msgid "total_num_cambodian_workers"
@@ -2113,11 +2159,11 @@ msgstr ""
 
 #: src/views/suppliers/SupplierList.js
 msgid "Myanmar"
-msgstr ""
+msgstr "মায়ানমার"
 
 #: src/views/suppliers/SupplierList.js
 msgid "Laos"
-msgstr ""
+msgstr "লাওস"
 
 #: src/views/suppliers/SupplierList.js
 msgid "total_num_lao_workers"
@@ -2125,7 +2171,7 @@ msgstr ""
 
 #: src/views/suppliers/SupplierList.js
 msgid "Vietnam"
-msgstr ""
+msgstr "ভিয়েতনাম"
 
 #: src/views/suppliers/SupplierList.js
 msgid "total_num_vietnamese_workers"
@@ -2141,7 +2187,7 @@ msgstr ""
 
 #: src/views/suppliers/SupplierList.js
 msgid "Bangladesh"
-msgstr ""
+msgstr "বাংলাদেশ"
 
 #: src/views/suppliers/SupplierList.js
 msgid "total_num_bangladeshi_workers"
@@ -2149,7 +2195,7 @@ msgstr ""
 
 #: src/views/suppliers/SupplierList.js
 msgid "Indonesia"
-msgstr ""
+msgstr "ইন্দোনেশিয়া"
 
 #: src/views/suppliers/SupplierList.js
 msgid "total_num_indonesian_workers"
@@ -2157,7 +2203,7 @@ msgstr ""
 
 #: src/views/suppliers/SupplierList.js
 msgid "India"
-msgstr ""
+msgstr "ভারত"
 
 #: src/views/suppliers/SupplierList.js
 msgid "total_num_indian_workers"
@@ -2165,7 +2211,7 @@ msgstr ""
 
 #: src/views/suppliers/SupplierList.js
 msgid "Pakistan"
-msgstr ""
+msgstr "পাকিস্তান"
 
 #: src/views/suppliers/SupplierList.js
 msgid "total_num_pakistani_workers"
@@ -2173,7 +2219,7 @@ msgstr ""
 
 #: src/views/suppliers/SupplierList.js
 msgid "Sri Lanka"
-msgstr ""
+msgstr "শ্রীলংকা"
 
 #: src/views/suppliers/SupplierList.js
 msgid "total_num_sri_lankan_workers"
@@ -2573,15 +2619,15 @@ msgstr ""
 
 #: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
 msgid "Bangladeshi hotline"
-msgstr ""
+msgstr "বাংলাদেশী হটলাইন"
 
 #: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
 msgid "Bangladeshi Whatsapp"
-msgstr ""
+msgstr "বাংলাদেশী হোয়াটসঅ্যাপ"
 
 #: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
 msgid "Khmer Telegram"
-msgstr ""
+msgstr "খমের টেলিগ্রাম"
 
 #: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
 msgid "Thai Facebook Messenger"
@@ -2597,11 +2643,11 @@ msgstr ""
 
 #: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
 msgid "Nepalese WhatsApp"
-msgstr ""
+msgstr "নেপালি হোয়াটসঅ্যাপ"
 
 #: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
 msgid "Nepalese hotline"
-msgstr ""
+msgstr "নেপালি হটলাইন"
 
 #: src/views/TeamActivity/MonthlyWorkerVoiceForm.js
 msgid "Nepalese Facebook Messenger"
@@ -2624,7 +2670,7 @@ msgid "Date field is required"
 msgstr ""
 
 #: src/views/TeamActivity/WV_and_ER_metrix.js
-msgid "No. of Workers Connected To Workers Voice Channels"
+msgid "No. of New Workers Connected To Workers Voice Channels"
 msgstr ""
 
 #: src/views/TeamActivity/WV_and_ER_metrix.js
@@ -2677,7 +2723,7 @@ msgstr ""
 
 #: src/views/users/ChangePasswordForm.js
 msgid "Old Password"
-msgstr ""
+msgstr "পুরানো পাসওয়ার্ড"
 
 #: src/views/users/ChangePasswordForm.js
 msgid "lock_outline"
@@ -2685,7 +2731,7 @@ msgstr ""
 
 #: src/views/users/ChangePasswordForm.js
 msgid "New Password"
-msgstr ""
+msgstr "নতুন পাসওয়ার্ড"
 
 #: src/views/users/ChangePasswordForm.js
 msgid "Re-Enter Password to Verify"
@@ -2697,11 +2743,11 @@ msgstr ""
 
 #: src/views/users/ForgotPasswordView.js
 msgid "Reset your password"
-msgstr ""
+msgstr "আপনার পাসওয়ার্ড পুনরায় সেট করুন"
 
 #: src/views/users/ForgotPasswordView.js
 msgid "Email"
-msgstr ""
+msgstr "ইমেইল"
 
 #: src/views/users/ForgotPasswordView.js
 msgid "The input is not valid Email"
@@ -2720,3 +2766,5 @@ msgid ""
 "We will send password reset link to this email address, please change your "
 "password within 24 hours."
 msgstr ""
+"আমরা এই ইমেল ঠিকানায় পাসওয়ার্ড রিসেট লিঙ্ক পাঠাব, অনুগ্রহ করে 24 ঘন্টার "
+"মধ্যে আপনার পাসওয়ার্ড পরিবর্তন করুন।"

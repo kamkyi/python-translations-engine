@@ -1,0 +1,12 @@
+{
+  "po_file_paths": [
+    "po_files/kh.po",
+    "po_files/bn.po",
+    "po_files/mm.po",
+    "po_files/ja.po",
+    "po_files/id.po",
+    "po_files/ne.po",
+    "po_files/th.po"
+  ],
+  "excel_file_path": "excel/multiple_translations.xlsx"
+}

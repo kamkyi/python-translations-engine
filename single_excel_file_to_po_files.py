@@ -1,11 +1,11 @@
 import pandas as pd
 import polib
 import os
-
+import json
 
 def excel_to_po(excel_file_path, output_directory):
     # Read the Excel file
-    df = pd.read_excel(excel_file_path, sheet_name=None)
+    df = pd.read_excel(excel_file_path, sheet_name=None, header=0)
 
     # Debug: Print sheet names and first few rows of each sheet
     for sheet_name in df.keys():
@@ -82,13 +82,18 @@ def excel_to_po(excel_file_path, output_directory):
         po_file_path = os.path.join(output_directory, f"{language}.po")
         po.save(po_file_path)
 
-
 # Example usage
 if __name__ == "__main__":
-    excel_file_path = (
-        "/home/kamkyi/Desktop/TRANSLATIONS_ENGINE/excel_two/multi_two.xlsx"
-    )
-    output_directory = "/home/kamkyi/Desktop/TRANSLATIONS_ENGINE/updated_pos_two"
-    if not os.path.exists(output_directory):
-        os.makedirs(output_directory)
-    excel_to_po(excel_file_path, output_directory)
+    config_path = os.path.join(os.path.dirname(__file__), "config.json")
+    with open(config_path, "r") as config_file:
+        config = json.load(config_file)
+    
+    excel_file_path = os.path.join(os.path.dirname(__file__), config["excel_file_path"])
+    output_directory = os.path.join(os.path.dirname(__file__), "updated_po_files")
+    
+    if not os.path.exists(excel_file_path):
+        print(f"Excel file not found: {excel_file_path}")
+    else:
+        if not os.path.exists(output_directory):
+            os.makedirs(output_directory)
+        excel_to_po(excel_file_path, output_directory)
